@@ -26,4 +26,12 @@ assert isinstance(editorial.get("reviewedStories"), list)
 for item in editorial["reviewedStories"]:
     assert item.get("url", "").startswith("https://")
     assert item.get("editorialCategory") in ("hope", "hardship")
+# Validate the inline browser JavaScript without running network-dependent code.
+import subprocess, tempfile
+script = html.rsplit("<script>", 1)[-1].split("</script>", 1)[0]
+assert script.strip(), "Missing application JavaScript"
+with tempfile.NamedTemporaryFile(mode="w", suffix=".js", encoding="utf-8") as tmp:
+    tmp.write(script)
+    tmp.flush()
+    subprocess.run(["node", "--check", tmp.name], check=True)
 print("Daily Bread static checks passed.")
