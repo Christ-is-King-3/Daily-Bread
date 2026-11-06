@@ -40,5 +40,5 @@ if items:
 else: print('No feeds available; preserving prior data')
 if not p.exists():
     raise SystemExit('Bible dataset is missing after refresh; workflow requires attention')
-if not items and not (ROOT/'news.json').exists():
-    raise SystemExit('News dataset is missing after refresh')
+if not items:
+    raise SystemExit('No news headlines were retrieved; refusing to publish an empty or stale update')
