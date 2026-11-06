@@ -1,5 +1,10 @@
 name: Update Bible and news content
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update.yml'
+      - 'scripts/update.py'
   workflow_dispatch:
   schedule:
     - cron: '17 */6 * * *'
