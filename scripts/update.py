@@ -19,7 +19,7 @@ if not p.exists():
         if len(books)==66:
             p.write_text(json.dumps(books,ensure_ascii=False,separators=(',',':')),encoding='utf8')
             print('Saved',sum(len(c) for b in books for c in b['chapters']),'KJV verses')
-        else: print('Unexpected Bible dataset; keeping fallback')
+        else: raise ValueError('Unexpected Bible dataset; expected 66 books')
     except Exception as e: print('Bible fetch failed:',e)
 queries=[('UK','UK breaking news'),('World','world humanitarian crisis'),('Christian world','Christian church charity faith community'),('Christian world','Christian persecution religious freedom')]
 items=[]; seen=set()
@@ -38,3 +38,7 @@ if items:
     (ROOT/'news.json').write_text(json.dumps({'updated':datetime.now(timezone.utc).isoformat(),'items':items},ensure_ascii=False,indent=2),encoding='utf8')
     print('Saved',len(items),'headlines')
 else: print('No feeds available; preserving prior data')
+if not p.exists():
+    raise SystemExit('Bible dataset is missing after refresh; workflow requires attention')
+if not items and not (ROOT/'news.json').exists():
+    raise SystemExit('News dataset is missing after refresh')
