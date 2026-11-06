@@ -35,7 +35,7 @@
     return w.scripture ? `<a href="index.html?scripture=${encodeURIComponent(w.scripture)}#library">Read ${esc(w.scripture)} in Scripture ↗</a>` : '';
   }
   function textFor(w, heading = 'h3') {
-    return `<div class="art-type">${esc(w.type)} · ${esc(w.topic)}</div><${heading}>${esc(w.title)}</${heading}><p>${esc(w.artist)}${w.culture ? ' · ' + esc(w.culture) : ''}</p><p class="meta">${esc(w.date)} · ${esc(w.medium)}</p><p>${esc(w.context)}</p><div class="look"><strong>A moment to reflect</strong><p>${esc(w.reflection)}</p><span class="meta">A Daily Bread reflection</span></div>${scriptureLink(w)}`;
+    return `<div class="art-type">${esc(w.type)} · ${esc(w.topic)}</div><${heading}>${esc(w.title)}</${heading}><p>${esc(w.artist)}${w.culture ? ' · ' + esc(w.culture) : ''}</p><p class="meta">${esc(w.date)} · ${esc(w.medium)}</p><p>${esc(w.context)}</p><div class="look"><strong>Reflect as a disciple of Christ</strong><p>${esc(w.reflection)}</p><p>What does this scene call you to believe, repent of, give thanks for or put into practice under the authority of Scripture?</p><span class="meta">A Daily Bread Christian reflection · Scripture is our authority</span></div>${scriptureLink(w)}`;
   }
   function showFeature() {
     const w = dailyWork(works, selectedDay);
