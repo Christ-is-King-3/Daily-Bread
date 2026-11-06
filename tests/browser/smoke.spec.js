@@ -38,6 +38,8 @@ async function nearTop(locator) {
 
 test('section hierarchy, search needs, references and favourites', async ({ page }) => {
   await ready(page);
+  await expect(page.locator('link[rel="icon"]')).toHaveAttribute('href', 'assets/favicon.svg');
+  expect((await page.request.get('assets/favicon.svg')).ok()).toBe(true);
   await expect(page.locator('main h2')).toHaveCount(6);
   await expect(page.locator('#library-count')).toHaveText('31,102 verses found');
   const search = page.getByRole('textbox', { name: 'Search Scripture by feeling, need, words or Bible reference' });
