@@ -1,4 +1,9 @@
-# Daily Bread — Website Version 2
+# Daily Bread — Website Version 3
+
+## Release history
+
+- **Version 3 — 6 November 2026:** Scripture-first editorial voice throughout the homepage, news commentary, journal and art reflections; stronger homepage section boundaries; direct headline-to-reflection navigation; Scripture search by prayer need, feeling, topic, words or chapter reference. Added Bible search tests and preserved the 218-work open-access art collection.
+- **Version 2:** Full 66-book KJV, news feed and guidance pathways, journal, original five public-domain paintings and extended 218-work Christian art gallery.
 
 ## Editorial identity
 
