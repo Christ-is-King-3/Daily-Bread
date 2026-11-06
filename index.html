@@ -93,6 +93,11 @@ init().then(()=>{
    arrivalObserver=new ResizeObserver(align);
    arrivalObserver.observe(document.querySelector('main'));
    if(document.readyState!=='complete')addEventListener('load',align,{once:true});
+   const followScroll=()=>{
+    if(visitorInteracted||location.hash!==arrivalHash){removeEventListener('scroll',followScroll);return}
+    align();
+   };
+   addEventListener('scroll',followScroll,{passive:true});
    align();
   }
  }

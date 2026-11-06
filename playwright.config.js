@@ -15,7 +15,7 @@ module.exports = defineConfig({
     { name: 'mobile', use: { viewport: { width: 390, height: 844 }, isMobile: true, hasTouch: true } }
   ],
   webServer: process.env.BASE_URL ? undefined : {
-    command: 'python -m http.server 8000 --bind 127.0.0.1',
+    command: 'node scripts/serve_site.cjs',
     url: 'http://127.0.0.1:8000',
     reuseExistingServer: !process.env.CI
   }

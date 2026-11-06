@@ -1,7 +1,7 @@
 # Browser smoke tests
 
-Run `npm install`, `npx playwright install chromium`, then `npm run test:browser`.
-Python must be on PATH; Playwright starts a local static server automatically.
+Run `npm ci`, `npx playwright install chromium`, then `npm run test:browser`.
+Playwright starts the included Node static server automatically. Python is required only for the existing content integrity checks.
 The GitHub Actions browser workflow also runs the existing Python and Node content checks.
 
 The suite uses Chromium at 1440 × 1000 and 390 × 844, with no retries. News and
