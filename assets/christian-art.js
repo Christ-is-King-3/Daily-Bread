@@ -20,9 +20,9 @@
     const index = ((dayNumber(key) - EPOCH) % ordered.length + ordered.length) % ordered.length;
     return ordered[index];
   }
-  function filterWorks(works, {query = '', topic = '', medium = '', period = ''} = {}) {
+  function filterWorks(works, {query = '', topic = '', medium = '', period = '', museum = ''} = {}) {
     const words = query.toLocaleLowerCase().trim().split(/\s+/).filter(Boolean);
-    return works.filter(w => (!topic || w.topic === topic) && (!medium || w.type === medium) && (!period || w.period === period) && words.every(word => [w.title, w.artist, w.date, w.culture, w.medium, w.topic, w.type, w.period].join(' ').toLocaleLowerCase().includes(word)));
+    return works.filter(w => (!museum || w.museum === museum) && (!topic || w.topic === topic) && (!medium || w.type === medium) && (!period || w.period === period) && words.every(word => [w.title, w.artist, w.date, w.culture, w.medium, w.topic, w.type, w.period, w.museum].join(' ').toLocaleLowerCase().includes(word)));
   }
   const api = {dateKey, dayNumber, dailyWork, filterWorks};
   if (typeof module !== 'undefined' && module.exports) module.exports = api;
@@ -44,14 +44,14 @@
     image.alt = w.title + ' — ' + w.artist;
     image.width = w.width;
     image.height = w.height;
-    $('daily-caption').textContent = w.museum + ' · Open Access · CC0';
+    $('daily-caption').textContent = 'Collection: ' + w.museum + ' · Image reuse: ' + w.rights;
     $('daily-copy').innerHTML = `<div class="eyebrow">Artwork of the day · ${esc(new Intl.DateTimeFormat('en-GB', {dateStyle:'long'}).format(new Date(selectedDay + 'T12:00:00')))}</div>${textFor(w, 'h2')}<div class="feature-actions"><button class="button" data-open="${w.id}">Enlarge & explore</button><a class="button secondary" href="${esc(w.source)}" target="_blank" rel="noopener">Museum record ↗</a></div>`;
     $('art-date').value = selectedDay;
     $('art-date').max = today();
     $('next-day').disabled = selectedDay >= today();
   }
   function renderArchive() {
-    const results = filterWorks(works, {query:$('art-search').value, topic:$('topic').value, medium:$('medium').value, period:$('period').value});
+    const results = filterWorks(works, {query:$('art-search').value, topic:$('topic').value, medium:$('medium').value, period:$('period').value, museum:$('museum').value});
     const visible = new Set(results.slice(0, limit).map(w => String(w.id)));
     document.querySelectorAll('[data-card]').forEach(card => { card.hidden = !visible.has(card.dataset.card); });
     $('art-count').textContent = `${results.length} ${results.length === 1 ? 'work' : 'works'} found · ${Math.min(limit, results.length)} shown`;
@@ -69,7 +69,7 @@
     $('work-image').height = w.height;
     $('zoom').value = '1';
     zoom();
-    $('work-text').innerHTML = `${textFor(w)}<p><a href="${esc(w.image)}" target="_blank" rel="noopener">Open image in a new tab ↗</a></p><div class="credit"><strong>Collection & image credit</strong><p>${esc(w.museum)}. ${esc(w.credit)}</p><p>${esc(w.accession)} · ${esc(w.rights)}. Museum rights record checked ${esc(w.retrieved)}.</p><a href="${esc(w.source)}" target="_blank" rel="noopener">Museum record & provenance ↗</a><a href="${esc(w.rightsUrl)}" target="_blank" rel="noopener">CC0 rights ↗</a><a href="${esc(w.record)}" target="_blank" rel="noopener">Saved museum record ↗</a></div>`;
+    $('work-text').innerHTML = `${textFor(w)}<p><a href="${esc(w.image)}" target="_blank" rel="noopener">Open image in a new tab ↗</a></p><div class="credit"><strong>Collection & image credit</strong><p>${esc(w.museum)}. ${esc(w.credit)}</p><p>${esc(w.accession)} · ${esc(w.rights)}. Museum rights record checked ${esc(w.retrieved)}.</p><a href="${esc(w.source)}" target="_blank" rel="noopener">Museum record & provenance ↗</a><a href="${esc(w.rightsUrl)}" target="_blank" rel="noopener">Image reuse terms ↗</a><a href="${esc(w.record)}" target="_blank" rel="noopener">Saved museum record ↗</a></div>`;
     $('work-dialog').showModal();
   }
   function zoom() {
@@ -100,8 +100,8 @@
       $('art-controls').hidden = false;
       $('date-controls').hidden = false;
       $('art-search').oninput = () => { limit = 12; renderArchive(); };
-      ['topic','medium','period'].forEach(id => { $(id).onchange = () => { limit = 12; renderArchive(); }; });
-      $('clear-art').onclick = () => { ['art-search','topic','medium','period'].forEach(id => { $(id).value = ''; }); limit = 12; renderArchive(); };
+      ['topic','medium','period','museum'].forEach(id => { $(id).onchange = () => { limit = 12; renderArchive(); }; });
+      $('clear-art').onclick = () => { ['art-search','topic','medium','period','museum'].forEach(id => { $(id).value = ''; }); limit = 12; renderArchive(); };
       $('more-art').onclick = () => { limit += 12; renderArchive(); };
       $('previous-day').onclick = () => shiftDay(-1);
       $('next-day').onclick = () => shiftDay(1);

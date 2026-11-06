@@ -29,6 +29,12 @@ assert(manuscripts.length > 25);
 const combined = filterWorks(works, {medium:'Manuscripts & books', topic:'Old Testament', period:'Before 1400'});
 assert(combined.some(w=>w.id==='cma-165008'));
 assert(combined.every(w=>w.type==='Manuscripts & books' && w.topic==='Old Testament' && w.period==='Before 1400'));
+assert.equal(new Set(works.map(w=>w.reflection)).size, works.length, 'Every artwork has an individual reflection');
+for(const museum of new Set(works.map(w=>w.museum))){
+  const selected=filterWorks(works,{museum});
+  assert(selected.length && selected.every(w=>w.museum===museum));
+}
+assert.equal(filterWorks(works,{museum:'J. Paul Getty Museum',medium:'Manuscripts & books'}).length,4);
 const books = JSON.parse(fs.readFileSync(path.join(__dirname, '../content/bible.json'), 'utf8'));
 const verses = books.flatMap(b=>b.chapters.flatMap((c,ci)=>c.map((text,vi)=>({ref:`${b.name} ${ci+1}:${vi+1}`,text}))));
 assert.equal(verses.filter(v=>matchesScripture(v,'John 4:1–26')).length,26);

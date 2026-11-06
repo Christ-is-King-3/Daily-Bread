@@ -1,0 +1,205 @@
+{
+  "object": {
+    "objectId": "47ba5e4e-14fd-4e9d-82dd-ffce2cd68fdd",
+    "title": "The Annunciation to Joachim; The Annunciation to Anna",
+    "artist": "Unrecorded artist",
+    "date": "about 1400–1410",
+    "medium": "Tempera colors, gold, silver paint, and ink",
+    "culture": "German",
+    "accession": "88.MP.70.232v",
+    "credit": "The J. Paul Getty Museum, Los Angeles, Ms. 33, fol. 232v",
+    "source": "https://www.getty.edu/art/collection/object/105TAV"
+  },
+  "objectApi": "https://data.getty.edu/museum/collection/object/47ba5e4e-14fd-4e9d-82dd-ffce2cd68fdd",
+  "image": {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://data.getty.edu/media/image/d421c013-7069-55c9-bfbb-d479a75164c9",
+    "type": "VisualItem",
+    "_label": "Media for The Annunciation to Joachim; The Annunciation to Anna",
+    "shown_by": [
+      {
+        "id": "https://data.getty.edu/museum/collection/object/47ba5e4e-14fd-4e9d-82dd-ffce2cd68fdd",
+        "type": "HumanMadeObject",
+        "_label": "The Annunciation to Joachim; The Annunciation to Anna"
+      }
+    ],
+    "identified_by": [
+      {
+        "id": "https://data.getty.edu/media/image/d421c013-7069-55c9-bfbb-d479a75164c9/name",
+        "type": "Name",
+        "_label": "Title",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300417193",
+            "type": "Type",
+            "_label": "Titles (General, Names)"
+          }
+        ],
+        "content": "Media for The Annunciation to Joachim; The Annunciation to Anna"
+      }
+    ],
+    "digitally_shown_by": [
+      {
+        "id": "https://data.getty.edu/media/image/d421c013-7069-55c9-bfbb-d479a75164c9/digital_object/6b1405bb-d3cb-9327-2de8-ef648d9b7609",
+        "type": "DigitalObject",
+        "_label": "Object Overall - fol. 232v for Media for The Annunciation to Joachim; The Annunciation to Anna",
+        "classified_by": [
+          {
+            "id": "http://vocab.getty.edu/aat/300215302",
+            "type": "Type",
+            "_label": "digital images"
+          }
+        ],
+        "format": "image/tiff",
+        "dimension": [
+          {
+            "id": "https://data.getty.edu/media/image/d421c013-7069-55c9-bfbb-d479a75164c9/digital_object/6b1405bb-d3cb-9327-2de8-ef648d9b7609/height",
+            "type": "Dimension",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "Height"
+              }
+            ],
+            "value": 6628,
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300266190",
+              "type": "MeasurementUnit",
+              "_label": "pixels"
+            }
+          },
+          {
+            "id": "https://data.getty.edu/media/image/d421c013-7069-55c9-bfbb-d479a75164c9/digital_object/6b1405bb-d3cb-9327-2de8-ef648d9b7609/width",
+            "type": "Dimension",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "Width"
+              }
+            ],
+            "value": 4284,
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300266190",
+              "type": "MeasurementUnit",
+              "_label": "pixels"
+            }
+          }
+        ],
+        "access_point": [
+          {
+            "id": "https://media.getty.edu/iiif/image/d996cf96-96f0-4ebb-9524-b9900067606a",
+            "type": "DigitalObject",
+            "_label": "IIIF Image API for the image",
+            "conforms_to": "http://iiif.io/api/image",
+            "format": "application/json",
+            "classified_as": [
+              {
+                "id": "https://data.getty.edu/local/thesaurus/iiif-image",
+                "type": "Type",
+                "_label": "IIIF image service"
+              }
+            ]
+          },
+          {
+            "id": "https://media.getty.edu/iiif/image/d996cf96-96f0-4ebb-9524-b9900067606a/full/!600,600/0/default.jpg",
+            "type": "DigitalObject",
+            "_label": "Thumbnail for the image",
+            "format": "image/jpeg",
+            "classified_as": [
+              {
+                "id": "https://data.getty.edu/local/thesaurus/thumbnail",
+                "type": "Type",
+                "_label": "thumbnail image"
+              }
+            ]
+          },
+          {
+            "id": "https://media.getty.edu/iiif/image/d996cf96-96f0-4ebb-9524-b9900067606a/full/max/0/default.jpg",
+            "type": "DigitalObject",
+            "_label": "Full-resolution version of the image",
+            "format": "image/jpeg",
+            "classified_as": [
+              {
+                "id": "https://data.getty.edu/local/thesaurus/full-resolution",
+                "type": "Type",
+                "_label": "full resolution image"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "subject_to": [
+      {
+        "id": "https://data.getty.edu/media/image/d421c013-7069-55c9-bfbb-d479a75164c9/rights",
+        "type": "Right",
+        "_label": "Rights for Media for The Annunciation to Joachim; The Annunciation to Anna",
+        "classified_as": [
+          {
+            "type": "Type",
+            "_label": "Creative Commons Public Domain Dedication",
+            "id": "http://creativecommons.org/publicdomain/zero/1.0/",
+            "classified_as": [
+              {
+                "type": "Type",
+                "_label": "Rights Statement",
+                "id": "https://data.getty.edu/local/thesaurus/rights-statement"
+              },
+              {
+                "_deprecated": {
+                  "reason": "Consolidation of local thesaurus terms.",
+                  "replacement": "Filter on `Rights Statement` (https://data.getty.edu/local/thesaurus/rights-statement) instead.",
+                  "since": "2023-08-13"
+                },
+                "type": "Type",
+                "_label": "RightsStatement.org Statement",
+                "id": "https://data.getty.edu/local/thesaurus/rightsstatement-org-statement"
+              }
+            ]
+          },
+          {
+            "type": "Type",
+            "_label": "download",
+            "id": "https://data.getty.edu/local/thesaurus/clearance/download",
+            "classified_as": [
+              {
+                "type": "Type",
+                "_label": "local clearance level",
+                "id": "https://data.getty.edu/local/thesaurus/clearance-level"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "subject_of": [
+      {
+        "id": "https://data.getty.edu/media/image/d421c013-7069-55c9-bfbb-d479a75164c9/description",
+        "type": "LinguisticObject",
+        "value": "fol. 232v",
+        "classified_as": [
+          {
+            "type": "Type",
+            "_label": "descriptive note",
+            "id": "http://vocab.getty.edu/aat/300435416"
+          }
+        ]
+      },
+      {
+        "id": "https://data.getty.edu/media/image/d421c013-7069-55c9-bfbb-d479a75164c9/texts/alt_text",
+        "type": "LinguisticObject",
+        "value": "Object Overall",
+        "classified_as": [
+          {
+            "type": "Type",
+            "_label": "Alternative text",
+            "id": "https://data.getty.edu/local/thesaurus/alt-text"
+          }
+        ]
+      }
+    ]
+  },
+  "imageRightsPolicy": "https://www.getty.edu/projects/open-content-program/"
+}

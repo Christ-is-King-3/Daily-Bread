@@ -1,0 +1,212 @@
+{
+  "object": {
+    "objectId": "bd596097-af83-44f7-9830-955dbd868279",
+    "title": "The Annunciation",
+    "artist": "Dieric Bouts (Netherlandish, about 1415 - 1475)",
+    "date": "about 1450–1455",
+    "medium": "Distemper on linen",
+    "culture": "Netherlandish",
+    "accession": "85.PA.24",
+    "credit": "The J. Paul Getty Museum, Los Angeles",
+    "source": "https://www.getty.edu/art/collection/object/103QS9"
+  },
+  "objectApi": "https://data.getty.edu/museum/collection/object/bd596097-af83-44f7-9830-955dbd868279",
+  "image": {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://data.getty.edu/media/image/8fb908f5-3be2-5db2-acbe-43d0446b05e4",
+    "type": "VisualItem",
+    "_label": "Media for The Annunciation",
+    "shown_by": [
+      {
+        "id": "https://data.getty.edu/museum/collection/object/bd596097-af83-44f7-9830-955dbd868279",
+        "type": "HumanMadeObject",
+        "_label": "The Annunciation"
+      }
+    ],
+    "identified_by": [
+      {
+        "id": "https://data.getty.edu/media/image/8fb908f5-3be2-5db2-acbe-43d0446b05e4/name",
+        "type": "Name",
+        "_label": "Title",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300417193",
+            "type": "Type",
+            "_label": "Titles (General, Names)"
+          }
+        ],
+        "content": "Media for The Annunciation"
+      }
+    ],
+    "digitally_shown_by": [
+      {
+        "id": "https://data.getty.edu/media/image/8fb908f5-3be2-5db2-acbe-43d0446b05e4/digital_object/539061a1-226b-e223-492f-38afb5590cf3",
+        "type": "DigitalObject",
+        "_label": "Object Overall - Front for Media for The Annunciation",
+        "classified_by": [
+          {
+            "id": "http://vocab.getty.edu/aat/300215302",
+            "type": "Type",
+            "_label": "digital images"
+          }
+        ],
+        "format": "image/tiff",
+        "dimension": [
+          {
+            "id": "https://data.getty.edu/media/image/8fb908f5-3be2-5db2-acbe-43d0446b05e4/digital_object/539061a1-226b-e223-492f-38afb5590cf3/height",
+            "type": "Dimension",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "Height"
+              }
+            ],
+            "value": 6597,
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300266190",
+              "type": "MeasurementUnit",
+              "_label": "pixels"
+            }
+          },
+          {
+            "id": "https://data.getty.edu/media/image/8fb908f5-3be2-5db2-acbe-43d0446b05e4/digital_object/539061a1-226b-e223-492f-38afb5590cf3/width",
+            "type": "Dimension",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "Width"
+              }
+            ],
+            "value": 5570,
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300266190",
+              "type": "MeasurementUnit",
+              "_label": "pixels"
+            }
+          }
+        ],
+        "access_point": [
+          {
+            "id": "https://media.getty.edu/iiif/image/72d6e499-515a-47ee-8888-d7dcd5afedec",
+            "type": "DigitalObject",
+            "_label": "IIIF Image API for the image",
+            "conforms_to": "http://iiif.io/api/image",
+            "format": "application/json",
+            "classified_as": [
+              {
+                "id": "https://data.getty.edu/local/thesaurus/iiif-image",
+                "type": "Type",
+                "_label": "IIIF image service"
+              }
+            ]
+          },
+          {
+            "id": "https://media.getty.edu/iiif/image/72d6e499-515a-47ee-8888-d7dcd5afedec/full/!600,600/0/default.jpg",
+            "type": "DigitalObject",
+            "_label": "Thumbnail for the image",
+            "format": "image/jpeg",
+            "classified_as": [
+              {
+                "id": "https://data.getty.edu/local/thesaurus/thumbnail",
+                "type": "Type",
+                "_label": "thumbnail image"
+              }
+            ]
+          },
+          {
+            "id": "https://media.getty.edu/iiif/image/72d6e499-515a-47ee-8888-d7dcd5afedec/full/max/0/default.jpg",
+            "type": "DigitalObject",
+            "_label": "Full-resolution version of the image",
+            "format": "image/jpeg",
+            "classified_as": [
+              {
+                "id": "https://data.getty.edu/local/thesaurus/full-resolution",
+                "type": "Type",
+                "_label": "full resolution image"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "subject_to": [
+      {
+        "id": "https://data.getty.edu/media/image/8fb908f5-3be2-5db2-acbe-43d0446b05e4/rights",
+        "type": "Right",
+        "_label": "Rights for Media for The Annunciation",
+        "classified_as": [
+          {
+            "type": "Type",
+            "_label": "Creative Commons Public Domain Dedication",
+            "id": "http://creativecommons.org/publicdomain/zero/1.0/",
+            "classified_as": [
+              {
+                "type": "Type",
+                "_label": "Rights Statement",
+                "id": "https://data.getty.edu/local/thesaurus/rights-statement"
+              },
+              {
+                "_deprecated": {
+                  "reason": "Consolidation of local thesaurus terms.",
+                  "replacement": "Filter on `Rights Statement` (https://data.getty.edu/local/thesaurus/rights-statement) instead.",
+                  "since": "2023-08-13"
+                },
+                "type": "Type",
+                "_label": "RightsStatement.org Statement",
+                "id": "https://data.getty.edu/local/thesaurus/rightsstatement-org-statement"
+              }
+            ]
+          },
+          {
+            "type": "Type",
+            "_label": "download",
+            "id": "https://data.getty.edu/local/thesaurus/clearance/download",
+            "classified_as": [
+              {
+                "type": "Type",
+                "_label": "local clearance level",
+                "id": "https://data.getty.edu/local/thesaurus/clearance-level"
+              }
+            ]
+          }
+        ],
+        "possessed_by": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115988",
+            "type": "Group",
+            "_label": "The J. Paul Getty Museum, Los Angeles"
+          }
+        ]
+      }
+    ],
+    "subject_of": [
+      {
+        "id": "https://data.getty.edu/media/image/8fb908f5-3be2-5db2-acbe-43d0446b05e4/description",
+        "type": "LinguisticObject",
+        "value": "Front",
+        "classified_as": [
+          {
+            "type": "Type",
+            "_label": "descriptive note",
+            "id": "http://vocab.getty.edu/aat/300435416"
+          }
+        ]
+      },
+      {
+        "id": "https://data.getty.edu/media/image/8fb908f5-3be2-5db2-acbe-43d0446b05e4/texts/alt_text",
+        "type": "LinguisticObject",
+        "value": "Object Overall",
+        "classified_as": [
+          {
+            "type": "Type",
+            "_label": "Alternative text",
+            "id": "https://data.getty.edu/local/thesaurus/alt-text"
+          }
+        ]
+      }
+    ]
+  },
+  "imageRightsPolicy": "https://www.getty.edu/projects/open-content-program/"
+}

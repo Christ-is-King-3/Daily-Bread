@@ -1,0 +1,205 @@
+{
+  "object": {
+    "objectId": "62de080e-8d8b-4b98-b0a2-c4bde83a32c4",
+    "title": "The Nativity, The Annunciation to the Shepherds, The Bathing of the Christ Child, and One of the Three Magi",
+    "artist": "Unknown",
+    "date": "late 13th century",
+    "medium": "Tempera colors and gold leaf",
+    "culture": "Byzantine",
+    "accession": "83.MB.69.12",
+    "credit": "The J. Paul Getty Museum, Los Angeles, Ms. Ludwig II 5, fol. 12",
+    "source": "https://www.getty.edu/art/collection/object/105V5W"
+  },
+  "objectApi": "https://data.getty.edu/museum/collection/object/62de080e-8d8b-4b98-b0a2-c4bde83a32c4",
+  "image": {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://data.getty.edu/media/image/9cd60c43-a096-5245-9a33-a95c8c3943ab",
+    "type": "VisualItem",
+    "_label": "Media for The Nativity, The Annunciation to the Shepherds, The Bathing of the Christ Child, and One of the Three Magi",
+    "shown_by": [
+      {
+        "id": "https://data.getty.edu/museum/collection/object/62de080e-8d8b-4b98-b0a2-c4bde83a32c4",
+        "type": "HumanMadeObject",
+        "_label": "The Nativity, The Annunciation to the Shepherds, The Bathing of the Christ Child, and One of the Three Magi"
+      }
+    ],
+    "identified_by": [
+      {
+        "id": "https://data.getty.edu/media/image/9cd60c43-a096-5245-9a33-a95c8c3943ab/name",
+        "type": "Name",
+        "_label": "Title",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300417193",
+            "type": "Type",
+            "_label": "Titles (General, Names)"
+          }
+        ],
+        "content": "Media for The Nativity, The Annunciation to the Shepherds, The Bathing of the Christ Child, and One of the Three Magi"
+      }
+    ],
+    "digitally_shown_by": [
+      {
+        "id": "https://data.getty.edu/media/image/9cd60c43-a096-5245-9a33-a95c8c3943ab/digital_object/24b88ed4-97cb-d4cd-f251-0ee80395ad68",
+        "type": "DigitalObject",
+        "_label": "Object Overall - fol. 12 for Media for The Nativity, The Annunciation to the Shepherds, The Bathing of the Christ Child, and One of the Three Magi",
+        "classified_by": [
+          {
+            "id": "http://vocab.getty.edu/aat/300215302",
+            "type": "Type",
+            "_label": "digital images"
+          }
+        ],
+        "format": "image/tiff",
+        "dimension": [
+          {
+            "id": "https://data.getty.edu/media/image/9cd60c43-a096-5245-9a33-a95c8c3943ab/digital_object/24b88ed4-97cb-d4cd-f251-0ee80395ad68/height",
+            "type": "Dimension",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "Height"
+              }
+            ],
+            "value": 4450,
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300266190",
+              "type": "MeasurementUnit",
+              "_label": "pixels"
+            }
+          },
+          {
+            "id": "https://data.getty.edu/media/image/9cd60c43-a096-5245-9a33-a95c8c3943ab/digital_object/24b88ed4-97cb-d4cd-f251-0ee80395ad68/width",
+            "type": "Dimension",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "Width"
+              }
+            ],
+            "value": 3142,
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300266190",
+              "type": "MeasurementUnit",
+              "_label": "pixels"
+            }
+          }
+        ],
+        "access_point": [
+          {
+            "id": "https://media.getty.edu/iiif/image/853a6200-7884-4321-a1cb-42afb472c995",
+            "type": "DigitalObject",
+            "_label": "IIIF Image API for the image",
+            "conforms_to": "http://iiif.io/api/image",
+            "format": "application/json",
+            "classified_as": [
+              {
+                "id": "https://data.getty.edu/local/thesaurus/iiif-image",
+                "type": "Type",
+                "_label": "IIIF image service"
+              }
+            ]
+          },
+          {
+            "id": "https://media.getty.edu/iiif/image/853a6200-7884-4321-a1cb-42afb472c995/full/!600,600/0/default.jpg",
+            "type": "DigitalObject",
+            "_label": "Thumbnail for the image",
+            "format": "image/jpeg",
+            "classified_as": [
+              {
+                "id": "https://data.getty.edu/local/thesaurus/thumbnail",
+                "type": "Type",
+                "_label": "thumbnail image"
+              }
+            ]
+          },
+          {
+            "id": "https://media.getty.edu/iiif/image/853a6200-7884-4321-a1cb-42afb472c995/full/max/0/default.jpg",
+            "type": "DigitalObject",
+            "_label": "Full-resolution version of the image",
+            "format": "image/jpeg",
+            "classified_as": [
+              {
+                "id": "https://data.getty.edu/local/thesaurus/full-resolution",
+                "type": "Type",
+                "_label": "full resolution image"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "subject_to": [
+      {
+        "id": "https://data.getty.edu/media/image/9cd60c43-a096-5245-9a33-a95c8c3943ab/rights",
+        "type": "Right",
+        "_label": "Rights for Media for The Nativity, The Annunciation to the Shepherds, The Bathing of the Christ Child, and One of the Three Magi",
+        "classified_as": [
+          {
+            "type": "Type",
+            "_label": "Creative Commons Public Domain Dedication",
+            "id": "http://creativecommons.org/publicdomain/zero/1.0/",
+            "classified_as": [
+              {
+                "type": "Type",
+                "_label": "Rights Statement",
+                "id": "https://data.getty.edu/local/thesaurus/rights-statement"
+              },
+              {
+                "_deprecated": {
+                  "reason": "Consolidation of local thesaurus terms.",
+                  "replacement": "Filter on `Rights Statement` (https://data.getty.edu/local/thesaurus/rights-statement) instead.",
+                  "since": "2023-08-13"
+                },
+                "type": "Type",
+                "_label": "RightsStatement.org Statement",
+                "id": "https://data.getty.edu/local/thesaurus/rightsstatement-org-statement"
+              }
+            ]
+          },
+          {
+            "type": "Type",
+            "_label": "download",
+            "id": "https://data.getty.edu/local/thesaurus/clearance/download",
+            "classified_as": [
+              {
+                "type": "Type",
+                "_label": "local clearance level",
+                "id": "https://data.getty.edu/local/thesaurus/clearance-level"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "subject_of": [
+      {
+        "id": "https://data.getty.edu/media/image/9cd60c43-a096-5245-9a33-a95c8c3943ab/description",
+        "type": "LinguisticObject",
+        "value": "fol. 12",
+        "classified_as": [
+          {
+            "type": "Type",
+            "_label": "descriptive note",
+            "id": "http://vocab.getty.edu/aat/300435416"
+          }
+        ]
+      },
+      {
+        "id": "https://data.getty.edu/media/image/9cd60c43-a096-5245-9a33-a95c8c3943ab/texts/alt_text",
+        "type": "LinguisticObject",
+        "value": "Object Overall",
+        "classified_as": [
+          {
+            "type": "Type",
+            "_label": "Alternative text",
+            "id": "https://data.getty.edu/local/thesaurus/alt-text"
+          }
+        ]
+      }
+    ]
+  },
+  "imageRightsPolicy": "https://www.getty.edu/projects/open-content-program/"
+}

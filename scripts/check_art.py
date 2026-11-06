@@ -11,6 +11,9 @@ assert len({w['id'] for w in works}) == len(works)
 assert sorted(w['sequence'] for w in works) == list(range(len(works)))
 assert len({w['sha256'] for w in works}) == len(works), 'Duplicate image files'
 assert len({w['type'] for w in works}) == 7
+assert len({w['museum'] for w in works}) >= 5
+assert len({w['reflection'] for w in works}) == len(works), 'Repeated artwork reflections'
+assert all(len(w['reflection'].split()) >= 18 and 'PENDING' not in w['reflection'] for w in works)
 page = (ROOT / 'art.html').read_text(encoding='utf-8')
 class Elements(HTMLParser):
     def __init__(self):
@@ -28,8 +31,12 @@ for ref in elements.references:
 for w in works:
     assert all(w.get(k) for k in ('title','artist','date','medium','museum','credit','accession','topic','type','period','context','reflection','retrieved'))
     assert w['width'] >= 150 and w['height'] >= 150
-    assert w['rights'] == 'CC0 1.0'
-    assert w['rightsUrl'] == 'https://creativecommons.org/publicdomain/zero/1.0/'
+    if w['provider'] == 'nga':
+        assert w['rights'] == 'Public domain · NGA Open Access'
+        assert w['rightsUrl'] == 'https://www.nga.gov/artworks/free-images-and-open-access'
+    else:
+        assert w['rights'] == 'CC0 1.0'
+        assert w['rightsUrl'] == 'https://creativecommons.org/publicdomain/zero/1.0/'
     record = json.loads((ROOT / w['record']).read_text(encoding='utf-8'))
     if w['provider'] == 'met':
         assert record['isPublicDomain'] is True
@@ -43,8 +50,29 @@ for w in works:
         assert record['url'] == w['source']
         assert record['creditline'] == w['credit']
         assert w['imageSource'] in [record['images'][k]['url'] for k in ('web','print') if record['images'].get(k)]
+    elif w['provider'] == 'nga':
+        assert record['image']['openaccess'] == '1'
+        assert int(record['object']['objectid']) == w['objectId']
+        assert record['object']['title'] == w['title']
+        assert record['object']['creditline'] == w['credit']
+        assert w['imageSource'].startswith(record['image']['iiifurl']+'/full/')
+    elif w['provider'] == 'walters':
+        assert record['imageRightsPolicy'] == 'https://github.com/WaltersArtMuseum/api-thewalters-org'
+        assert int(record['object']['ObjectID']) == w['objectId']
+        assert record['object']['Title'] == w['title']
+        assert record['object']['ResourceURL'] == w['source']
+        assert record['image']['ImageURL'] == w['imageSource']
+        assert (record['object']['CreditLine'].strip() or 'Walters Art Museum') == w['credit']
+    elif w['provider'] == 'getty':
+        assert record['object']['objectId'] == w['objectId']
+        assert record['object']['source'] == w['source']
+        assert record['object']['title'] == w['title']
+        assert record['object']['credit'] == w['credit']
+        assert any(c.get('id','').endswith('creativecommons.org/publicdomain/zero/1.0/') for right in record['image']['subject_to'] for c in right['classified_as'])
+        services=[a['id'] for d in record['image']['digitally_shown_by'] for a in d.get('access_point',[]) if a['id'].startswith('https://media.getty.edu/iiif/image/')]
+        assert any(w['imageSource'].startswith(service+'/full/') for service in services)
     else: raise AssertionError('Unknown rights provider')
-    assert record['title'].strip() == w['title']
+    if w['provider'] in ('met','cma'): assert record['title'].strip() == w['title']
     for field, checksum in [('image','sha256'),('thumbnail','thumbnailSha256')]:
         path = (ROOT / w[field]).resolve()
         assert path.is_relative_to(ROOT.resolve())

@@ -1,7 +1,7 @@
 """Fetch a public-domain KJV Bible and source-linked news headlines.
 Does not generate AI interpretations or automatically allege persecution.
 """
-import json, urllib.request, urllib.parse, xml.etree.ElementTree as ET
+import json, urllib.request, urllib.parse, xml.etree.ElementTree as ET, subprocess
 from pathlib import Path
 from datetime import datetime, timezone
 ROOT=Path(__file__).resolve().parents[1]/'content'
@@ -22,7 +22,7 @@ if not p.exists():
         else: raise ValueError('Unexpected Bible dataset; expected 66 books')
     except Exception as e: print('Bible fetch failed:',e)
 queries=[('UK','UK breaking news'),('World','world humanitarian crisis'),('Christian world','Christian church charity faith community'),('Christian world','Christian persecution religious freedom')]
-items=[]; seen=set()
+items=[]
 for section,q in queries:
     try:
         u='https://news.google.com/rss/search?q='+urllib.parse.quote(q)+'&hl=en-GB&gl=GB&ceid=GB:en'
@@ -30,13 +30,14 @@ for section,q in queries:
         for x in tree.findall('./channel/item')[:9]:
             title=(x.findtext('title') or '').strip(); link=(x.findtext('link') or '').strip()
             source=x.find('source'); publisher=source.text if source is not None else 'News publisher'
-            if not title or not link or title in seen or not link.startswith('https://'):continue
-            seen.add(title)
+            if not title or not link or not link.startswith('https://'):continue
             items.append({'title':title,'url':link,'publisher':publisher,'date':x.findtext('pubDate') or '', 'section':section})
     except Exception as e: print('Feed error',q,e)
 if items:
-    (ROOT/'news.json').write_text(json.dumps({'updated':datetime.now(timezone.utc).isoformat(),'items':items},ensure_ascii=False,indent=2),encoding='utf8')
-    print('Saved',len(items),'headlines')
+    payload=json.dumps({'updated':datetime.now(timezone.utc).isoformat(),'items':items},ensure_ascii=False)
+    grouped=subprocess.run(['node',str(ROOT.parent/'scripts/process_news.js')],input=payload,text=True,encoding='utf-8',capture_output=True,check=True).stdout
+    (ROOT/'news.json').write_text(grouped,encoding='utf8')
+    print('Saved',len(json.loads(grouped)['items']),'distinct stories from',len(items),'reports')
 else: print('No feeds available; preserving prior data')
 if not p.exists():
     raise SystemExit('Bible dataset is missing after refresh; workflow requires attention')

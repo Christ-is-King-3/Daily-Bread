@@ -56,3 +56,5 @@ with tempfile.TemporaryDirectory() as directory:
     subprocess.run(["node", "--check", str(js)], check=True)
 print("Daily Bread static checks passed.")
 subprocess.run([__import__('sys').executable, str(root / 'scripts/check_art.py')], check=True)
+subprocess.run(['node', '--check', str(root / 'assets/news.js')], check=True)
+subprocess.run(['node', str(root / 'scripts/test_news.js')], check=True)

@@ -1,0 +1,205 @@
+{
+  "object": {
+    "objectId": "4fe7e5ed-f71b-44c4-b5b4-eb583e3bf896",
+    "title": "The Annunciation",
+    "artist": "Follower of the Boucicaut Master (French, active about 1390 - 1430)",
+    "date": "about 1410",
+    "medium": "Tempera colors, gold leaf, gold paint, and ink",
+    "culture": "French",
+    "accession": "83.ML.101.27",
+    "credit": "The J. Paul Getty Museum, Los Angeles, Ms. Ludwig IX 5, fol. 27",
+    "source": "https://www.getty.edu/art/collection/object/103S6J"
+  },
+  "objectApi": "https://data.getty.edu/museum/collection/object/4fe7e5ed-f71b-44c4-b5b4-eb583e3bf896",
+  "image": {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://data.getty.edu/media/image/9f4e66e1-57f2-5dfe-979b-9552edded75d",
+    "type": "VisualItem",
+    "_label": "Media for Book of Hours",
+    "shown_by": [
+      {
+        "id": "https://data.getty.edu/museum/collection/object/4fe7e5ed-f71b-44c4-b5b4-eb583e3bf896",
+        "type": "HumanMadeObject",
+        "_label": "The Annunciation"
+      }
+    ],
+    "identified_by": [
+      {
+        "id": "https://data.getty.edu/media/image/9f4e66e1-57f2-5dfe-979b-9552edded75d/name",
+        "type": "Name",
+        "_label": "Title",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300417193",
+            "type": "Type",
+            "_label": "Titles (General, Names)"
+          }
+        ],
+        "content": "Media for Book of Hours"
+      }
+    ],
+    "digitally_shown_by": [
+      {
+        "id": "https://data.getty.edu/media/image/9f4e66e1-57f2-5dfe-979b-9552edded75d/digital_object/b66a9d3f-d3bc-1ffe-7a2e-edc08b66a9c1",
+        "type": "DigitalObject",
+        "_label": "Object Overall - fol. 27 for Media for Book of Hours",
+        "classified_by": [
+          {
+            "id": "http://vocab.getty.edu/aat/300215302",
+            "type": "Type",
+            "_label": "digital images"
+          }
+        ],
+        "format": "image/tiff",
+        "dimension": [
+          {
+            "id": "https://data.getty.edu/media/image/9f4e66e1-57f2-5dfe-979b-9552edded75d/digital_object/b66a9d3f-d3bc-1ffe-7a2e-edc08b66a9c1/height",
+            "type": "Dimension",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "Height"
+              }
+            ],
+            "value": 5713,
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300266190",
+              "type": "MeasurementUnit",
+              "_label": "pixels"
+            }
+          },
+          {
+            "id": "https://data.getty.edu/media/image/9f4e66e1-57f2-5dfe-979b-9552edded75d/digital_object/b66a9d3f-d3bc-1ffe-7a2e-edc08b66a9c1/width",
+            "type": "Dimension",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "Width"
+              }
+            ],
+            "value": 3939,
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300266190",
+              "type": "MeasurementUnit",
+              "_label": "pixels"
+            }
+          }
+        ],
+        "access_point": [
+          {
+            "id": "https://media.getty.edu/iiif/image/724aa95c-e3ad-4749-812e-96c53263a93d",
+            "type": "DigitalObject",
+            "_label": "IIIF Image API for the image",
+            "conforms_to": "http://iiif.io/api/image",
+            "format": "application/json",
+            "classified_as": [
+              {
+                "id": "https://data.getty.edu/local/thesaurus/iiif-image",
+                "type": "Type",
+                "_label": "IIIF image service"
+              }
+            ]
+          },
+          {
+            "id": "https://media.getty.edu/iiif/image/724aa95c-e3ad-4749-812e-96c53263a93d/full/!600,600/0/default.jpg",
+            "type": "DigitalObject",
+            "_label": "Thumbnail for the image",
+            "format": "image/jpeg",
+            "classified_as": [
+              {
+                "id": "https://data.getty.edu/local/thesaurus/thumbnail",
+                "type": "Type",
+                "_label": "thumbnail image"
+              }
+            ]
+          },
+          {
+            "id": "https://media.getty.edu/iiif/image/724aa95c-e3ad-4749-812e-96c53263a93d/full/max/0/default.jpg",
+            "type": "DigitalObject",
+            "_label": "Full-resolution version of the image",
+            "format": "image/jpeg",
+            "classified_as": [
+              {
+                "id": "https://data.getty.edu/local/thesaurus/full-resolution",
+                "type": "Type",
+                "_label": "full resolution image"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "subject_to": [
+      {
+        "id": "https://data.getty.edu/media/image/9f4e66e1-57f2-5dfe-979b-9552edded75d/rights",
+        "type": "Right",
+        "_label": "Rights for Media for Book of Hours",
+        "classified_as": [
+          {
+            "type": "Type",
+            "_label": "Creative Commons Public Domain Dedication",
+            "id": "http://creativecommons.org/publicdomain/zero/1.0/",
+            "classified_as": [
+              {
+                "type": "Type",
+                "_label": "Rights Statement",
+                "id": "https://data.getty.edu/local/thesaurus/rights-statement"
+              },
+              {
+                "_deprecated": {
+                  "reason": "Consolidation of local thesaurus terms.",
+                  "replacement": "Filter on `Rights Statement` (https://data.getty.edu/local/thesaurus/rights-statement) instead.",
+                  "since": "2023-08-13"
+                },
+                "type": "Type",
+                "_label": "RightsStatement.org Statement",
+                "id": "https://data.getty.edu/local/thesaurus/rightsstatement-org-statement"
+              }
+            ]
+          },
+          {
+            "type": "Type",
+            "_label": "download",
+            "id": "https://data.getty.edu/local/thesaurus/clearance/download",
+            "classified_as": [
+              {
+                "type": "Type",
+                "_label": "local clearance level",
+                "id": "https://data.getty.edu/local/thesaurus/clearance-level"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "subject_of": [
+      {
+        "id": "https://data.getty.edu/media/image/9f4e66e1-57f2-5dfe-979b-9552edded75d/description",
+        "type": "LinguisticObject",
+        "value": "fol. 27",
+        "classified_as": [
+          {
+            "type": "Type",
+            "_label": "descriptive note",
+            "id": "http://vocab.getty.edu/aat/300435416"
+          }
+        ]
+      },
+      {
+        "id": "https://data.getty.edu/media/image/9f4e66e1-57f2-5dfe-979b-9552edded75d/texts/alt_text",
+        "type": "LinguisticObject",
+        "value": "Object Overall",
+        "classified_as": [
+          {
+            "type": "Type",
+            "_label": "Alternative text",
+            "id": "https://data.getty.edu/local/thesaurus/alt-text"
+          }
+        ]
+      }
+    ]
+  },
+  "imageRightsPolicy": "https://www.getty.edu/projects/open-content-program/"
+}
