@@ -1,3 +1,35 @@
 [
-  {"id":"welcome","title":"Welcome to Daily Bread","author":"Daily Bread editor","role":"From the Editor","date":"2026-11-06","category":"Reflection","excerpt":"Why this journal exists, and how faith can inform our response to the world.","body":["Daily Bread is a place for Scripture, reflection, Christian fellowship and thoughtful engagement with the world around us.","This journal is a space for personal writing and contributions from clergy and other Christian voices. Articles express their authors' views; they are not automatically the teaching of any church.","Our hope is to seek truth with humility, comfort those who suffer and turn conviction into peaceful service."],"scripture":"Micah 6:8"}
+  {
+    "id": "welcome",
+    "title": "Why Daily Bread Stands Firm in Christ",
+    "author": "Daily Bread editor",
+    "role": "From the Editor",
+    "date": "2026-11-06",
+    "category": "Reflection",
+    "excerpt": "A home for Scripture, Christian courage, plain speaking and faithful service—not party slogans.",
+    "body": [
+      "Daily Bread begins with one confession: Jesus Christ is Lord. We are here to glorify God, search the Scriptures and learn to follow Christ faithfully in the ordinary duties of life. Faith is not a fashionable accessory or a Sunday-only comfort; it is the foundation of everything we do.",
+      "As Christians, we are called to stand firmly in God’s truth, defend what is right, care for our neighbours and take responsibility for our actions. Compassion must never require us to abandon biblical conviction. Scripture calls us to repentance, courage, self-control, hard work, family responsibility, honesty and mercy.",
+      "We seek a plain-spoken, common-sense Christian view of the world. That does not mean treating the claims of any party or politician as the Word of God. Nor does it mean condemning everyone who disagrees. We will examine evidence carefully, criticise wrongdoing fairly and judge our own conduct by the same standard we ask of others.",
+      "Our conviction about salvation is explicitly Christian: Jesus Christ is the way to the Father (John 14:6). Every person, whatever their background or religion, deserves dignity and an honest invitation to hear the Gospel. We reject contempt, coercion and collective blame, not because we are uncertain in our faith but because Christ commands us to love our neighbour.",
+      "Read the Bible for yourself. Test our commentary against Scripture, ask difficult questions, pray for discernment and put faith into action through obedience and practical service."
+    ],
+    "scripture": "2 Timothy 3:16–17"
+  },
+  {
+    "id": "faithful-conviction",
+    "title": "Conviction Without Cruelty",
+    "author": "Daily Bread Editorial",
+    "role": "From the Editor",
+    "date": "2026-11-06",
+    "category": "Discipleship",
+    "excerpt": "Standing firm in biblical truth should make us courageous, responsible and merciful—not careless with the facts.",
+    "body": [
+      "A firm Christian conscience is not the same thing as anger. The Bible calls us to be sober-minded, steadfast and ready to defend what is right. It also condemns false witness, pride and the temptation to excuse our own faults while exposing the faults of others.",
+      "Truth and compassion are not enemies. A Christian may oppose what is wrong, ask hard questions of those in authority and speak plainly about sin while still respecting the humanity of people who disagree. We do not have to adopt popular opinions to show love, nor do we need to become cruel in order to be courageous.",
+      "Our duties begin close to home: worship God, honour commitments, nurture family relationships, work honestly, protect the vulnerable and be accountable for our choices. Public commentary means little if it is separated from private obedience.",
+      "Before repeating an alarming headline, ask what is verified. Before demanding accountability, ask whether you are willing to be held accountable. Before condemning another person, remember the mercy you have received in Christ. Then stand firm and act."
+    ],
+    "scripture": "Ephesians 6:10–18"
+  }
 ]
