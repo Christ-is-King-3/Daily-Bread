@@ -6,13 +6,18 @@ const items = [
   { title: 'Church volunteers serve local families', publisher: 'QA fixture', date: '2026-11-06', section: 'Christian world', url: 'https://example.com/church' }
 ];
 test.beforeEach(async ({ page }) => {
+  // Keep the featured work and its Scripture link stable as the calendar advances.
+  await page.clock.setFixedTime(new Date('2026-11-06T12:00:00Z'));
   const failures = [];
   page.on('pageerror', e => failures.push(e.message));
   page.on('console', m => { if (m.type() === 'error') failures.push(m.text()); });
   page.on('response', r => {
     if (r.status() >= 400 && new URL(r.url()).origin === new URL(page.url()).origin) failures.push(`${r.status()} ${r.url()}`);
   });
-  page.on('requestfailed', r => failures.push(`${r.url()} ${r.failure()?.errorText}`));
+  page.on('requestfailed', r => {
+    // A new navigation can legitimately cancel an image still loading on the old page.
+    if (r.failure()?.errorText !== 'net::ERR_ABORTED') failures.push(`${r.url()} ${r.failure()?.errorText}`);
+  });
   page.__failures = failures;
   await page.route('**/content/news.json', route => route.fulfill({ json: { updated: '2026-11-06T12:00:00Z', items } }));
   await page.route('**/content/editorial.json', route => route.fulfill({ json: { reviewedStories: [] } }));
