@@ -57,4 +57,10 @@ with tempfile.TemporaryDirectory() as directory:
 print("Daily Bread static checks passed.")
 subprocess.run([__import__('sys').executable, str(root / 'scripts/check_art.py')], check=True)
 subprocess.run(['node', '--check', str(root / 'assets/news.js')], check=True)
+subprocess.run(['node', '--check', str(root / 'assets/scripture-search.js')], check=True)
+subprocess.run(['node', '--check', str(root / 'assets/christian-art.js')], check=True)
 subprocess.run(['node', str(root / 'scripts/test_news.js')], check=True)
+subprocess.run(['node', str(root / 'scripts/test_scripture.js')], check=True)
+assert 'data-topic-query="anxiety"' in html, 'Missing topic search suggestions'
+assert 'id="search-help"' in html, 'Missing guided-search description'
+assert 'id="latest-headlines"' in html and 'tabindex="-1"' in html, 'Missing news reflection navigation'
