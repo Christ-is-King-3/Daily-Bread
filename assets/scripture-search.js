@@ -12,8 +12,8 @@
       && Number(ref[2]) === Number(range[2]) && Number(ref[3]) >= Number(range[3])
       && Number(ref[3]) <= Number(range[4] || range[3]);
     const chapter = q.match(/^(.+?)\s+(\d+)$/);
-    if (chapter && ref && canonicalBook(ref[1]) === canonicalBook(chapter[1]))
-      return Number(ref[2]) === Number(chapter[2]);
+    if (chapter) return !!ref && canonicalBook(ref[1]) === canonicalBook(chapter[1])
+      && Number(ref[2]) === Number(chapter[2]);
     return !q || (verse.ref + ' ' + verse.text).toLowerCase().includes(q);
   }
 
