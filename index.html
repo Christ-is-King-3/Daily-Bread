@@ -76,16 +76,25 @@ $('search').oninput=()=>{limit=12;renderLibrary()};document.querySelectorAll('[d
 async function loadJson(path){const r=await fetch(path,{cache:'no-store'});if(!r.ok)throw Error(r.status);return r.json()}
 // Keep incoming section links aligned after asynchronous content changes the page height.
 const arrivalHash=location.hash;
-let visitorInteracted=false;
-for(const event of ['pointerdown','keydown','wheel','touchstart'])addEventListener(event,()=>{visitorInteracted=true},{once:true,passive:true});
+let visitorInteracted=false,arrivalObserver=null;
+for(const event of ['pointerdown','keydown','wheel','touchstart'])addEventListener(event,()=>{visitorInteracted=true;arrivalObserver?.disconnect()},{once:true,passive:true});
 async function init(){try{const books=await loadJson('content/bible.json');const full=[];for(const b of books)for(let c=0;c<b.chapters.length;c++)for(let v=0;v<b.chapters[c].length;v++)if(b.chapters[c][v])full.push({ref:b.name+' '+(c+1)+':'+(v+1),text:b.chapters[c][v]});if(full.length>30000)verses=full}catch(e){}setDaily();const requestedScripture=new URLSearchParams(location.search).get('scripture');if(requestedScripture)$('search').value=requestedScripture;renderLibrary();try{const data=await loadJson('content/news.json');news=DailyBreadNews.groupStories(Array.isArray(data.items)?data.items:[]);try{const editorial=await loadJson('content/editorial.json');const reviewed=Array.isArray(editorial.reviewedStories)?editorial.reviewedStories:[];reviewedStories=reviewed;const byUrl=new Map(reviewed.filter(x=>x.url&&['hope','hardship'].includes(x.editorialCategory)).map(x=>[x.url,x.editorialCategory]));news=news.map(n=>({...n,editorialCategory:(n.sources||[n]).map(source=>byUrl.get(source.url)).find(Boolean)||undefined}));}catch(e){}$('news-updated').textContent=data.updated?news.length+' distinct stories · '+news.reduce((total,n)=>total+n.sources.length,0)+' source reports · Collected: '+new Date(data.updated).toLocaleString('en-GB',{dateStyle:'medium',timeStyle:'short'}):'Live feed not yet initialised.'}catch(e){}renderNews();try{const posts=await loadJson('content/posts.json');$('posts').innerHTML=posts.map((p,i)=>'<article class="card article"><div class="eyebrow">'+esc(p.role||'Guest reflection')+'</div><h3>'+esc(p.title)+'</h3><div class="meta">'+esc(p.author)+' · '+esc(p.date)+' · '+esc(p.category)+'</div><p>'+esc(p.excerpt||'')+'</p><button class="btn outline" data-post="'+i+'">Read article ↗</button><div class="hidden" id="post-'+i+'">'+(p.body||[]).map(t=>'<p>'+esc(t)+'</p>').join('')+(p.scripture?'<p><a href="'+esvUrl(p.scripture)+'" target="_blank" rel="noopener">Read '+esc(p.scripture)+' in the ESV ↗</a></p>':'')+'</div></article>').join('');document.querySelectorAll('[data-post]').forEach(b=>b.onclick=()=>{const el=$('post-'+b.dataset.post);el.classList.toggle('hidden');b.textContent=el.classList.contains('hidden')?'Read article ↗':'Close article ↑'})}catch(e){$('posts').innerHTML='<p class="notice">Articles will appear here when published.</p>'}}
 init().then(()=>{
  document.body.dataset.ready='true';
  if(arrivalHash&&location.hash===arrivalHash&&!visitorInteracted){
   const target=document.getElementById(arrivalHash.slice(1));
-  if(target)requestAnimationFrame(()=>{
-   if(!visitorInteracted&&location.hash===arrivalHash)target.scrollIntoView({behavior:'instant',block:'start'});
-  });
+  if(target){
+   const align=()=>requestAnimationFrame(()=>{
+    if(!visitorInteracted&&location.hash===arrivalHash)target.scrollIntoView({behavior:'instant',block:'start'});
+    else arrivalObserver?.disconnect();
+   });
+   // Initial images and fragment restoration can settle after the JSON requests.
+   // Follow layout changes only until the visitor takes control.
+   arrivalObserver=new ResizeObserver(align);
+   arrivalObserver.observe(document.querySelector('main'));
+   if(document.readyState!=='complete')addEventListener('load',align,{once:true});
+   align();
+  }
  }
 });
 </script></body></html>
