@@ -214,13 +214,155 @@
     'How can gratitude for generosity avoid becoming a ranking of people’s faith or worth?',
     ['2 Corinthians 9:7','A study reporting generous giving among committed young Christians can be encouraging. Give thanks for freely chosen generosity while remembering that people have unequal resources and give through care, time and service as well as money.', ['Thank people for gifts of care and time that accounts may not record.','Avoid treating donation amounts as evidence of a person’s standing with God.','Make room for those who cannot give financially to belong fully.'],'Generous God, nurture joyful giving and free our communities from measuring faith by the size of a gift.'],
     ['1 Peter 4:10','The practical question is what the research actually measured and how its findings can encourage service without pressure. A report about giving should never become a fundraising demand on people with fewer resources.', ['Check the sample, definitions and period used in the study.','Consider forms of generosity that the research may not measure.','Use the findings to support voluntary service and transparent stewardship, not competitive fundraising.'],'God of wise stewardship, help us learn from this research while protecting the freedom and dignity of every giver.']);
+  const convictionLens = {
+    "sexual-abuse": [
+      "Christ sees the wounded. The Church has a duty to protect people, speak truth and refuse to excuse wickedness.",
+      "The Lord calls His people to expose wrongdoing and defend those harmed; reputation is never more important than righteousness."
+    ],
+    "aviation-threats": [
+      "God calls us to be steady in fear, neither reckless nor ruled by rumours.",
+      "Self-control and regard for human life are duties, especially when public safety is threatened."
+    ],
+    "emergency-worker-attack": [
+      "Those who risk themselves to protect life deserve gratitude and prayer.",
+      "Violence against people serving the public is wrong. Upholding responsibility and lawful order protects the vulnerable."
+    ],
+    "interest-rates": [
+      "Scripture teaches faithful stewardship and care for the household when resources are strained.",
+      "Honesty, work, thrift and responsibility matter; economic claims deserve clear evidence, not slogans."
+    ],
+    "infectious-illness": [
+      "Christians do not abandon the sick. Caring for them is part of our calling.",
+      "A serious Christian response combines prudence, reliable evidence and a duty to protect life."
+    ],
+    "gloriavale": [
+      "Christian leadership is service under God, never a licence to dominate those who depend upon us.",
+      "Biblical authority carries accountability. The vulnerable must be protected and facts carefully established."
+    ],
+    "donation-pressure": [
+      "The Lord desires willing generosity, not gifts extracted through fear or manipulation.",
+      "The Church must model honest stewardship, voluntary giving and responsibility before God."
+    ],
+    "charity-scrutiny": [
+      "Our allegiance is to Christ, not to the reputation of any institution.",
+      "Religious conviction and lawful accountability are not enemies; justice requires a fair hearing and truthful evidence."
+    ],
+    "charity-shop": [
+      "The Gospel is made visible in faithful service and ordinary neighbourly kindness.",
+      "Christians can lead through practical responsibility, generous work and dependable community service."
+    ],
+    "legacy-giving": [
+      "Our possessions are entrusted to us; family duties and generosity both deserve prayerful thought.",
+      "A Christian steward plans carefully, honours responsibilities and gives freely rather than under pressure."
+    ],
+    "political-donations": [
+      "Christ, not any party or powerful donor, is the Church’s Lord.",
+      "Political independence, conscience and honest dealing are necessary to responsible Christian witness."
+    ],
+    "faith-work-family": [
+      "The family, honest labour and faithfulness in everyday duties are worthy Christian callings.",
+      "Faith should shape how we work, provide for those in our care and exercise responsibility."
+    ],
+    "sudan-children": [
+      "Children are entrusted to adults for protection and care. Christ commands us not to turn away.",
+      "Justice begins by defending human life and the future of children, without slogans or false certainty."
+    ],
+    "sudan-crisis": [
+      "We pray for innocent lives and the perseverance of believers in suffering.",
+      "A Christian conscience demands truth about violence and practical mercy for those harmed."
+    ],
+    "gaza-relief": [
+      "Each innocent life bears God-given dignity, and Christians are called to pray for peace.",
+      "Stand against violence towards civilians, seek verified facts and support responsible relief."
+    ],
+    "yemen-relief": [
+      "Christ calls us to care for suffering people without surrendering judgement to propaganda.",
+      "Human life matters more than factions. Seek the truth and favour aid that reaches those in need."
+    ],
+    "humanitarian-day": [
+      "Thank God for people who serve others faithfully under difficult conditions.",
+      "The Christian duty to love one’s neighbour becomes visible through brave and practical service."
+    ],
+    "aid-review": [
+      "Generosity is a Christian virtue, but so is the duty to use resources faithfully.",
+      "Stewardship requires evidence, clear accounts and responsibility for results."
+    ],
+    "aid-speech": [
+      "We are called to mercy that moves beyond grand words into faithful action.",
+      "Hold leaders to the responsibilities they accept and ask what practical results their promises deliver."
+    ],
+    "health-accountability": [
+      "The suffering of the sick is not an abstract debating point. We are called to compassion.",
+      "Protecting life and holding wrongdoers accountable are duties, not political fashions."
+    ],
+    "public-plan-delay": [
+      "Patience is a Christian virtue, but it does not mean ignoring duties owed to families and communities.",
+      "Public service requires honest timetables, competence and accountability for commitments made."
+    ],
+    "china-detention": [
+      "Our brothers and sisters in Christ should not be forgotten when faith becomes costly.",
+      "Freedom to worship and preach Christ matters. Stand firmly for conscience and fair treatment."
+    ],
+    "acn-report": [
+      "Remember the persecuted Church. Their faithfulness should strengthen our own courage.",
+      "Where Christians face documented persecution, speak clearly for freedom of faith and lawful protection."
+    ],
+    "religious-yearbooks": [
+      "A bleak account of religious freedom should move us to prayer and steadfastness.",
+      "Conviction requires accuracy: establish what happened before making claims or proposing remedies."
+    ],
+    "persecution-appeal": [
+      "Christ warned that discipleship may be costly; we must not abandon those who suffer for His name.",
+      "Courage includes defending the persecuted Church with truthful reporting and practical help."
+    ],
+    "europe-religion": [
+      "The Church must remain faithful to Christ even when biblical teaching is unpopular.",
+      "Defend the freedom to practise and proclaim Christianity while refusing unfair accusations against others."
+    ],
+    "disaster": [
+      "When disaster strikes, Christ calls us to be neighbours in deed, not only in sentiment.",
+      "Strong communities take responsibility: help those in danger and support practical recovery."
+    ],
+    "public-procurement": [
+      "Public responsibilities affect real households, workers and the common good.",
+      "Competence, honest stewardship and transparent decisions are moral duties for public officials."
+    ],
+    "recording-privacy": [
+      "People deserve dignity and truthful dealings in public and private life.",
+      "Freedom must be exercised with restraint and respect for others’ privacy and safety."
+    ],
+    "slavery-apology": [
+      "Scripture calls us to tell the truth about wrongdoing without assigning inherited guilt to innocent neighbours.",
+      "History demands honesty. Judge proposals by evidence, justice, personal responsibility and their likely consequences."
+    ],
+    "property-transparency": [
+      "A home is more than a market figure; fairness and honesty matter in our dealings.",
+      "Truthful accounts and fair dealing are Christian duties whether one is buying, selling or renting."
+    ],
+    "house-price-change": [
+      "Families need security and wise stewardship through changing circumstances.",
+      "Judge economic claims carefully and keep ordinary duties to family and neighbour in view."
+    ],
+    "event-relocation": [
+      "Tradition, community ties and faithful service are not trivial simply because plans change.",
+      "Good decisions consider local communities, continuity, cost and responsibilities to those affected."
+    ],
+    "school-lockdown": [
+      "Children are entrusted to families and schools for protection. Pray for courage and peace.",
+      "Protecting pupils is a serious duty. Let reliable facts guide conduct and insist on lawful accountability."
+    ],
+    "generosity-study": [
+      "Giving is a form of worship when offered freely and with a cheerful heart.",
+      "Christian generosity deserves truthful reporting, humble stewardship and freedom from coercion."
+    ]
+  };
   function guidance(story,path,editorial=[]) {
     if (!['peace','action'].includes(path)) throw new Error('Unknown guidance path');
     if (!story) return null;
     const custom=editorial.find(x=>(story.sources||[story]).some(s=>s.url===x.url))?.guidance?.[path];
     if(custom&&['body','question','ref','prayer'].every(k=>typeof custom[k]==='string'&&custom[k].trim())&&Array.isArray(custom.steps)&&custom.steps.length&&custom.steps.every(s=>typeof s==='string'))return {...custom,kind:'editorial',profile:'editorial'};
     const profile=profiles.find(p=>p.match.test(cleanTitle(story)));
-    if(!profile)return {kind:'questions',profile:'unmatched',title:cleanTitle(story),question:'Which people, decisions and consequences does this particular report identify?',ref:path==='peace'?'James 1:19':'Proverbs 18:13',body:path==='peace'?'Read the linked report and identify who is affected and what they say they need. A story-specific reflection has not yet been prepared for this subject; avoid filling the gaps with assumptions.':'Before acting on this particular report, identify its central claim, the evidence offered and the people with responsibility to respond. A story-specific reflection is not yet available for this subject.',steps:['Open the original report and separate reporting from opinion.','Write down one need or question the report actually identifies.','Choose a response that addresses that need without assuming facts the report has not established.'],prayer:'God of truth and compassion, help us listen carefully to this report and recognise a useful next step.'};
+    if(!profile)return {kind:'questions',profile:'unmatched',title:cleanTitle(story),question:'What does God’s Word require of us as we weigh this report?',ref:path==='peace'?'James 1:19':'Proverbs 18:13',body:path==='peace'?'The Lord calls us to compassion and patience, but not credulity. Read the report itself before forming a judgement. No story-specific reflection has yet been prepared, and Daily Bread will not pretend to know facts it has not checked.':'Christians are called to stand firmly in truth and responsibility, not to echo a political tribe. Establish what the headline actually says, seek evidence and judge the duties involved. No story-specific analysis has yet been prepared.',steps:['Open the original report and distinguish verified facts from opinion.','Identify the real people, responsibilities and evidence in this particular case.','Consider what Scripture calls you to do without inventing details or condemning the innocent.'],prayer:'Lord Jesus Christ, give us wisdom to discern the truth, courage to do right and mercy towards our neighbours. Amen.'};
     let [ref,body,steps,prayer]=profile[path];
     // These reports share a field of concern but call for different questions and actions.
     if(profile.id==='charity-scrutiny' && /sermon|essex/i.test(cleanTitle(story))) {
@@ -233,6 +375,9 @@
       steps=path==='peace'?['Choose one account within the yearbooks and read it with care.','Pray for the community described, including those who support its neighbours.','Make time to hear religious-minority experiences close to home.']:['Identify which yearbooks the article cites.','Compare definitions, dates and the cases behind the headline assessment.','Follow one documented case to a credible assistance or advocacy route.'];
       prayer=path==='peace'?'God of every community, let the accounts gathered in these yearbooks deepen our attention to particular neighbours.':'God of truth, help readers use these yearbooks accurately and turn research into fair protection of freedom of belief.';
     }
+    // Scriptural moral convictions provide the lens; specific reporting still supplies the facts.
+    const conviction = convictionLens[profile.id];
+    if (conviction) body = conviction[path === 'peace' ? 0 : 1] + ' ' + body;
     return {kind:'headline',profile:profile.id,title:cleanTitle(story),question:profile.question,ref,body,steps,prayer:prayer+' Amen.'};
   }
   const api={cleanTitle,canonicalUrl,sameEvent,groupStories,guidance};
