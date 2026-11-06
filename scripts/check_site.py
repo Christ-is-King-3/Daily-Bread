@@ -15,12 +15,32 @@ assert isinstance(news.get("items"), list)
 for item in news["items"]:
     assert item.get("url", "").startswith("https://"), "Invalid news URL"
     assert item.get("title") and item.get("publisher"), "Incomplete news item"
-bible = root / "content/bible.json"
-if bible.exists():
-    books = json.loads(bible.read_text(encoding="utf-8"))
-    assert len(books) == 66, "Expected 66 Bible books"
-    count = sum(len(chapter) for book in books for chapter in book["chapters"])
-    assert count > 30000, f"Bible unexpectedly short: {count}"
+books = json.loads((root / "content/bible.json").read_text(encoding="utf-8"))
+structure = json.loads((root / "content/bible-structure.json").read_text(encoding="utf-8"))
+assert len(books) == len(structure) == 66, "Expected 66 Bible books"
+assert len({b['name'] for b in books}) == 66, "Duplicate Bible book"
+assert sum(len(b['chapters']) for b in books) == 1189
+assert sum(len(c) for b in books for c in b['chapters']) == 31102
+for book, expected in zip(books, structure):
+    assert book['name'] == expected['name'], "Incorrect Bible book order"
+    assert list(map(len, book['chapters'])) == expected['versesPerChapter'], book['name']
+    assert all(isinstance(v, str) and v.strip() for c in book['chapters'] for v in c), book['name']
+print("Bible verified: 66 books, 1,189 chapters, 31,102 nonempty verses.")
+import hashlib
+artworks = json.loads((root / 'content/artworks.json').read_text(encoding='utf-8-sig'))
+assert len(artworks) == 5
+assert 'commons.wikimedia.org/w/api.php' not in html
+credits = (root / 'artwork-credits.html').read_text(encoding='utf-8')
+for art in artworks:
+    image = (root / art['image']).read_bytes()
+    assert image.startswith(b'\xff\xd8\xff') and image.endswith(b'\xff\xd9'), 'Invalid JPEG'
+    assert hashlib.sha256(image).hexdigest() == art['sha256'], 'Changed image; reverify rights'
+    record = json.loads((root / f"content/artwork-sources/{art['id']}.json").read_text(encoding='utf-8-sig'))
+    assert record['isPublicDomain'] is True and record['objectID'] == art['id']
+    assert record['primaryImageSmall'] == art['imageSource']
+    assert art['rights'] == 'CC0 1.0'
+    assert f'src="{art["image"]}"' in html and art['source'] in html
+    assert art['credit'] in credits and art['rightsUrl'] in credits
 editorial = json.loads((root / "content/editorial.json").read_text(encoding="utf-8"))
 assert isinstance(editorial.get("reviewedStories"), list)
 for item in editorial["reviewedStories"]:
@@ -30,8 +50,8 @@ for item in editorial["reviewedStories"]:
 import subprocess, tempfile
 script = html.rsplit("<script>", 1)[-1].split("</script>", 1)[0]
 assert script.strip(), "Missing application JavaScript"
-with tempfile.NamedTemporaryFile(mode="w", suffix=".js", encoding="utf-8") as tmp:
-    tmp.write(script)
-    tmp.flush()
-    subprocess.run(["node", "--check", tmp.name], check=True)
+with tempfile.TemporaryDirectory() as directory:
+    js = Path(directory) / 'app.js'
+    js.write_text(script, encoding='utf-8')
+    subprocess.run(["node", "--check", str(js)], check=True)
 print("Daily Bread static checks passed.")

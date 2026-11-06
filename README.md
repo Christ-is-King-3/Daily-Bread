@@ -27,7 +27,12 @@ Open `content/posts.json` in your GitHub repository, click the pencil icon, and 
 ## Scripture and artwork
 
 - The King James Version is public domain. ESV text is **not bundled**; each verse links to ESV.org. Full ESV display would require appropriate permissions/licensing.
-- Historical artworks are searched dynamically from **Wikimedia Commons**, and each successful image includes a link to its file page and licensing information. The browser needs internet access. If unavailable, the section uses a typographic fallback. Search results should be reviewed before a public launch because an automatic search may choose an imperfect match or an image with specific reuse conditions. For production, select and credit individual verified public-domain paintings.
+- Five individually selected historical paintings are bundled in `assets/art/`, so no third-party image service or browser search is needed. The Metropolitan Museum of Art marks each work public domain and releases its Open Access images under CC0. See `artwork-credits.html` for artist, title, date, museum credit, provenance links and rights information. `content/artworks.json` records download URLs, retrieval date and SHA-256 checksums; `content/artwork-sources/` preserves the museum API records. Replace images only after checking the individual museum rights record and updating the manifest and credits.
+- The bundled Protestant KJV dataset contains **66 books, 1,189 chapters and 31,102 verses**. See `BIBLE-AUDIT.md` for all book totals. `content/bible-structure.json` records expected verse counts for every chapter. The validator rejects missing files, empty verses, changed chapter lengths, duplicate books and incorrect ordering. This checks structural completeness, not word-for-word textual accuracy.
+
+## Validation
+
+Run `python scripts/check_site.py` with Python 3 and Node.js installed. This checks Bible structure, content integrity, bundled artwork checksums and saved public-domain records, attribution links, and JavaScript syntax. The same command runs in GitHub Actions. Browser verification is still needed for visual layout and interaction behavior.
 
 ## Cost and limitations
 
