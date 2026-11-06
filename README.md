@@ -1,5 +1,18 @@
 # Daily Bread — Website Version 2
 
+## Editorial identity
+
+Daily Bread exists to proclaim Jesus Christ as Lord and to encourage faithful discipleship under the authority of Scripture. The voice is unapologetically Christian: plain-speaking, serious about truth, repentance, personal responsibility, family, courage, stewardship, Christian ministry and love of neighbour. Conviction is grounded in the Bible rather than loyalty to a political party. The site distinguishes original Christian reflection from linked third-party reporting and does not present uncertain claims as fact. It respects the dignity and freedom of people of other beliefs while affirming the Christian conviction that salvation comes through Jesus Christ.
+
+The homepage uses six numbered, visually distinct sections. Selecting a news headline automatically opens the Truth & Action response and scrolls to its prominently framed reflection. Visitors can switch to Comfort & Peace or return directly to the headlines. The response depends on the report subject; the site does not claim independent full-article verification.
+
+## Scripture search by need
+
+The complete 66-book public-domain KJV is available for literal text and direct reference search. The Scripture search also accepts questions or short descriptions of how a visitor feels, including anxiety, courage, confidence, strength, grief, prayer, faith, loneliness, duty and repentance. The matching engine uses **locally curated topic patterns and hand-selected biblical passages** rather than an AI model; it presents suggestions before other literal matches, with a clear disclaimer. Saved favourites still work, and direct references from the Christian Art gallery (including verse ranges and `Psalm` / `Psalms` aliases) are preserved.
+
+Run `node scripts/test_scripture.js` to check that all 31,102 verses are unique and nonempty, curated references exist, and topical, literal, chapter and artwork links resolve. `python scripts/check_site.py` runs these tests automatically in GitHub Actions. A structural Bible audit does not verify the accuracy of every word of a published translation.
+
+
 A responsive static Christian website with a daily Scripture passage, two user-selected guidance paths, source-linked news, a global Church news section, and an editor/guest journal.
 
 ## Publish on GitHub Pages
