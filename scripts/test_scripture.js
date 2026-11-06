@@ -26,6 +26,8 @@ assert(lookup('I am worried about my future').topics.some(x=>/anxiety/i.test(x))
 assert(lookup('I need courage').items.some(v=>v.ref==='Joshua 1:9'));
 assert(lookup('I need strength').items.some(v=>v.ref==='Isaiah 40:29'));
 assert(lookup('mourning my father').items.some(v=>v.ref==='Matthew 5:4'));
+assert(lookup('bereavement').items.some(v=>v.ref==='Matthew 5:4'));
+assert(lookup('I am scared').topics.some(t=>t.includes('Anxiety')));
 assert(lookup('how should I pray').items.some(v=>v.ref==='Matthew 6:9'));
 assert(lookup('confidence').items.some(v=>v.ref==='2 Timothy 1:7'));
 assert(lookup('forgiveness').items.some(v=>v.ref==='Ephesians 4:31'));
