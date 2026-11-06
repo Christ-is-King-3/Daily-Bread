@@ -1,1 +1,6 @@
-{"featured":null,"note":"News headlines are source-linked reporting, not theological verdicts. Reflections are general biblical guidance and not automated claims about an event."}
+{
+  "featured": null,
+  "note": "News headlines are source-linked reporting, not theological verdicts. Reflections are general biblical guidance and not automated claims about an event.",
+  "reviewedStories": [],
+  "reviewGuidance": "Add reviewedStories entries with exact article url and editorialCategory: hope or hardship. Categories require human review and are preserved across news refreshes."
+}
