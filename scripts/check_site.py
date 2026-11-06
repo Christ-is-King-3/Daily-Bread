@@ -21,4 +21,9 @@ if bible.exists():
     assert len(books) == 66, "Expected 66 Bible books"
     count = sum(len(chapter) for book in books for chapter in book["chapters"])
     assert count > 30000, f"Bible unexpectedly short: {count}"
+editorial = json.loads((root / "content/editorial.json").read_text(encoding="utf-8"))
+assert isinstance(editorial.get("reviewedStories"), list)
+for item in editorial["reviewedStories"]:
+    assert item.get("url", "").startswith("https://")
+    assert item.get("editorialCategory") in ("hope", "hardship")
 print("Daily Bread static checks passed.")
