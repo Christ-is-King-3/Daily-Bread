@@ -22,6 +22,8 @@ jobs:
           python-version: '3.12'
       - name: Retrieve Bible and news
         run: python scripts/update.py
+      - name: Validate generated website content
+        run: python scripts/check_site.py
       - name: Commit refreshed content
         run: |
           git config user.name "github-actions[bot]"
