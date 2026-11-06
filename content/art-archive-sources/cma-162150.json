@@ -1,0 +1,288 @@
+{
+  "id": 162150,
+  "accession_number": "2001.80",
+  "share_license_status": "CC0",
+  "tombstone": "The Annunciation (Matins, Office of the Virgin): Leaf from a Book of Hours (1 of 3 Excised Leaves), c. 1530–35. Noël Bellemare (French, d. 1546), and The 1520s Hours Workshop (French). Ink, tempera, and liquid gold on vellum; overall: 7.7 x 6.5 cm (3 1/16 x 2 9/16 in.). The Cleveland Museum of Art, The Jeanne Miles Blackburn Collection, 2001.80",
+  "current_location": null,
+  "title": "The Annunciation (Matins, Office of the Virgin): Leaf from a Book of Hours (1 of 3 Excised Leaves)",
+  "creation_date": "c. 1530–35",
+  "creation_date_earliest": 1525,
+  "creation_date_latest": 1540,
+  "artists_tags": [
+    "male",
+    "gender unknown"
+  ],
+  "culture": [
+    "France, Paris"
+  ],
+  "technique": "ink, tempera, and liquid gold on vellum",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Manuscript Illuminations",
+  "type": "Manuscript",
+  "measurements": "Overall: 7.7 x 6.5 cm (3 1/16 x 2 9/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.077,
+      "height_inch": 3,
+      "height_inch_fraction": 0.0625,
+      "width": 0.065,
+      "width_inch": 2,
+      "width_inch_fraction": 0.5625
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 192960,
+        "title": "The Jeanne Miles Blackburn Collection of Manuscript Illuminations",
+        "description": "<i>The Jeanne Miles Blackburn Collection of Manuscript Illuminations</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 19, 1999-February 27, 2000).",
+        "opening_date": "1999-12-19T00:00:00"
+      },
+      {
+        "id": 179437,
+        "title": "Illuminated Manuscripts",
+        "description": "<i>Illuminated Manuscripts</i>. The Cleveland Museum of Art (organizer) (October 10, 2004-October 2, 2005).",
+        "opening_date": "2004-10-10T00:00:00"
+      },
+      {
+        "id": 196935,
+        "title": "The Glory of the Painted Page: Manuscript Illuminations from the Permanent Collection",
+        "description": "<i>The Glory of the Painted Page: Manuscript Illuminations from the Permanent Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 6, 2010-April 17, 2011).",
+        "opening_date": "2010-11-06T00:00:00"
+      },
+      {
+        "id": 449397,
+        "title": "The Medieval Top Seller: The Book of Hours",
+        "description": "<i>The Medieval Top Seller: The Book of Hours</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 26, 2022-July 30, 2023).",
+        "opening_date": "2022-08-26T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Exhibition of European Drawings and Manuscripts 1480-1880</em>. Richard Day Limited, London (December 11–21, 1990).",
+        "opening_date": "1990-12-11T05:00:00Z"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Baron Jérome-Frédéric Pichon [1812-1896], Paris, France",
+      "citations": [],
+      "footnotes": [],
+      "date": null,
+      "sortorder": 1
+    },
+    {
+      "description": "(Richard Day, London, UK)",
+      "citations": [],
+      "footnotes": [],
+      "date": "-1988",
+      "sortorder": 2
+    },
+    {
+      "description": "(Sam Fogg, London, UK), sold to Bruce Ferrini",
+      "citations": [],
+      "footnotes": [],
+      "date": "-1991",
+      "sortorder": 3
+    },
+    {
+      "description": "(Bruce Ferrini, Akron, OH, sold to Jeanne Miles Blackburn)",
+      "citations": [],
+      "footnotes": [],
+      "date": "1998-",
+      "sortorder": 4
+    },
+    {
+      "description": "Jeanne Miles Blackburn, Maitland, FL, gifted to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": [],
+      "date": "-2001",
+      "sortorder": 5
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "2001-",
+      "sortorder": 6
+    }
+  ],
+  "find_spot": null,
+  "related_works": [
+    {
+      "id": 162539,
+      "description": "Leaf from a Book of Hours: King David in Prayer (2 of 3 Excised Leaves), c. 1530–35. Noël Bellemare (French, d. 1546), The 1520s Hours Workshop (French). Ink, tempera and liquid gold on vellum; each leaf: 11.2 x 6.4 cm (4 7/16 x 2 1/2 in.). The Cleveland Museum of Art, The Jeanne Miles Blackburn Collection, 2003.174.1",
+      "relationship": null
+    },
+    {
+      "id": 162540,
+      "description": "Leaf from a Book of Hours: Penitential Psalms, c. 1530–35. Noël Bellemare (French, d. 1546), The 1520s Hours Workshop (French). Ink, tempera and liquid gold on vellum; each leaf: 11.2 x 6.4 cm (4 7/16 x 2 1/2 in.). The Cleveland Museum of Art, The Jeanne Miles Blackburn Collection, 2003.174.2",
+      "relationship": null
+    }
+  ],
+  "former_accession_numbers": [],
+  "did_you_know": "Books of hours were often purchased as luxury objects in order to reflect the owner’s status, wealth, and taste.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Unusual in French manuscript painting of the period, fuchsia pinks and bright acid greens characterize the painting’s palette. The figures are set in the foreground of the miniature and enclosed within a \"Fontainebleau\"-style architectural frame. The 1520s Hours Workshop primarily produced jewel-like luxury books of hours for a wealthy clientele. Evidence points to Paris as the site of the workshop's activity under the direction of the Antwerp-born miniaturist Noël Bellemare (died 1546).",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60758374"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-2001.80-the-annunciation-mat"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Orth, Myra Dickman. \"French Renaissance Manuscripts: the 1520s Hours Workshop and the Master of the Getty Epistles.\" <em>J. Paul Getty Museum Journal</em>. 16 (1988).",
+      "page_number": "p. 33-60",
+      "url": null
+    },
+    {
+      "citation": "Ortha, Myra Dickman. \"Antwerp Mannerist Model Drawings in French Renaissance Books of Hours: A Case Stufy of the 1520s Hours Workshop.\" <em>Journal of the Walters Art Gallery </em>47 (1989).<em><br></em>",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Richard Day Ltd.<em> An Exhibition of European Drawings and Manuscripts, 1480-1880</em>. London: R. Day, 1990.",
+      "page_number": "",
+      "url": ""
+    },
+    {
+      "citation": "Fliegel, Stephen N. <em>The Jeanne Miles Blackburn Collection of Manuscript Illuminations.</em> Cleveland, Ohio: Cleveland Museum of Art, 1999.",
+      "page_number": "Mentioned and Reproduced: p. 71, cat. no. 69",
+      "url": "https://archive.org/details/BlackburnIlluminations/page/n83"
+    }
+  ],
+  "url": "https://clevelandart.org/art/2001.80",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/2001.80/2001.80_web.jpg",
+      "width": "650",
+      "height": "900",
+      "filesize": "345978",
+      "filename": "2001.80_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/2001.80/2001.80_print.jpg",
+      "width": "2455",
+      "height": "3400",
+      "filesize": "4279354",
+      "filename": "2001.80_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/2001.80/2001.80_full.tif",
+      "width": "7562",
+      "height": "10474",
+      "filesize": "237642793",
+      "filename": "2001.80_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2001.80/2001.80_alt0_web.jpg",
+        "width": "650",
+        "height": "900",
+        "filesize": "276764"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2001.80/2001.80_alt0_print.jpg",
+        "width": "2455",
+        "height": "3400",
+        "filesize": "3872772"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2001.80/2001.80_alt0_full.tif",
+        "width": "7562",
+        "height": "10474",
+        "filesize": "237639189"
+      },
+      "date_created": "2021-12-30T15:21:41",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2001.80/2001.80_alt1_web.jpg",
+        "width": "654",
+        "height": "893",
+        "filesize": "470497"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2001.80/2001.80_alt1_print.jpg",
+        "width": "2489",
+        "height": "3400",
+        "filesize": "5553756"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2001.80/2001.80_alt1_full.tif",
+        "width": "2531",
+        "height": "3457",
+        "filesize": "26287028"
+      },
+      "date_created": "2008-03-12T13:50:20",
+      "annotation": ""
+    }
+  ],
+  "creditline": "The Jeanne Miles Blackburn Collection",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 162150,
+  "creators": [
+    {
+      "id": 39140,
+      "description": "Noël Bellemare (French, d. 1546)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "death_year": "1546",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    },
+    {
+      "id": 31761,
+      "description": "The 1520s Hours Workshop (French)",
+      "extent": null,
+      "qualifier": "and",
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 2
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "2001-06-04T00:00:00",
+  "sortable_date": 1525,
+  "date_added_to_oa": null,
+  "date_text": "c. 1530–35",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Annunciation from a Book of Hours",
+    "Leaf Excised from a Book of Hours:  The Annunciation (Matins, Office of the Virgin)"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-08-18 11:57:04.596000"
+}

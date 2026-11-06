@@ -1,0 +1,83 @@
+{
+  "objectID": 336332,
+  "isHighlight": false,
+  "accessionNumber": "68.64",
+  "accessionYear": "1968",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP800289.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP800289.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162018,
+      "role": "Artist",
+      "name": "Jusepe de Ribera (called Lo Spagnoletto)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008521",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q297838",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Adoration of the Shepherds",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jusepe de Ribera (called Lo Spagnoletto)",
+  "artistDisplayBio": "Spanish, Játiva 1591–1652 Naples",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ribera, Jusepe de (called Lo Spagnoletto)",
+  "artistNationality": "Spanish",
+  "artistBeginDate": "1591",
+  "artistEndDate": "1652",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q297838",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008521",
+  "objectDate": "1645–50",
+  "objectBeginDate": 1645,
+  "objectEndDate": 1650,
+  "medium": "Pen and brown ink, brush and brown wash",
+  "dimensions": "9-1/4 x 7-5/16 in.  (23.5 x 18.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 23.5,
+        "Width": 18.6
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1968",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/336332",
+  "tags": [
+    {
+      "term": "Adoration of the Shepherds",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000229",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1029715"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

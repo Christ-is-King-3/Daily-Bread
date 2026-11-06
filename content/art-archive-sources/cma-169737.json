@@ -1,0 +1,187 @@
+{
+  "id": 169737,
+  "accession_number": "2011.53",
+  "share_license_status": "CC0",
+  "tombstone": "Leaf from a Latin Bible: Initial P: St. Paul with a Sword and a Book, c. 1230–40. Circle or workshop of William de Brailes (English, active c. 1230). Ink, tempera, and gold on vellum; leaf: 18.5 x 13.2 cm (7 5/16 x 5 3/16 in.). The Cleveland Museum of Art, The Jeanne Miles Blackburn Collection, 2011.53",
+  "current_location": "113 French Tapestries & Illuminated Manuscripts",
+  "title": "Leaf from a Latin Bible: Initial P: St. Paul with a Sword and a Book",
+  "creation_date": "c. 1230–40",
+  "creation_date_earliest": 1225,
+  "creation_date_latest": 1245,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "England, Oxford, 13th century"
+  ],
+  "technique": "ink, tempera, and gold on vellum",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Manuscript Illuminations",
+  "type": "Manuscript",
+  "measurements": "Leaf: 18.5 x 13.2 cm (7 5/16 x 5 3/16 in.)",
+  "dimensions": {
+    "leaf": {
+      "height": 0.185,
+      "height_inch": 7,
+      "height_inch_fraction": 0.3125,
+      "width": 0.132,
+      "width_inch": 5,
+      "width_inch_fraction": 0.1875
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 192960,
+        "title": "The Jeanne Miles Blackburn Collection of Manuscript Illuminations",
+        "description": "<i>The Jeanne Miles Blackburn Collection of Manuscript Illuminations</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 19, 1999-February 27, 2000).",
+        "opening_date": "1999-12-19T00:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "CMA, 19 December 1999 - 27 February 2000, The Jeanne Miles Blackburn Collection of Manuscript Illuminations, cat.4, illus. p. 14",
+        "opening_date": "1999-12-19T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "[Bruce Ferrini, Akron, sold to Ms. Jeanne Miles Blackburn]",
+      "citations": [],
+      "footnotes": [],
+      "date": null,
+      "sortorder": 1
+    },
+    {
+      "description": "Ms. Jeanne Miles Blackburn, Durham, NC, gifted to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": [],
+      "date": "?-2011",
+      "sortorder": 2
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "2011-",
+      "sortorder": 3
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The initials in the margin, <em>T.F.</em> and <em>P.A.</em> are part of a unique system used by the Carthusians monks and indicate that this bible was likely used in a monastery.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Circle of William de Brailes (England, Oxford) Single Leaf from a Latin Bible: Initial P: St. Paul Holding a Sword and a Book and Initial M: A Jew Discoursing with a King, about 1230-40 Ink, tempera, and gold on vellum The Jeanne Miles Blackburn Collection [Cat. no. 4] Few English illuminators are actually known by name. William de Brailes has been identified from documents that refer to his presence in Oxford. Moreover, his signature appears on one of seven detached psalter leaves now divided between Cambridge (Fitzwilliam Museum) and New York (Pierpont Morgan Library). It seems that several artists were working in the \"de Brailes style,\" but it is not known whether these were organized members of his workshop or simply illuminators in the de Brailes circle. Typical of the de Brailes workshop is the use of drolleries (playful or sometimes comic figures that inhabit marginalia or initials). One such drollery, seen here, occupies the lower portion of the initial \"P\" introducing St. Paul's Epistle to Philemon. Wearing a scholar's cap, the drollery is contorted in pose, as if supporting the initial itself. This initial comes from a one-volume Bible, conveniently sized for portability and study. Such books were typically the products of lay workshops in academic towns like Oxford, Paris, and Bologna.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80077403"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-2011.53-leaf-from-a-latin-bi"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Fliegel, Stephen N. <em>The Jeanne Miles Blackburn Collection of Manuscript Illuminations</em>. Cleveland, Ohio: Cleveland Museum of Art, 1999.",
+      "page_number": "Mentioned and Reproduced: p. 14, cat. no. 4",
+      "url": "https://archive.org/details/BlackburnIlluminations/page/n26"
+    }
+  ],
+  "url": "https://clevelandart.org/art/2011.53",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/2011.53/2011.53_web.jpg",
+      "width": "649",
+      "height": "893",
+      "filesize": "140480",
+      "filename": "2011.53_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/2011.53/2011.53_print.jpg",
+      "width": "2472",
+      "height": "3400",
+      "filesize": "1697968",
+      "filename": "2011.53_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/2011.53/2011.53_full.tif",
+      "width": "5219",
+      "height": "7176",
+      "filesize": "112376620",
+      "filename": "2011.53_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2011.53/2011.53_alt0_web.jpg",
+        "width": "645",
+        "height": "893",
+        "filesize": "143732"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2011.53/2011.53_alt0_print.jpg",
+        "width": "2455",
+        "height": "3400",
+        "filesize": "1658156"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2011.53/2011.53_alt0_full.tif",
+        "width": "5145",
+        "height": "7125",
+        "filesize": "109996372"
+      },
+      "date_created": "2012-10-16T13:20:50",
+      "annotation": ""
+    }
+  ],
+  "creditline": "The Jeanne Miles Blackburn Collection",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": "The Honey and Leighton Rosenthal Family Gallery",
+  "athena_id": 169737,
+  "creators": [
+    {
+      "id": 7527,
+      "description": "William de Brailes (English, active c. 1230)",
+      "extent": null,
+      "qualifier": "circle or workshop of",
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "2011-06-06T00:00:00",
+  "sortable_date": 1225,
+  "date_added_to_oa": null,
+  "date_text": "c. 1230–40",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Leaf from a Latin Bible: Initial P: St. Paul with a Sword and a Book & Initial M: A Jew Discoursing with a King",
+    "St. Paul with Book and Sword; Two Men, historiated initials P, with marginal drollery, and M on a text leaf in Latin, from a Bible (Philemon: Opening; Hebrews: Opening)"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-09-12 11:31:24.245000"
+}

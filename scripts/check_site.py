@@ -55,3 +55,4 @@ with tempfile.TemporaryDirectory() as directory:
     js.write_text(script, encoding='utf-8')
     subprocess.run(["node", "--check", str(js)], check=True)
 print("Daily Bread static checks passed.")
+subprocess.run([__import__('sys').executable, str(root / 'scripts/check_art.py')], check=True)

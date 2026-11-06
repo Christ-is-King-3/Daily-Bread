@@ -1,0 +1,399 @@
+{
+  "id": 144216,
+  "accession_number": "1968.66",
+  "share_license_status": "CC0",
+  "tombstone": "Madonna Nursing the Christ Child, c. 1670–72. Bartolomé Esteban Murillo (Spanish, 1617–1682). Pen and brown ink and brush and brown wash over red and black chalk, with traces of white; framing lines in pen and brown ink; sheet: 21.4 x 15.4 cm (8 7/16 x 6 1/16 in.); secondary support: 24.1 x 18.5 cm (9 1/2 x 7 5/16 in.). The Cleveland Museum of Art, Mr. and Mrs. Charles G. Prasse Collection, 1968.66",
+  "current_location": null,
+  "title": "Madonna Nursing the Christ Child",
+  "creation_date": "c. 1670–72",
+  "creation_date_earliest": 1665,
+  "creation_date_latest": 1677,
+  "artists_tags": [
+    "Latine and Hispanic Artists",
+    "male"
+  ],
+  "culture": [
+    "Spain"
+  ],
+  "technique": "pen and brown ink and brush and brown wash over red and black chalk, with traces of white; framing lines in pen and brown ink",
+  "support_materials": [
+    {
+      "description": "cream(3) laid paper",
+      "watermarks": []
+    }
+  ],
+  "department": "Drawings",
+  "collection": "DR - Spanish",
+  "type": "Drawing",
+  "measurements": "Sheet: 21.4 x 15.4 cm (8 7/16 x 6 1/16 in.); Secondary Support: 24.1 x 18.5 cm (9 1/2 x 7 5/16 in.)",
+  "dimensions": {
+    "sheet": {
+      "height": 0.214,
+      "height_inch": 8,
+      "height_inch_fraction": 0.4375,
+      "width": 0.154,
+      "width_inch": 6,
+      "width_inch_fraction": 0.0625
+    },
+    "secondary support": {
+      "height": 0.241,
+      "height_inch": 9,
+      "height_inch_fraction": 0.5,
+      "width": 0.185,
+      "width_inch": 7,
+      "width_inch_fraction": 0.3125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "in brown ink, upper right: Morillo",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 351191,
+        "title": "Drawings",
+        "description": "<i>Drawings</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 11-October 21, 1968).",
+        "opening_date": "1968-06-11T04:00:00"
+      },
+      {
+        "id": 301285,
+        "title": "Year in Review for 1968",
+        "description": "<i>Year in Review for 1968</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 29-March 9, 1969).",
+        "opening_date": "1969-01-29T05:00:00"
+      },
+      {
+        "id": 361514,
+        "title": "Spanish Baroque Drawings in North American Collections",
+        "description": "<i>Spanish Baroque Drawings in North American Collections</i>. Spencer Museum of Art, Lawrence, KS (organizer) (October 19-December 1, 1974).",
+        "opening_date": "1974-10-19T04:00:00"
+      },
+      {
+        "id": 361406,
+        "title": "Old Master Drawings from American Collections",
+        "description": "<i>Old Master Drawings from American Collections</i>. Los Angeles County Museum of Art, Los Angeles, CA (organizer) (April 29-June 13, 1976).",
+        "opening_date": "1976-04-29T04:00:00"
+      },
+      {
+        "id": 361513,
+        "title": "Murillo and His Drawings",
+        "description": "<i>Murillo and His Drawings</i>. Princeton University Art Museum, Princeton, NJ (organizer) (December 12, 1976-January 30, 1977).",
+        "opening_date": "1976-12-12T05:00:00"
+      },
+      {
+        "id": 304414,
+        "title": "Idea to Image: Preparatory Studies from the Renaissance to Impressionism",
+        "description": "<i>Idea to Image: Preparatory Studies from the Renaissance to Impressionism</i>. The Cleveland Museum of Art (organizer) (February 19-March 23, 1980).",
+        "opening_date": "1980-02-19T05:00:00"
+      },
+      {
+        "id": 304558,
+        "title": "When Angels Bent Near the Earth to Touch Their Harps of Gold: The Christmas Story",
+        "description": "<i>When Angels Bent Near the Earth to Touch Their Harps of Gold: The Christmas Story</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 1, 1981-January 17, 1982).",
+        "opening_date": "1981-12-01T05:00:00"
+      },
+      {
+        "id": 361512,
+        "title": "Bartolomé Esteban Murillo, 1617-1682",
+        "description": "<i>Bartolomé Esteban Murillo, 1617-1682</i>. Museo Nacional del Prado, Madrid, Spain (organizer) (October 8-December 12, 1982); Royal Academy of Arts, London, United Kingdom of Great Britain and Northern Ireland (January 15-March 27, 1983).",
+        "opening_date": "1982-10-08T04:00:00"
+      },
+      {
+        "id": 442195,
+        "title": "Murillo",
+        "description": "<i>Murillo</i>. Royal Academy of Arts, London, United Kingdom of Great Britain and Northern Ireland (organizer) (January 15-March 27, 1983); Museo del Prado, Madrid, Spain (October 8-December 12, 1983).",
+        "opening_date": "1983-01-15T05:00:00"
+      },
+      {
+        "id": 309881,
+        "title": "Leona E. Prasse, Connoisseur and Curator",
+        "description": "<i>Leona E. Prasse, Connoisseur and Curator</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 28-August 25, 1985).",
+        "opening_date": "1985-05-28T04:00:00"
+      },
+      {
+        "id": 311461,
+        "title": "Generous Donors: A Tribute to The Print Club of Cleveland",
+        "description": "<i>Generous Donors: A Tribute to The Print Club of Cleveland</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 2-August 4, 1991).",
+        "opening_date": "1991-04-02T05:00:00"
+      },
+      {
+        "id": 192019,
+        "title": "Master Drawings from the Cleveland Museum of Art",
+        "description": "<i>Master Drawings from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 27-October 17, 2000); The Morgan Library & Museum, New York, NY (May 23-August 19, 2001); Museum of Fine Arts, Houston, Houston, TX (October 14, 2001-January 6, 2002).",
+        "opening_date": "2000-08-27T00:00:00"
+      },
+      {
+        "id": 204986,
+        "title": "Treasures on Paper from the Collection of the Cleveland Museum of Art",
+        "description": "<i>Treasures on Paper from the Collection of the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 9-June 8, 2014).",
+        "opening_date": "2014-03-09T00:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "with Jacques de Mons, Paris (?)",
+      "citations": [],
+      "footnotes": [],
+      "date": "?-?",
+      "sortorder": 1
+    },
+    {
+      "description": "with Frederick Mont, Inc., New York",
+      "citations": [],
+      "footnotes": [],
+      "date": "?-?",
+      "sortorder": 2
+    },
+    {
+      "description": "Mr. and Mrs. Charles and Leona Prasse, Cleveland",
+      "citations": [],
+      "footnotes": [],
+      "date": "?-1968",
+      "sortorder": 3
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, Ohio",
+      "citations": [],
+      "footnotes": [],
+      "date": "1968-",
+      "sortorder": 4
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The inscription <em>Morillo</em> on this drawing is not the artist's signature but rather a notation likely made by a 17th-century owner of the drawing.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "One of the finest of the rare drawings by Murillo, this sheet is a study for <em>Virgin and Child</em>, commissioned for the family chapel of the Marques de Santiago in Madrid and now at the Metropolitan Museum of Art, New York. Prized today for their dynamism, Murillo’s drawings served the practical purpose of working out the positions of the figures. Here, the artist suggested the tender bond between mother and child with the poignant connection of their gazes. His animated line and zigzag hatching create the feeling of incessant motion while the addition of ink wash creates deep shadows across the forms.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60757753"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1968.66-madonna-nursing-the"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Brown, Jonathan. Murillo &amp; His Drawings. Princeton, N.J.: Art Museum, Princeton University, 1976.",
+      "page_number": "p. 31, 162, 164, cat. 79, p. 165-66, p. 168",
+      "url": null
+    },
+    {
+      "citation": "\"Accessions of American and Canadian Museums, April-June, 1968,\" Art Quarterly XXXI (Winter 1968).",
+      "page_number": "pp. 446, 449",
+      "url": null
+    },
+    {
+      "citation": "Richards, Louise S. “Bartolomé Esteban Murillo: A Drawing Study for a Virgin and Child.” <em>The Bulletin of the Cleveland Museum of Art</em> 55, no. 7 (September 1968): 235–238.",
+      "page_number": "Mentioned and reproduced: p. 235-236, fig. 1",
+      "url": "http://www.jstor.org/stable/25152224"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 130",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n154"
+    },
+    {
+      "citation": "McKim-Smith, Gridley. Spanish Baroque Drawings in North American Collections: [Exhibition] October 19-November 24, 1974. [Lawrence?]: University of Kansas Museum of Art, 1974.",
+      "page_number": "cat. 26, p. 49-50; reproduced on cover",
+      "url": null
+    },
+    {
+      "citation": "Angulo Iñiguez, Diego, \"Algunos dibujos de Murillo,\" Instituto Diego Velázquez Archivo Español de Arte XLVII: 186 (Apr-Jun 1974): pp. 97-108.",
+      "page_number": "p. 105",
+      "url": null
+    },
+    {
+      "citation": "Feinblatt, Ebria. Old Master Drawings from American Collections: Exhibition, April 29-June 13, 1976, Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1976.",
+      "page_number": "p. 207, cat. 226, p. 212",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 150",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n170"
+    },
+    {
+      "citation": "Nuño, Juan Antonio. L'opera completa di Murillo. Milano: Rizzoli, 1978.",
+      "page_number": "p. 105, under cat. 217",
+      "url": null
+    },
+    {
+      "citation": "Johnson, Mark M. Idea to Image: Preparatory Studies from the Renaissance to Impressionism. Cleveland, Ohio: Cleveland Museum of Art, 1980.",
+      "page_number": "p. 45, 47-48",
+      "url": null
+    },
+    {
+      "citation": "Angulo Iñiguez, Diego. Murillo. Madrid: Espasa-Calpe, 1981, Vol. II.",
+      "page_number": "II, p. 160 under cat. 164",
+      "url": null
+    },
+    {
+      "citation": "Museo del Prado, and Royal Academy of Arts (Great Britain). Bartolomé Esteban Murillo, 1617-1682. London: Royal Academy of Arts, 1982.",
+      "page_number": "p. 61; cat. D19, p. 217",
+      "url": null
+    },
+    {
+      "citation": "Richards, Louise S. \"A Tribute to Leona Prasse,<em>\" Drawing</em> VII:1 (May-June 1985): 8-9.",
+      "page_number": "pp. 8-9",
+      "url": null
+    },
+    {
+      "citation": "Marqués, Manuela Mena in Turner, J. S. The Dictionary of Art. New York: Grove, 1996: Vol. 22.",
+      "page_number": "p. 347",
+      "url": null
+    },
+    {
+      "citation": "Brown, Jonathan. Painting in Spain: 1500-1700. 1998.",
+      "page_number": "p. 231",
+      "url": null
+    },
+    {
+      "citation": "DeGrazia, Diane and Carter E. Foster. <em>Master Drawings from the Cleveland Museum of Art.</em> Cleveland, OH: Cleveland Museum of Art in association with Rizzoli International Publications, New York, 2000.",
+      "page_number": "Mentioned: p. 9, pp. 82-83, p. 287; Reproduced: p. 83",
+      "url": null
+    },
+    {
+      "citation": "Stratton-Pruitt, Suzanne L. Bartolomé Esteban Murillo (1617-1682): Paintings from American Collections. New York: H.N. Abrams, in association with the Kimbell Art Museum, 2002.",
+      "page_number": "p. 164, fig. 2",
+      "url": null
+    },
+    {
+      "citation": "Ressort, Claudie, \"Murillo dessiateur. Un style élégant et libre,\" <em>Dossier de l'art</em> 115 (2005): pp. 56-64.",
+      "page_number": "p. 64",
+      "url": null
+    },
+    {
+      "citation": "Brown, Jonathan. Murillo: Virtuoso Draftsman. New Haven: Yale University Press, 2012.",
+      "page_number": "cat. 75, pp. 194-195",
+      "url": null
+    },
+    {
+      "citation": "Brown, Jonathan, \"Circle of Love,\" <em>ARTnews</em> 111:10 (Nov. 2012): pp. 90-91.",
+      "page_number": "pp. 90-91",
+      "url": null
+    },
+    {
+      "citation": "Marques, Manuela Mena. <em>Bartolomé Esteban Murillo (1617-1682): dibujos : catálogo razonado.</em> Santander: Fundación Botín, 2015.",
+      "page_number": "Mentioned: p. 180, 394-397, 416; Reproduced: p. 59, 395",
+      "url": null
+    },
+    {
+      "citation": "Pareja López, Enrique. <em>Murillo Fecit</em>. Sevilla: Ediciones Tartessos, 2016.",
+      "page_number": "Reproduced: p. 379, 389",
+      "url": null
+    },
+    {
+      "citation": "Navarrete Prieto, Benito. <em>Murillo y las metáforas de la imagen</em>. Madrid: Ediciones Catedra, 2017.",
+      "page_number": "Mentioned: p. 141; Reproduced: p. 141, no. 90",
+      "url": null
+    },
+    {
+      "citation": "Navarrete Prieto, Benito, Bartolomé Esteban Murillo, Benito Navarrete Prieto, Jenny Dodman, and Véronique Gerard Powell. Murillo: Persuasion and Aura. 2021, 125.",
+      "page_number": "Mentioned: p. 121; Reproduced: p. 125, fig. 58.",
+      "url": ""
+    }
+  ],
+  "catalogue_raisonne": "Brown 2012.75",
+  "url": "https://clevelandart.org/art/1968.66",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1968.66/1968.66_web.jpg",
+      "width": "648",
+      "height": "893",
+      "filesize": "536722",
+      "filename": "1968.66_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1968.66/1968.66_print.jpg",
+      "width": "2468",
+      "height": "3400",
+      "filesize": "7941654",
+      "filename": "1968.66_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1968.66/1968.66_full.tif",
+      "width": "4356",
+      "height": "5999",
+      "filesize": "78429044",
+      "filename": "1968.66_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1968.66/1968.66_alt0_web.jpg",
+        "width": "657",
+        "height": "893",
+        "filesize": "497761"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1968.66/1968.66_alt0_print.jpg",
+        "width": "2500",
+        "height": "3400",
+        "filesize": "6973164"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1968.66/1968.66_alt0_full.tif",
+        "width": "3015",
+        "height": "4100",
+        "filesize": "37105460"
+      },
+      "date_created": "2009-02-18T18:48:16",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Mr. and Mrs. Charles G. Prasse Collection",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 144216,
+  "creators": [
+    {
+      "id": 2400,
+      "description": "Bartolomé Esteban Murillo (Spanish, 1617–1682)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "birth_year": "1617",
+      "death_year": "1682",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1968-03-09T00:00:00",
+  "sortable_date": 1665,
+  "date_added_to_oa": null,
+  "date_text": "c. 1670–72",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": true,
+  "impression": null,
+  "alternate_titles": [
+    "Virgin and Child"
+  ],
+  "is_highlight": true,
+  "updated_at": "2026-05-29 07:24:10.666000"
+}

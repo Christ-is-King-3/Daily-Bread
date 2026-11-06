@@ -1,0 +1,363 @@
+{
+  "id": 129386,
+  "accession_number": "1952.222",
+  "share_license_status": "CC0",
+  "tombstone": "Christ on the Cross, c. 1600–1610. El Greco (Spanish, 1541–1614). Oil on canvas; framed: 221 x 144 x 10 cm (87 x 56 11/16 x 3 15/16 in.); unframed: 193 x 116 cm (76 x 45 11/16 in.). The Cleveland Museum of Art, Gift of the Hanna Fund, 1952.222",
+  "current_location": "212 Baroque Painting and Sculpture",
+  "title": "Christ on the Cross",
+  "creation_date": "c. 1600–1610",
+  "creation_date_earliest": 1600,
+  "creation_date_latest": 1610,
+  "artists_tags": [
+    "Latine and Hispanic Artists",
+    "male"
+  ],
+  "culture": [
+    "Spain"
+  ],
+  "technique": "oil on canvas",
+  "support_materials": [],
+  "department": "European Painting and Sculpture",
+  "collection": "P - Spanish before 1800",
+  "type": "Painting",
+  "measurements": "Framed: 221 x 144 x 10 cm (87 x 56 11/16 x 3 15/16 in.); Unframed: 193 x 116 cm (76 x 45 11/16 in.)",
+  "dimensions": {
+    "framed": {
+      "height": 2.21,
+      "height_inch": 87,
+      "height_inch_fraction": 0.0,
+      "width": 1.44,
+      "width_inch": 56,
+      "width_inch_fraction": 0.6875,
+      "depth": 0.1,
+      "depth_inch": 3,
+      "depth_inch_fraction": 0.9375
+    },
+    "unframed": {
+      "height": 1.93,
+      "height_inch": 76,
+      "height_inch_fraction": 0.0,
+      "width": 1.16,
+      "width_inch": 45,
+      "width_inch_fraction": 0.6875
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "Inscription on plaque at top of cross, in Hebrew, Greek and Latin: Jesus of Nazareth, King of the Jews",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 301477,
+        "title": "In Memoriam: Leonard C. Hanna, Jr.",
+        "description": "<i>In Memoriam: Leonard C. Hanna, Jr.</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 4-April 7, 1958).",
+        "opening_date": "1958-03-04T05:00:00"
+      },
+      {
+        "id": 520848,
+        "title": "Religious Art",
+        "description": "<i>Religious Art</i>. Buffalo AKG Art Museum, Buffalo, NY (organizer) (December 15, 1964-January 10, 1965).",
+        "opening_date": "1964-12-15T05:00:00"
+      },
+      {
+        "id": 184132,
+        "title": "Masterworks from The Phillips Collection",
+        "description": "<i>Masterworks from The Phillips Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 20-May 29, 2005).",
+        "opening_date": "2005-02-20T00:00:00"
+      },
+      {
+        "id": 318541,
+        "title": "El Greco: Ambition and Defiance",
+        "description": "<i>El Greco: Ambition and Defiance</i>. Réunion des musées nationaux - Grand Palais, Paris cedex 12, France (organizer) (October 14, 2019-February 10, 2020); The Art Institute of Chicago, Chicago, IL (March 5-October 19, 2020) https://www.artic.edu/exhibitions/2939/el-greco-ambition-and-defiance.",
+        "opening_date": "2019-10-14T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Exposición del Antiguo Madrid</em>, Sociedad Espanola de Amigos del Arte, Madrid, Spain (1926). (lent by Salesas Neuvas, Madrid)",
+        "opening_date": "1926-01-01T00:00:00"
+      },
+      {
+        "description": "<em>Religious Art from Byzantium to Chagall</em>, Albright-Knox Art Gallery, Buffalo, New York (December 15, 1964-January, 10 1965).",
+        "opening_date": "1964-12-15T00:00:00"
+      },
+      {
+        "description": "<em>El Greco of Toledo</em>, Museo del Prado, Madrid, (Apr. 1 - June 6, 1982); National Gallery of Art, Washington, D.C. (July 2 - Sept. 6, 1982); Toledo Museum of Art, Toledo, Ohio, (Sept. 26 - Nov. 21, 1982); Dallas Museum of Fine Arts, Dallas, Tex., (Dec. 12, 1982 - Feb. 6, 1983).",
+        "opening_date": "1982-04-01T00:00:00"
+      },
+      {
+        "description": "<em>Holy Image, Holy Space: Icons and Frescoes from Greece</em>, The Cleveland Museum of Art, Cleveland, OH (September 9-October 22, 1989).",
+        "opening_date": "1989-09-09T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Convent of the Salesas, Madrid, Spain",
+      "citations": [],
+      "footnotes": [],
+      "date": "By 1815-1952",
+      "sortorder": 1
+    },
+    {
+      "description": "Tomas Harris, London, England",
+      "citations": [],
+      "footnotes": null,
+      "date": "1952",
+      "sortorder": 2
+    },
+    {
+      "description": "(Rudolf Heinemann, New York, NY)",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": 3
+    },
+    {
+      "description": "(M. Knoedler & Co., Inc., New York, NY, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "-1952",
+      "sortorder": 4
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1952-",
+      "sortorder": 5
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "El Greco (Spanish for \"the Greek\") was trained on his native island, Crete, as a painter of small-scale devotional images (icons). In the late 1560s he moved first to Venice, where he may have worked with Tintoretto (1518-1594), and then to Rome. Finally, he settled in Toledo, Spain. Tintoretto's influence is visible here in the colors and in the elongated figural proportions. The graphic depiction of blood, however, may reflect the Spanish interest in Christ's sufferings as a subject for meditation.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60515970"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1952.222-christ-on-the-cross"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Madrid.<em> Paseo por Madrid</em>; ó, Guia del Forastero en la Corte. Obra ... precedida de un compendio de la historia de Madrid, etc. 1815.",
+      "page_number": "p. 41",
+      "url": ""
+    },
+    {
+      "citation": "Cossío, Manuel B. <em>El Greco. </em>Madrid: V. Suárez, 1908.",
+      "page_number": "p. 367, no. 109",
+      "url": ""
+    },
+    {
+      "citation": "Sociedad Española de Amigos del Arte, Madrid. Exposición del antiguo Madrid; catálogo general ilustrado. Madrid: Gráficas reunidas, s. a, 1926.",
+      "page_number": "cat. no. 900, p. 85",
+      "url": ""
+    },
+    {
+      "citation": "Camon Aznar, Jos. <em>Domenico Greco.</em> Madrid: Espasa-Calpe, 1950.",
+      "page_number": "I, 646, fig. 491, and II, 1366, no. 178",
+      "url": ""
+    },
+    {
+      "citation": "Francis, Henry S. “A Crucifixion by El Greco.” <em>The Bulletin of the Cleveland Museum of Art</em> 40, no. 1 (1953).",
+      "page_number": "pp. 4-7",
+      "url": "https://www.jstor.org/stable/25141846"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 422",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n77"
+    },
+    {
+      "citation": "Cleveland Museum of Art, and William Mathewson Milliken.<em> In Memoriam: Leonard C. Hanna, Jr. [Catalogue]</em>. 1958.",
+      "page_number": "cat. no. 50",
+      "url": ""
+    },
+    {
+      "citation": "Cleveland Museum of Art, and William Mathewson Milliken. <em>The Cleveland Museum of Art</em>. New York: H.N. Abrams, 1958.",
+      "page_number": "p. 37",
+      "url": ""
+    },
+    {
+      "citation": "Gaya Nuño, Juan Antonio.<em> La pintura española fuera de España; historia y catálogo. </em>Madrid: Espasa-Calpe, 1958.",
+      "page_number": "p. 203, no. 1387",
+      "url": ""
+    },
+    {
+      "citation": "Canaday, John. <em>Metropolitan Seminars in Art.</em> [New York]: Metropolitan Museum of Art, 1959.",
+      "page_number": "Portfolio 3: Expressionism, p. 26",
+      "url": ""
+    },
+    {
+      "citation": "Wethey, Harold E. El Greco and His School. Princeton, N.J.: Princeton University Press, 1962.",
+      "page_number": "I, fig. 186, and II, 46-47, no. 68",
+      "url": ""
+    },
+    {
+      "citation": "Buffalo Fine Arts Academy, and Your Neighbor's Faith (Group). <em>Religious Art from Byzantium to Chagall</em>: [Catalogue of] a Loan Exhibition, Dec. 13, 1964 to Jan. 10, 1965. 1965.",
+      "page_number": "cat. no. 35",
+      "url": ""
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 130",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n154"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 130",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n154"
+    },
+    {
+      "citation": "Lafuente Ferrari, Enrique, Greco, and José Manuel Pita Andrade.<em> El Greco: the expressionism of his final years</em>. New York: Harry N. Abrams, Inc, 1969.",
+      "page_number": "p. 128 no. 94, p. 159 fig. 79",
+      "url": ""
+    },
+    {
+      "citation": "Greco, and Tiziana Frati.<em> L'opera completa del Greco</em>. Milano: Rizzoli, 1969.",
+      "page_number": "cat. no. 6Ic, illus. p. 101",
+      "url": ""
+    },
+    {
+      "citation": "National Gallery (Great Britain), Neil MacLaren, and Allan Braham. <em>The Spanish School.</em> London: National Gallery, 1970.",
+      "page_number": "p. 39",
+      "url": ""
+    },
+    {
+      "citation": "Cleveland Museum of Art, and Berthold Fricke. T<em>he Cleveland Museum of Art.</em> Hannover: Knorr &amp; Hirth, 1970.",
+      "page_number": "p. 52",
+      "url": ""
+    },
+    {
+      "citation": "Stockstad, Marilyn, \"Spanish Art from the Middle Ages to the Nineteenth Century,\" <em>Apollo</em>, LXXXXVI (1972).",
+      "page_number": "500",
+      "url": ""
+    },
+    {
+      "citation": "Greco, El, and José Gudiol. <em>El Greco: Doménikos Theotokópoulos ; 1541-1614.</em> Genf: Weber, 1973.",
+      "page_number": "pp. 162, 347, cat.no. 117, illus. p. 158 fig. 140",
+      "url": ""
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 149",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n169"
+    },
+    {
+      "citation": "The Cleveland Museum of Art<em>. The Cleveland Museum of Art Catalogue of Paintings, Part 3: European Paintings of the 16th, 17th, and 18th Centuries</em>. Cleveland, OH: The Cleveland Museum of Art, 1982.",
+      "page_number": "Mentioned: p. 496-498; Reproduced: p. 497",
+      "url": null
+    },
+    {
+      "citation": "Greco, and Jonathan Brown. <em>El Greco of Toledo. </em>Boston: New York Graphic Society, 1982.",
+      "page_number": "pp. 249-250, repr. p. 250, repr. color plate 58",
+      "url": ""
+    },
+    {
+      "citation": "Acheimastou-Potamianou, Myrtalē. <em>Holy Image, Holy Space: Icons and Frescoes from Greece</em>. Athens: Greek Ministry of Culture, 1988.",
+      "page_number": "",
+      "url": ""
+    },
+    {
+      "citation": "Smeyers, Jos, and Maurits Smeyers. <em>Misschien het tedere begrijpen: dichter bij kunst. </em>Leuven: Davidsfonds/Literair, 1999.",
+      "page_number": "p. 62",
+      "url": ""
+    },
+    {
+      "citation": "Musée du Louvre, Véronique Gerard Powell, and Claudie Ressort.<em> Ecoles espagnole et portugaise</em>. Paris: Réunion des musées nationaux, 2002.",
+      "page_number": "fig. 49, p. 124",
+      "url": ""
+    },
+    {
+      "citation": "<em>U.S. Catholic</em> 79, no. 4 (April 2014).",
+      "page_number": "Reproduced: p. 25",
+      "url": null
+    },
+    {
+      "citation": "Kientz, Guillaume, and Greco. Greco. Paris : Réunion des musées nationaux : Musée du Louvre ; Chicago : Art Institute of Chicago, 2019.",
+      "page_number": "Reproduced: p.137, no. 34",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1952.222",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1952.222/1952.222_web.jpg",
+      "width": "517",
+      "height": "893",
+      "filesize": "278382",
+      "filename": "1952.222_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1952.222/1952.222_print.jpg",
+      "width": "1970",
+      "height": "3400",
+      "filesize": "4027583",
+      "filename": "1952.222_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1952.222/1952.222_full.tif",
+      "width": "3435",
+      "height": "5929",
+      "filesize": "61133008",
+      "filename": "1952.222_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Gift of the Hanna Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": "Reinberger Gallery",
+  "athena_id": 129386,
+  "creators": [
+    {
+      "id": 2391,
+      "description": "El Greco (Spanish, 1541–1614)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "birth_year": "1541",
+      "death_year": "1614",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1952-06-23T00:00:00",
+  "sortable_date": 1600,
+  "date_added_to_oa": null,
+  "date_text": "c. 1600–1610",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Christ on the Cross with Landscape"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:40:22.745000"
+}

@@ -1,0 +1,657 @@
+{
+  "id": 136217,
+  "accession_number": "1960.117",
+  "share_license_status": "CC0",
+  "tombstone": "Christ and the Virgin in the House at Nazareth, c. 1640. Francisco de Zurbarán (Spanish, 1598–1664). Oil on canvas; framed: 201 x 256 x 10 cm (79 1/8 x 100 13/16 x 3 15/16 in.); unframed: 165 x 218.2 cm (64 15/16 x 85 7/8 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 1960.117",
+  "current_location": null,
+  "title": "Christ and the Virgin in the House at Nazareth",
+  "creation_date": "c. 1640",
+  "creation_date_earliest": 1635,
+  "creation_date_latest": 1645,
+  "artists_tags": [
+    "male",
+    "Latine and Hispanic Artists"
+  ],
+  "culture": [
+    "Spain"
+  ],
+  "technique": "oil on canvas",
+  "support_materials": [],
+  "department": "European Painting and Sculpture",
+  "collection": "P - Spanish before 1800",
+  "type": "Painting",
+  "measurements": "Framed: 201 x 256 x 10 cm (79 1/8 x 100 13/16 x 3 15/16 in.); Unframed: 165 x 218.2 cm (64 15/16 x 85 7/8 in.)",
+  "dimensions": {
+    "framed": {
+      "height": 2.01,
+      "height_inch": 79,
+      "height_inch_fraction": 0.125,
+      "width": 2.56,
+      "width_inch": 100,
+      "width_inch_fraction": 0.8125,
+      "depth": 0.1,
+      "depth_inch": 3,
+      "depth_inch_fraction": 0.9375
+    },
+    "unframed": {
+      "height": 1.65,
+      "height_inch": 64,
+      "height_inch_fraction": 0.9375,
+      "width": 2.182,
+      "width_inch": 85,
+      "width_inch_fraction": 0.875
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 302015,
+        "title": "Year in Review - Nineteen Hundred Sixty",
+        "description": "<i>Year in Review - Nineteen Hundred Sixty</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 30, 1960-January 1, 1961).",
+        "opening_date": "1960-11-30T05:00:00"
+      },
+      {
+        "id": 219705,
+        "title": "Genie et folie en Occident: Une histoire de la mélancolie",
+        "description": "<i>Genie et folie en Occident: Une histoire de la mélancolie</i>. Galeries Nationales du Grand Palais, 75008 Paris, France (September 22, 2005-January 2, 2006); Neue Nationalgalerie (February 17-May 7, 2006).",
+        "opening_date": "2005-09-22T00:00:00"
+      },
+      {
+        "id": 222394,
+        "title": "Masterpieces of European Painting from The Cleveland Museum of Art",
+        "description": "<i>Masterpieces of European Painting from The Cleveland Museum of Art</i>. Frick Collection, New York, NY (organizer) (November 8, 2006-January 28, 2007).",
+        "opening_date": "2006-11-08T00:00:00"
+      },
+      {
+        "id": 179662,
+        "title": "Masterpieces of European Painting from the Cleveland Museum of Art",
+        "description": "<i>Masterpieces of European Painting from the Cleveland Museum of Art</i>. Maltz Museum of Jewish Heritage, Beachwood, OH (March 29-July 8, 2007).",
+        "opening_date": "2007-03-29T00:00:00"
+      },
+      {
+        "id": 684895,
+        "title": "Zurbarán",
+        "description": "<i>Zurbarán</i>. National Gallery, London, London, United Kingdom of Great Britain and Northern Ireland (May 2-August 23, 2026) https://www.nationalgallery.org.uk/exhibitions/zurbaran; Musée du Louvre, Paris, France (October 7, 2026-January 25, 2027); The Art Institute of Chicago, Chicago, IL (organizer) (February 28-June 20, 2027).",
+        "opening_date": "2026-05-02T04:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Probably the Count of Walterstorff [1755-1820]1",
+      "citations": [],
+      "footnotes": [
+        "<div><!--block-->1 The Count of Walterstorff was the Minister of Denmark to the French court.&nbsp; The 1987 Zurbarán catalogue raisonné by Jeannine Baticle notes that “it is not unlikely” that the Cleveland picture is the one that appears in the Walterstorff sale due to the matching dimensions and description.&nbsp; However, the circumstances of his acquisition of the painting are unknown.</div>"
+      ],
+      "date": "Until 1920",
+      "sortorder": 1
+    },
+    {
+      "description": "(Probably Walterstorff sale, Laneuville, Paris, March 26-27, 1821, no. 65, sold to Laneuville)1",
+      "citations": [],
+      "footnotes": [
+        "<div><!--block-->1The Zurbarán likely failed to sell and was effectively bought in by Jean-Louis Laneuville, a painter who also held auctions and compiled sale catalogues, including this one.&nbsp; This scenario is more likely than that which proposes that the painting was purchased by collector Ferdinand Laneuville, whose posthumous sale in 1866 at Hôtel Drouot included no works by Zurbarán.&nbsp;</div>"
+      ],
+      "date": "1821",
+      "sortorder": 2
+    },
+    {
+      "description": "Various private collections in France",
+      "citations": [],
+      "footnotes": [],
+      "date": "After 1821-1960",
+      "sortorder": 3
+    },
+    {
+      "description": "(François Heim, Paris, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": [],
+      "date": "1960",
+      "sortorder": 4
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, Ohio",
+      "citations": [],
+      "footnotes": [],
+      "date": "1960-",
+      "sortorder": 5
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Zurbarán, also a still-life painter, tilts the tabletop to emphasize the symbolic books and fruit.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Stories of Christ’s childhood and adolescence became increasingly popular during the Counter-Reformation because they were easily understood by a broad public. Rather than taking a story from the Bible, Zurbarán appears to have invented this subject, in which Jesus pricks himself on a crown of thorns he is weaving, foretelling his later torment at the Crucifixion. Despite the grand scale and monumental figures, the work has remarkable intimacy and quietness, emphasizing such details as the Virgin’s tears.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q5966034"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1960.117-christ-and-the-virgi"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Lurie, Ann Tzeutchler. \"Two Devotional Paintings by Sassoferrato and Carlo Dolci.\" <em>The Bulletin of The Cleveland Museum of Art</em> LV (1968): 224-227.",
+      "page_number": "Reproduced: p. 227, fig. 10",
+      "url": null
+    },
+    {
+      "citation": "Delenda, Odile, and Almudena Ros de Barbero.<em>  Francisco de Zurbarán 1598-1664. </em> Madrid: Fundación Arte Hispánico, 2009.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Iacono, Margaret. <em>Masterpieces of European Painting from the Cleveland Museum of Art</em>. New York: The Frick Collection, 2006",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Baticle, Jeannine.  <em>Zurbarán.  </em>New York: Metropolitan Museum of Art, 1987",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Gállego, Julián, and José Gudiol.  <em>Zurbarán, 1598-1664.  </em>New York: Rizzoli, 1977.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Delenda, Odile, and Almudena Ros de Barbero.<em>  Francisco de Zurbarán 1598-1664. </em> Madrid: Fundación Arte Hispánico, 2009",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Iacono, Margaret. <em>Masterpieces of European Painting from the Cleveland Museum of Art</em>. New York: The Frick Collection, 2006",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "François Heim, letter to Henry S. Francis, July 5, 1960, in CMA curatorial file.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "M. Laneuville, M. Moreau, M. Lacoste, and Coquille. <em>Tableaux du meilleur choix</em>. 1821.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "François Heim, letter to Henry S. Francis, July 5, 1960, in CMA curatorial file.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Valdivieso, Enrique. Bodegones, floreros y trampantojos en la pintura barroca sevillana. Valencina de la Concepción (Sevilla) : Renacimiento, 2021.",
+      "page_number": "Mentioned and reproduced: pp. 61-69, fig. 76, 83, and 92.",
+      "url": ""
+    },
+    {
+      "citation": "Guinard, Paul. <em>Zurbarán et les peintres espagnols de la vie monastique</em>. Paris, France: Éditions du Temps, 1960.",
+      "page_number": "Mentioned: p. 139; Reproduced: p. 217, fig. 29-30, fig. 67",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art, “Recent Acquisition Press Release,” August 12, 1960, Cleveland Museum of Art Archives.",
+      "page_number": null,
+      "url": "https://archive.org/details/cmapr0594"
+    },
+    {
+      "citation": "Cleveland Museum of Art, “Recent Acquisition Press Release,” November 2, 1960, Cleveland Museum of Art Archives.",
+      "page_number": null,
+      "url": "https://archive.org/details/cmapr0637"
+    },
+    {
+      "citation": "Francis, Henry S. \"Francisco de Zubaran: The House of Nazareth.\" <em>The Bulletin of The Cleveland Museum of Art</em> XLIII (1961) 46-50.",
+      "page_number": "Reproduced: fig. 1",
+      "url": null
+    },
+    {
+      "citation": "Vaughn, Malcom. \"The Connoisseur in America: Cleveland's Zubaran.\" <em>Connoisseur</em> CXLVIII (1961): 76-77.",
+      "page_number": "Reproduced: p. 77",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art, “Art News Press Release,” January 23, 1961, Cleveland Museum of Art Archives.",
+      "page_number": null,
+      "url": "https://archive.org/details/cmapr0683/"
+    },
+    {
+      "citation": "Jaffe. Michael. \"Cleveland Museum of Art: The Figurative Arts of the West ca. 1400-1800.\" <em>Apollo: The International Magazine for Collectors</em>, LXXVIII (December, 1963): 467.",
+      "page_number": "Reproduced: p. 457, fig. 6",
+      "url": null
+    },
+    {
+      "citation": "<em>Exposición Zurbarán en el III centenario de su muerte</em>. Madrid, Spain: Ministerio de Educación Nacional, Direcciŏn General de Bellas Artes, 1965.",
+      "page_number": "Reproduced: p. 20",
+      "url": null
+    },
+    {
+      "citation": "Gomez-Moreno, Carmen. <em>Spanish Painting: The Golden Century</em>, New York, New York, 1965.",
+      "page_number": "Reproduced: p. 10, no. 39",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 130",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n154"
+    },
+    {
+      "citation": "Causa, Raffaello. <em>Zurbarán</em>. Milano, Italy: Fratelli Fabbri Editori, 1966.",
+      "page_number": "Reproduced: no. 181",
+      "url": null
+    },
+    {
+      "citation": "<em>Selected Works: Cleveland Museum of Art</em>. Cleveland, Ohio: The Cleveland Museum of Art, 1967.",
+      "page_number": "Reproduced: no. 152",
+      "url": null
+    },
+    {
+      "citation": "Guinard, Paul. <em>Les Peintrees espagnols</em>. Paris, France: Le Livre de poche, 1967.",
+      "page_number": "Reproduced: fig. 122",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 130",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n154"
+    },
+    {
+      "citation": "Frati, Tiziana. <em>L'opera completa di Zurbarán</em>. Milano, Italy: Rizzoli, 1973.",
+      "page_number": "Mentioned and reproduced: p. 90-91, vol. 69",
+      "url": null
+    },
+    {
+      "citation": "Brown, Jonathan. <em>Francisco De Zurbarán</em>. New York, New York: H.N. Abrams, 1974.",
+      "page_number": "Mentioned: p. 24; Reproduced: p. 80, pl. 11",
+      "url": null
+    },
+    {
+      "citation": "Gállego, Julián, and José Gudiol. <em>Zurbarán, 1598-1664</em>. New York, New York: Rizzoli, 1977.",
+      "page_number": "Reproduced: p. 97, no. 247, figs. 257, 259",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 150",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n170"
+    },
+    {
+      "citation": "Thuillier, Jacques, Antoine Le Nain, Louis Le Nain, and Mathieu Le Nain. <em>Les frères Le Nain: [exposition organisée par la Réunion des musées nationaux], Grand Palais, 3 octobre 1978-8 janvier 1979 : [catalogue rédigé par Jacques Thuillier]</em>. Paris, France: Ministère de la culture et de la communication, Éditions de la Réunion des musées nationaux, 1978.",
+      "page_number": "Reproduced: p. 281",
+      "url": null
+    },
+    {
+      "citation": "<em>Trafalgar Galleries at the Royal Academy, II: [Catalogue]</em>. London, United Kingdom: Trafalgar Galleries, 1979.",
+      "page_number": "Mentioned: p. 64; Reproduced: p. 67, fig. 1",
+      "url": null
+    },
+    {
+      "citation": "Hindley, Geoffrey. <em>World Art Treasures</em>. New York, New York: Mayflower Books, 1979.",
+      "page_number": "Reproduced: p. 182",
+      "url": null
+    },
+    {
+      "citation": "Fromme, Babbette Brandt. <em>Curators' Choice: An Introduction to the Art Museums of the U.S</em>. New York, New York: Crown Publishers, 1981.",
+      "page_number": "Reproduced: p. 115",
+      "url": null
+    },
+    {
+      "citation": "Valiz, Zahir. \"A Painter's Technique: Zubaran's The Holy House of Nazareth.\" <em>The Bulletin of The Cleveland Museum of Art </em>LXVIII, no. 10 (October, 1981): 271-283.",
+      "page_number": "Reproduced: on cover",
+      "url": "https://www.jstor.org/stable/25159738"
+    },
+    {
+      "citation": "The Cleveland Museum of Art<em>. The Cleveland Museum of Art Catalogue of Paintings, Part 3: European Paintings of the 16th, 17th, and 18th Centuries</em>. Cleveland, OH: The Cleveland Museum of Art, 1982.",
+      "page_number": "Reproduced: p. 514; Mentioned: p. 515-516",
+      "url": null
+    },
+    {
+      "citation": "Veca, Alberto. <em>Simposio: cerimonie e apparati : [mostra]</em>. Bergamo, Italy: Galleria Lorenzelli, 1982.",
+      "page_number": "Mentioned: p. 157; Reproduced: p. 156,fig. 121",
+      "url": null
+    },
+    {
+      "citation": "Baticle, Jeannine. <em>Zurbarán</em>. New York, New York: Metropolitan Museum of Art, 1987.",
+      "page_number": "Mentioned: p. 258-262; Reproduced: p. 259",
+      "url": null
+    },
+    {
+      "citation": "Decoin, Didier, and Marie-Hélène About. <em>L'enfant de Nazareth</em>. Paris, France: Nouvelle cité, 1989.",
+      "page_number": "Reproduced: p. 122",
+      "url": null
+    },
+    {
+      "citation": "Mühlberger, Richard. <em>The Bible in Art: The New Testament</em>. New York, New York: Portland House, 1990.",
+      "page_number": "Reproduced: p. 49",
+      "url": null
+    },
+    {
+      "citation": "Berger, John. <em>Keeping a Rendezvous</em>. New York, New York: Pantheon Books, 1991.",
+      "page_number": "Reproduced: p. 170-171",
+      "url": null
+    },
+    {
+      "citation": "Brown, Jonathan. <em>Francisco De Zurbarán</em>. New York, New York: H.N. Abrams, 1991.",
+      "page_number": "Reproduced: p. 65, pl. 9",
+      "url": null
+    },
+    {
+      "citation": "Takahashi, Tatsushi. <em>Barokku no miryoku</em>. Kyōto, Japan: Dōhōsha Shuppan, 1991.",
+      "page_number": "Reproduced: p. 34",
+      "url": null
+    },
+    {
+      "citation": "Boggs, Jean Sutherland, Brigitte Léal, and Marie-Laure Bernadac. <em>Picasso and Things: The Still Lifes of Picasso.</em> Cleveland: Cleveland Museum of Art, 1992.",
+      "page_number": "Mentioned and reproduced: P. 12-13, fig. 1; P. 62, fig. 11a",
+      "url": ""
+    },
+    {
+      "citation": "Boone, Danièle. <em>L'Age d'or espagnol</em>. Neuchâtel, Switzerland: Ides et Calendes, 1993.",
+      "page_number": "Reproduced: p. 139",
+      "url": null
+    },
+    {
+      "citation": "Caturla, María Luisa, and Odile Delenda. <em>Francisco de Zurbarán</em>. Paris, France: Wildenstein Institute, 1994.",
+      "page_number": "Reproduced: p. 39",
+      "url": null
+    },
+    {
+      "citation": "Grimm, Claus. <em>Stilleben: die italienischen, spanischen und französischen Meister</em>. Stuttgart, Germany: Belser, 1995.",
+      "page_number": "Reproduced: p. 35,46 detail: p. 234, no. 144",
+      "url": null
+    },
+    {
+      "citation": "Trinidad de, Antonio. <em>Zurbarán al Museu Nacional d'Art de Catalunya</em>. Barcelona, Spain: El Museu, 1998.",
+      "page_number": "Reproduced: p. 24",
+      "url": null
+    },
+    {
+      "citation": "Navarrete Prieto, Benito. <em>La pintura andaluza del siglo XVII y sus fuentes grabadas</em>. Madrid, Spain: Fundación de Apoyo a la Historia del Arte Hispánico, 1998.",
+      "page_number": "Mentioned: p. 101-103: Reproduced: p. 248, fig. 518",
+      "url": null
+    },
+    {
+      "citation": "Consejo Nacional para la Cultura y las Artes (Mexico), Instituto Nacional de Bellas Artes (Mexico), Museo de San Carlos, and Saber Ver. <em>Zurbarán</em>. México: Consejo Nacional para la Cultura y las Artes, 1999.",
+      "page_number": "Reproduced: front cover, p. 2-3, 30-31",
+      "url": null
+    },
+    {
+      "citation": "Minor, Vernon Hyde. <em>Baroque &amp; Rococo: Art &amp; Culture</em>. New York, New York: Harry N. Abrams, 1999.",
+      "page_number": "Reproduced: p. 365, no. 10.6",
+      "url": null
+    },
+    {
+      "citation": "Kemp, Martin. <em>The Oxford History of Western Art</em>. New York, New York: Oxford University Press, 2000.",
+      "page_number": "Reproduced:. p. 234, no. 332",
+      "url": null
+    },
+    {
+      "citation": "Heitz, Françoise, and Annick Johnson. <em>Les figures du Christ dans l'art, l'histoire et la littérature: colloque Université d'Artois, 3 et 4 mars 2000</em>. Paris, France: L'Harmattan, 2001.",
+      "page_number": "Reproduced: p. 192-193, pl. 5",
+      "url": null
+    },
+    {
+      "citation": "Harris, Ann Sutherland. <em>Seventeenth-Century Art &amp; Architecture</em>. London, United Kingdom: Laurence King, 2005.",
+      "page_number": "Reproduced: p. 213, fig. 3.19",
+      "url": null
+    },
+    {
+      "citation": "Klibansky, Raymond, and Jean Clair. <em>Mélancolie, génie et folie en occident: en hommage à Raymond Klibansky, 1905-2005 : Galeries nationales du grand palais, Paris, 10 octobre 2005-16 janvier 2006 ; Neue Nationalgalerie, Berlin, 17 février-7 mai 2006</em>. Paris, France: Gallimard, 2005.",
+      "page_number": "Reproduced: p. 250, no. 129",
+      "url": null
+    },
+    {
+      "citation": "Iacono, Margaret. <em>Masterpieces of European Painting from the Cleveland Museum of Art</em>. New York, New York: The Frick Collection, 2006.",
+      "page_number": "Reproduced: p. 250, no. 129",
+      "url": null
+    },
+    {
+      "citation": "Black, Charlene Villaseñor. <em>Creating the Cult of St. Joseph: Art and Gender in the Spanish Empire</em>. Princeton, New Jersey: Princeton University Press, 2006.",
+      "page_number": "Reproduced: p, 105, fig. 65",
+      "url": null
+    },
+    {
+      "citation": "<em>30,000 Years of Art: The Story of Human Creativity Across Time and Space</em>. London, United Kingdom: Phaidon, 2007.",
+      "page_number": "Reproduced: p. 777",
+      "url": null
+    },
+    {
+      "citation": "Arikha, Avigdor. <em>El Museo del Prado y el arte contemporáneo: la influencia de los grandes maestros del pasado en el arte de vanguardia</em>. Madrid, Spain: Fundación Amigos del Museo del Prado, 2007.",
+      "page_number": "Reproduced: fig. IX",
+      "url": null
+    },
+    {
+      "citation": "Quignard, Pascal. <em>La nuit sexuelle</em>. Paris, France: Flammarion, 2007.",
+      "page_number": "Mentioned: p. 183-87; Reproduced: p. 246",
+      "url": null
+    },
+    {
+      "citation": "\"Old Masters Visit Beachwood\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 47 no. 03, March 2007",
+      "page_number": "Mentioned & reproduced: p. 3",
+      "url": "https://archive.org/details/CMAMM2007-03/page/2"
+    },
+    {
+      "citation": "Alcolea, Santiago, and Francisco de Zurbarán. <em>Zurbarán</em>. Barcelona, Spain: Polígrafa, 2008.",
+      "page_number": "Reproduced: p. 66, fig. 52",
+      "url": null
+    },
+    {
+      "citation": "Senzoku, Nobuyuki. <em>Sugu wakaru seiyō kaiga yomitoki 66 no kīwādo</em>. Tōkyō, Japan: Tōkyō Bijutsu, 2008.",
+      "page_number": "Reproduced: p. 123",
+      "url": null
+    },
+    {
+      "citation": "Delenda, Odile, Francisco de Zurbarán, and Almudena Ros de Barbero. <em>Francisco de Zurbarán, 1598-1664: catálogo razonado y crítico</em>. Madrid, Spain: Fundación Arte Hispánico, 2009.",
+      "page_number": "Reproduced: p. 546-548, pl. 14-15",
+      "url": null
+    },
+    {
+      "citation": "García Sanz, Ana. <em>El Niño Jesús en el Monasterio de las Descalzas Reales de Madrid</em>. Madrid, Spain: Patrimonio Nacional, 2010.",
+      "page_number": "Reproduced: p. 312, fig. 225",
+      "url": null
+    },
+    {
+      "citation": "Nooteboom, Cees. <em>Zurbarán: Selected Paintings 1625-1664</em>. München, Germany: Schirmer/Mosel, 2011.",
+      "page_number": "Reproduced: p. 13,, 14; Mentioned: p. 102-103",
+      "url": null
+    },
+    {
+      "citation": "Tapié, Alain, and Régis Cotentin. <em>Portraits de la pensée</em>. Lille, France: Palais des Beaux-Arts de Lille, 2011.",
+      "page_number": "Mentioned: p. 30-31, 34-35; Reproduced: p. 16",
+      "url": null
+    },
+    {
+      "citation": "Franklin, David. <em>Director's Choice: The Cleveland Museum of Art</em>. Cleveland, Ohio: Cleveland Museum of Art, 2012.",
+      "page_number": "Mentioned and reproduced: p. 36-37",
+      "url": null
+    },
+    {
+      "citation": "<em>Treasures of the Cleveland Museum of Art</em>. London, United Kingdom: Scala Books, 2012.",
+      "page_number": "Mentioned and reproduced: p. 194-195",
+      "url": null
+    },
+    {
+      "citation": "<em>La couronne d'épines: Cathédrale Notre-Dame de Paris.</em> Paris: Association Maurice du Sully, 2014.",
+      "page_number": "Reproduced: p. 11",
+      "url": null
+    },
+    {
+      "citation": "Quignard, Pascal, and Chris Turner, trans.. <em>The Sexual Night.</em> Calcutta: Seagull Books, 2014.",
+      "page_number": "Reproduced: p. 146",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+      "page_number": "Mentioned and reproduced: P. 185",
+      "url": ""
+    },
+    {
+      "citation": "Wismer, Beat, Odile Delenda and María del Mar Borobia Guerrero. <em>Zurbarán</em>. Dusseldorf; Munchen: Museum Kunstpalais, 2015.",
+      "page_number": "Mentioned and Reproduced:  p. 206-207, fig. 70",
+      "url": null
+    },
+    {
+      "citation": "Giraudo, Lucien. <em>105 oeuvres décisives de la peinture occidentale montrées par Michel Butor.</em> Paris Flammarion, 2015.",
+      "page_number": "Reproduced: p. 104; Mentioned p. 105",
+      "url": null
+    },
+    {
+      "citation": "Roglán, Mark A. <em>Spanish Art in America</em>. [Madrid, Spain]: Ediciones El Viso 2016.",
+      "page_number": "Reproduced: p.79",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>Masterworks on Loan: Celebrating the 100th Anniversary of the Cleveland Museum of Art: April through June 2016</em>. [Cleveland]: Cleveland Museum of Art, 2016.",
+      "page_number": "p. 27-28",
+      "url": null
+    },
+    {
+      "citation": "Korkow, Cory. “Four Figures on a Step: A masterwork by Bartolomé Esteban Murillo on loan from the Kimball Art Museum.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 56, no. 3 (May/June 2016): 20-21.",
+      "page_number": "Reproduced: p. 21; Mentioned: p. 20",
+      "url": "https://archive.org/details/CMAMM2016-03"
+    },
+    {
+      "citation": "Camplin, Jamie,and Maria Ranauro. <em>The Art of Reading: An Illustrated History of Books in Paint. </em>Los Angeles, CA: Getty Publications, 2018.",
+      "page_number": "Reproduced 7 Mentioned: p. 111",
+      "url": null
+    },
+    {
+      "citation": "Hall-Van den Elsen, Catherine. <em>Luisa Roldán.</em> London: Lund Humphries, 2021.",
+      "page_number": "Mentioned and reproduced: p. 30-31, fig. 15",
+      "url": ""
+    },
+    {
+      "citation": "Svenningsen, Jesper. Samlingssteder: udenlandsk billedkunst i danske samlermiljøer 1690-1840. [Aarhus] : Aarhus Universitetsforlag, 2023.",
+      "page_number": "Mentioned and reproduced: pp. 191-193, fig. 70",
+      "url": ""
+    },
+    {
+      "citation": "Bonfait, Olivier. <em>L'art du XVIIe Siècle</em>. Rennes: Presses Universitaires de Rennes 2023.",
+      "page_number": "Reproduced: p. 322-323, fig. 74",
+      "url": ""
+    },
+    {
+      "citation": "Hall-Van den Elsen, Catherine, and Luisa Ignacia Roldán. <em>Luisa Roldán, Escultora : Fuerza E Intimismo</em>. Segunda edición revisada. Madrid: Consejo Superior de Investigaciones Científicas, 2024.",
+      "page_number": "Mentioned and reproduced: pp. 31-32, fig. 8",
+      "url": ""
+    },
+    {
+      "citation": "Ripollés, Carmen. <em>Josefa de Óbidos</em>. London: Lund Humphries, 2025.",
+      "page_number": "Mentioned and reproduced: p. 20-22, fig. 11",
+      "url": ""
+    },
+    {
+      "citation": "Verdon, Timothy. <em>Reading Christian Art and Architecture: Scriptural, Theological, Liturgical, Devotional and Cultural Background. </em>Turnhout, Belgium: Brepols Publishers, 2025.",
+      "page_number": "Mentioned and reproduced: p. 42-44, fig. 1-20",
+      "url": ""
+    },
+    {
+      "citation": "Robbins, Jeremy. <em>Francisco de Zurbarán and the Fabric of the World.</em> [London]: Reaktion Books, 2026.",
+      "page_number": "Mentioned and reproduced: p. 96-98, fig. 36",
+      "url": ""
+    },
+    {
+      "citation": "<em>Zurbarán.</em> Edited by Francesca Whitlum-Cooper, Daniel Sobrino Ralston, Imogen Tedbury, and Rebecca Long. London, Chicago: National Gallery Global Limited ; in association with the Art Institute of Chicago, 2026.",
+      "page_number": "Reproduced: [p. 4-5], p. 166, fig. 86; Mentioned: p.167",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1960.117",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1960.117/1960.117_web.jpg",
+      "width": "900",
+      "height": "668",
+      "filesize": "177911",
+      "filename": "1960.117_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1960.117/1960.117_print.jpg",
+      "width": "3400",
+      "height": "2524",
+      "filesize": "1895552",
+      "filename": "1960.117_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1960.117/1960.117_full.tif",
+      "width": "11417",
+      "height": "8474",
+      "filesize": "290273048",
+      "filename": "1960.117_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.117/1960.117_alt0_web.jpg",
+        "width": "1201",
+        "height": "893",
+        "filesize": "653482"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.117/1960.117_alt0_print.jpg",
+        "width": "3400",
+        "height": "2529",
+        "filesize": "5585421"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.117/1960.117_alt0_full.tif",
+        "width": "6600",
+        "height": "4911",
+        "filesize": "97265636"
+      },
+      "date_created": "2007-02-13T20:48:55",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Leonard C. Hanna Jr. Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 136217,
+  "creators": [
+    {
+      "id": 5148,
+      "description": "Francisco de Zurbarán (Spanish, 1598–1664)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "birth_year": "1598",
+      "death_year": "1664",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1960-06-18T00:00:00",
+  "sortable_date": 1635,
+  "date_added_to_oa": null,
+  "date_text": "c. 1640",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": true,
+  "impression": null,
+  "alternate_titles": [
+    "The Holy House of Nazareth"
+  ],
+  "is_highlight": true,
+  "updated_at": "2026-11-06 06:02:28.580000"
+}

@@ -1,0 +1,237 @@
+{
+  "id": 135295,
+  "accession_number": "1958.306",
+  "share_license_status": "CC0",
+  "tombstone": "Christ Preaching ('La Petite Tombe'), c. 1652. Rembrandt van Rijn (Dutch, 1606–1669). Etching, drypoint, and burin; sheet: 15.8 x 21 cm (6 1/4 x 8 1/4 in.); platemark: 15.5 x 20.7 cm (6 1/8 x 8 1/8 in.). The Cleveland Museum of Art, Gift of The Print Club of Cleveland in honor of William Mathewson Milliken, 1958.306",
+  "current_location": null,
+  "title": "Christ Preaching ('La Petite Tombe')",
+  "creation_date": "c. 1652",
+  "creation_date_earliest": 1647,
+  "creation_date_latest": 1657,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "Netherlands"
+  ],
+  "technique": "etching, drypoint, and burin",
+  "support_materials": [
+    {
+      "description": "cream(3) laid paper",
+      "watermarks": []
+    }
+  ],
+  "department": "Prints",
+  "collection": "PR - Etching",
+  "type": "Print",
+  "measurements": "Sheet: 15.8 x 21 cm (6 1/4 x 8 1/4 in.); Platemark: 15.5 x 20.7 cm (6 1/8 x 8 1/8 in.)",
+  "dimensions": {
+    "sheet": {
+      "height": 0.158,
+      "height_inch": 6,
+      "height_inch_fraction": 0.25,
+      "width": 0.21,
+      "width_inch": 8,
+      "width_inch_fraction": 0.25
+    },
+    "platemark": {
+      "height": 0.155,
+      "height_inch": 6,
+      "height_inch_fraction": 0.125,
+      "width": 0.207,
+      "width_inch": 8,
+      "width_inch_fraction": 0.125
+    }
+  },
+  "state_of_the_work": "ii/ii",
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "VERSO, lower left, in pen and brown ink: R [scribble] 1749 ; lower center, in graphite: + 15[sideways]",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 616743,
+        "title": "Special Exhibition of Prints lent by Various Out of Town Dealers",
+        "description": "<i>Special Exhibition of Prints lent by Various Out of Town Dealers</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 29-October 15, 1922).",
+        "opening_date": "1922-09-29T00:00:00"
+      },
+      {
+        "id": 518622,
+        "title": "Rembrandt Prints",
+        "description": "<i>Rembrandt Prints</i>. University of Michigan Museum of Art, Ann Arbor, MI (organizer) (October 23-November 20, 1960).",
+        "opening_date": "1960-10-23T04:00:00"
+      },
+      {
+        "id": 350269,
+        "title": "Prints and Drawings from the Cleveland Museum of Art Collection",
+        "description": "<i>Prints and Drawings from the Cleveland Museum of Art Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 6-September 9, 1965).",
+        "opening_date": "1965-05-06T04:00:00"
+      },
+      {
+        "id": 301359,
+        "title": "The Print Club of Cleveland, 1919 - 1969: Fifty Years in Review",
+        "description": "<i>The Print Club of Cleveland, 1919 - 1969: Fifty Years in Review</i>. The Cleveland Museum of Art, Cleveland, OH (January 14-March 31, 1970).",
+        "opening_date": "1970-01-14T05:00:00"
+      },
+      {
+        "id": 445594,
+        "title": "Rembrandt After 300 Years",
+        "description": "<i>Rembrandt After 300 Years</i>. The Detroit Institute of Arts, Detroit, MI (organizer) (February 25-April 5, 1970).",
+        "opening_date": "1970-02-25T05:00:00"
+      },
+      {
+        "id": 304516,
+        "title": "Eight Masters of the Print",
+        "description": "<i>Eight Masters of the Print</i>. The Cleveland Museum of Art, Cleveland, OH (October 14, 1980-January 18, 1981).",
+        "opening_date": "1980-10-14T04:00:00"
+      },
+      {
+        "id": 309856,
+        "title": "Prints by Rembrandt and His Circle",
+        "description": "<i>Prints by Rembrandt and His Circle</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 24-May 25, 1984).",
+        "opening_date": "1984-01-24T05:00:00"
+      },
+      {
+        "id": 311461,
+        "title": "Generous Donors: A Tribute to The Print Club of Cleveland",
+        "description": "<i>Generous Donors: A Tribute to The Print Club of Cleveland</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 2-August 4, 1991).",
+        "opening_date": "1991-04-02T05:00:00"
+      },
+      {
+        "id": 318307,
+        "title": "A Lasting Impression: Gifts of the Print Club of Cleveland",
+        "description": "<i>A Lasting Impression: Gifts of the Print Club of Cleveland</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 5-September 22, 2019).",
+        "opening_date": "2019-05-05T04:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Rembrandt’s prints with biblical subject matter often focus on Christ’s relationships with ordinary people. Here, he depicted Christ preaching in a humble village, with onlookers ranging from distracted children to turbaned merchants. Rembrandt worked more prolifically in etching than any artist before him, using it for about 300 prints. This work demonstrates the draftsman-like, sketchy technique he brought to the medium. In this impression, he allowed ink to remain on the plate’s surface during printing to create the dramatic shadows in the background, producing a contrast to the spiritual glow of light emanating from Christ.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80028403"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1958.306-christ-preaching-la"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Cleveland Museum of Art, “Rembrandt Print Given to Museum,” May 29, 1958, Cleveland Museum of Art Archives.",
+      "page_number": null,
+      "url": "https://archive.org/details/cmapr0266"
+    },
+    {
+      "citation": "Prasse, Leona E. “‘Christ Preaching’ by Rembrandt Van Rijn.” <em>The Bulletin of the Cleveland Museum of Art</em> 46, no. 3 (March 1959): 44–47.",
+      "page_number": "Mentioned and reproduced: p. 44-46",
+      "url": "http://www.jstor.org/stable/25142329"
+    },
+    {
+      "citation": "Benesch, Otto. “A Drawing by Rembrandt from His Last Years.” <em>The Bulletin of the Cleveland Museum of Art</em> 50, no. 3 (March 1963): 43–45.",
+      "page_number": "Mentioned and reproduced: p. 45, fig. 5",
+      "url": "http://www.jstor.org/stable/25151939"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 123",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n147"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 123",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n147"
+    },
+    {
+      "citation": "Milliken, William Mathewson. “Gifts to the Cleveland Museum of Art.” <em>The Bulletin of the Cleveland Museum of Art</em> 61, no. 10 (December 1974): 371–383.",
+      "page_number": "Reproduced: p. 380",
+      "url": "http://www.jstor.org/stable/25152561"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 159",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n179"
+    }
+  ],
+  "catalogue_raisonne": "Hollstein 67 (XVIII.34); Hinterding et al. 2000 68; White-Boon 67; NH(Rembrandt).II.269.298.ii",
+  "url": "https://clevelandart.org/art/1958.306",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1958.306/1958.306_web.jpg",
+      "width": "1180",
+      "height": "893",
+      "filesize": "960399",
+      "filename": "1958.306_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1958.306/1958.306_print.jpg",
+      "width": "3400",
+      "height": "2573",
+      "filesize": "7238549",
+      "filename": "1958.306_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1958.306/1958.306_full.tif",
+      "width": "5016",
+      "height": "3796",
+      "filesize": "57156028",
+      "filename": "1958.306_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Gift of The Print Club of Cleveland in honor of William Mathewson Milliken",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 135295,
+  "creators": [
+    {
+      "id": 2520,
+      "description": "Rembrandt van Rijn (Dutch, 1606–1669)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "birth_year": "1606",
+      "death_year": "1669",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1958-06-21T00:00:00",
+  "sortable_date": 1647,
+  "date_added_to_oa": null,
+  "date_text": "c. 1652",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "La Petite Tombe"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-09-16 11:22:31.473000"
+}

@@ -1,0 +1,201 @@
+{
+  "id": 136589,
+  "accession_number": "1961.151",
+  "share_license_status": "CC0",
+  "tombstone": "The Dead Christ with Angels, 1866–67. Édouard Manet (French, 1832–1883). Etching and aquatint; image: 32.9 x 38 cm (12 15/16 x 14 15/16 in.); plate: 39.4 x 32.9 cm (15 1/2 x 12 15/16 in.). The Cleveland Museum of Art, Gift of The Print Club of Cleveland, 1961.151",
+  "current_location": null,
+  "title": "The Dead Christ with Angels",
+  "creation_date": "1866–67",
+  "creation_date_earliest": 1866,
+  "creation_date_latest": 1867,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "France, 19th century"
+  ],
+  "technique": "etching and aquatint",
+  "support_materials": [],
+  "department": "Prints",
+  "collection": "PR - Etching",
+  "type": "Print",
+  "measurements": "Image: 32.9 x 38 cm (12 15/16 x 14 15/16 in.); Plate: 39.4 x 32.9 cm (15 1/2 x 12 15/16 in.)",
+  "dimensions": {
+    "image": {
+      "height": 0.329,
+      "height_inch": 12,
+      "height_inch_fraction": 0.9375,
+      "width": 0.38,
+      "width_inch": 14,
+      "width_inch_fraction": 0.9375
+    },
+    "plate": {
+      "height": 0.394,
+      "height_inch": 15,
+      "height_inch_fraction": 0.5,
+      "width": 0.329,
+      "width_inch": 12,
+      "width_inch_fraction": 0.9375
+    }
+  },
+  "state_of_the_work": "III/III",
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 302039,
+        "title": "Year in Review (1961)",
+        "description": "<i>Year in Review (1961)</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 1-26, 1961).",
+        "opening_date": "1961-11-01T05:00:00"
+      },
+      {
+        "id": 301359,
+        "title": "The Print Club of Cleveland, 1919 - 1969: Fifty Years in Review",
+        "description": "<i>The Print Club of Cleveland, 1919 - 1969: Fifty Years in Review</i>. The Cleveland Museum of Art, Cleveland, OH (January 14-March 31, 1970).",
+        "opening_date": "1970-01-14T05:00:00"
+      },
+      {
+        "id": 309571,
+        "title": "The Impressionist Aesthetic",
+        "description": "<i>The Impressionist Aesthetic</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 10-October 31, 1982).",
+        "opening_date": "1982-08-10T04:00:00"
+      },
+      {
+        "id": 309855,
+        "title": "I and Thou",
+        "description": "<i>I and Thou</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 21-May 27, 1984).",
+        "opening_date": "1984-02-21T05:00:00"
+      },
+      {
+        "id": 310008,
+        "title": "Real Prints: Reproduction or Invention",
+        "description": "<i>Real Prints: Reproduction or Invention</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 7-May 17, 1987).",
+        "opening_date": "1987-04-07T04:00:00"
+      },
+      {
+        "id": 311461,
+        "title": "Generous Donors: A Tribute to The Print Club of Cleveland",
+        "description": "<i>Generous Donors: A Tribute to The Print Club of Cleveland</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 2-August 4, 1991).",
+        "opening_date": "1991-04-02T05:00:00"
+      },
+      {
+        "id": 187619,
+        "title": "Inventive Impressions:  18th- and 19-Century French Prints",
+        "description": "<i>Inventive Impressions:  18th- and 19-Century French Prints</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 26-October 28, 2001).",
+        "opening_date": "2001-08-26T00:00:00"
+      },
+      {
+        "id": 318307,
+        "title": "A Lasting Impression: Gifts of the Print Club of Cleveland",
+        "description": "<i>A Lasting Impression: Gifts of the Print Club of Cleveland</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 5-September 22, 2019).",
+        "opening_date": "2019-05-05T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "The Cleveland Museum of Art; 8/26/01-10/28/01.  \"Inventive Impressions:  18th- and 19th-Century French Prints\".",
+        "opening_date": "2001-08-26T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(R.M. Light & Co., Inc., Santa Barbara, CA)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?-1961",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "August 19, 1961",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "This etching was the largest that Édouard Manet made.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Edouard Manet often reinterpreted his own paintings as prints, using various techniques to bring his work to a broader audience. Here, he relied on a combination of aquatint and repeating marks to realistically suggest Christ’s lifeless body in the tomb where he was placed following his crucifixion. The figure’s vacant gaze and the deep shadows behind him led critics to deride the work as grotesque in its realism. The etching was the largest Manet made and, perhaps as a result, only a few impressions—including the one seen here—were made from the plate.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80030614"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1961.151-the-dead-christ-with"
+    ]
+  },
+  "citations": [],
+  "catalogue_raisonne": "Harris 51",
+  "url": "https://clevelandart.org/art/1961.151",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1961.151/1961.151_web.jpg",
+      "width": "761",
+      "height": "893",
+      "filesize": "626144",
+      "filename": "1961.151_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1961.151/1961.151_print.jpg",
+      "width": "2896",
+      "height": "3400",
+      "filesize": "9080843",
+      "filename": "1961.151_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1961.151/1961.151_full.tif",
+      "width": "4335",
+      "height": "5090",
+      "filesize": "66232324",
+      "filename": "1961.151_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Gift of The Print Club of Cleveland",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 136589,
+  "creators": [
+    {
+      "id": 1796,
+      "description": "Édouard Manet (French, 1832–1883)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": "Born into a wealthy family, Édouard Manet was encouraged in his artistic curiosity by his uncle and often visited the Louvre with his college friend Antonin Proust. Initially, however, Manet wanted to pursue a naval career. It was not until he failed the entrance exams for the naval academy that he decided to pursue a career as an artist. In 1850 he entered the studio of Couture (q.v.), whose reputation had risen sharply after exhibiting his Romans of the Decadence (Salon 1847, Musée d'Orsay, Paris). Couture wanted to circumvent conventional academic training and combined traditional painting methods with new techniques-for example, allowing underpaint to form an intrinsic part of the final composition, which resulted in a sketchy appearance. Manet would absorb this technique into his work. He had no strict need to sell his artwork; rather, he longed for recognition as an artist. He responded to Charles Baudelaire's call to young artists to paint contemporary life rather than antiquity and take a distanced point of view, because, as Baudelaire stated in his article The Painter of Modern Life (published in Le Figaro, 1863), objectivity is more sincere and honest. In 1863 the Salon jury rejected more than half of the five thousand works submitted, including Manet's Déjeuner sur l'herbe (Musée d'Orsay, Paris). In response to the conservative jury of that year, Napoleon III, in an effort to appease the artists as well as discourage antigovernment sentiment, organized the Salon des Refusés, which took place in the Palais des Champs-Élysées two weeks after the opening of the official Salon. The painting caused a formidable succès de scandale both for its technique and subject matter. The majority of the people failed to understand that the artist wanted to translate the conventions of the Old Masters into a new idiom that would reflect contemporary society. Two years later the scandal was repeated when Manet's Olympia (Musée d'Orsay, Paris) was accepted into the Salon of 1865. This time the jury was more lenient because fewer academicians were among its members. Even though his work often received severe criticism, Manet continued to submit works to the Salon, which he felt was the only legitimate place to compete and prove himself as an artist. At the time of the Universal Exposition in Paris in 1867, Manet, following Courbet's (q.v.) lead set in 1855, organized his own pavilion next to the Exposition where he showed more than fifty paintings. Émile Zola, the French writer and critic who may have collaborated with Manet in writing the preface for his one-man exhibition, recognized his talent and modernity. Zola rejected academic painting of the day, including Alexandre Cabanel's (1823-1889) The Birth of Venus (Musée d'Orsay, Paris), which not only won the gold medal at the Salon of 1863 but was purchased by Napoleon III. Zola vehemently defended Manet against harsh criticism and exalted him as the greatest painter of the nineteenth century. Manet painted a portrait of Zola (Salon 1868, Musée d'Orsay, Paris) that reflected the artist's interest in Japanese prints as well as photography. By the 1870s Manet's palette had lightened and his brushwork became freer and more sketchy. These new features in his painting technique may have resulted from his contact with the younger impressionist group that began exhibiting as such in 1874. Although Manet was friendly with its members and sympathized with their goals, he never exhibited with them and continued to show his paintings at the official Salon. Manet was truly innovative in depicting subjects of urban life. However, during his lifetime he enjoyed little support, and it was not until the impressionists gained general recognition that Manet was acknowledged as a truly modern painter. Henri Matisse (1869-1954) would express his immense admiration for Manet as follows: \"He was the first to act by reflex, thus simplifying the painter's métier, . . . Manet was direct as could be.\"1 1. Matisse in L'Intransigeant (25 January 1932), cited in Manet 1832-1883, 18.",
+      "name_in_original_language": null,
+      "birth_year": "1832",
+      "death_year": "1883",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1961-08-19T00:00:00",
+  "sortable_date": 1866,
+  "date_added_to_oa": null,
+  "date_text": "1866–67",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:58:22.169000"
+}

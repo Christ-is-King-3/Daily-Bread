@@ -1,0 +1,317 @@
+{
+  "id": 97139,
+  "accession_number": "1916.779",
+  "share_license_status": "CC0",
+  "tombstone": "Virgin and Child, c. 1500. Circle of Leonardo da Vinci (Italian, 1452–1519). Oil on wood; framed: 57.5 x 47 x 4 cm (22 5/8 x 18 1/2 x 1 9/16 in.); painted surface: 41.5 x 30.3 cm (16 5/16 x 11 15/16 in.); panel: 41.7 x 30.9 cm (16 7/16 x 12 3/16 in.). The Cleveland Museum of Art, Holden Collection, 1916.779",
+  "current_location": null,
+  "title": "Virgin and Child",
+  "creation_date": "c. 1500",
+  "creation_date_earliest": 1495,
+  "creation_date_latest": 1505,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "Italy, early 16th Century"
+  ],
+  "technique": "oil on wood",
+  "support_materials": [],
+  "department": "European Painting and Sculpture",
+  "collection": "P - Italian 15th Century and earlier",
+  "type": "Painting",
+  "measurements": "Framed: 57.5 x 47 x 4 cm (22 5/8 x 18 1/2 x 1 9/16 in.); Painted surface: 41.5 x 30.3 cm (16 5/16 x 11 15/16 in.); Panel: 41.7 x 30.9 cm (16 7/16 x 12 3/16 in.)",
+  "dimensions": {
+    "framed": {
+      "height": 0.575,
+      "height_inch": 22,
+      "height_inch_fraction": 0.625,
+      "width": 0.47,
+      "width_inch": 18,
+      "width_inch_fraction": 0.5,
+      "depth": 0.04,
+      "depth_inch": 1,
+      "depth_inch_fraction": 0.5625
+    },
+    "painted surface": {
+      "height": 0.415,
+      "height_inch": 16,
+      "height_inch_fraction": 0.3125,
+      "width": 0.303,
+      "width_inch": 11,
+      "width_inch_fraction": 0.9375
+    },
+    "panel": {
+      "height": 0.417,
+      "height_inch": 16,
+      "height_inch_fraction": 0.4375,
+      "width": 0.309,
+      "width_inch": 12,
+      "width_inch_fraction": 0.1875
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 312517,
+        "title": "The Twentieth Anniversary Exhibition: The Official Art Exhibit of the Great Lakes Exposition",
+        "description": "<i>The Twentieth Anniversary Exhibition: The Official Art Exhibit of the Great Lakes Exposition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 26-October 4, 1936).",
+        "opening_date": "1936-06-26T04:00:00"
+      },
+      {
+        "id": 355548,
+        "title": "Exhibition of the Month: The Rise of the Landscape in Art",
+        "description": "<i>Exhibition of the Month: The Rise of the Landscape in Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 9-September 26, 1948).",
+        "opening_date": "1948-06-09T04:00:00"
+      },
+      {
+        "id": 708847,
+        "title": "Leonardo and His School",
+        "description": "<i>Leonardo and His School</i>. Los Angeles County Museum of Art, Los Angeles, CA (organizer) (June 1-July 15, 1949).",
+        "opening_date": "1949-06-01T04:00:00"
+      },
+      {
+        "id": 302205,
+        "title": "Art and Humanism in the Renaissance",
+        "description": "<i>Art and Humanism in the Renaissance</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 23-February 25, 1962).",
+        "opening_date": "1962-01-23T05:00:00"
+      },
+      {
+        "id": 311444,
+        "title": "Object Lessons: Cleveland Creates an Art Museum",
+        "description": "<i>Object Lessons: Cleveland Creates an Art Museum</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 7-September 8, 1991).",
+        "opening_date": "1991-06-07T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "Institute of Fine Arts, New York, NY (1860).",
+        "opening_date": "1860-01-01T04:56:02Z"
+      },
+      {
+        "description": "<em>American Exhibition of Foreign Products, Arts and Manufacturers</em>. Mechanics Hall, Boston, MA (September 3, 1883-January 12, 1884).",
+        "opening_date": "1883-09-03T04:56:02Z"
+      },
+      {
+        "description": "<em>Cleveland Art Loan Exhibition</em>. Hickox Building, Cleveland, OH (January 1894).",
+        "opening_date": "1894-01-01T05:00:00Z"
+      },
+      {
+        "description": "<em>Loan Exhibition of the Holden Collection</em>. The Metropolitan Museum of Art, New York, NY (October 1912).",
+        "opening_date": "1912-10-01T00:00:00"
+      },
+      {
+        "description": "<em>The Inaugural Exhibition of The Cleveland Museum of Ar</em>t. Cleveland Museum of Art, Cleveland, OH (June 6-September 20,1916).",
+        "opening_date": "1916-06-06T05:00:00Z"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Leopoldo Franceschi (San Miniatello, Italy), after his death, acquired by a carpenter named Monta",
+      "citations": [],
+      "footnotes": [],
+      "date": null,
+      "sortorder": 1
+    },
+    {
+      "description": "Monta (Florence, Italy), after his death, by inheritance to his heirs",
+      "citations": [],
+      "footnotes": [],
+      "date": null,
+      "sortorder": 2
+    },
+    {
+      "description": "Heirs of Monta, sold to Vincenzo Corsi, Florence, 1857",
+      "citations": [],
+      "footnotes": [],
+      "date": "-1857",
+      "sortorder": 3
+    },
+    {
+      "description": "Vincenzo Corsi (Florence, Italy), sold to James Jackson Jarves, 1858",
+      "citations": [],
+      "footnotes": [],
+      "date": "1857-1858",
+      "sortorder": 4
+    },
+    {
+      "description": "James Jackson Jarves [1818-1888] sold to Mrs. Liberty E. Holden",
+      "citations": [],
+      "footnotes": [],
+      "date": "1858-1884",
+      "sortorder": 5
+    },
+    {
+      "description": "Mrs. Liberty E. Holden [1838-1932] Cleveland, OH, by gift to the Cleveland Museum of Art, 1916.",
+      "citations": [],
+      "footnotes": [],
+      "date": "1884-1916",
+      "sortorder": 6
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1916-",
+      "sortorder": 7
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Madonna and Child appear in half-length, seated against a dark wall. The Child's body is covered in shadow as he looks over his shoulder at his mother. This painting was bought by James Jackson Jarves as a Leonardo. The landscape and features of the figures are similar to Leonardo's <em>Madonna of the Rocks</em>, and in typical Leonardesque fashion, the figures' heads incline slightly to the left. However, <em>Virgin and Child</em> was later attributed to a member of Leonardo's circle named Francesco Napolitano (active 1500) because of its resemblance to his <em>Madonna and Child with St. Sebastian and St. John the Baptist</em> in Zurich, Switzerland. <em>Virgin and Child</em> has not been widely accepted as a work of Napolitano; however, he was certainly a member of Leonardo's circle. The Sforzesco Castle, the seat of Milan's ruling Sforza family, appears in the background. The castle's original Torre del Filarete, visible in this painting, was destroyed by lightning in 1521 and later rebuilt by Francesco II Sforza. The destruction of the tower establishes a date of about 1500 for this painting.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60502569"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1916.779-virgin-and-child"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Jarves, James Jackson. <em>Art Studies: The \"Old Masters\" of Italy : Painting</em>. 1861.",
+      "page_number": "Reproduced: p. 388",
+      "url": null
+    },
+    {
+      "citation": "Hollenden Gallery, James Jackson Jarves, and Liberty Emery Holden. <em>Handbook for Visitors to the Hollenden Gallery of Masters: Exhibited at the Boston Foreign Art Exhibition in 1883-4</em>. S.l: J.J. Jarves, 1883.",
+      "page_number": "Mentioned:  p. 17-22",
+      "url": null
+    },
+    {
+      "citation": "Rubinstein-Bloch, Stella. <em>Catalogue of a Collection of Paintings, Etc. Presented by Mrs. Liberty E. Holden to the Cleveland Museum of Art. </em>Cleveland: The Cleveland Museum of Art, 1917.",
+      "page_number": "Mentioned: p. 38-39, cat. no. 43; Reproduced: p. 67, No. 43",
+      "url": "https://archive.org/details/Holden_80856/page/n48"
+    },
+    {
+      "citation": "G. U. \"The Holden Collection.\" <em>The Bulletin of the Cleveland Museum of Art</em> 4, no. 2 (1917): 19-34.",
+      "page_number": "Mentioned: p. 20",
+      "url": "http://www.jstor.org/stable/25136067"
+    },
+    {
+      "citation": "Malaguzzi Valeri, Francesco. <em>La corte di Lodovico il Moro</em>. Milano, Italy: Hoepli, 1929. .",
+      "page_number": "Reproduced: p. 44, no. 1",
+      "url": null
+    },
+    {
+      "citation": "Bernard Berenson, Italian Pictures of the Reniassance, A List of the Principal Artists and Their Works with an Index of Places (Oxford, 1932).",
+      "page_number": "Reproduced: p. 205",
+      "url": null
+    },
+    {
+      "citation": "Francis, Henry. \"The Holden Francesco Napolitano.\" <em>The Bulletin of the Cleveland Museum of Art </em>22, no. 10 (December 1935): 156-159.",
+      "page_number": "Reproduced: front cover; Mentioned: p. 156-159",
+      "url": "jstor.org/stable/25137731"
+    },
+    {
+      "citation": "Steegmuller, Francis. <em>The Two Lives of James Jackson Jarves</em>. New Haven, CT: Yale University Press, 1951.",
+      "page_number": "Mentioned: p. 223-224; Reproduced: p. 285",
+      "url": null
+    },
+    {
+      "citation": "Berenson, Bernard. <em>Italian Pictures of the Renaissance: A List of the Principal Artists and Their Works with an Index of Places : Central Italian and North Italian Schools</em>. London, United Kingdom: Phaidon, 1968. .",
+      "page_number": "Reproduced: p. 144",
+      "url": null
+    },
+    {
+      "citation": "Fredericksen, Burton B., and Federico Zeri. <em>Census of Pre-Nineteenth-Century Italian Paintings in North American Public Collections</em>. Cambridge, MA: Harvard University Press, 1972. ..",
+      "page_number": "Mentioned: p. 73-74; Reproduced: p. 322",
+      "url": null
+    },
+    {
+      "citation": "Olszewski, Edward J., and Jane Glaubinger. <em>The Draftsman's Eye: Late Italian Renaissance Schools and Styles</em>. Cleveland, OH: Published by the Cleveland Museum of Art in cooperation with the Indiana University Press, 1981.",
+      "page_number": "Reproduced: p. 144",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Catalogue of Paintings, Part 3: European Paintings of the 16th, 17th, and 18th Centuries</em>. Cleveland, OH: The Cleveland Museum of Art, 1982.",
+      "page_number": "Mentioned: p. 380; Reproduced: p. 381",
+      "url": null
+    },
+    {
+      "citation": "Trutty-Coohill, Patricia. <em>Studies in the School of Leonardo Da Vinci: Paintings in Public Collections in the United States with a Chronology of the Catalogue of Auction Sales</em>. 1982.",
+      "page_number": "Mentioned and reproduced: p. 111-115",
+      "url": null
+    },
+    {
+      "citation": "Chong, Alan, “Cleveland Collectors a Century Ago”, Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 36 no. 05, May 1996",
+      "page_number": "Mentioned & reproduced: p. 8",
+      "url": "https://archive.org/details/CMAMM1996-05/page/n7"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1916.779",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1916.779/1916.779_web.jpg",
+      "width": "647",
+      "height": "893",
+      "filesize": "392539",
+      "filename": "1916.779_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1916.779/1916.779_print.jpg",
+      "width": "2464",
+      "height": "3400",
+      "filesize": "5693375",
+      "filename": "1916.779_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1916.779/1916.779_full.tif",
+      "width": "3623",
+      "height": "5000",
+      "filesize": "54368260",
+      "filename": "1916.779_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Holden Collection",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 97139,
+  "creators": [
+    {
+      "id": 62805,
+      "description": "Leonardo da Vinci (Italian, 1452–1519)",
+      "extent": null,
+      "qualifier": "circle of",
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "birth_year": "1452",
+      "death_year": "1519",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1916-06-22T00:00:00",
+  "sortable_date": 1495,
+  "date_added_to_oa": null,
+  "date_text": "c. 1500",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Madonna and Child"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 05:14:08.508000"
+}

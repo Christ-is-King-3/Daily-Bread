@@ -1,0 +1,185 @@
+{
+  "id": 124809,
+  "accession_number": "1946.288",
+  "share_license_status": "CC0",
+  "tombstone": "The Resurrection of Christ, c. 1902. John La Farge (American, 1835–1910). Watercolor and gouache; partial framing lines in graphite; sheet: 44.9 x 31.4 cm (17 11/16 x 12 3/8 in.); secondary support: 45.6 x 31.4 cm (17 15/16 x 12 3/8 in.). The Cleveland Museum of Art, In memory of Ralph King, gift of Mrs. Ralph King; Ralph T. Woods, Charles G. King; and Frances King Schafer, 1946.288",
+  "current_location": null,
+  "title": "The Resurrection of Christ",
+  "creation_date": "c. 1902",
+  "creation_date_earliest": 1897,
+  "creation_date_latest": 1907,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "America"
+  ],
+  "technique": "watercolor and gouache; partial framing lines in graphite",
+  "support_materials": [
+    {
+      "description": "beige(2) wove paper, laid down on cream(3) board",
+      "watermarks": []
+    }
+  ],
+  "department": "Drawings",
+  "collection": "DR - American 19th Century",
+  "type": "Drawing",
+  "measurements": "Sheet: 44.9 x 31.4 cm (17 11/16 x 12 3/8 in.); Secondary Support: 45.6 x 31.4 cm (17 15/16 x 12 3/8 in.)",
+  "dimensions": {
+    "sheet": {
+      "height": 0.449,
+      "height_inch": 17,
+      "height_inch_fraction": 0.6875,
+      "width": 0.314,
+      "width_inch": 12,
+      "width_inch_fraction": 0.375
+    },
+    "secondary support": {
+      "height": 0.456,
+      "height_inch": 17,
+      "height_inch_fraction": 0.9375,
+      "width": 0.314,
+      "width_inch": 12,
+      "width_inch_fraction": 0.375
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "lower left, in graphite: 7 1/2 x 14 3/4 [sideways]",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    },
+    {
+      "inscription": "verso, secondary support, center,  in graphite: 9999 [underlined]",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 311950,
+        "title": "Contemporary Drawings",
+        "description": "<i>Contemporary Drawings</i>. The Cleveland Museum of Art, Cleveland, OH (January 24-February 12, 1950).",
+        "opening_date": "1950-01-24T05:00:00"
+      },
+      {
+        "id": 191183,
+        "title": "American Drawings from the Permanent Collection",
+        "description": "<i>American Drawings from the Permanent Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 19-July 12, 1998).",
+        "opening_date": "1998-04-19T00:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Fanny Thrall Tewksbury King [1867-1949], Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "?-1946",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "November 25, 1946",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This watercolor is a study for the figure of Christ in a stained glass window La Farge designed for the west wall of the north transept of Trinity Church in Boston.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79902816"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1946.288-the-resurrection-of"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Francis, Henry. \"Paintings.\" <em>The Bulletin of the Cleveland Museum of Art </em>34, no. 2 (February 1947): 24.<br><br>Published as <em>Allegorical Figure</em>",
+      "page_number": "Mentioned: p. 24; Reproduced: p. 27",
+      "url": "https://www.jstor.org/stable/25141339"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1946.288",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1946.288/1946.288_web.jpg",
+      "width": "611",
+      "height": "893",
+      "filesize": "75515",
+      "filename": "1946.288_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1946.288/1946.288_print.jpg",
+      "width": "2327",
+      "height": "3400",
+      "filesize": "1260037",
+      "filename": "1946.288_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1946.288/1946.288_full.tif",
+      "width": "5093",
+      "height": "7439",
+      "filesize": "113682472",
+      "filename": "1946.288_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "In memory of Ralph King, gift of Mrs. Ralph King; Ralph T. Woods, Charles G. King; and Frances King Schafer",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 124809,
+  "creators": [
+    {
+      "id": 4047,
+      "description": "John La Farge (American, 1835–1910)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "birth_year": "1835",
+      "death_year": "1910",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1946-11-25T00:00:00",
+  "sortable_date": 1897,
+  "date_added_to_oa": null,
+  "date_text": "c. 1902",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Allegorical Figure"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:26:18.538000"
+}

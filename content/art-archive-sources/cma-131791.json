@@ -1,0 +1,304 @@
+{
+  "id": 131791,
+  "accession_number": "1954.367",
+  "share_license_status": "CC0",
+  "tombstone": "The Conversion of Saul with Christ and the Cross, c. 1645–47. Jacob Jordaens (Flemish, 1593–1678). Brush and brown wash, gouache and watercolor over black and red chalk, heightened with traces of white; framing lines in graphite; sheet: 33 x 19.9 cm (13 x 7 13/16 in.). The Cleveland Museum of Art, Delia E. Holden and L. E. Holden Funds, 1954.367",
+  "current_location": null,
+  "title": "The Conversion of Saul with Christ and the Cross",
+  "creation_date": "c. 1645–47",
+  "creation_date_earliest": 1645,
+  "creation_date_latest": 1647,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "Flanders"
+  ],
+  "technique": "brush and brown wash, gouache and watercolor over black and red chalk, heightened with traces of white; framing lines in graphite",
+  "support_materials": [
+    {
+      "description": "two sheets (joined) of cream(3) laid paper, laid down on beige(1) laid paper",
+      "watermarks": []
+    }
+  ],
+  "department": "Drawings",
+  "collection": "DR - Flemish",
+  "type": "Drawing",
+  "measurements": "Sheet: 33 x 19.9 cm (13 x 7 13/16 in.)",
+  "dimensions": {
+    "sheet": {
+      "height": 0.33,
+      "height_inch": 13,
+      "height_inch_fraction": 0.0,
+      "width": 0.199,
+      "width_inch": 7,
+      "width_inch_fraction": 0.8125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "lower right, in brown ink: Jordaens",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 301184,
+        "title": "Department of Prints and Drawings Opening Exhibition",
+        "description": "<i>Department of Prints and Drawings Opening Exhibition</i>. The Cleveland Museum of Art (organizer) (March 3, 1958-October 11, 1959).",
+        "opening_date": "1958-03-03T05:00:00"
+      },
+      {
+        "id": 301689,
+        "title": "Drawings from the Museum Collection: 15th-17th Centuries",
+        "description": "<i>Drawings from the Museum Collection: 15th-17th Centuries</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 18-October 11, 1960).",
+        "opening_date": "1960-05-18T04:00:00"
+      },
+      {
+        "id": 304645,
+        "title": "Drawings",
+        "description": "<i>Drawings</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 11-September 10, 1963).",
+        "opening_date": "1963-01-11T05:00:00"
+      },
+      {
+        "id": 350002,
+        "title": "Old Master Drawings",
+        "description": "<i>Old Master Drawings</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 10-31, 1964).",
+        "opening_date": "1964-03-10T05:00:00"
+      },
+      {
+        "id": 350931,
+        "title": "Drawings: France, Italy, Netherlands",
+        "description": "<i>Drawings: France, Italy, Netherlands</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 1-March 24, 1965).",
+        "opening_date": "1965-01-01T05:00:00"
+      },
+      {
+        "id": 350269,
+        "title": "Prints and Drawings from the Cleveland Museum of Art Collection",
+        "description": "<i>Prints and Drawings from the Cleveland Museum of Art Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 6-September 9, 1965).",
+        "opening_date": "1965-05-06T04:00:00"
+      },
+      {
+        "id": 350752,
+        "title": "Old Master Prints and Drawings",
+        "description": "<i>Old Master Prints and Drawings</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 29, 1966-February 28, 1967).",
+        "opening_date": "1966-07-29T04:00:00"
+      },
+      {
+        "id": 351015,
+        "title": "Prints and Drawings from the Museum Collection",
+        "description": "<i>Prints and Drawings from the Museum Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 29-June 6, 1967).",
+        "opening_date": "1967-03-29T05:00:00"
+      },
+      {
+        "id": 351065,
+        "title": "Drawings from the Museum Collection",
+        "description": "<i>Drawings from the Museum Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 9, 1967-January 1, 1968).",
+        "opening_date": "1967-06-09T04:00:00"
+      },
+      {
+        "id": 361417,
+        "title": "Jacob Jordaens 1593-1678",
+        "description": "<i>Jacob Jordaens 1593-1678</i>. National Gallery of Canada, Ottawa, Ont.,, Canada (organizer) (November 29, 1968-January 5, 1969).",
+        "opening_date": "1968-11-29T05:00:00"
+      },
+      {
+        "id": 309575,
+        "title": "Seventeenth Century Netherlandish Graphics",
+        "description": "<i>Seventeenth Century Netherlandish Graphics</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 27-August 1, 1982).",
+        "opening_date": "1982-04-27T04:00:00"
+      },
+      {
+        "id": 309584,
+        "title": "Northern European Drawings from the Cleveland Museum of Art",
+        "description": "<i>Northern European Drawings from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 16, 1982-January 9, 1983).",
+        "opening_date": "1982-11-16T05:00:00"
+      },
+      {
+        "id": 309655,
+        "title": "National Schools of Style",
+        "description": "<i>National Schools of Style</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 14-September 18, 1983).",
+        "opening_date": "1983-06-14T04:00:00"
+      },
+      {
+        "id": 311734,
+        "title": "Treasures on Paper",
+        "description": "<i>Treasures on Paper</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 10-July 24, 1988).",
+        "opening_date": "1988-05-10T04:00:00"
+      },
+      {
+        "id": 311561,
+        "title": "Flemish Drawings in the Age of Rubens: Selected Works from American Collections",
+        "description": "<i>Flemish Drawings in the Age of Rubens: Selected Works from American Collections</i>. The Cleveland Museum of Art, Cleveland, OH (January 4-February 20, 1994).",
+        "opening_date": "1994-01-04T05:00:00"
+      },
+      {
+        "id": 192019,
+        "title": "Master Drawings from the Cleveland Museum of Art",
+        "description": "<i>Master Drawings from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 27-October 17, 2000); The Morgan Library & Museum, New York, NY (May 23-August 19, 2001); Museum of Fine Arts, Houston, Houston, TX (October 14, 2001-January 6, 2002).",
+        "opening_date": "2000-08-27T00:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Duke Albert of Sachsen-Teschen (according to cma files). Graphische Sammlung Albertina, Vienna (Lugt 1259-60, not stamped, according to cma files). Otto Burchard (according to cma files). [Heinrich Eisemann, London].",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "In order to create the arch at the top of this sheet, which is almost a foot high, the artist added an additional sheet of paper.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Jacob Jordaens was a prominent artist working in Antwerp in the 17th century. Though influenced in his use of powerful forms and vibrant color by his contemporary, Peter Paul Rubens, Jordaens was notably more realist in his tendencies. This drawing and its companion drawing in the Cleveland Museum of Art's collection (1954.366) are very likely studies for a painting depicting the Conversion of Saint Paul that Jordaens made for the the abbey church at Tongerlo, near Antwerp, in around 1647 (now lost). According to the Bible, in the year following the death of Jesus Christ, Saul of Tarsus (who became Saint Paul) was on the road to Damascus. He was suddenly surrounded by a brilliant light from above, heard the voice of Christ, and became a believer. In this work, Saul appears to have been blinded by the force of Christ's voice and heavenly light. Jordaens used a combination of chalks and wet media such as ink and watercolor to create a swirling mass of bodies bathed in light.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80023384"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1954.367-the-conversion-of-sa"
+    ]
+  },
+  "citations": [
+    {
+      "citation": null,
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Hulst, Roger Adolf d'. De tekeningen van Jakob Jordaens: bijdrage tot de geschiedenis van de XVIIe-eeuwse kunst in de zuidelijke Nederlanden. Brussel: AWlsk, Paleis der academiën, 1956.",
+      "page_number": "nno. 129, p. 374",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 586",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n109"
+    },
+    {
+      "citation": "Roberts-Jones, Philippe, and Leo Van Puyvelde. <em>Le siècle de Rubens.</em> Museés royaux des beaux-arts de Belgique, Bruxelles. 1965.",
+      "page_number": "Mentioned and Reproduced: p. 306, no. 332",
+      "url": null
+    },
+    {
+      "citation": "Roberts-Jones, Philippe. De eeuw van Rubens. Koninklijke Musea voor Schone Kunsten van België, Brussel, 15 oktober-12 december 1965. Brussel: Patrimonium van de Koninklijke Musea voor Schone Kunsten van België, 1965.",
+      "page_number": "no. 332, p. 306",
+      "url": null
+    },
+    {
+      "citation": "Musées royaux des beaux-arts de Belgique. Le siècle de Rubens. [Exposition] Museés royaux des beaux-arts de Belgique, Bruxelles, 15 octobre-12 décembre 1965. 1965.",
+      "page_number": "no. 332, p. 306",
+      "url": null
+    },
+    {
+      "citation": "Jaffé, Michael. \"Jordaens Drawings at Antwerp and Rotterdam.\" <em>The Burlington Magazine</em> 108, no. 765 (1966): 625-30.",
+      "page_number": "p. 626",
+      "url": "www.jstor.org/stable/875111."
+    },
+    {
+      "citation": "Cleveland Museum of Art. Selected Works: Cleveland Museum of Art. 1967.",
+      "page_number": "no. 164",
+      "url": null
+    },
+    {
+      "citation": "Jaffé, Michael. <em>Jacob Jordaens 1593-1678.</em> Ottawa: National Gallery of Canada, 1968.",
+      "page_number": "No. 228, p. 204, p. 368,",
+      "url": null
+    },
+    {
+      "citation": "Logan, Anne-Marie S. Flemish Drawings in the Age of Rubens: <em>Selected Works from American Collections.</em> Wellesley, Mass: Davis Museum and Cultural Center, Wellesley College, 1993.",
+      "page_number": "Mentioned and Reproduced: p. 171, no. 32.",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art, Diane DeGrazia, and Carter E. Foster. <em>Master Drawings from the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art in association with Rizzoli International Publications, New York, 2000.",
+      "page_number": "Mentioned: cat. no. 73, pp. 176-179, p. 294",
+      "url": null
+    },
+    {
+      "citation": "Francis, Henry S. \"The Conversion of St. Paul by Jacob Jordaens Two Drawings in Washes and Chalks.\" <em>The Bulletin of the Cleveland Museum of Art</em> 44, no. 2 (1957): 19-22.",
+      "page_number": null,
+      "url": "www.jstor.org/stable/25142183."
+    }
+  ],
+  "url": "https://clevelandart.org/art/1954.367",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1954.367/1954.367_web.jpg",
+      "width": "564",
+      "height": "893",
+      "filesize": "417140",
+      "filename": "1954.367_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1954.367/1954.367_print.jpg",
+      "width": "2149",
+      "height": "3400",
+      "filesize": "5903180",
+      "filename": "1954.367_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1954.367/1954.367_full.tif",
+      "width": "4050",
+      "height": "6406",
+      "filesize": "77863528",
+      "filename": "1954.367_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Delia E. Holden and L. E. Holden Funds",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 131791,
+  "creators": [
+    {
+      "id": 2824,
+      "description": "Jacob Jordaens (Flemish, 1593–1678)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "birth_year": "1593",
+      "death_year": "1678",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1954-06-04T00:00:00",
+  "sortable_date": 1645,
+  "date_added_to_oa": null,
+  "date_text": "c. 1645–47",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": true,
+  "impression": null,
+  "alternate_titles": [
+    "Christ Triumphant appearing at the Conversion of Saint Paul",
+    "The Conversion of St. Paul with Christ and the Cross"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:47:31.103000"
+}

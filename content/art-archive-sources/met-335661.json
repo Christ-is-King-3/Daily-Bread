@@ -1,0 +1,83 @@
+{
+  "objectID": 335661,
+  "isHighlight": false,
+  "accessionNumber": "66.53.7",
+  "accessionYear": "1966",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP802213.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP802213.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162016,
+      "role": "Artist",
+      "name": "After Jacob Jordaens",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012431",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q270658",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Adoration of the Shepherds",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "After",
+  "artistDisplayName": "Jacob Jordaens",
+  "artistDisplayBio": "Flemish, Antwerp 1593–1678 Antwerp",
+  "artistSuffix": "",
+  "artistAlphaSort": "Jordaens, Jacob",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1593",
+  "artistEndDate": "1678",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q270658",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012431",
+  "objectDate": "17th century",
+  "objectBeginDate": 1605,
+  "objectEndDate": 1678,
+  "medium": "Pen and brown ink, brush and brown wash, over black chalk; framing lines in pen and black ink",
+  "dimensions": "9 13/16 x 8 3/16 in.  (24.9 x 20.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 24.9,
+        "Width": 20.8
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1966",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/335661",
+  "tags": [
+    {
+      "term": "Adoration of the Shepherds",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000229",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1029715"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

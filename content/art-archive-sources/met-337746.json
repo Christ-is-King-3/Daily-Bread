@@ -1,0 +1,83 @@
+{
+  "objectID": 337746,
+  "isHighlight": false,
+  "accessionNumber": "31.54.118",
+  "accessionYear": "1931",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP813496.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP813496.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 91690,
+      "role": "Artist",
+      "name": "Anonymous, German, Swabian Region, late 15th century",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "The Annunciation",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Anonymous, German, Swabian Region, late 15th century",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Anonymous, German, Swabian Region, late 15th century",
+  "artistNationality": "German",
+  "artistBeginDate": "1400",
+  "artistEndDate": "1500",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1460–70",
+  "objectBeginDate": 1450,
+  "objectEndDate": 1500,
+  "medium": "Woodcut, hand-colored",
+  "dimensions": "Sheet: 8 3/8 × 5 5/8 in. (21.2 × 14.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 21.2,
+        "Width": 14.3
+      }
+    }
+  ],
+  "creditLine": "Bequest of James Clark McGuire, 1930",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-08-06T04:51:07.753Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/337746",
+  "tags": [
+    {
+      "term": "Annunciation",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

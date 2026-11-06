@@ -1,0 +1,207 @@
+{
+  "id": 110123,
+  "accession_number": "1928.750",
+  "share_license_status": "CC0",
+  "tombstone": "The Good Samaritan, 1861. Rodolphe Bresdin (French, 1822–1885), Lemercier. Lithograph; image: 56.7 x 44.3 cm (22 5/16 x 17 7/16 in.). The Cleveland Museum of Art, Gift of Mrs. George A. Martin, 1928.750",
+  "current_location": null,
+  "title": "The Good Samaritan",
+  "creation_date": "1861",
+  "creation_date_earliest": 1861,
+  "creation_date_latest": 1861,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "France, Paris"
+  ],
+  "technique": "lithograph",
+  "support_materials": [
+    {
+      "description": "chine appliqué",
+      "watermarks": []
+    }
+  ],
+  "department": "Prints",
+  "collection": "PR - Lithograph",
+  "type": "Print",
+  "measurements": "Image: 56.7 x 44.3 cm (22 5/16 x 17 7/16 in.)",
+  "dimensions": {
+    "image": {
+      "height": 0.567,
+      "height_inch": 22,
+      "height_inch_fraction": 0.3125,
+      "width": 0.443,
+      "width_inch": 17,
+      "width_inch_fraction": 0.4375
+    }
+  },
+  "state_of_the_work": "i/ii",
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "lower left, in stone: Rodolphe Bresdin 1861 (in reverse); lower center, printed: Imp. Lemercier, Paris; center, in plate: RB (within image)",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 338065,
+        "title": "French Art Since Eighteen Hundred",
+        "description": "<i>French Art Since Eighteen Hundred</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 8-December 8, 1929).",
+        "opening_date": "1929-11-08T05:00:00"
+      },
+      {
+        "id": 357312,
+        "title": "Prints of the Fifteenth to Twentieth Century from the Museum Collection",
+        "description": "<i>Prints of the Fifteenth to Twentieth Century from the Museum Collection</i>. The Cleveland Museum of Art, Cleveland, OH (June 5-September 12, 1934).",
+        "opening_date": "1934-06-05T04:00:00"
+      },
+      {
+        "id": 312341,
+        "title": "The Silver Jubilee Exhibition",
+        "description": "<i>The Silver Jubilee Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 23-September 28, 1941).",
+        "opening_date": "1941-06-23T04:00:00"
+      },
+      {
+        "id": 301184,
+        "title": "Department of Prints and Drawings Opening Exhibition",
+        "description": "<i>Department of Prints and Drawings Opening Exhibition</i>. The Cleveland Museum of Art (organizer) (March 3, 1958-October 11, 1959).",
+        "opening_date": "1958-03-03T05:00:00"
+      },
+      {
+        "id": 310015,
+        "title": "Animals as Romantic Icons in French Art",
+        "description": "<i>Animals as Romantic Icons in French Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 6-July 27, 1986).",
+        "opening_date": "1986-04-06T04:00:00"
+      },
+      {
+        "id": 311457,
+        "title": "Symbolist Prints",
+        "description": "<i>Symbolist Prints</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 5, 1991-January 12, 1992).",
+        "opening_date": "1991-11-05T05:00:00"
+      },
+      {
+        "id": 187619,
+        "title": "Inventive Impressions:  18th- and 19-Century French Prints",
+        "description": "<i>Inventive Impressions:  18th- and 19-Century French Prints</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 26-October 28, 2001).",
+        "opening_date": "2001-08-26T00:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "The Cleveland Museum of Art; 8/26/01-10/28/01.  \"Inventive Impressions:  18th- and 19th-Century French Prints,\" no catalogue.",
+        "opening_date": "2001-08-26T00:00:00"
+      }
+    ]
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Rodolphe Bresdin was known in his time as \"Chien-Caillou\" after the impoverished artist who served as the protagonist in an 1845 novel with the same title.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This is a highly original treatment of the biblical story of a Jewish man who had been beaten, stripped, robbed, and left for dead, and the Samaritan who helped him. This kind act is all the more heroic considering the great hatred between the Samaritans and Jews (each claimed to be the exclusive descendants of Abraham and Moses). The small scene in the center of the large sheet is surrounded by an exuberant landscape teeming with an unrealistic assortment of tropical and nontropical plants and a variety of peering animals. Bresdin used a pen and lithographic ink to detail the fauna and flora of his extraordinary imagination. However, these bizarre visions were appreciated during his lifetime by only a select circle primarily comprising inventive writers such as Victor Hugo (1802–1885) and Charles Baudelaire (1821–1867).",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80002433"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1928.750-the-good-samaritan"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "\"Some Phases of the Romantic Movement.\" <em>The Bulletin of the Cleveland Museum of Art </em>16, no. 3 (March 1929): 43-46, 49-51",
+      "page_number": "Mentioned: p. 46; Reproduced: p. 49",
+      "url": "https://www.jstor.org/stable/25137194"
+    },
+    {
+      "citation": "<em>Catalogue of an exhibition of the art of lithography: commemorating the sesquicentennial of its invention, 1798-1948</em>. [Cleveland]: The Cleveland Museum of Art, November 11, 1948-January 2, 1949.",
+      "page_number": "Mentioned: p. 22",
+      "url": "https://archive.org/details/Lithography/page/n29"
+    }
+  ],
+  "catalogue_raisonne": "van Gelder 100",
+  "url": "https://clevelandart.org/art/1928.750",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1928.750/1928.750_web.jpg",
+      "width": "713",
+      "height": "900",
+      "filesize": "309603",
+      "filename": "1928.750_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1928.750/1928.750_print.jpg",
+      "width": "2694",
+      "height": "3400",
+      "filesize": "4179353",
+      "filename": "1928.750_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1928.750/1928.750_full.tif",
+      "width": "5273",
+      "height": "6656",
+      "filesize": "105325092",
+      "filename": "1928.750_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Gift of Mrs. George A. Martin",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 110123,
+  "creators": [
+    {
+      "id": 25686,
+      "description": "Rodolphe Bresdin (French, 1822–1885)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "birth_year": "1822",
+      "death_year": "1885",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    },
+    {
+      "id": 68489,
+      "description": "Lemercier",
+      "extent": "published by",
+      "qualifier": null,
+      "role": "publisher",
+      "biography": null,
+      "name_in_original_language": null,
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 2
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1928-12-17T00:00:00",
+  "sortable_date": 1861,
+  "date_added_to_oa": null,
+  "date_text": "1861",
+  "collapse_artists": true,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 05:51:41.539000"
+}

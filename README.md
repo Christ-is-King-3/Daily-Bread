@@ -34,6 +34,16 @@ Open `content/posts.json` in your GitHub repository, click the pencil icon, and 
 
 Run `python scripts/check_site.py` with Python 3 and Node.js installed. This checks Bible structure, content integrity, bundled artwork checksums and saved public-domain records, attribution links, and JavaScript syntax. The same command runs in GitHub Actions. Browser verification is still needed for visual layout and interaction behavior.
 
+## Christian Art collection
+
+`art.html` is the dedicated Christian Art tab, with **131 reviewed historical works** from The Metropolitan Museum of Art and Cleveland Museum of Art. The seven art forms include paintings and icons, drawings, prints and Bible illustrations, manuscripts and books, stained glass, sacred textiles and sculpture. Each image has an individual public-domain/CC0 museum record. Saved metadata, full credits, image checksums, editorial introductions and reflection prompts are in `content/art-collection.json` and `content/art-archive-sources/`.
+
+The daily feature follows the visitor's local date and cycles through the collection without repetition for 131 days while the collection is unchanged. Date controls allow browsing other days; an open tab updates after midnight or when it wakes. This needs no scheduled download or paid service. The archive supports combined search, subject, art-form and period filters, plus an accessible enlarged view with detail zoom and Scripture links. All images are served locally, with small WebP thumbnails and larger manuscript copies. The static archive and museum links remain usable without JavaScript.
+
+To add a work, first verify the **exact digital image's** reuse designation on its museum record. Save that record, the permitted image and a thumbnail; add the complete credit, source, rights, dimensions, checksums and a unique appended `sequence` to the manifest. Preserve qualified attributions such as “after” or “attributed to.” Historical context and Daily Bread reflections are separate fields; only add a Bible link when it has been checked. Rebuild the static archive using `python scripts/build_art_gallery.py`, then run `python scripts/check_site.py`. Changing the collection size changes the date-to-work rotation; adding images is an editorial release, not an automatic search.
+
+The quality gate checks every archive image, thumbnail, credit and rights record, all local page links, the complete rotation, calendar boundaries, combined filters and Bible passage links. Keep `art.html` and its manifest together in a commit. Existing artwork sections and their five original files are retained.
+
 ## Cost and limitations
 
 GitHub Pages hosting is free for eligible public repositories. RSS feed and Wikimedia services are external and may change. There is no server-side AI, paid API, subscriber account system or private editor dashboard. Scheduled workflows may be paused or delayed. The website does not refresh itself in an already-open tab at midnight; a page reload shows the next verse.

@@ -1,0 +1,214 @@
+{
+  "id": 130492,
+  "accession_number": "1953.24",
+  "share_license_status": "CC0",
+  "tombstone": "Leaf from an Antiphonary: Coronation of the Virgin, 1400s. Attributed to Master of the Beffi Triptych (Italian, active 1390–1425). Ink, tempera, and gold on vellum; sheet: 55 x 37 cm (21 5/8 x 14 9/16 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1953.24",
+  "current_location": null,
+  "title": "Leaf from an Antiphonary: Coronation of the Virgin",
+  "creation_date": "1400s",
+  "creation_date_earliest": 1400,
+  "creation_date_latest": 1499,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "Italy, Tuscany"
+  ],
+  "technique": "Ink, tempera, and gold on vellum",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Manuscript Illuminations",
+  "type": "Manuscript",
+  "measurements": "Sheet: 55 x 37 cm (21 5/8 x 14 9/16 in.)",
+  "dimensions": {
+    "sheet": {
+      "height": 0.55,
+      "height_inch": 21,
+      "height_inch_fraction": 0.625,
+      "width": 0.37,
+      "width_inch": 14,
+      "width_inch_fraction": 0.5625
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 706794,
+        "title": "Art in The Book",
+        "description": "<i>Art in The Book</i>. Buffalo AKG Art Museum, Buffalo, NY (organizer) (December 5, 1953-January 3, 1954).",
+        "opening_date": "1953-12-05T05:00:00"
+      },
+      {
+        "id": 520142,
+        "title": "Pages From Medieval and Renaissance Illuminated Manuscripts",
+        "description": "<i>Pages From Medieval and Renaissance Illuminated Manuscripts</i>. Berkeley Art Museum and Pacific Film Archive, Berkeley, CA (April 24-June 8, 1963).",
+        "opening_date": "1963-04-24T05:00:00"
+      },
+      {
+        "id": 304213,
+        "title": "Gothic Art 1360-1440",
+        "description": "<i>Gothic Art 1360-1440</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 6-September 15, 1963).",
+        "opening_date": "1963-08-06T04:00:00"
+      },
+      {
+        "id": 179437,
+        "title": "Illuminated Manuscripts",
+        "description": "<i>Illuminated Manuscripts</i>. The Cleveland Museum of Art (organizer) (October 10, 2004-October 2, 2005).",
+        "opening_date": "2004-10-10T00:00:00"
+      },
+      {
+        "id": 196935,
+        "title": "The Glory of the Painted Page: Manuscript Illuminations from the Permanent Collection",
+        "description": "<i>The Glory of the Painted Page: Manuscript Illuminations from the Permanent Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 6, 2010-April 17, 2011).",
+        "opening_date": "2010-11-06T00:00:00"
+      },
+      {
+        "id": 315086,
+        "title": "Liturgical Textiles and Manuscripts from Medieval and Early Renaissance Italy (Manuscript and Textile Rotation) - Gallery 115",
+        "description": "<i>Liturgical Textiles and Manuscripts from Medieval and Early Renaissance Italy (Manuscript and Textile Rotation) - Gallery 115</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 5, 2018-December 2, 2019).",
+        "opening_date": "2018-12-05T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Vittorio Forti, Rome, Italy, sold to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": [],
+      "date": "-1952",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, Oh",
+      "citations": [],
+      "footnotes": [],
+      "date": "1952-",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Gold leaf was always applied to a manuscript before the paint.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The unidentified illuminator of this leaf is named after his work on a painted triptych that once hung behind the altar of the Church of Santa Maria del Ponte in the small village of Beffi in Abruzzo. Works by this illuminator are distinctive for their lively detail, highly expressive figures, and brilliant colors. In addition to panel paintings, this unknown artist also illuminated books and painted frescoes. The large scale of this miniature indicates that the leaf served as a frontispiece to a volume in a set of antiphonaries.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60739253"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1953.24-leaf-from-an-antipho"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 159",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n40"
+    },
+    {
+      "citation": "Wixom, William D. “A Missal for a King: A First Exhibition.” <em>The Bulletin of the Cleveland Museum of Art</em>, vol. 50, no. 7, 1963",
+      "page_number": "Reproduced: cat no. 61",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 56",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n80"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 56",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n80"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 64",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n84"
+    },
+    {
+      "citation": "Pasqualetti, Cristiana. \"Ego Nardus magistri Sabini de Teramo: sull'identita del 'Maestro di Beffi' e sulla formazione sulmonese di Nicola da Guardiagrele.\" Prospettiva 139-140 (Luglio-Ottobre 2010).",
+      "page_number": "15, no. 21",
+      "url": null
+    },
+    {
+      "citation": "Arbace, Lucia, Master of the Beffi Triptych, and Cristiana Pasqualetti. Il Maestro del Trittico di Beffi. 2012.",
+      "page_number": "21",
+      "url": null
+    },
+    {
+      "citation": "Benigni, Marianna. \"Il Maestro della Capella Caldora a Subiaco Schede.\" In  L<em>a Pittura del Quattrocento nei feudi Caetani</em>, 3-26 . Anna Cavallaro  and Stefano Petrocchi. Roma: Edizioni di storia e letteratura, 2013.",
+      "page_number": "Mentioned: p. 7, note 24; p. 20, note 60",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1953.24",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1953.24/1953.24_web.jpg",
+      "width": "635",
+      "height": "893",
+      "filesize": "535570",
+      "filename": "1953.24_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1953.24/1953.24_print.jpg",
+      "width": "2418",
+      "height": "3400",
+      "filesize": "6925196",
+      "filename": "1953.24_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1953.24/1953.24_full.tif",
+      "width": "4595",
+      "height": "6459",
+      "filesize": "89078544",
+      "filename": "1953.24_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 130492,
+  "creators": [
+    {
+      "id": 7820,
+      "description": "Master of the Beffi Triptych (Italian, active 1390–1425)",
+      "extent": null,
+      "qualifier": "attributed to",
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1953-02-04T00:00:00",
+  "sortable_date": 1400,
+  "date_added_to_oa": null,
+  "date_text": "1400s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:44:42.680000"
+}

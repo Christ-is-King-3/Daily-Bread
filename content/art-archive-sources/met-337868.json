@@ -1,0 +1,105 @@
+{
+  "objectID": 337868,
+  "isHighlight": false,
+  "accessionNumber": "1999.167",
+  "accessionYear": "1999",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP801377.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP801377.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/DR419.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DT4398.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/1999.167.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 165401,
+      "role": "Artist",
+      "name": "Hendrick Goltzius",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023327",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q165367",
+      "gender": ""
+    },
+    {
+      "constituentID": 70997,
+      "role": "Former Attribution",
+      "name": "Jacob Matham",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029969",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q577044",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Adoration of the Shepherds",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Hendrick Goltzius",
+  "artistDisplayBio": "Netherlandish, Mühlbracht 1558–1617 Haarlem",
+  "artistSuffix": "",
+  "artistAlphaSort": "Goltzius, Hendrick",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1558",
+  "artistEndDate": "1617",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q165367",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500023327",
+  "objectDate": "1600–1605",
+  "objectBeginDate": 1600,
+  "objectEndDate": 1605,
+  "medium": "Black and red chalk with traces of yellow chalk",
+  "dimensions": "8-1/6 x 8-1/2 in.  (20.7 x 21.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.7,
+        "Width": 21.6
+      }
+    }
+  ],
+  "creditLine": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1999",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/337868",
+  "tags": [
+    {
+      "term": "Human Figures",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+    },
+    {
+      "term": "Infants",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+    },
+    {
+      "term": "Adoration of the Shepherds",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000229",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1029715"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

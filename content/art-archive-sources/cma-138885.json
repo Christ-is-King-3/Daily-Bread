@@ -1,0 +1,472 @@
+{
+  "id": 138885,
+  "accession_number": "1963.256",
+  "share_license_status": "CC0",
+  "tombstone": "Hours of Queen Isabella the Catholic, Queen of Spain, c. 1500. Master of the First Prayerbook of Maximillian (Flemish, c. 1444–1519), and Associates. Ink, tempera, and gold on vellum; codex: 23.5 x 17.3 x 4.8 cm (9 1/4 x 6 13/16 x 1 7/8 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 1963.256",
+  "current_location": "110B Late Gothic",
+  "title": "Hours of Queen Isabella the Catholic, Queen of Spain",
+  "creation_date": "c. 1500",
+  "creation_date_earliest": 1495,
+  "creation_date_latest": 1505,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "Flanders, Bruges and Ghent"
+  ],
+  "technique": "ink, tempera, and gold on vellum",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Manuscript Illuminations",
+  "type": "Bound Volume",
+  "measurements": "Codex: 23.5 x 17.3 x 4.8 cm (9 1/4 x 6 13/16 x 1 7/8 in.)",
+  "dimensions": {
+    "codex": {
+      "height": 0.235,
+      "height_inch": 9,
+      "height_inch_fraction": 0.25,
+      "width": 0.173,
+      "width_inch": 6,
+      "width_inch_fraction": 0.8125,
+      "depth": 0.048,
+      "depth_inch": 1,
+      "depth_inch_fraction": 0.875
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 304258,
+        "title": "Year in Review (1963)",
+        "description": "<i>Year in Review (1963)</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 27, 1963-January 5, 1964).",
+        "opening_date": "1963-11-27T05:00:00"
+      },
+      {
+        "id": 304660,
+        "title": "Twelve Masterpieces of Medieval and Renaissance Book Illumination",
+        "description": "<i>Twelve Masterpieces of Medieval and Renaissance Book Illumination</i>. The Cleveland Museum of Art, Cleveland, OH (March 17-April 19, 1964).",
+        "opening_date": "1964-03-17T05:00:00"
+      },
+      {
+        "id": 304558,
+        "title": "When Angels Bent Near the Earth to Touch Their Harps of Gold: The Christmas Story",
+        "description": "<i>When Angels Bent Near the Earth to Touch Their Harps of Gold: The Christmas Story</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 1, 1981-January 17, 1982).",
+        "opening_date": "1981-12-01T05:00:00"
+      },
+      {
+        "id": 217056,
+        "title": "Illuminating the Renaissance:  The Triumph of Flemish Manuscript Painting in Europe, 1467-1561",
+        "description": "<i>Illuminating the Renaissance:  The Triumph of Flemish Manuscript Painting in Europe, 1467-1561</i>. J. Paul Getty Museum, Los Angeles, CA (organizer) (June 17-September 7, 2003).",
+        "opening_date": "2003-06-17T00:00:00"
+      },
+      {
+        "id": 180667,
+        "title": "Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art",
+        "description": "<i>Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art</i>. National Museum of Bavaria, Munich, Germany (May 10-September 16, 2007); J. Paul Getty Museum, Los Angeles, CA (October 30, 2007-January 20, 2008); Frist Art Museum, Nashville, TN (February 13-June 7, 2009).",
+        "opening_date": "2007-05-10T00:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>The Medieval Garden</em>, H.F. Spencer Museum of Art, University of Kansas, (March 20-May 1983).",
+        "opening_date": "2020-03-01T00:00:00"
+      },
+      {
+        "description": "<em>The Medieval Garden</em>, Dumbarton Oaks, (May 12, 1983-July 7, 1983).",
+        "opening_date": "1983-05-12T00:00:00"
+      },
+      {
+        "description": "<em>Circa 1492: Art in the Age of Exploration</em>. The National Gallery of Art, Washington, DC (October 12, 1991-January 12, 1992).",
+        "opening_date": "1991-10-12T00:00:00"
+      },
+      {
+        "description": "<em>Illuminating the Renaissance</em>, J. Paul Getty Museum, (June 17 - September 7, 2003).",
+        "opening_date": "2003-06-17T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Unidentified first owner? (c. 1500)",
+      "citations": [],
+      "footnotes": [],
+      "date": "c.1500-",
+      "sortorder": 1
+    },
+    {
+      "description": "Isabella the Catholic, Queen of Castile",
+      "citations": [],
+      "footnotes": [],
+      "date": null,
+      "sortorder": 2
+    },
+    {
+      "description": "Baron Edmond de Rothschild (Late 1800s till 1934)",
+      "citations": [],
+      "footnotes": [],
+      "date": null,
+      "sortorder": 3
+    },
+    {
+      "description": "Baron Maurice de Rothschild",
+      "citations": [],
+      "footnotes": [],
+      "date": "1934-1954",
+      "sortorder": 4
+    },
+    {
+      "description": "(Rosenberg & Stiebel, New York, NY), sold to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": [],
+      "date": "1954-1963",
+      "sortorder": 5
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, Oh",
+      "citations": [],
+      "footnotes": [],
+      "date": "1963-",
+      "sortorder": 6
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Isabella’s book of hours may have in its margins one of the first depictions of a daffodil in manuscript painting.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The original owner of this exquisite book of hours was Queen Isabella of Spain, who sponsored Christopher Columbus's exploratory voyage to the Americas. Eventually this book found its way to the New World and was acquired by the Cleveland Museum of Art in 1963.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60740043"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1963.256-hours-of-queen-isabe"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Gras, Samuel, and Anne-Marie Legaré. Lumières du Nord: les manuscrits enluminés français et flamands de la Bibliothèque nationale d'Espagne. Villeneuve-d'Ascq, France : Presses universitaires du Septentrion, 2021.",
+      "page_number": "Mentioned: p. 335; reproduced: p. [350], fig. 12.6",
+      "url": ""
+    },
+    {
+      "citation": "Lee, Sherman E. \"Year in Review for 1963.\" <em>The Bulletin of the Cleveland Museum of Art</em> 50, no. 10 (1963): 263-94.",
+      "page_number": "Referenced: p. 267-271",
+      "url": "http://www.jstor.org/stable/25151974."
+    },
+    {
+      "citation": "Wixom, William D. \"Twelve Masterpieces of Medieval and Renaissance Book Illumination. A Catalogue to the Exhibition: March 17-May 17, 1964.\" <em>The Bulletin of the Cleveland Museum of Art</em> 51, no. 3 (1964)",
+      "page_number": "pp. 60-63",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 69",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n93"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 69",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n93"
+    },
+    {
+      "citation": "Cleveland Museum of Art, and Berthold Fricke. The Cleveland Museum of Art. Hannover: Knorr &amp; Hirth, 1970.",
+      "page_number": "pp. 36-7",
+      "url": null
+    },
+    {
+      "citation": "\"Twelve Additions to the Medieval Treasury.\" <em>The Bulletin of the Cleveland Museum of Art</em> 59, no. 4 (1972)",
+      "page_number": "pp. 109-11",
+      "url": null
+    },
+    {
+      "citation": "Scillia, Diane Graybowski. Gerard David and Manuscript Illumination in the Low Countries, 1480-1509. 1975.",
+      "page_number": "pp. 228-32",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 78",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n98"
+    },
+    {
+      "citation": "De Winter, Patrick M. “A Book of Hours of Queen Isabel La Católica.” <em>The Bulletin of the Cleveland Museum of Art</em> 68, no. 10 (December 1981): 342–427.",
+      "page_number": "Mentioned and reproduced: p. 342-427",
+      "url": "http://www.jstor.org/stable/25159749"
+    },
+    {
+      "citation": "Dumbarton Oaks Colloquium on the History of Landscape Architecture , and Elisabeth Blair MacDougall. Medieval Gardens. Washington (D.C.): Dumbarton Oaks Research Library and Collection, 1986.",
+      "page_number": "p. 180, Cat. No. 25",
+      "url": null
+    },
+    {
+      "citation": "Stokstad, Marilyn, and Jerry Stannard. Gardens of the Middle Ages. Lawrence: Spencer Museum of Art, University of Kansas, 1983.",
+      "page_number": "Cat. No. 25",
+      "url": null
+    },
+    {
+      "citation": "Manion, Margaret M., and Vera F. Vines. Medieval and Renaissance Illuminated Manuscripts in Australian Collections. Melbourne: Thames and Hudson, 1984.",
+      "page_number": "p. 153",
+      "url": null
+    },
+    {
+      "citation": "Società di storia della miniatura. Miniatura: studi di storia dell'illustrazione e decorazione del libro. Firenze: Alinari, 1988.",
+      "page_number": "pp. 123-124",
+      "url": null
+    },
+    {
+      "citation": "<em>Calkins, Robert G. “Sacred Image &amp; Illusion in Late Flemish Manuscripts.” </em>Essays in Medieval Studies: Proceedings of the Illinois Medieval Association Vol. 6 (1989)",
+      "page_number": "pp. 1-29",
+      "url": null
+    },
+    {
+      "citation": "Hollander, Anne. Moving Pictures. New York: Knopf, 1989.",
+      "page_number": "pp. 69-70",
+      "url": null
+    },
+    {
+      "citation": "Levenson, Jay A. Circa 1492: Art in the Age of Exploration. Washington: National Gallery of Art, 1991.",
+      "page_number": "pp. 155-6, Cat. No. 34",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art. Interpretations: Sixty-Five Works from the Cleveland Museum of Art. 1991.",
+      "page_number": "p. 12",
+      "url": null
+    },
+    {
+      "citation": "Pelikan, Jaroslav, and Jaroslav Pelikan. The Illustrated Jesus Through the Centuries. New Haven: Yale University Press, 1997.",
+      "page_number": "pp. 4-5",
+      "url": null
+    },
+    {
+      "citation": "Nieuwdorp, Hans M. J., and Brigitte Dekeyzer. Breviarium Mayer Van den Bergh: alle miniaturen. Gent: Ludion, 1997.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Gibson, Walter S., and Laurinda S. Dixon. In Detail: New Studies of Northern Renaissance Art in Honor of Walter S. Gibson. [S.l.]: Brepols, 1998.",
+      "page_number": "pp. 57-8",
+      "url": null
+    },
+    {
+      "citation": "Smeyers, Maurits, and Monique Verboomen. L'Art de la miniature flamande du VIIIe au XVIe siècle. Tournai: La renaissance du livre, 1998.",
+      "page_number": "p. 478, no. 91",
+      "url": null
+    },
+    {
+      "citation": "Smeyers, Maurits. Flemish Miniatures from the 8th to the Mid-16th Century: The Medieval World on Parchment. Turnhout: Brepols, 1999.",
+      "page_number": "p. 478",
+      "url": null
+    },
+    {
+      "citation": "Crucifixion. London: Phaidon, 2000.",
+      "page_number": "pp. 92-93",
+      "url": null
+    },
+    {
+      "citation": "Gnann, Achim, Heinz Widauer, Katja Gnann, and Konrad Oberhuber. Festschrift Für Konrad Oberhuber. Milano: Electa, 2000.",
+      "page_number": "pp. 215-233",
+      "url": null
+    },
+    {
+      "citation": "May, Sally Ruth, Jane Takac, and Barbara J. Bradley. Knockouts: A Pocket Guide. Cleveland: Cleveland Museum of Art, 2001.",
+      "page_number": "p. 30 & 117",
+      "url": null
+    },
+    {
+      "citation": "Kesel, Lieve de. “Almost Restored The Hours of Archduchess Isabella Clara Eugenia Berlin, Kupferstichkabinett, 78 B 15.” <em>Jahrbuch der Berliner</em> (2001)",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Kren, Thomas, Scot McKendrick, and Maryan W. Ainsworth. <em>Illuminating the Renaissance: The Triumph of Flemish Manuscript Painting in Europe</em>. 2003.",
+      "page_number": "Referenced: cat. no. 105, p. 359",
+      "url": null
+    },
+    {
+      "citation": "Wixom, William. \"A Glimpse at the Fountains of the Middle Ages.\" <em>Cleveland Studies in the History of Art </em>8 (2003): 6-23.",
+      "page_number": "Mentioned and reproduced: P. 10",
+      "url": "https://www.jstor.org/stable/20079727"
+    },
+    {
+      "citation": "Dekeyzer, Brigitte. Layers of Illusion: The Mayer Van Den Bergh Breviary. [Ghent]: Ludion, 2004.",
+      "page_number": "pp. 123, 150, 167",
+      "url": null
+    },
+    {
+      "citation": "Dekeyzer, Brigitte, and Jan van der Stock. Manuscripts in transition: recycling manuscripts, texts, and images : proceedings of the International Congres held in Brussels (5-9 November 2002). Paris: Uitgeverij Peeters, 2005.",
+      "page_number": "p. 218",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art, and Holger A. Klein. Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art. Cleveland, Ohio: Cleveland Museum of Art, 2007.",
+      "page_number": "pp. 224-227",
+      "url": null
+    },
+    {
+      "citation": "Rudy, Kathryn M., and Barbara Baert. Weaving, veiling, and dressing: textiles and their metaphors in the late Middle Ages. Turnhout: Brepols, 2007.",
+      "page_number": "pp. 147-48",
+      "url": null
+    },
+    {
+      "citation": "France, James. Medieval Images of Saint Bernard of Clairvaux. Kalamazoo, Mich: Cistercian Publications, 2007.",
+      "page_number": "p. 379",
+      "url": null
+    },
+    {
+      "citation": "Fliegel, Stephen N. Resplendent Faith: Liturgical Treasuries of the Middle Ages. Kent, Ohio: Kent State University Press, 2009.",
+      "page_number": "p. 39, fig. 34",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art, David Franklin, and C. Griffith Mann. Treasures from the Cleveland Museum of Art. Cleveland, OH: Cleveland Museum of Art, 2012.",
+      "page_number": "p. 156-7",
+      "url": null
+    },
+    {
+      "citation": "López Montilla, María Jesús. El libro de horas: un libro selecto de devoción privada. 2012.",
+      "page_number": "p. 118, fig. 25",
+      "url": null
+    },
+    {
+      "citation": "Fliegel, Stephen N., and Stephen N. Fliegel. A Higher Contemplation: Sacred Meaning in the Christian Art of the Middle Ages. Kent, Ohio: Kent State University Press, 2012.",
+      "page_number": "p. 43, fig 34; p. 44, fig 35",
+      "url": null
+    },
+    {
+      "citation": "Fliegel, Stephen N. \"Medieval Masterpieces.\" <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 52, no. 4 (July/August 2012): 13-15.",
+      "page_number": "Mentioned and reproduced: p. 14-15",
+      "url": "https://archive.org/details/CMAMM2012-04/page/12/mode/2up"
+    },
+    {
+      "citation": "Campbell, Barbara F., and James P. Campbell. Finding God: Our Response to God's Gifts. Chicago: Loyola Press, 2013.",
+      "page_number": "p. 218",
+      "url": null
+    },
+    {
+      "citation": "Catholic Church, Isabella, and Lieve De Kesel. <em>Libro de horas de Isabel la Católica = Isabella la Catholica Book of Hours</em>. 2013",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Coleman, Joyce, Mark Cruse, and Kathryn A. Smith. The Social Life of Illumination: Manuscripts, Images, and Communities in the Late Middle Ages. 2013.",
+      "page_number": "p. 488, fig. 125",
+      "url": null
+    },
+    {
+      "citation": "Hindman, Sandra, and James H. Marrow. Books of hours reconsidered. 2013.",
+      "page_number": "p. 50, footnote 12",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.<br>Fol. 197v and Fol. 198r",
+      "page_number": "Mentioned and reproduced: P. 279",
+      "url": ""
+    },
+    {
+      "citation": "De Hamel, Christopher. <em>Meetings with Remarkable Manuscripts </em>London: Allen Lane with an imprint of Penguin Books. 2016.",
+      "page_number": "Mentioned: p. 540, 550, 608",
+      "url": null
+    },
+    {
+      "citation": "Dias, João Carvalho.<em> European Illuminated Manuscripts in the Calouste Gulbenkian Collection.</em> [Lisbon]: Calouste Gulbenkian Museum, 2020.",
+      "page_number": "Reproduced: P. 271, fig. 2",
+      "url": ""
+    },
+    {
+      "citation": "Hindman, Sandra, Simon Bening, Laura Light, and Matthew J. Westerby. Simon Bening and the Enríquez De Ribera Prayerbook. Paris ; New York : Les Enluminures, 2021.",
+      "page_number": "Mentioned: p. 60; reproduced: p. 59, fig. 24",
+      "url": ""
+    },
+    {
+      "citation": "Foster-Campbell, Megan H. \"Pilgrimage Across Borders: Painted Pilgrim's Badges in Flemish Illuminated Manuscripts\" in <em>Illuminating Metalwork: Metal, Object, and Image in Medieval Manuscripts</em>. 2022.",
+      "page_number": "Reproduced and mentioned: pp. 401-402, fig. 5",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1963.256",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1963.256/1963.256_web.jpg",
+      "width": "900",
+      "height": "610",
+      "filesize": "246795",
+      "filename": "1963.256_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1963.256/1963.256_print.jpg",
+      "width": "3400",
+      "height": "2306",
+      "filesize": "2455531",
+      "filename": "1963.256_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1963.256/1963.256_full.tif",
+      "width": "5708",
+      "height": "3872",
+      "filesize": "40753740",
+      "filename": "1963.256_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Leonard C. Hanna Jr. Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 138885,
+  "creators": [
+    {
+      "id": 7682,
+      "description": "Master of the First Prayerbook of Maximillian (Flemish, c. 1444–1519)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": "Alexander Bening has been presumed to be the same artist formerly know under the sobriquet, \"Master of the Older Prayerbook of Maximilian I\"",
+      "name_in_original_language": null,
+      "birth_year": "1444",
+      "death_year": "1519",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    },
+    {
+      "id": 293477,
+      "description": "Associates",
+      "extent": null,
+      "qualifier": "and",
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 2
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1963-04-11T00:00:00",
+  "sortable_date": 1495,
+  "date_added_to_oa": null,
+  "date_text": "c. 1500",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "cover",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Hours of Ferdinand V and Isabella of Spain"
+  ],
+  "is_highlight": true,
+  "updated_at": "2026-05-29 07:06:45.615000"
+}

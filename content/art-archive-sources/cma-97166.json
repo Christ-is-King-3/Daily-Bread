@@ -1,0 +1,448 @@
+{
+  "id": 97166,
+  "accession_number": "1916.802",
+  "share_license_status": "CC0",
+  "tombstone": "Virgin and Child with Angels, c. 1460. Follower of Fra Filippo Lippi (Italian, c. 1406–1469). Tempera and gold on wood panel; framed: 186.7 x 97.8 x 14 cm (73 1/2 x 38 1/2 x 5 1/2 in.); unframed: 95 x 53 cm (37 3/8 x 20 7/8 in.). The Cleveland Museum of Art, Holden Collection, 1916.802",
+  "current_location": "117A Italian Renaissance",
+  "title": "Virgin and Child with Angels",
+  "creation_date": "c. 1460",
+  "creation_date_earliest": 1455,
+  "creation_date_latest": 1465,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "Italy, Florence"
+  ],
+  "technique": "tempera and gold on wood panel",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Medieval Art",
+  "type": "Painting",
+  "measurements": "Framed: 186.7 x 97.8 x 14 cm (73 1/2 x 38 1/2 x 5 1/2 in.); Unframed: 95 x 53 cm (37 3/8 x 20 7/8 in.)",
+  "dimensions": {
+    "framed": {
+      "height": 1.867,
+      "height_inch": 73,
+      "height_inch_fraction": 0.5,
+      "width": 0.978,
+      "width_inch": 38,
+      "width_inch_fraction": 0.5,
+      "depth": 0.14,
+      "depth_inch": 5,
+      "depth_inch_fraction": 0.5
+    },
+    "unframed": {
+      "height": 0.95,
+      "height_inch": 37,
+      "height_inch_fraction": 0.375,
+      "width": 0.53,
+      "width_inch": 20,
+      "width_inch_fraction": 0.875
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 317001,
+        "title": "Inaugural Exhibition",
+        "description": "<i>Inaugural Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (co-organizer) (June 6-September 20, 1916).",
+        "opening_date": "1916-06-06T05:00:00"
+      },
+      {
+        "id": 312517,
+        "title": "The Twentieth Anniversary Exhibition: The Official Art Exhibit of the Great Lakes Exposition",
+        "description": "<i>The Twentieth Anniversary Exhibition: The Official Art Exhibit of the Great Lakes Exposition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 26-October 4, 1936).",
+        "opening_date": "1936-06-26T04:00:00"
+      },
+      {
+        "id": 301412,
+        "title": "Florence and the Arts: Five Centuries of Patronage",
+        "description": "<i>Florence and the Arts: Five Centuries of Patronage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 13-September 19, 1971).",
+        "opening_date": "1971-07-13T04:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "James Jackson Jarves (1818-1888)",
+      "citations": [],
+      "footnotes": [],
+      "date": "?-1884",
+      "sortorder": 1
+    },
+    {
+      "description": "Mrs. L.E. Holden, gifted to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": [],
+      "date": "1884-1916",
+      "sortorder": 2
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1916-",
+      "sortorder": 3
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This painting, produced by one of Fra Filippo Lippi’s many imitators in the city of Florence, is very close to the composition of the now lost central panel of the triptych commissioned by the Medici family in 1457. It was purchased by Mrs. L. E. Holden before the museum’s acquisition of the two flanking panels of Saint Anthony Abbot and Saint Michael. It has been suggested that this painting is a copy of the original lost central panel of Fra Filippo’s triptych of 1457.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60502700"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1916.802-virgin-and-child-wit"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Hollenden Gallery, James Jackson Jarves, and Liberty Emery Holden. <em>Handbook for Visitors to the Hollenden Gallery of Masters: Exhibited at the Boston Foreign Art Exhibition in 1883-4.</em> [Place of publication not identified]: [J.J. Jarves], 1883.",
+      "page_number": "no. 8, p. 9",
+      "url": null
+    },
+    {
+      "citation": "Berenson, Mary L. \"Dipinti Italiana in Cleveland, S.U.A.\" <em>Rassegna d'Arte </em>Vol. VII (Jan. 1907).",
+      "page_number": "p. 2",
+      "url": null
+    },
+    {
+      "citation": "Berenson, Bernard. <em>The Florentine Painters of the Renaissance. </em>New York: Putnam's Sons, 1909.",
+      "page_number": "pp. 167, 192",
+      "url": null
+    },
+    {
+      "citation": "Burroughs, Bryson. \"Early Italian Paintings: Lent by Mrs. Liberty Emery Holden.\" <em>The Metropolitan Museum of Art Bulletin</em> 7, no. 10 (1912): 174-83.",
+      "page_number": "p. 176-7, no. 9",
+      "url": "https://www.jstor.org/stable/3252821"
+    },
+    {
+      "citation": "Johnson, John Graver, Bernard Berenson, and Wilhelm Reinhold Valentiner. <em>Catalogue of a Collection of Paintings and Some Art Objects. </em>Philadelphia: J.G. Johnson, 1913.",
+      "page_number": "Vol. 1, p. 26",
+      "url": null
+    },
+    {
+      "citation": "Rubinstein-Bloch, Stella. <em>Catalogue of a Collection of Paintings, Etc. Presented by Mrs. Liberty E. Holden to the Cleveland Museum of Art. </em>Cleveland: The Cleveland Museum of Art, 1917.",
+      "page_number": "Mentioned: p. 19-20, cat. no. 14; Reproduced: p. 53, No. 14",
+      "url": "https://archive.org/details/Holden_80856/page/n29"
+    },
+    {
+      "citation": "Cleveland Museum of Art, Liberty Emery Holden, and Stella Rubinstein-Bloch. <em>Catalogue of a Collection of Paintings, Etc. Presented by Mrs. Liberty E. Holden to the Cleveland Museum of Art.</em> Cleveland: Cleveland Museum of Art, 1917.",
+      "page_number": "Cat. no. 14",
+      "url": null
+    },
+    {
+      "citation": "G. U. \"The Holden Collection.\" <em>The Bulletin of the Cleveland Museum of Art</em> 4, no. 2 (1917): 19-34.",
+      "page_number": "p. 19",
+      "url": "https://www.jstor.org/stable/25136067"
+    },
+    {
+      "citation": "Fogg Art Museum. <em>Collection of Mediaeval and Renaissance Paintings. </em>Cambridge: Harvard University Press, 1919.",
+      "page_number": "p. 70",
+      "url": null
+    },
+    {
+      "citation": "Marle, Raimond van, and Charlotte van Marle. T<em>he Development of the Italian Schools of Painting. </em>The Hague: M. Nijhoff, 1923.",
+      "page_number": "pp. 435, 459, 463, fig. 291",
+      "url": null
+    },
+    {
+      "citation": "Fogg Art Museum.<em> Collection of Mediaeval and Renaissance Paintings. </em>Cambridge: Harvard University Press, 1927.",
+      "page_number": "p. 70",
+      "url": null
+    },
+    {
+      "citation": "Oberschall, Magda. \"Un Eleve Inconnu de Fra Filipoo Lippi,\" <em>Gazette des Beaux-Arts, </em>6e periode, Tome 4 (1930).",
+      "page_number": "p. 220",
+      "url": null
+    },
+    {
+      "citation": "Berenson, Bernard. <em><u>I</u></em><em>talian Pictures of the Renaissance: A List of the Principal Artists and Their Works, with an Index of Places.</em>1932.",
+      "page_number": "p. 450",
+      "url": null
+    },
+    {
+      "citation": "H. S. F. \"A Tondo by Filippino Lippi.\" <em>The Bulletin of the Cleveland Museum of Art</em> 19, no. 9 (1932): 146-59.",
+      "page_number": "p. 150",
+      "url": "https://www.jstor.org/stable/25137502"
+    },
+    {
+      "citation": "Pudelks, Georg, \"Per la datazione delle opere di Fra Filippo Lippi,\" <em>Rivista D'Arte,</em> ser. II, Vol. VIII (1936)",
+      "page_number": "p. 51, note 3",
+      "url": null
+    },
+    {
+      "citation": "Oertel, Robert. <em>Fra Filippo Lippi.</em> Wien: A. Schroll &amp; Co, 1942.",
+      "page_number": "p. 41",
+      "url": null
+    },
+    {
+      "citation": "Pittaluga, Mary. <em>Filippo Lippi. </em>Firenze: Del Turco, 1949.",
+      "page_number": "p. 206",
+      "url": null
+    },
+    {
+      "citation": "National Gallery (Great Britain), and Martin Davies. <em>The Earlier Italian Schools</em>. London: Publications Dept., National Gallery, 1961.",
+      "page_number": "p. 420",
+      "url": null
+    },
+    {
+      "citation": "Berenson, Bernard.<em> Italian Pictures of the Renaissance: A List of the Principal Artists and Their Works, with an Index of Places : Florentine School</em>. London: Phaidon Press, 1963.",
+      "page_number": "Vol. I, p. 172, Vol. II, pl. 840",
+      "url": null
+    },
+    {
+      "citation": "Francis, Henry S. \"Fra Filippo Lippi: St. Michael and St. Anthony Abbot.\" <em>The Bulletin of the Cleveland Museum of Art</em> 51, no. 10 (1964).",
+      "page_number": "p. 235, fig. 2, footnote 7",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 78",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n102"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 78",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n102"
+    },
+    {
+      "citation": "Fredericksen, Burton B., and Federico Zeri. <em>Census of Pre-Nineteenth-Century Italian Paintings in North American Public Collections. </em>Cambridge: Harvard University Press, 1972.",
+      "page_number": "pp. 134, 343",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art, Louise d' Argencourt, and Roger Diederen. <em>Catalogue of Paintings. </em>Cleveland: Cleveland Museum of Art, 1974.",
+      "page_number": "pp. 84-5",
+      "url": null
+    },
+    {
+      "citation": "Lippi, Filippo, and Giuseppe Marchini. Filippo Lippi. Milano: Electa, 1975.",
+      "page_number": "pp. 211-12",
+      "url": null
+    },
+    {
+      "citation": "Levi D'Ancona, Mirella. <em>The Garden of the Renaissance: Botanical Symbolism in Italian Painting.</em> Firenze: L.S. Olschki, 1977.",
+      "page_number": "p. 126",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 90",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n110"
+    },
+    {
+      "citation": "Thomas, Stanton, \"Fragments of a Lost Altarpiece\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 42 no. 10, December 2002",
+      "page_number": "Mentioned & reproduced: p. 8-9",
+      "url": "https://archive.org/details/CMAMM2002-10/page/n7"
+    },
+    {
+      "citation": "National Gallery of Art (U.S.), and Miklós Boskovits.<em> Italian Paintings of the Fifteenth Century.</em> Washington: National Gallery of Art, 2003.",
+      "page_number": "p. 394",
+      "url": null
+    },
+    {
+      "citation": "Strehlke, Carl Brandon.<em> Italian Paintings, 1250-1450, in the John G. Johnson Collection and the Philadelphia Museum of Art</em>. Philadelphia: Philadelphia Museum of Art, 2004.",
+      "page_number": "Fig. 70.2, p. 371",
+      "url": null
+    },
+    {
+      "citation": "Städtische Galerie im Städelschen Kunstinstitut Frankfurt am Main, and Rudolf Hiller von Gaertringen. <em>Italienische Gemälde im Städel 1300-1550</em>. Mainz: Verlag Philipp von Zabern, 2004.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "BRIMO, René. <em>L'Évolution Du Goût Aux États-Unis D'après L'histoire Des Collections.</em> 1938.",
+      "page_number": "p. 67",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1916.802",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1916.802/1916.802_web.jpg",
+      "width": "526",
+      "height": "900",
+      "filesize": "248985",
+      "filename": "1916.802_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1916.802/1916.802_print.jpg",
+      "width": "1987",
+      "height": "3400",
+      "filesize": "2980180",
+      "filename": "1916.802_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1916.802/1916.802_full.tif",
+      "width": "7947",
+      "height": "13596",
+      "filesize": "324171824",
+      "filename": "1916.802_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.802/1916.802_alt0_web.jpg",
+        "width": "495",
+        "height": "900",
+        "filesize": "196708"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.802/1916.802_alt0_print.jpg",
+        "width": "1871",
+        "height": "3400",
+        "filesize": "2192996"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.802/1916.802_alt0_full.tif",
+        "width": "7703",
+        "height": "13999",
+        "filesize": "323531128"
+      },
+      "date_created": "2025-07-21T17:39:57",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.802/1916.802_alt1_web.jpg",
+        "width": "504",
+        "height": "900",
+        "filesize": "117228"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.802/1916.802_alt1_print.jpg",
+        "width": "1905",
+        "height": "3400",
+        "filesize": "1944982"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.802/1916.802_alt1_full.tif",
+        "width": "7835",
+        "height": "13985",
+        "filesize": "328743588"
+      },
+      "date_created": "2025-07-21T19:55:06",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.802/1916.802_alt2_web.jpg",
+        "width": "548",
+        "height": "900",
+        "filesize": "136367"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.802/1916.802_alt2_print.jpg",
+        "width": "2070",
+        "height": "3400",
+        "filesize": "1497171"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.802/1916.802_alt2_full.tif",
+        "width": "8133",
+        "height": "13360",
+        "filesize": "325997924"
+      },
+      "date_created": "2025-07-21T21:08:27",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.802/1916.802_alt3_web.jpg",
+        "width": "479",
+        "height": "893",
+        "filesize": "396223"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.802/1916.802_alt3_print.jpg",
+        "width": "1823",
+        "height": "3400",
+        "filesize": "4867646"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.802/1916.802_alt3_full.tif",
+        "width": "2681",
+        "height": "5000",
+        "filesize": "40234128"
+      },
+      "date_created": "2005-09-01T15:03:27",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.802/1916.802_alt4_web.jpg",
+        "width": "479",
+        "height": "893",
+        "filesize": "400980"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.802/1916.802_alt4_print.jpg",
+        "width": "1823",
+        "height": "3400",
+        "filesize": "4722769"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.802/1916.802_alt4_full.tif",
+        "width": "2681",
+        "height": "5000",
+        "filesize": "40228516"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Holden Collection",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 97166,
+  "creators": [
+    {
+      "id": 2197,
+      "description": "Fra Filippo Lippi (Italian, c. 1406–1469)",
+      "extent": null,
+      "qualifier": "follower of",
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "birth_year": "1406",
+      "death_year": "1469",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1918-12-31T00:00:00",
+  "sortable_date": 1455,
+  "date_added_to_oa": null,
+  "date_text": "c. 1460",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Madonna and Child with Angels"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-09-12 11:31:23.398000"
+}

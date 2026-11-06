@@ -1,0 +1,342 @@
+{
+  "id": 162143,
+  "accession_number": "2001.76",
+  "share_license_status": "CC0",
+  "tombstone": "The Ascension: Leaf from a Book of Hours (4 of 6 Excised Leaves), c. 1420–30. Henri d'Orquevaulx (French), or Workshop. Ink, tempera, silver, and gold on vellum; overall: 15.9 x 11.6 cm (6 1/4 x 4 9/16 in.). The Cleveland Museum of Art, The Jeanne Miles Blackburn Collection, 2001.76",
+  "current_location": null,
+  "title": "The Ascension: Leaf from a Book of Hours (4 of 6 Excised Leaves)",
+  "creation_date": "c. 1420–30",
+  "creation_date_earliest": 1420,
+  "creation_date_latest": 1430,
+  "artists_tags": [
+    "male",
+    "gender unknown"
+  ],
+  "culture": [
+    "France, Metz"
+  ],
+  "technique": "ink, tempera, silver, and gold on vellum",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Manuscript Illuminations",
+  "type": "Manuscript",
+  "measurements": "Overall: 15.9 x 11.6 cm (6 1/4 x 4 9/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.159,
+      "height_inch": 6,
+      "height_inch_fraction": 0.25,
+      "width": 0.116,
+      "width_inch": 4,
+      "width_inch_fraction": 0.5625
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 192960,
+        "title": "The Jeanne Miles Blackburn Collection of Manuscript Illuminations",
+        "description": "<i>The Jeanne Miles Blackburn Collection of Manuscript Illuminations</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 19, 1999-February 27, 2000).",
+        "opening_date": "1999-12-19T00:00:00"
+      },
+      {
+        "id": 179437,
+        "title": "Illuminated Manuscripts",
+        "description": "<i>Illuminated Manuscripts</i>. The Cleveland Museum of Art (organizer) (October 10, 2004-October 2, 2005).",
+        "opening_date": "2004-10-10T00:00:00"
+      },
+      {
+        "id": 196935,
+        "title": "The Glory of the Painted Page: Manuscript Illuminations from the Permanent Collection",
+        "description": "<i>The Glory of the Painted Page: Manuscript Illuminations from the Permanent Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 6, 2010-April 17, 2011).",
+        "opening_date": "2010-11-06T00:00:00"
+      },
+      {
+        "id": 449397,
+        "title": "The Medieval Top Seller: The Book of Hours",
+        "description": "<i>The Medieval Top Seller: The Book of Hours</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 26, 2022-July 30, 2023).",
+        "opening_date": "2022-08-26T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "CMA, 19 December 1999 - 27 February 2000, The Jeanne Miles Blackburn Collection of Manuscript Illuminations, cat. 34, illus. p. 40.",
+        "opening_date": "1999-12-19T00:00:00"
+      },
+      {
+        "description": "The Cleveland Museum of Art (10/10/2004 - 10/02/2005); \"Illuminated Manuscripts\"",
+        "opening_date": "2004-10-10T00:00:00"
+      },
+      {
+        "description": "Cleveland Museum of Art, (11/06/2010 - 04/17/2011); \"The Glory Of the Painted Page: Manuscript Illuminations from the Permanent Collections\"",
+        "opening_date": "2010-11-06T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Jehan de Poncy (d. 1605) and his wife, Marguerite",
+      "citations": [],
+      "footnotes": null,
+      "date": "before 1539 - after 1541",
+      "sortorder": 1
+    },
+    {
+      "description": "Bartlett Gurney (1756-1803), Norwich, England, bequeathed to his aunt Catherine Gurney",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": 2
+    },
+    {
+      "description": "Catherine Gurney (1776–1850), Norwich, England, gifted to Rev. Edward Edwards",
+      "citations": [],
+      "footnotes": null,
+      "date": "-1808",
+      "sortorder": 3
+    },
+    {
+      "description": "Rev. Edward Edwards (1766-1849), Lynn, Norfolk, bequeathed to his godson William Hay Gurney, nephew of Catherine Gurney",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": 4
+    },
+    {
+      "description": "William Hay Gurney (1827-1898), North Princeton",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": 5
+    },
+    {
+      "description": "Sale: Christie's New York, April 7, 1978, Lot 226",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": 6
+    },
+    {
+      "description": "[Bruce Ferrini (1950-2010), Akron, OH, sold to Jeanne Miles Blackburn]",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": 7
+    },
+    {
+      "description": "Ms. Jeanne Miles Blackburn, Maitland, Fl, gifted to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": null,
+      "date": "-2001",
+      "sortorder": 8
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "2001-",
+      "sortorder": 9
+    }
+  ],
+  "find_spot": null,
+  "related_works": [
+    {
+      "id": 169741,
+      "description": "Leaf from a Book of Hours: Saint Barbara (6 of 6 Excised Leaves), c. 1420–30. Henri d'Orquevaulx (French), or Workshop. Ink, tempera, silver, and gold on vellum; leaf: 16.1 x 12.4 cm (6 5/16 x 4 7/8 in.). The Cleveland Museum of Art, The Jeanne Miles Blackburn Collection, 2011.57",
+      "relationship": null
+    },
+    {
+      "id": 160817,
+      "description": "Christ before Pilate: Leaf from a Book of Hours (2 of 6 Excised Leaves), c. 1420–30. Henri d'Orquevaulx (French), or Workshop. Ink, tempera, and gold on vellum; each leaf: 16.1 x 12.4 cm (6 5/16 x 4 7/8 in.). The Cleveland Museum of Art, The Jeanne Miles Blackburn Collection, 1999.129",
+      "relationship": null
+    },
+    {
+      "id": 160816,
+      "description": "Annunciation to the Shepherds: Leaf from a Book of Hours (1 of 6 Excised Leaves), c. 1420–30. Henri d'Orquevaulx (French), or Workshop. Ink, tempera, and gold on vellum; each leaf: 16.1 x 12.4 cm (6 5/16 x 4 7/8 in.). The Cleveland Museum of Art, The Jeanne Miles Blackburn Collection 1999.128",
+      "relationship": null
+    },
+    {
+      "id": 162142,
+      "description": "The Nativity: Leaf from a Book of Hours (3 of 6 Excised Leaves), c. 1420–30. Henri d'Orquevaulx (French), or Workshop. Ink, tempera, and gold on vellum; each leaf: 16.1 x 12.6 cm (6 5/16 x 4 15/16 in.). The Cleveland Museum of Art, The Jeanne Miles Blackburn Collection, 2001.75",
+      "relationship": null
+    },
+    {
+      "id": 162536,
+      "description": "The Visitation: Leaf from a Book of Hours (5 of 6 Excised Leaves), c. 1420. Henri d'Orquevaulx (French), or Workshop. Ink, tempera and gold on vellum; each leaf: 16.1 x 12.5 cm (6 5/16 x 4 15/16 in.). The Cleveland Museum of Art, The Jeanne Miles Blackburn Collection, 2003.172",
+      "relationship": null
+    }
+  ],
+  "former_accession_numbers": [],
+  "did_you_know": "Mostly used by women, books of hours are estimated to have been owned by every fourth household at the height of their popularity.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This leaf survives from what must have been an extraordinarily rich book of hours. The elaborate Passion cycle and Suffrages point to an important patron. Internal evidence within the original calendar and texts indicates that Metz was the probable place of production. Stylistically, the illuminations appear to come from the workshop of Henri d’Orquevaulx, a documented Metz manuscript painter. Compositionally, structurally, and stylistically, the miniatures suggest strong links to Netherlandish illumination. It is not known whether d’Orquevaulx came originally from the Netherlands or whether he simply worked or trained there at some point in his career.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79985853"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-2001.76-the-ascension-leaf-f"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Christie, Manson &amp; Woods International Inc.<em> Printed Books and Manuscripts Including an Important Manuscript Map of Southeastern North America, 1721.</em> 1978.",
+      "page_number": "Lot 226",
+      "url": ""
+    },
+    {
+      "citation": "Fliegel, Stephen N. <em>The Jeanne Miles Blackburn Collection of Manuscript Illuminations</em>. Cleveland, Ohio: Cleveland Museum of Art, 1999.",
+      "page_number": "Mentioned: p. 37; Reproduced: p. 40, cat. no. 34",
+      "url": "https://archive.org/details/BlackburnIlluminations/page/n49"
+    }
+  ],
+  "url": "https://clevelandart.org/art/2001.76",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/2001.76/2001.76_web.jpg",
+      "width": "685",
+      "height": "900",
+      "filesize": "420868",
+      "filename": "2001.76_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/2001.76/2001.76_print.jpg",
+      "width": "2588",
+      "height": "3400",
+      "filesize": "4527728",
+      "filename": "2001.76_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/2001.76/2001.76_full.tif",
+      "width": "7994",
+      "height": "10503",
+      "filesize": "251914413",
+      "filename": "2001.76_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2001.76/2001.76_alt0_web.jpg",
+        "width": "685",
+        "height": "900",
+        "filesize": "318899"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2001.76/2001.76_alt0_print.jpg",
+        "width": "2588",
+        "height": "3400",
+        "filesize": "3892662"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2001.76/2001.76_alt0_full.tif",
+        "width": "7994",
+        "height": "10503",
+        "filesize": "251910997"
+      },
+      "date_created": "2022-01-27T14:05:38",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2001.76/2001.76_alt1_web.jpg",
+        "width": "686",
+        "height": "893",
+        "filesize": "602295"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2001.76/2001.76_alt1_print.jpg",
+        "width": "2613",
+        "height": "3400",
+        "filesize": "6243430"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2001.76/2001.76_alt1_full.tif",
+        "width": "3843",
+        "height": "5000",
+        "filesize": "57678200"
+      },
+      "date_created": "2005-01-20T16:50:06",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2001.76/2001.76_alt2_web.jpg",
+        "width": "686",
+        "height": "893",
+        "filesize": "598306"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2001.76/2001.76_alt2_print.jpg",
+        "width": "2613",
+        "height": "3400",
+        "filesize": "6016734"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2001.76/2001.76_alt2_full.tif",
+        "width": "3843",
+        "height": "5000",
+        "filesize": "57665180"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "The Jeanne Miles Blackburn Collection",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 162143,
+  "creators": [
+    {
+      "id": 30348,
+      "description": "Henri d'Orquevaulx (French)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    },
+    {
+      "id": 34768,
+      "description": "Workshop",
+      "extent": null,
+      "qualifier": "or",
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 2
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "2001-06-04T00:00:00",
+  "sortable_date": 1420,
+  "date_added_to_oa": null,
+  "date_text": "c. 1420–30",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Ascension, miniature with acanthus and ivyleaf border, text in French (dialect of Lorraine) from a Book of Hours (Hours of the Holy Spirit?)",
+    "Excised Leaf from a Book of Hours:  The Ascension"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-08-18 11:57:04.584000"
+}

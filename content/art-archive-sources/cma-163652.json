@@ -1,0 +1,246 @@
+{
+  "id": 163652,
+  "accession_number": "2005.145.63.b",
+  "share_license_status": "CC0",
+  "tombstone": "Moses praying to end the serpents’ attack on the Israelites (folio 63 verso), from a Mirror of Holiness (Mir’at al-quds) of Father Jerome Xavier, 1602–4. Mughal India, Allahabad, made for Prince Salim (1569–1627). Gum tempera, ink, color, and gold on paper; page: 26.3 x 15.6 cm (10 3/8 x 6 1/8 in.); painting only: 18.9 x 10.5 cm (7 7/16 x 4 1/8 in.). The Cleveland Museum of Art, John L. Severance Fund, 2005.145.63.b",
+  "current_location": null,
+  "title": "Moses praying to end the serpents’ attack on the Israelites (folio 63 verso), from a Mirror of Holiness (Mir’at al-quds) of Father Jerome Xavier",
+  "creation_date": "1602–4",
+  "creation_date_earliest": 1602,
+  "creation_date_latest": 1604,
+  "artists_tags": [],
+  "culture": [
+    "Mughal India, Allahabad, made for Prince Salim (1569–1627)"
+  ],
+  "technique": "Gum tempera, ink, color, and gold on paper",
+  "support_materials": [],
+  "department": "Indian and Southeast Asian Art",
+  "collection": "Indian Art",
+  "type": "Manuscript",
+  "measurements": "Page: 26.3 x 15.6 cm (10 3/8 x 6 1/8 in.); Painting only: 18.9 x 10.5 cm (7 7/16 x 4 1/8 in.)",
+  "dimensions": {
+    "page": {
+      "height": 0.263,
+      "height_inch": 10,
+      "height_inch_fraction": 0.375,
+      "width": 0.156,
+      "width_inch": 6,
+      "width_inch_fraction": 0.125
+    },
+    "painting only": {
+      "height": 0.189,
+      "height_inch": 7,
+      "height_inch_fraction": 0.4375,
+      "width": 0.105,
+      "width_inch": 4,
+      "width_inch_fraction": 0.125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 357806,
+        "title": "Prince Salim's Life of Christ (Manuscript Rotation) - Gallery 115",
+        "description": "<i>Prince Salim's Life of Christ (Manuscript Rotation) - Gallery 115</i>. The Cleveland Museum of Art (organizer) (December 2, 2019-July 1, 2020).",
+        "opening_date": "2019-12-02T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "An Indian family in Great Britain, whose grandfather brought the manuscript to England in the 1930s or 1940s",
+      "citations": [],
+      "footnotes": [],
+      "date": "before 1930s–2005",
+      "sortorder": 1
+    },
+    {
+      "description": "(Oliver Forge and Brendan Lynch Ltd., London, England, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "2005",
+      "sortorder": 2
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "2005–",
+      "sortorder": 3
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [
+    "2005.145.14"
+  ],
+  "did_you_know": "This is an Old Testament scene, rather than a scene from the life of Christ.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "After the Israelites complained about the difficulties of their journey out of Egypt, God punished them for their lack of gratitude by sending snakes to bite and plague them. Apparently reveling in the brutality of the scene, the artist shows men and women alike being savaged by snakes, one of whose tail slithers over the rulings of the right margin. An Israelite woman raises her hands and pleads with Moses to help them, promising repentance, and he intercedes on their behalf. Father Jerome used this episode to demonstrate how repentant believers merit salvation.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q85699221"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-2005.145.63.b-moses-praying-to-end"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Carvalho, Pedro de Moura, and W. M. Thackston. <em>Mirʼāt al-quds (Mirror of holiness): a life of Christ for Emperor Akbar: a commentary on Father Jerome Xavier's text and the miniatures of Cleveland Museum of Art, Acc. no. 2005.145</em>. Leiden: Brill, 2012.",
+      "page_number": "",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/2005.145.63.b",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/2005.145.63.b/2005.145.63.b_web.jpg",
+      "width": "508",
+      "height": "900",
+      "filesize": "307409",
+      "filename": "2005.145.63.b_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/2005.145.63.b/2005.145.63.b_print.jpg",
+      "width": "1919",
+      "height": "3400",
+      "filesize": "2624129",
+      "filename": "2005.145.63.b_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/2005.145.63.b/2005.145.63.b_full.tif",
+      "width": "3272",
+      "height": "5796",
+      "filesize": "56925852",
+      "filename": "2005.145.63.b_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.145.63.b/2005.145.63.b_alt0_web.jpg",
+        "width": "565",
+        "height": "900",
+        "filesize": "275560"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.145.63.b/2005.145.63.b_alt0_print.jpg",
+        "width": "2133",
+        "height": "3400",
+        "filesize": "2815938"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.145.63.b/2005.145.63.b_alt0_full.tif",
+        "width": "7717",
+        "height": "12302",
+        "filesize": "284831816"
+      },
+      "date_created": "2019-11-14T15:48:08",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.145.63.b/2005.145.63.b_alt1_web.jpg",
+        "width": "508",
+        "height": "900",
+        "filesize": "199700"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.145.63.b/2005.145.63.b_alt1_print.jpg",
+        "width": "1919",
+        "height": "3400",
+        "filesize": "2068547"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.145.63.b/2005.145.63.b_alt1_full.tif",
+        "width": "3272",
+        "height": "5796",
+        "filesize": "56925852"
+      },
+      "date_created": "2014-04-25T12:58:27",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.145.63.b/2005.145.63.b_alt2_web.jpg",
+        "width": "544",
+        "height": "893",
+        "filesize": "363403"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.145.63.b/2005.145.63.b_alt2_print.jpg",
+        "width": "2070",
+        "height": "3400",
+        "filesize": "4532769"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.145.63.b/2005.145.63.b_alt2_full.tif",
+        "width": "3517",
+        "height": "5776",
+        "filesize": "60973388"
+      },
+      "date_created": "2005-08-15T17:18:42",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.145.63.b/2005.145.63.b_alt3_web.jpg",
+        "width": "548",
+        "height": "900",
+        "filesize": "260808"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.145.63.b/2005.145.63.b_alt3_print.jpg",
+        "width": "2070",
+        "height": "3400",
+        "filesize": "1843552"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.145.63.b/2005.145.63.b_alt3_full.tif",
+        "width": "3517",
+        "height": "5776",
+        "filesize": "60973388"
+      },
+      "date_created": "2005-08-15T17:18:42",
+      "annotation": ""
+    }
+  ],
+  "creditline": "John L. Severance Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 163652,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "2005-09-06T00:00:00",
+  "sortable_date": 1602,
+  "date_added_to_oa": null,
+  "date_text": "1602–4",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "part",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "2005.145",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Masihnama (Life of Christ) Manuscript (plate 14: Moses Prays for Deliverance from a Plague of Serpents)",
+    "Moses Prays for Deliverance from a Plague of Serpents, from a Mirror of Holiness (Mi'rat al-Quds) of Father Jerome Xavier",
+    "Moses Praying to End the Serpent's Attack on the Israelites,  from a Mirror of Holiness (Mir’at al-quds) of Father Jerome Xavier",
+    "Moses praying to end the serpents’ attack on the Israelites, from a Mir’at al-quds (Mirror of Holiness) of Father Jerome Xavier (Spanish, 1549–1617)",
+    "Moses praying to end the serpents’ attack on the Israelites, from a Mirror of Holiness (Mir’at al-quds) of Father Jerome Xavier"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-09-25 15:46:09.684000"
+}

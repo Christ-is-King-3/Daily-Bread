@@ -1,0 +1,152 @@
+{
+  "id": 130195,
+  "accession_number": "1952.565",
+  "share_license_status": "CC0",
+  "tombstone": "Partial Leaf from a Latin Bible: Initial I[n principio] with the Marriage at Cana, c. 1260–1270. Northeastern France, Cambrai, 13th century. Ink, tempera, and gold on vellum; sheet: 42 x 15.3 cm (16 9/16 x 6 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1952.565",
+  "current_location": null,
+  "title": "Partial Leaf from a Latin Bible: Initial I[n principio] with the Marriage at Cana",
+  "creation_date": "c. 1260–1270",
+  "creation_date_earliest": 1260,
+  "creation_date_latest": 1270,
+  "artists_tags": [],
+  "culture": [
+    "Northeastern France, Cambrai, 13th century"
+  ],
+  "technique": "ink, tempera, and gold on vellum",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Manuscript Illuminations",
+  "type": "Manuscript",
+  "measurements": "Sheet: 42 x 15.3 cm (16 9/16 x 6 in.)",
+  "dimensions": {
+    "sheet": {
+      "height": 0.42,
+      "height_inch": 16,
+      "height_inch_fraction": 0.5625,
+      "width": 0.153,
+      "width_inch": 6,
+      "width_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 444196,
+        "title": "Transformations of the Court Style: Gothic Art in Europe, 1270 - 1330",
+        "description": "<i>Transformations of the Court Style: Gothic Art in Europe, 1270 - 1330</i>. Rhode Island School of Design, Providence, RI (February 2-27, 1977).",
+        "opening_date": "1977-02-02T05:00:00"
+      },
+      {
+        "id": 311502,
+        "title": "The Decorated Letter and the Illuminator's Art",
+        "description": "<i>The Decorated Letter and the Illuminator's Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 25-December 19, 1993).",
+        "opening_date": "1993-09-25T04:00:00"
+      },
+      {
+        "id": 179437,
+        "title": "Illuminated Manuscripts",
+        "description": "<i>Illuminated Manuscripts</i>. The Cleveland Museum of Art (organizer) (October 10, 2004-October 2, 2005).",
+        "opening_date": "2004-10-10T00:00:00"
+      },
+      {
+        "id": 196935,
+        "title": "The Glory of the Painted Page: Manuscript Illuminations from the Permanent Collection",
+        "description": "<i>The Glory of the Painted Page: Manuscript Illuminations from the Permanent Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 6, 2010-April 17, 2011).",
+        "opening_date": "2010-11-06T00:00:00"
+      },
+      {
+        "id": 302268,
+        "title": "Devotion and Learning in the Middle Ages",
+        "description": "<i>Devotion and Learning in the Middle Ages</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 4, 2017-December 3, 2018).",
+        "opening_date": "2017-12-04T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "The Cleveland Museum of Art (10/10/2004 - 10/02/2005); \"Illuminated Manuscripts\"",
+        "opening_date": "2004-10-10T00:00:00"
+      },
+      {
+        "description": "Cleveland Museum of Art, (11/06/2010 - 04/17/2011); \"The Glory Of the Painted Page: Manuscript Illuminations from the Permanent Collections\"",
+        "opening_date": "2010-11-06T00:00:00"
+      }
+    ]
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The illuminator of this initial placed three small scenes one above another to suggest the vertical stem of the initial <em>I</em>, here standing for the introductory passages of the Gospel of Saint John,<em> In principio erat verbum . . .</em> (In the beginning was the word . . .). Such initials have been called \"ladder initials\" because the individual scenes were arranged one on top of the other to be read in sequence. Each group of figures stands beneath a cusped gable and depicts scenes from the Marriage at Cana. At the top, Christ and the Virgin speak together; at the center, Christ tells the attendant to fill the jars; and below, the banquet proceeds after the miraculous change of water into wine. The present leaf (actually a fragment) comes from a large lectern bible, which probably existed in several volumes because of its size. In the 1100s and 1200s, the large multivolume bible was a standard form used for refectory readings at meals or else kept in a library for reference.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79911993"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1952.565-partial-leaf-from-a"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Stoneman, William P. \"Medieval, Renaissance, and Modern Manuscripts: A Handlist of the Collection of C.H. St. John Hornby.\" In <em>Collecting, Collectors, and the Book Trade: Essays in Honour of Richard A. Linenthal, e</em>dited by Ed Potten and Satoko Tokunaga, 364-393. Turnhout: Brepols, 2026.",
+      "page_number": "Mentioned: p. 376-377",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1952.565",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1952.565/1952.565_web.jpg",
+      "width": "347",
+      "height": "893",
+      "filesize": "276486",
+      "filename": "1952.565_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1952.565/1952.565_print.jpg",
+      "width": "1321",
+      "height": "3400",
+      "filesize": "4268204",
+      "filename": "1952.565_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1952.565/1952.565_full.tif",
+      "width": "2440",
+      "height": "6280",
+      "filesize": "46005384",
+      "filename": "1952.565_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 130195,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1952-12-26T00:00:00",
+  "sortable_date": 1260,
+  "date_added_to_oa": null,
+  "date_text": "c. 1260–1270",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-07-29 11:09:49.651000"
+}

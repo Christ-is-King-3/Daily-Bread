@@ -1,0 +1,108 @@
+{
+  "objectID": 335044,
+  "isHighlight": false,
+  "accessionNumber": "1975.131.137",
+  "accessionYear": "1975",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP801100.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP801100.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/DP801101.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 72898,
+      "role": "Artist",
+      "name": "Joachim Beuckelaer",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031041",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q533314",
+      "gender": ""
+    },
+    {
+      "constituentID": 69770,
+      "role": "Former Attribution",
+      "name": "Formerly attributed to Pieter Aertsen",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027884",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q326548",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Adoration of the Shepherds",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Joachim Beuckelaer",
+  "artistDisplayBio": "Netherlandish, Antwerp 1533–1575 Antwerp",
+  "artistSuffix": "",
+  "artistAlphaSort": "Beuckelaer, Joachim",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1533",
+  "artistEndDate": "1574",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q533314",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500031041",
+  "objectDate": "1560",
+  "objectBeginDate": 1560,
+  "objectEndDate": 1560,
+  "medium": "pen and brown ink, gray wash on brown paper, squared in red chalk",
+  "dimensions": "6 7/8 x 6 3/16 in. (17.4 x 15.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 17.4,
+        "Width": 15.7
+      }
+    }
+  ],
+  "creditLine": "Bequest of Harry G. Sperling, 1971",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/335044",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Donkeys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265959",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3537778"
+    },
+    {
+      "term": "Jesus",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+    },
+    {
+      "term": "Shepherds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025617",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q81710"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,392 @@
+{
+  "id": 108541,
+  "accession_number": "1926.247",
+  "share_license_status": "CC0",
+  "tombstone": "The Holy Family with Mary Magdalen, c. 1590–95. El Greco (Spanish, 1541–1614). Oil on canvas; framed: 160 x 131 x 7.5 cm (63 x 51 9/16 x 2 15/16 in.); unframed: 130 x 100 cm (51 3/16 x 39 3/8 in.). The Cleveland Museum of Art, Gift of the Friends of The Cleveland Museum of Art in memory of J. H. Wade, 1926.247",
+  "current_location": "212 Baroque Painting and Sculpture",
+  "title": "The Holy Family with Mary Magdalen",
+  "creation_date": "c. 1590–95",
+  "creation_date_earliest": 1590,
+  "creation_date_latest": 1595,
+  "artists_tags": [
+    "Latine and Hispanic Artists",
+    "male"
+  ],
+  "culture": [
+    "Spain"
+  ],
+  "technique": "oil on canvas",
+  "support_materials": [],
+  "department": "European Painting and Sculpture",
+  "collection": "P - Spanish before 1800",
+  "type": "Painting",
+  "measurements": "Framed: 160 x 131 x 7.5 cm (63 x 51 9/16 x 2 15/16 in.); Unframed: 130 x 100 cm (51 3/16 x 39 3/8 in.)",
+  "dimensions": {
+    "framed": {
+      "height": 1.6,
+      "height_inch": 63,
+      "height_inch_fraction": 0.0,
+      "width": 1.31,
+      "width_inch": 51,
+      "width_inch_fraction": 0.5625,
+      "depth": 0.075,
+      "depth_inch": 2,
+      "depth_inch_fraction": 0.9375
+    },
+    "unframed": {
+      "height": 1.3,
+      "height_inch": 51,
+      "height_inch_fraction": 0.1875,
+      "width": 1.0,
+      "width_inch": 39,
+      "width_inch_fraction": 0.375
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 312517,
+        "title": "The Twentieth Anniversary Exhibition: The Official Art Exhibit of the Great Lakes Exposition",
+        "description": "<i>The Twentieth Anniversary Exhibition: The Official Art Exhibit of the Great Lakes Exposition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 26-October 4, 1936).",
+        "opening_date": "1936-06-26T04:00:00"
+      },
+      {
+        "id": 300859,
+        "title": "The Venetian Tradition",
+        "description": "<i>The Venetian Tradition</i>. The Cleveland Museum of Art, Cleveland, OH (November 8, 1956-January 1, 1957).",
+        "opening_date": "1956-11-08T05:00:00"
+      },
+      {
+        "id": 205992,
+        "title": "El Greco",
+        "description": "<i>El Greco</i>. The Metropolitan Museum of Art, New York, NY (organizer) (September 29, 2003-January 11, 2004).",
+        "opening_date": "2003-09-29T00:00:00"
+      },
+      {
+        "id": 222394,
+        "title": "Masterpieces of European Painting from The Cleveland Museum of Art",
+        "description": "<i>Masterpieces of European Painting from The Cleveland Museum of Art</i>. Frick Collection, New York, NY (organizer) (November 8, 2006-January 28, 2007).",
+        "opening_date": "2006-11-08T00:00:00"
+      },
+      {
+        "id": 179662,
+        "title": "Masterpieces of European Painting from the Cleveland Museum of Art",
+        "description": "<i>Masterpieces of European Painting from the Cleveland Museum of Art</i>. Maltz Museum of Jewish Heritage, Beachwood, OH (March 29-July 8, 2007).",
+        "opening_date": "2007-03-29T00:00:00"
+      },
+      {
+        "id": 227483,
+        "title": "El Greco and Modernism",
+        "description": "<i>El Greco and Modernism</i>. Museum Kunst Palast, 40479 Düsseldorf, Germany (organizer) (April 28-August 13, 2012).",
+        "opening_date": "2012-04-28T00:00:00"
+      },
+      {
+        "id": 205930,
+        "title": "Masterworks - Portland",
+        "description": "<i>Masterworks - Portland</i>. Portland Art Museum, Portland, OR (organizer) (December 13, 2014-April 5, 2015).",
+        "opening_date": "2014-12-13T00:00:00"
+      },
+      {
+        "id": 318541,
+        "title": "El Greco: Ambition and Defiance",
+        "description": "<i>El Greco: Ambition and Defiance</i>. Réunion des musées nationaux - Grand Palais, Paris cedex 12, France (organizer) (October 14, 2019-February 10, 2020); The Art Institute of Chicago, Chicago, IL (March 5-October 19, 2020) https://www.artic.edu/exhibitions/2939/el-greco-ambition-and-defiance.",
+        "opening_date": "2019-10-14T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "Budapest, musée des Beaux-Arts, no date: \" Dominico theotokopuli el Greco 1547-1614...  Collection marczell de Nemes,\" pl. 3.",
+        "opening_date": null
+      },
+      {
+        "description": "Munich, Alte Pinakothek, 1911: \"Sammlung des kgl. Rates Marzcell von Nemes, Budapest,\" cat. no. 14.",
+        "opening_date": "1911-01-01T00:00:00"
+      },
+      {
+        "description": "Düsseldorf, Städtische kunsthalle, 1912: \"Ausstellung der Galerie Marzcell v. Nemes,\" cat no. 65.",
+        "opening_date": "1912-01-01T00:00:00"
+      },
+      {
+        "description": "Paris, Galerie manzi, Joyant, June 15-16, 1913: \"Tableaux anciens..compsant la collection de m. Marzcell de Nemes de Budapest,\" cat. no. 31., illus.",
+        "opening_date": "2016-06-15T00:00:00"
+      },
+      {
+        "description": "Chicago, Art Insititute of Chicago, June 1-November 1, 1934: \"Century of Progress,\" cat. no. 73. pl. XV.",
+        "opening_date": "1934-06-01T00:00:00"
+      },
+      {
+        "description": "CMA, 1936: \"The Twentieth Anniversary Exhibition of CMA,\" cat. no. 156, pl. XXV.",
+        "opening_date": "1936-01-01T00:00:00"
+      },
+      {
+        "description": "Philadelphia, Pennsylvania Museum of Art, March 17-April 26, 1937: \"Masters of Spanish Painting.\"",
+        "opening_date": "1937-03-17T00:00:00"
+      },
+      {
+        "description": "Paris (exposition organized by the Gazette des Beaux-Arts), June 16-November 30, 1937: \"Domenico theotocópuli, El Greco,\" cat. no. 25, illus.",
+        "opening_date": "1937-06-16T00:00:00"
+      },
+      {
+        "description": "CMA, 1956: \"The Venetian Tradition,\" cat. no. 16, pl. XXXV.",
+        "opening_date": "1956-01-01T00:00:00"
+      },
+      {
+        "description": "The Toledo (Ohio) Museum of Art, 1982: \"El Greco of Toledo,\" (Boston: A New York Graphic Society Book, Little , Brown and Company, 1982), cat. no. 27, p. 239, repr. color plate 46. (Painting only exhibied in Toledo, Ohio, September 19-November 14, 1982.",
+        "opening_date": "1982-09-19T00:00:00"
+      },
+      {
+        "description": "CMA, September 9-October 22, 1989: \"Holy Image, Holy Space: Icons and Frescoes from Greece.\" (Painting only exhibited in Cleveland0.",
+        "opening_date": "1989-09-09T00:00:00"
+      },
+      {
+        "description": "The Metropolitan Musuem of Art (9/29/2003 - 1/11/2004): \"El Greco\" exh. cat. no. 31.",
+        "opening_date": "2003-09-29T00:00:00"
+      },
+      {
+        "description": "The Frick Collection (November 8, 2006 - January 28, 2007):  \"Masterpieces of European Painting from The Cleveland Museum of Art\", exh. cat. no. 5, p. 32-35.",
+        "opening_date": "2006-11-08T00:00:00"
+      },
+      {
+        "description": "Maltz Museum of Jewish Heritage (March 29, 2007 - July 8, 2007):  \"Masterpieces of European Painting from the Cleveland Museum of Art\"",
+        "opening_date": "2007-03-29T00:00:00"
+      },
+      {
+        "description": "Museum Kunst Palast, Düsseldorf (4/28/2012 - 8/13/2-12): \"El Greco and Modernism\", no cat. no., p. 102-103.",
+        "opening_date": "2012-03-02T00:00:00"
+      },
+      {
+        "description": "Portland Art Museum, OR (12/13/1014 - 4/5/2015):  \"Masterworks - Portland\"",
+        "opening_date": "2015-04-05T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Convent of Esquivias, near Toledo",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": 1
+    },
+    {
+      "description": "Juan Gutiérrez, Torrejón de Velasco, Spain",
+      "citations": [],
+      "footnotes": null,
+      "date": "-1899",
+      "sortorder": 2
+    },
+    {
+      "description": "Stanislas O'Rossen (1864-1933), Paris, France",
+      "citations": [],
+      "footnotes": null,
+      "date": "-1908",
+      "sortorder": 3
+    },
+    {
+      "description": "Marczell von Nemes (1866-1930), Budapest, Hungary, sold, Paris",
+      "citations": [],
+      "footnotes": null,
+      "date": "-1913",
+      "sortorder": 4
+    },
+    {
+      "description": "Gentile di Giuseppe (1868-1940), Paris, France",
+      "citations": [],
+      "footnotes": null,
+      "date": "-1917",
+      "sortorder": 5
+    },
+    {
+      "description": "(D. Atri, Paris, France, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "-1926",
+      "sortorder": 6
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1926-",
+      "sortorder": 7
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The nearly levitating body of the Christ child further emphasizes the ethereal setting of the Holy Family.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The seemingly weightless figures, the startling color combinations, and the moody, imprecise setting all show El Greco’s interest in conveying the intense spirituality of these figures rather than their concrete reality. Above all, the painting addresses Mary’s role as mediator between Christ and the viewer. She supports her son, but her faraway look indicates awareness of his fate. Mary feeds Jesus fruit held by Joseph that is full of symbolic meaning, with the apple representing the fall of man; cherries, the blood of Christ; peaches, salvation; and pears, the sweetness of Christ’s virtue.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q16621835"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1926.247-the-holy-family-with"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "W. M. M. “‘The Holy Family,’ by El Greco.” <em>The Bulletin of the Cleveland Museum of Art</em> 14, no. 1 (January 1927): 3–6.",
+      "page_number": "Mentioned: p. 3-6; reproduced: Cover",
+      "url": "http://www.jstor.org/stable/25136989"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 1928.",
+      "page_number": "Reproduced: p. 32",
+      "url": "https://archive.org/details/CMAHandbook1928/page/n36"
+    },
+    {
+      "citation": "Milliken, William. \"Silver Jubilee Exhibition.\" <em>The Bulletin of the Cleveland Museum of Art </em>28, no.6 (June 1941): 88-108",
+      "page_number": "Mentioned: p. 90; Reproduced: p. 94",
+      "url": "https://www.jstor.org/stable/25140932"
+    },
+    {
+      "citation": "<em>Paintings in the Cleveland Museum of Art.</em> [Cleveland]: The Cleveland Museum of Art, 1945.",
+      "page_number": "Reproduced: p. 44",
+      "url": "https://archive.org/details/CMAPaintings1945/page/n52"
+    },
+    {
+      "citation": "Francis, Henry Sayles. <em>Venetian Tradition: Catalogue of the Exhibition.</em> [Cleveland, Ohio]: The Cleveland Museum of Art, 1956.",
+      "page_number": "Mentioned: p. 23, no. 16; Reproduced: pl. XXXV",
+      "url": ""
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 419",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n77"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 130",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n154"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 130",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n154"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 149",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n169"
+    },
+    {
+      "citation": "The Cleveland Museum of Art<em>. The Cleveland Museum of Art Catalogue of Paintings, Part 3: European Paintings of the 16th, 17th, and 18th Centuries</em>. Cleveland, OH: The Cleveland Museum of Art, 1982.",
+      "page_number": "Mentioned: p. 493-496; Reproduced: p. 494",
+      "url": null
+    },
+    {
+      "citation": "Kitaj, R. B., and Timothy Hyman. \"A Return to London\" IN <em>Kitaj Paintings, Drawings, Pastels.</em> John Ashebury, Joe Shannon, Jane Livingston, 41. New York, N.Y.: Thames and Hudson, 1983.",
+      "page_number": "Mentioned: p. 41",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 46 no. 10, December 2006",
+      "page_number": "Mentioned & reproduced; cover-p.2",
+      "url": "https://archive.org/details/CMAMM2006-10"
+    },
+    {
+      "citation": "Molnos, Péter, et. al. <em>Lost Heritage: Hungarian Art Collectors in the Twentieth Century. </em>Budapest: Kieselbach Gallery and Auction House Ltd., 2018.",
+      "page_number": "Mentioned: p. 180; Reproduced: p. 181",
+      "url": null
+    },
+    {
+      "citation": "Kientz, Guillaume, and Greco. Greco. Paris : Réunion des musées nationaux : Musée du Louvre ; Chicago : Art Institute of Chicago, 2019.",
+      "page_number": "Reproduced: p.196, cat. 61",
+      "url": ""
+    },
+    {
+      "citation": "Merle du Bourg, Alexis. \"1585-1614 L’apothéose d'un style.\" <em>Dossier de l'art </em>273, (October 2019): 50-63.",
+      "page_number": "Reproduced: p. 53",
+      "url": null
+    },
+    {
+      "citation": "Long, Rebecca J. <em>El Greco: Ambition &amp; Defiance.</em> Chicago, IL: Art Institute of Chicago, 2020.",
+      "page_number": "Reproduced: P. 141",
+      "url": ""
+    },
+    {
+      "citation": "Rowlands, Eliot W. \"An indefatigable intermediary: Harold Woodbury Parsons (1882-1967) and the formation of the European collections at the Cleveland Museum of Art: part 2.\" <em>Journal of the History of Collections </em>33, no.1 (2021): 93-109.",
+      "page_number": "Reproduced p.96; mentioned p.96, 103",
+      "url": ""
+    },
+    {
+      "citation": "Severance, John Long, and Leonard Colton Hanna. “The Friends of the Cleveland Museum of Art.” <em>The Bulletin of the Cleveland Museum of Art</em> 17, no. 3, pt. 2 (March 1930): 49–56.",
+      "page_number": "Mentioned and reproduced: p. 50-51",
+      "url": "http://www.jstor.org/stable/25137287"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1926.247",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1926.247/1926.247_web.jpg",
+      "width": "679",
+      "height": "893",
+      "filesize": "492406",
+      "filename": "1926.247_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1926.247/1926.247_print.jpg",
+      "width": "2586",
+      "height": "3400",
+      "filesize": "7326988",
+      "filename": "1926.247_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1926.247/1926.247_full.tif",
+      "width": "4203",
+      "height": "5527",
+      "filesize": "69724316",
+      "filename": "1926.247_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Gift of the Friends of The Cleveland Museum of Art in memory of J. H. Wade",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": "Reinberger Gallery",
+  "athena_id": 108541,
+  "creators": [
+    {
+      "id": 2391,
+      "description": "El Greco (Spanish, 1541–1614)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "birth_year": "1541",
+      "death_year": "1614",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1926-06-09T00:00:00",
+  "sortable_date": 1590,
+  "date_added_to_oa": null,
+  "date_text": "c. 1590–95",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "The Holy Family"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-07-24 11:49:01.063000"
+}

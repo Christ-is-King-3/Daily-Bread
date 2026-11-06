@@ -1,0 +1,121 @@
+{
+  "id": 130484,
+  "accession_number": "1953.213.5",
+  "share_license_status": "CC0",
+  "tombstone": "Moses Surrounded by the Patriarchs, before 1561. Jean Duvet (French, 1485–1561). Engraving. The Cleveland Museum of Art, Gift of the Hanna Fund, 1953.213.5",
+  "current_location": null,
+  "title": "Moses Surrounded by the Patriarchs",
+  "creation_date": "before 1561",
+  "creation_date_earliest": 1546,
+  "creation_date_latest": 1561,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "France"
+  ],
+  "technique": "engraving",
+  "support_materials": [],
+  "department": "Prints",
+  "collection": "PR - Engraving",
+  "type": "Print",
+  "dimensions": {},
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 301184,
+        "title": "Department of Prints and Drawings Opening Exhibition",
+        "description": "<i>Department of Prints and Drawings Opening Exhibition</i>. The Cleveland Museum of Art (organizer) (March 3, 1958-October 11, 1959).",
+        "opening_date": "1958-03-03T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This print is part of a bound volume of works illustrating the a narrative of the Apocalypse, taken from the Revelation of Saint John in the Bible. The 23 engravings in the series occupied the artist for a number of years and represent his greatest artistic achievement. The museum's volume is one of only seven known complete sets. Jean Duvet was one of the first major printmakers in France and one of the most original artists of the 1500s. Although he worked mostly in the provincial city of Langres, he became aware of Italian art through the circulation of prints—notably those of Marcantonio Raimondi. His solidly modeled human figures reflect the influence of the Italian High Renaissance. Duvet, however, developed an idiosyncratic, highly artificial style with crowded compositions that ignore rational space in favor of ornamental surface patterns.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79912296"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1953.213.5-moses-surrounded-by"
+    ]
+  },
+  "citations": [],
+  "catalogue_raisonne": "Eisler 36",
+  "url": "https://clevelandart.org/art/1953.213.5",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1953.213.5/1953.213.5_web.jpg",
+      "width": "618",
+      "height": "893",
+      "filesize": "494923",
+      "filename": "1953.213.5_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1953.213.5/1953.213.5_print.jpg",
+      "width": "2353",
+      "height": "3400",
+      "filesize": "6358723",
+      "filename": "1953.213.5_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1953.213.5/1953.213.5_full.tif",
+      "width": "4096",
+      "height": "5919",
+      "filesize": "72768300",
+      "filename": "1953.213.5_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Gift of the Hanna Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 130484,
+  "creators": [
+    {
+      "id": 16346,
+      "description": "Jean Duvet (French, 1485–1561)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "birth_year": "1485",
+      "death_year": "1561",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1953-06-17T00:00:00",
+  "sortable_date": 1546,
+  "date_added_to_oa": null,
+  "date_text": "before 1561",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "component",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "1953.213",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-07-24 11:49:01.840000"
+}

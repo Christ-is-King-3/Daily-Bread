@@ -1,0 +1,167 @@
+{
+  "id": 160811,
+  "accession_number": "1999.123",
+  "share_license_status": "CC0",
+  "tombstone": "Initial I with Elimelech and Naomi: Leaf from a Latin Bible, c. 1250. Johannes Grusch Atelier (French). Ink, tempera and gold on vellum; each leaf: 15 x 10 cm (5 7/8 x 3 15/16 in.). The Cleveland Museum of Art, The Jeanne Miles Blackburn Collection, 1999.123",
+  "current_location": null,
+  "title": "Initial I with Elimelech and Naomi: Leaf from a Latin Bible",
+  "creation_date": "c. 1250",
+  "creation_date_earliest": 1245,
+  "creation_date_latest": 1255,
+  "artists_tags": [
+    "gender unknown"
+  ],
+  "culture": [
+    "France, Paris"
+  ],
+  "technique": "ink, tempera and gold on vellum",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Manuscript Illuminations",
+  "type": "Manuscript",
+  "measurements": "Each leaf: 15 x 10 cm (5 7/8 x 3 15/16 in.)",
+  "dimensions": {
+    "each leaf": {
+      "height": 0.15,
+      "height_inch": 5,
+      "height_inch_fraction": 0.875,
+      "width": 0.1,
+      "width_inch": 3,
+      "width_inch_fraction": 0.9375
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 192960,
+        "title": "The Jeanne Miles Blackburn Collection of Manuscript Illuminations",
+        "description": "<i>The Jeanne Miles Blackburn Collection of Manuscript Illuminations</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 19, 1999-February 27, 2000).",
+        "opening_date": "1999-12-19T00:00:00"
+      },
+      {
+        "id": 179437,
+        "title": "Illuminated Manuscripts",
+        "description": "<i>Illuminated Manuscripts</i>. The Cleveland Museum of Art (organizer) (October 10, 2004-October 2, 2005).",
+        "opening_date": "2004-10-10T00:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "The Cleveland Museum of Art (10/10/2004 - 10/02/2005); \"Illuminated Manuscripts\"",
+        "opening_date": "2004-10-10T00:00:00"
+      },
+      {
+        "description": "CMA, 19 December 1999 - 27 February 2000, The Jeanne Miles Blackburn Collection of Manuscript Illuminations, cat. 7, illus. p. 16.",
+        "opening_date": "1999-12-19T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "[Bruce Ferrini, Akron]",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [
+    {
+      "id": 162141,
+      "description": "Leaf from a Latin Bible: Initial P with St. Paul Holding a Sword (St. Paul's Epistle to the Ephesians), c. 1250. Circle or workshop of Johannes Grusch Atelier (French). Ink, tempera, and gold on vellum; overall: 14.6 x 12.1 cm (5 3/4 x 4 3/4 in.). The Cleveland Museum of Art, The Jeanne Miles Blackburn Collection, 2001.74",
+      "relationship": null
+    }
+  ],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The Johannes Grusch Workshop is named for the priest responsible for copying one of its bibles in 1267. The shop first appeared on the scene during the late 1230s, and an oeuvre of thirty-nine manuscripts has been identified. The workshop's oldest dated work is a missal made for Rouen Cathedral between 1235 and 1245. The style expressed by the Grusch artist consists of flat little figures with inked draperies of a fairly irregular sort. The bodies have white heads with small features, like the short-bearded chins of the men and pursed mouths. A large number of painters were apparently associated with this workshop, which changed its style considerably over its thirty-year period of activity. Its painting can be divided into early, middle, and late styles.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79982631"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1999.123-initial-i-with-elime"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Fliegel, Stephen N. <em>The Jeanne Miles Blackburn Collection of Manuscript Illuminations</em>. Cleveland, Ohio: Cleveland Museum of Art, 1999.",
+      "page_number": "Mentioned and Reproduced: p. 16, cat. no. 7",
+      "url": "https://archive.org/details/BlackburnIlluminations/page/n28"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1999.123",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1999.123/1999.123_web.jpg",
+      "width": "596",
+      "height": "893",
+      "filesize": "517384",
+      "filename": "1999.123_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1999.123/1999.123_print.jpg",
+      "width": "1367",
+      "height": "2048",
+      "filesize": "2649074",
+      "filename": "1999.123_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1999.123/1999.123_full.tif",
+      "width": "1367",
+      "height": "2048",
+      "filesize": "8402308",
+      "filename": "1999.123_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "The Jeanne Miles Blackburn Collection",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 160811,
+  "creators": [
+    {
+      "id": 30116,
+      "description": "Johannes Grusch Atelier (French)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1999-06-07T00:00:00",
+  "sortable_date": 1245,
+  "date_added_to_oa": null,
+  "date_text": "c. 1250",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Initial I with Elimelech and Naomi: Leaf from a Latin Bible",
+    "Leaf from a Latin Bible: Initial I with Elimelech and Ruth ",
+    "Pair of Leaves from a Latin Bible: Initial I with Elimelech and Ruth (Opening of the Book of Ruth)"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:21:25.867000"
+}

@@ -1,0 +1,97 @@
+{
+  "objectID": 338537,
+  "isHighlight": false,
+  "accessionNumber": "19.76.9",
+  "accessionYear": "1919",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP832655.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP832655.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/DR272.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/178000.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DT2942.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161788,
+      "role": "Artist",
+      "name": "Correggio (Antonio Allegri)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006208",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q8457",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "The Annunciation",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Correggio (Antonio Allegri)",
+  "artistDisplayBio": "Italian, Correggio, active by 1514–died 1534 Correggio",
+  "artistSuffix": "",
+  "artistAlphaSort": "Correggio (Antonio Allegri)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1514",
+  "artistEndDate": "1534",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q8457",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500006208",
+  "objectDate": "ca. 1522–25",
+  "objectBeginDate": 1517,
+  "objectEndDate": 1530,
+  "medium": "Pen and brown ink, brush and gray-brown wash, highlighted with white gouache, squared in red chalk, on paper tinted with reddish wash",
+  "dimensions": "3-3/4 x 6-3/4 in.  (9.5 x 17.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 9.5,
+        "Width": 17.2
+      }
+    }
+  ],
+  "creditLine": "Frederick C. Hewitt Fund, 1917",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/338537",
+  "tags": [
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Archangel Gabriel",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000493",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q81989"
+    },
+    {
+      "term": "Annunciation",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,98 @@
+{
+  "objectID": 336173,
+  "isHighlight": false,
+  "accessionNumber": "25.5.1",
+  "accessionYear": "1925",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/MM3878.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/MM3878.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 71137,
+      "role": "Artist",
+      "name": "Master FVB",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "The Annunciation",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Master FVB",
+  "artistDisplayBio": "Netherlandish, active ca. 1475–1500",
+  "artistSuffix": "",
+  "artistAlphaSort": "Master FVB",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1475",
+  "artistEndDate": "1500",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "late 15th century",
+  "objectBeginDate": 1470,
+  "objectEndDate": 1500,
+  "medium": "Engraving",
+  "dimensions": "sheet: 7 1/2 x 6 1/16 in. (19 x 15.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 19,
+        "Width": 15.4
+      }
+    }
+  ],
+  "creditLine": "Gift of Felix M. Warburg, 1925",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/336173",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Annunciation",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+    },
+    {
+      "term": "Beds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300038697",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q42177"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

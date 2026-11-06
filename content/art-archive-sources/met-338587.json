@@ -1,0 +1,85 @@
+{
+  "objectID": 338587,
+  "isHighlight": false,
+  "accessionNumber": "17.236.29",
+  "accessionYear": "1917",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/17.236.29.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/17.236.29.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/DP809298.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 73283,
+      "role": "Artist",
+      "name": "Francesco Curia",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010045",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3080948",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "The Annunciation",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Francesco Curia",
+  "artistDisplayBio": "Italian, documented Naples 1565/70–1608 Naples",
+  "artistSuffix": "",
+  "artistAlphaSort": "Curia, Francesco",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1565",
+  "artistEndDate": "1608",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3080948",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010045",
+  "objectDate": "1565–1608",
+  "objectBeginDate": 1565,
+  "objectEndDate": 1608,
+  "medium": "Pen and brown ink, brush and brown wash over black chalk",
+  "dimensions": "11 1/8 x 8 3/8in. (28.2 x 21.3cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 28.2,
+        "Width": 21.3
+      }
+    }
+  ],
+  "creditLine": "Gift of Henry Walters, 1917",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/338587",
+  "tags": [
+    {
+      "term": "Annunciation",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

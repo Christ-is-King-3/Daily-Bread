@@ -1,0 +1,293 @@
+{
+  "id": 132367,
+  "accession_number": "1954.834",
+  "share_license_status": "CC0",
+  "tombstone": "Virgin and Child Enthroned, 1419. Battista di Biagio Sanguigni (Italian, active 1393–1451). Tempera and gold on wood; framed: 196.2 x 68.6 x 9.5 cm (77 1/4 x 27 x 3 3/4 in.); unframed: 196.2 x 68.2 cm (77 1/4 x 26 7/8 in.); with original molding and pinnacle: 129 x 59 cm (50 13/16 x 23 1/4 in.). The Cleveland Museum of Art, Gift of the Hanna Fund, 1954.834",
+  "current_location": "117A Italian Renaissance",
+  "title": "Virgin and Child Enthroned",
+  "creation_date": "1419",
+  "creation_date_earliest": 1419,
+  "creation_date_latest": 1419,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "Italy, Tuscany"
+  ],
+  "technique": "tempera and gold on wood",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Medieval Art",
+  "type": "Painting",
+  "measurements": "Framed: 196.2 x 68.6 x 9.5 cm (77 1/4 x 27 x 3 3/4 in.); Unframed: 196.2 x 68.2 cm (77 1/4 x 26 7/8 in.); with original molding and pinnacle: 129 x 59 cm (50 13/16 x 23 1/4 in.)",
+  "dimensions": {
+    "framed": {
+      "height": 1.962,
+      "height_inch": 77,
+      "height_inch_fraction": 0.25,
+      "width": 0.686,
+      "width_inch": 27,
+      "width_inch_fraction": 0.0,
+      "depth": 0.095,
+      "depth_inch": 3,
+      "depth_inch_fraction": 0.75
+    },
+    "unframed": {
+      "height": 1.962,
+      "height_inch": 77,
+      "height_inch_fraction": 0.25,
+      "width": 0.682,
+      "width_inch": 26,
+      "width_inch_fraction": 0.875
+    },
+    "with original molding and pinnacle": {
+      "height": 1.29,
+      "height_inch": 50,
+      "height_inch_fraction": 0.8125,
+      "width": 0.59,
+      "width_inch": 23,
+      "width_inch_fraction": 0.25
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "Inscribed at bottom: \"QUESTA TAVOLA AFATO FARE ANTONIO DI DOMENICHO / GIUGNI P[ER] RIMEDIO DELA SUA ANIMA ANI DNO. MCCCCXVIIII\"",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 301477,
+        "title": "In Memoriam: Leonard C. Hanna, Jr.",
+        "description": "<i>In Memoriam: Leonard C. Hanna, Jr.</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 4-April 7, 1958).",
+        "opening_date": "1958-03-04T05:00:00"
+      },
+      {
+        "id": 301412,
+        "title": "Florence and the Arts: Five Centuries of Patronage",
+        "description": "<i>Florence and the Arts: Five Centuries of Patronage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 13-September 19, 1971).",
+        "opening_date": "1971-07-13T04:00:00"
+      },
+      {
+        "id": 206256,
+        "title": "Fra Angelico",
+        "description": "<i>Fra Angelico</i>. The Metropolitan Museum of Art, New York, NY (organizer) (October 24, 2005-January 30, 2006).",
+        "opening_date": "2005-10-24T00:00:00"
+      },
+      {
+        "id": 230833,
+        "title": "The Art of Devotion: Panel Painting in Early Renaissance Italy",
+        "description": "<i>The Art of Devotion: Panel Painting in Early Renaissance Italy</i>. Middlebury College Museum of Art, Middlebury, VT (organizer) (September 17-December 13, 2009); Mount Holyoke College Art Museum, South Hadley, MA (February 9-May 31, 2010).",
+        "opening_date": "2009-09-17T00:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "Metropolitan Museum of Art, New York, NY (10/24/2005 - 1/30/2006): \"Fra Angelico\"",
+        "opening_date": "2005-10-24T00:00:00"
+      },
+      {
+        "description": "Middlebury College Museum of Art, Middlebury, VT (9/17/2009 - 12/13/2009) and Mount Holyoke College Art Museum, South Hadley, MA (2/9/2010 - 5/31/2010): \"The Art of Devotion: Panel Painting in Early Renaissance Italy\" exh. cat. no. 11, p. 96-97.",
+        "opening_date": "2009-09-17T00:00:00"
+      }
+    ]
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Rather than depicting a single moment in time, this gold-ground painting symbolically encapsulates Christ. Seated on a rich throne, the monumental Virgin holds the Christ child. Above, the risen Christ is seen in heaven holding a book, inscribed with the alpha and omega, the first and last letters of the Greek alphabet, signifying Christ’s role as the beginning and end of all things. The Italian inscription states: \"This painting was made for Antonio di Domenicho Giugni for the repose of his soul, the year of our Lord 1419.\" In the 1300s, Italian painting focused on the heavenly aspects of Christian faith in order to convey abstract religious concepts. Depicted as specimens of formal beauty, sacred figures were placed against an ethereal gold background. Within a hundred years, artists began to highlight the earthly aspects of sacred figures, placing them within naturalistic landscapes. In this newer style of painting, the approachability of sacred figures fostered devotion among the faithful.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60516617"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1954.834-virgin-and-child-ent"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Nicolson, Benedict. \"The Master of 1419.\" <em>The Burlington Magazine</em> 96, No. 615 (1954): 181.",
+      "page_number": "",
+      "url": ""
+    },
+    {
+      "citation": "Pouncey, Philip. \"A New Panel by The Master of 1419.\" <em>The Burlington Magazine </em>96, No. 618 (1954): 291–92, 195.",
+      "page_number": "",
+      "url": ""
+    },
+    {
+      "citation": "Francis, Henry. \"Master of 1419.\" <em>The Bulletin of the Cleveland Museum of Art </em>43, no. 10 (December 1956): 211-213.",
+      "page_number": "Reproduced: cover; Mentioned: p. 212",
+      "url": "https://www.jstor.org/stable/25142169"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 399",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n74"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 61",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n85"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 61",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n85"
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>Catalogue of Paintings. Pt. 1. European Paintings before 1500. </em>Cleveland: Cleveland Museum of Art, 1974.",
+      "page_number": "Reproduced: fig. 33, p. 89 - 91; fig. 33b, p. 91",
+      "url": ""
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 68",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n88"
+    },
+    {
+      "citation": "Kanter, Laurence. \"Zanobi Strozzi miniatore and Battista di Biagio Sanguigni.\" <em>Arte Cristiana</em> 90, No. 812 (2002): 321–31, 329.",
+      "page_number": "",
+      "url": ""
+    },
+    {
+      "citation": "Kanter, Laurence. <em>Fra Angelico</em>. New Haven: Yale University Press, 2005. pp. 233–34.",
+      "page_number": "",
+      "url": ""
+    },
+    {
+      "citation": "Gerardo, de Simone. \"3.8. Maestro Del 1419 (Battista di Biagio Sanguigni), Redentore Benedicente; Profeta Daniele, Roma, Museo di Palazzo Venezia.\" <em>Voglia d’Italia. Il Collezionismo Internazionale nella Roma del Vittoriano</em>, edited by Emmanuele Pellegrini. Napoli: Prismi editrice politecnica. p. 210.",
+      "page_number": "",
+      "url": ""
+    },
+    {
+      "citation": "Strinati, Claudio, and Frank Dabell. The Madonna: Eternal Woman. 2019, 62-63.",
+      "page_number": "Mentioned and reproduced: pp. 62-63",
+      "url": ""
+    },
+    {
+      "citation": "Tartuferi, Angelo in <em>Fra Angelico</em>. Florence, Palazzo Strozzi and Museo di San Marco. 26 September 2025–25 January 2026. Fondazione Palazzo Strozzi; Marsilio Arte, 2025, cat. no. 1.5, p. 110.",
+      "page_number": "",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1954.834",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1954.834/1954.834_web.jpg",
+      "width": "480",
+      "height": "900",
+      "filesize": "118106",
+      "filename": "1954.834_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1954.834/1954.834_print.jpg",
+      "width": "1814",
+      "height": "3400",
+      "filesize": "1218330",
+      "filename": "1954.834_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1954.834/1954.834_full.tif",
+      "width": "4374",
+      "height": "8198",
+      "filesize": "107601076",
+      "filename": "1954.834_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1954.834/1954.834_alt0_web.jpg",
+        "width": "373",
+        "height": "900",
+        "filesize": "89145"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1954.834/1954.834_alt0_print.jpg",
+        "width": "1408",
+        "height": "3400",
+        "filesize": "855929"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1954.834/1954.834_alt0_full.tif",
+        "width": "3296",
+        "height": "7958",
+        "filesize": "78714612"
+      },
+      "date_created": "2014-05-19T14:01:19",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1954.834/1954.834_alt1_web.jpg",
+        "width": "313",
+        "height": "893",
+        "filesize": "278634"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1954.834/1954.834_alt1_print.jpg",
+        "width": "717",
+        "height": "2048",
+        "filesize": "1481358"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1954.834/1954.834_alt1_full.tif",
+        "width": "717",
+        "height": "2048",
+        "filesize": "4406924"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of the Hanna Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 132367,
+  "creators": [
+    {
+      "id": 282522,
+      "description": "Battista di Biagio Sanguigni (Italian, active 1393–1451)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1954-12-04T00:00:00",
+  "sortable_date": 1419,
+  "date_added_to_oa": null,
+  "date_text": "1419",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Madonna and Child Enthroned"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:49:21.417000"
+}
