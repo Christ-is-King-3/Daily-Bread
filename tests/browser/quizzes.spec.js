@@ -9,13 +9,26 @@ test('homepage hierarchy, six visible destination tiles and preserved verse feat
 test('three difficulties, validation, deliberate reveal, saved progress and dated archive',async({page},info)=>{
  await ready(page,'./quizzes.html');
  for(const [level,count]of [['easy',5],['medium',8],['hard',12]]){await page.locator('#quiz-level').selectOption(level);await expect(page.locator('[data-clue]')).toHaveCount(count);await expect(page.locator('#reveal-confirm')).toBeHidden();await page.locator('#check-puzzle').click();await expect(page.locator('#quiz-status')).toContainText('empty squares');await noOverflow(page)}
- await page.locator('#quiz-level').selectOption('easy');const puzzle=makePuzzle('2026-11-08','easy'),entry=puzzle.entries[0];await page.locator('[data-clue="0"]').click();await page.keyboard.type('Z');await page.locator('#check-puzzle').click();await expect(page.locator('#quiz-status')).toContainText('1 incorrect');await page.reload();await expect(page.locator('#crossword input').filter({visible:true}).first()).toBeVisible();
+ await page.locator('#quiz-level').selectOption('easy');const entry=makePuzzle('2026-11-08','easy').entries[0];await page.locator('[data-clue="0"]').click();await page.keyboard.type('Z');await page.locator('#check-puzzle').click();await expect(page.locator('#quiz-status')).toContainText('1 incorrect');await page.reload();await expect(page.locator('#crossword input').filter({visible:true}).first()).toBeVisible();
  await page.locator('[data-clue="0"]').click();await page.getByText('Solutions — open only').click();await page.locator('#reveal-clue').click();await expect(page.locator('#reveal-confirm')).toBeVisible();await page.locator('#cancel-reveal').click();await expect(page.locator('#reveal-confirm')).toBeHidden();await page.locator('#reveal-clue').click();await page.locator('#confirm-reveal').click();await expect(page.locator('#quiz-status')).toContainText('assisted');
  await page.locator('#puzzle-date').fill('2026-11-07');await page.locator('#open-puzzle').click();await expect(page.locator('#crossword .meta')).toContainText('Archived');await page.locator('#today-puzzle').click();await page.locator('[data-clue="0"]').click();await expect(page.getByRole('textbox',{name:'Row '+(entry.r+1)+', column '+(entry.c+1)+', clue '+entry.number,exact:true})).toHaveValue(entry.answer[0]);
  await page.screenshot({path:info.outputPath('crossword.png'),fullPage:true});
- // Complete every clue through actual keyboard entry, including crossing direction selection.
+ // Complete an archived puzzle through actual keyboard entry.
+ await page.locator('#puzzle-date').fill('2026-11-07');await page.locator('#open-puzzle').click();
+ const puzzle=makePuzzle('2026-11-07','easy');
  for(const [i,e]of puzzle.entries.entries()){await page.locator('[data-clue="'+i+'"]').click();for(let n=0;n<e.answer.length;n++){const r=e.r+(e.dir==='down'?n:0),c=e.c+(e.dir==='across'?n:0);const input=page.locator('.cw-cell').nth(r*puzzle.size+c).locator('input');await input.fill(e.answer[n])}}
- await page.locator('#check-puzzle').click();await expect(page.locator('#quiz-status')).toContainText('Well done');
+ await page.locator('#check-puzzle').click();await expect(page.locator('#quiz-status')).toContainText('Well done! You completed the 2026-11-07 easy crossword.');
+});
+test('dated links open real archive entries and ignore invalid dates',async({page})=>{
+ await page.clock.setFixedTime(new Date('2027-01-01T12:00:00Z'));
+ await page.goto('./quizzes.html?puzzle=2026-11-07#quiz');
+ await expect(page.locator('#crossword .meta')).toContainText('2026-11-07 · Archived puzzle');
+ await expect(page.locator('[data-clue]')).toHaveCount(5);
+ for(const date of ['2026-11-99','2026-11-31','2026-11-06','2027-01-02']){
+  await page.goto('./quizzes.html?puzzle='+date+'#quiz');
+  await expect(page.locator('#crossword .meta')).toContainText('2027-01-01 · Daily puzzle');
+  await expect(page.locator('[data-clue]')).toHaveCount(5);
+ }
 });
 test('UK midnight changes verse and puzzle in an open page regardless of visitor timezone',async({browser})=>{
  const context=await browser.newContext({timezoneId:'America/Los_Angeles'}),page=await context.newPage();await page.clock.install({time:new Date('2026-07-01T22:59:50Z')});await ready(page);const verse=await page.locator('#verse-text').innerText();await expect(page.locator('#today-date')).toContainText('1 July');await page.clock.fastForward(20000);await expect(page.locator('#today-date')).toContainText('2 July');await expect(page.locator('#verse-text')).not.toHaveText(verse);await expect(page.locator('#crossword .meta')).toContainText('2026-07-02');await context.close();
