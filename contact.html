@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact Us — Daily Bread</title>
+  <meta name="description" content="Contact the Daily Bread team or submit a question for a member of the clergy.">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/site.css">
+  <style>
+    .contact-form fieldset { border: 0; margin: 0; padding: 0; min-width: 0; }
+    .contact-form label { display: block; margin-block: 1rem .35rem; }
+    .contact-form input[type="email"], .contact-form textarea {
+      width: 100%; padding: .65rem; border: 1px solid var(--line); border-radius: 6px;
+      background: var(--paper); color: var(--ink); font: inherit;
+    }
+    .contact-form textarea { resize: vertical; }
+    .contact-form button { margin-top: .75rem; }
+    .contact-form button:disabled { opacity: .65; cursor: default; }
+  </style>
+</head>
+<body>
+<header class="top"><div class="shell"><a href="index.html" class="brand">✝ <i>Daily Bread</i></a><nav class="nav" aria-label="Main navigation"><a href="index.html#today">Today's Verse</a><a href="news.html#world">Today's World</a><a href="church.html#church">The Church</a><a href="journal.html#journal">Journal</a><a href="scripture.html#library">Scripture</a><a href="quizzes.html">Quizzes</a><a href="art.html">Christian Art</a><a href="contact.html" aria-current="page">Contact Us</a><button id="theme" aria-label="Toggle dark mode">☾ Dark</button></nav></div></header>
+<main>
+  <section class="section">
+    <div class="shell">
+      <h1>Contact Us</h1>
+      <p class="section-intro">Send a message to the Daily Bread team or submit a question for a priest or minister.</p>
+      <p class="notice" id="contact-unavailable">Online submissions are currently unavailable.</p>
+      <div class="explore-grid" id="contact-forms" data-form-id="">
+        <section class="card pad" aria-labelledby="team-heading">
+          <h2 id="team-heading">Contact the Daily Bread team</h2>
+          <p>Send feedback, report a problem or get in touch with the creator and site management.</p>
+          <form class="contact-form" method="post" aria-labelledby="team-heading">
+            <fieldset disabled>
+              <input type="hidden" name="topic" value="Site contact">
+              <label for="team-message">Message (required)</label>
+              <textarea id="team-message" name="message" rows="6" maxlength="2000" required></textarea>
+              <label for="team-email">Email for a reply (optional)</label>
+              <input id="team-email" name="email" type="email" autocomplete="email" maxlength="254">
+              <button class="btn" type="submit">Send message</button>
+            </fieldset>
+          </form>
+        </section>
+        <section class="card pad" aria-labelledby="clergy-heading">
+          <h2 id="clergy-heading">Ask a member of the clergy</h2>
+          <p>The Daily Bread team reads your question first and may pass it to a priest or minister. Please leave out names and details that could identify you or anyone else.</p>
+          <form class="contact-form" method="post" aria-labelledby="clergy-heading">
+            <fieldset disabled>
+              <input type="hidden" name="topic" value="Question for clergy">
+              <label for="clergy-message">Question (required)</label>
+              <textarea id="clergy-message" name="message" rows="6" maxlength="2000" required></textarea>
+              <label for="clergy-email">Email for a reply from the team (optional)</label>
+              <input id="clergy-email" name="email" type="email" autocomplete="email" maxlength="254">
+              <label><input type="checkbox" name="permission_to_forward" value="yes" required> I give the Daily Bread team permission to share my question with a priest or minister.</label>
+              <button class="btn" type="submit">Submit question</button>
+            </fieldset>
+          </form>
+        </section>
+      </div>
+      <p class="small muted">Forms are processed by Formspree. Submissions are delivered to the Daily Bread team and do not appear on the website. <a href="https://formspree.io/legal/privacy-policy/">Formspree privacy policy</a>.</p>
+    </div>
+  </section>
+</main>
+<footer class="footer"><div class="shell"><div class="brand">✝ <i>Daily Bread</i></div><p><strong>Christ is King.</strong> Daily Bread exists to honour God, proclaim the Gospel, uphold biblical truth and encourage faithful Christian living. We stand for conviction, responsibility, family, justice and mercy without allegiance to a political party. Every person deserves dignity; salvation is proclaimed through Jesus Christ. News reports are externally sourced and distinct from our Christian reflections.</p><p class="meta">Daily Bread · Website Version 4</p><p>King James Version: public domain. English Standard Version links: external reading, not reproduced under licence. Historical paintings: The Metropolitan Museum of Art, Open Access (CC0). <a href="artwork-credits.html">Artwork provenance and full credits</a>.</p></div></footer>
+<div class="toast" id="toast" role="status"></div>
+<script src="assets/scripture-search.js"></script>
+<script src="assets/news.js"></script>
+<script src="assets/site.js"></script>
+<script>
+  (() => {
+    const container = document.getElementById('contact-forms');
+    const formId = container.dataset.formId;
+    if (!/^[a-z0-9]+$/i.test(formId)) return;
+
+    for (const form of container.querySelectorAll('form')) {
+      form.action = 'https://formspree.io/f/' + formId;
+      form.querySelector('fieldset').disabled = false;
+    }
+    document.getElementById('contact-unavailable').hidden = true;
+  })();
+</script>
+</body>
+</html>
