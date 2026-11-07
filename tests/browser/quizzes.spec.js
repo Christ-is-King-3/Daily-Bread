@@ -11,10 +11,15 @@ test('three difficulties, validation, deliberate reveal, saved progress and date
  for(const [level,count]of [['easy',5],['medium',8],['hard',12]]){await page.locator('#quiz-level').selectOption(level);await expect(page.locator('[data-clue]')).toHaveCount(count);await expect(page.locator('#reveal-confirm')).toBeHidden();await page.locator('#check-puzzle').click();await expect(page.locator('#quiz-status')).toContainText('empty squares');await noOverflow(page)}
  await page.locator('#quiz-level').selectOption('easy');const entry=makePuzzle('2026-11-08','easy').entries[0];await page.locator('[data-clue="0"]').click();await page.keyboard.type('Z');await page.locator('#check-puzzle').click();await expect(page.locator('#quiz-status')).toContainText('1 incorrect');await page.reload();await expect(page.locator('#crossword input').filter({visible:true}).first()).toBeVisible();
  await page.locator('[data-clue="0"]').click();await page.getByText('Solutions — open only').click();await page.locator('#reveal-clue').click();await expect(page.locator('#reveal-confirm')).toBeVisible();await page.locator('#cancel-reveal').click();await expect(page.locator('#reveal-confirm')).toBeHidden();await page.locator('#reveal-clue').click();await page.locator('#confirm-reveal').click();await expect(page.locator('#quiz-status')).toContainText('assisted');
- await page.locator('#puzzle-date').fill('2026-11-07');await page.locator('#open-puzzle').click();await expect(page.locator('#crossword .meta')).toContainText('Archived');await page.locator('#today-puzzle').click();await page.locator('[data-clue="0"]').click();await expect(page.getByRole('textbox',{name:'Row '+(entry.r+1)+', column '+(entry.c+1)+', clue '+entry.number,exact:true})).toHaveValue(entry.answer[0]);
+ await page.locator('#puzzle-date').fill('2026-11-07');await expect(page.locator('#crossword .meta')).toContainText('2026-11-07 · Archived puzzle');
+ await expect(page.locator('#archive-status')).toHaveText('Showing the 2026-11-07 crossword.');
+ await page.locator('#puzzle-date').fill('2026-11-06');
+ await expect(page.locator('#archive-status')).toContainText('Choose a date from 7 November 2026');
+ await expect(page.locator('#crossword .meta')).toContainText('2026-11-07 · Archived puzzle');
+ await page.locator('#today-puzzle').click();await page.locator('[data-clue="0"]').click();await expect(page.getByRole('textbox',{name:'Row '+(entry.r+1)+', column '+(entry.c+1)+', clue '+entry.number,exact:true})).toHaveValue(entry.answer[0]);
  await page.screenshot({path:info.outputPath('crossword.png'),fullPage:true});
  // Complete an archived puzzle through actual keyboard entry.
- await page.locator('#puzzle-date').fill('2026-11-07');await page.locator('#open-puzzle').click();
+ await page.locator('#puzzle-date').fill('2026-11-07');
  const puzzle=makePuzzle('2026-11-07','easy');
  for(const [i,e]of puzzle.entries.entries()){await page.locator('[data-clue="'+i+'"]').click();for(let n=0;n<e.answer.length;n++){const r=e.r+(e.dir==='down'?n:0),c=e.c+(e.dir==='across'?n:0);const input=page.locator('.cw-cell').nth(r*puzzle.size+c).locator('input');await input.fill(e.answer[n])}}
  await page.locator('#check-puzzle').click();await expect(page.locator('#quiz-status')).toContainText('Well done! You completed the 2026-11-07 easy crossword.');
