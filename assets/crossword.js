@@ -80,8 +80,27 @@ function cells(entry){return Array.from({length:entry.answer.length},(_,i)=>[ent
 function select(entry,focus=true){active=entry;host.querySelectorAll('.cw-cell').forEach(el=>el.classList.remove('active'));cells(entry).forEach(k=>inputs[k].parentElement.classList.add('active'));host.querySelectorAll('[data-clue]').forEach(b=>b.setAttribute('aria-pressed',String(Number(b.dataset.clue)===puzzle.entries.indexOf(entry))));if(focus)inputs[cells(entry)[0]].focus();}
 function draw(){
  puzzle=makePuzzle(date,level);storageKey='db-crossword-v1-'+date+'-'+level;progress=read(storageKey,{});inputs={};
- host.innerHTML='<p class="meta">'+date+(date===ukDate()?' · Daily puzzle':' · Archived puzzle')+' · UK calendar</p><div class="cw-archive"><label for="puzzle-date">Puzzle archive </label><input id="puzzle-date" type="date" min="'+archiveStart+'" max="'+ukDate()+'" value="'+date+'"><button class="btn outline" id="open-puzzle">Open date</button><button class="btn outline" id="today-puzzle">Return to today</button></div><label for="quiz-level"><strong>Difficulty</strong></label> <select id="quiz-level"><option value="easy">Easy · 5 answers · familiar Bible stories</option><option value="medium">Medium · 8 answers · closer reading</option><option value="hard">Hard · 12 answers · deeper biblical knowledge</option></select><p class="small">Choose a numbered clue, then type in the grid. Arrow keys move; Backspace erases; Enter switches direction at a crossing. Your progress is saved for each date and difficulty.</p><div class="cw-layout"><div class="cw-scroll" tabindex="0" aria-label="Crossword grid, scroll horizontally if needed"><div class="cw-grid" style="--size:'+puzzle.size+'"></div></div><div class="cw-clues"></div></div><div class="cw-actions"><button class="btn" id="check-puzzle">Check answers</button><button class="btn outline" id="clear-puzzle">Clear this puzzle</button></div><p id="quiz-status" role="status" aria-live="polite"></p><details class="cw-solutions"><summary>Solutions — open only when you wish to reveal an answer</summary><p>Revealing an answer will mark this attempt as assisted.</p><button class="btn outline" id="reveal-clue">Reveal selected answer</button><div id="reveal-confirm" hidden><p>Show the selected answer and fill its squares?</p><button class="btn" id="confirm-reveal">Yes, reveal this answer</button><button class="btn outline" id="cancel-reveal">Keep it hidden</button></div></details>';
- host.querySelector('#open-puzzle').onclick=()=>{const value=host.querySelector('#puzzle-date').value;if(!isArchiveDate(value,ukDate())){host.querySelector('#quiz-status').textContent='Choose a date from 7 November 2026 through today.';return}date=value;draw()};host.querySelector('#today-puzzle').onclick=()=>{date=ukDate();latestDate=date;draw()};
+ host.innerHTML='<p class="meta">'+date+(date===ukDate()?' · Daily puzzle':' · Archived puzzle')+' · UK calendar</p><div class="cw-archive"><label for="puzzle-date">Puzzle archive </label><input id="puzzle-date" type="date" aria-describedby="archive-range" min="'+archiveStart+'" max="'+ukDate()+'" value="'+date+'"><button class="btn outline" id="today-puzzle">Return to today</button><p class="small" id="archive-range">Crosswords are available from 7 November 2026.</p><p class="small" id="archive-status" role="status"></p></div><label for="quiz-level"><strong>Difficulty</strong></label> <select id="quiz-level"><option value="easy">Easy · 5 answers · familiar Bible stories</option><option value="medium">Medium · 8 answers · closer reading</option><option value="hard">Hard · 12 answers · deeper biblical knowledge</option></select><p class="small">Choose a numbered clue, then type in the grid. Arrow keys move; Backspace erases; Enter switches direction at a crossing. Your progress is saved for each date and difficulty.</p><div class="cw-layout"><div class="cw-scroll" tabindex="0" aria-label="Crossword grid, scroll horizontally if needed"><div class="cw-grid" style="--size:'+puzzle.size+'"></div></div><div class="cw-clues"></div></div><div class="cw-actions"><button class="btn" id="check-puzzle">Check answers</button><button class="btn outline" id="clear-puzzle">Clear this puzzle</button></div><p id="quiz-status" role="status" aria-live="polite"></p><details class="cw-solutions"><summary>Solutions — open only when you wish to reveal an answer</summary><p>Revealing an answer will mark this attempt as assisted.</p><button class="btn outline" id="reveal-clue">Reveal selected answer</button><div id="reveal-confirm" hidden><p>Show the selected answer and fill its squares?</p><button class="btn" id="confirm-reveal">Yes, reveal this answer</button><button class="btn outline" id="cancel-reveal">Keep it hidden</button></div></details>';
+ const picker=host.querySelector('#puzzle-date');
+ picker.onchange=()=>{
+  const status=host.querySelector('#archive-status');
+  if(!isArchiveDate(picker.value,ukDate())){
+   picker.setAttribute('aria-invalid','true');
+   status.textContent='Choose a date from 7 November 2026 through today.';
+   return;
+  }
+  if(picker.value===date){
+   picker.removeAttribute('aria-invalid');
+   status.textContent='';
+   return;
+  }
+  const hadFocus=document.activeElement===picker;
+  date=picker.value;
+  draw();
+  if(hadFocus)host.querySelector('#puzzle-date').focus({preventScroll:true});
+  host.querySelector('#archive-status').textContent='Showing the '+date+' crossword.';
+ };
+ host.querySelector('#today-puzzle').onclick=()=>{date=ukDate();latestDate=date;draw()};
  host.querySelector('#quiz-level').value=level;host.querySelector('#quiz-level').onchange=e=>{level=e.target.value;draw()};
  const grid=host.querySelector('.cw-grid');
  for(let r=0;r<puzzle.size;r++)for(let c=0;c<puzzle.size;c++){
