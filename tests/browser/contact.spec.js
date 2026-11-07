@@ -75,12 +75,12 @@ test.describe('with JavaScript disabled', () => {
     await form.getByLabel('Your question').fill('A synthetic question.');
     const permission = form.getByRole('checkbox');
     const send = form.getByRole('button', { name: 'Send question' });
-    await send.click({ timeout: 8000 });
+    await send.press('Enter');
     await expect(permission).toBeFocused();
     expect(request).toBeUndefined();
 
-    await permission.check({ timeout: 8000 });
-    await send.click({ timeout: 8000 });
+    await permission.press('Space');
+    await send.press('Enter');
     await expect(page.getByRole('heading', { name: 'Form received' })).toBeVisible();
     expect(request.method()).toBe('POST');
     const data = new URLSearchParams(request.postData());
