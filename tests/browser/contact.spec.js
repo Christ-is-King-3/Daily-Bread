@@ -60,33 +60,32 @@ test('a prayer request can be retried after a service error', async ({ page }) =
   }
 });
 
-test('the clergy form requires permission and can submit with JavaScript disabled', async ({ browser, baseURL }) => {
-  const context = await browser.newContext({ javaScriptEnabled: false, baseURL });
-  try {
-    const page = await context.newPage();
+test.describe('with JavaScript disabled', () => {
+  test.use({ javaScriptEnabled: false });
+
+  test('the clergy form requires permission and sends a native POST', async ({ page }) => {
     let request;
     await page.route(endpoint, async route => {
       request = route.request();
       await route.fulfill({ contentType: 'text/html', body: '<h1>Form received</h1>' });
     });
 
-    await page.goto('contact.html');
+    await page.goto('contact.html', { waitUntil: 'domcontentloaded' });
     const form = page.getByRole('form', { name: 'Ask a member of clergy' });
     await form.getByLabel('Your question').fill('A synthetic question.');
     const permission = form.getByRole('checkbox');
     const send = form.getByRole('button', { name: 'Send question' });
-    await send.click();
+    await send.click({ timeout: 8000 });
     await expect(permission).toBeFocused();
     expect(request).toBeUndefined();
-    await permission.check();
-    await send.click();
+
+    await permission.check({ timeout: 8000 });
+    await send.click({ timeout: 8000 });
     await expect(page.getByRole('heading', { name: 'Form received' })).toBeVisible();
     expect(request.method()).toBe('POST');
     const data = new URLSearchParams(request.postData());
     expect(data.get('subject')).toBe('Question for clergy');
     expect(data.get('permission_to_forward')).toBe('yes');
     expect(data.get('message')).toBe('A synthetic question.');
-  } finally {
-    await context.close();
-  }
+  });
 });
