@@ -12,7 +12,7 @@ are the actual repository files. Browser exceptions, console errors, failed
 requests and same-origin HTTP failures fail the tests. Navigation cancellations
 are excluded because browsers may cancel images from the page being left.
 
-Coverage includes the six-section hierarchy; anxiety, grief, strength and
+Coverage includes the verse/quiz homepage and dedicated section pages; anxiety, grief, strength and
 confidence searches; exact references; saved verses; headline reflection focus
 and scrolling; both response pathways; Church report navigation; an incoming
 passage after asynchronous journal/news layout changes; journal expansion;
@@ -28,3 +28,5 @@ testing Safari, Firefox or a physical phone.
 The workflow uploads `browser-evidence` for 14 days: an HTML report, screenshots,
 and traces for failures. Tests retain a dark gallery screenshot even on success.
 Do not commit `node_modules`, `test-results` or `playwright-report`.
+
+Version 4 adds crossword and reading-quiz tests in `quizzes.spec.js`, including a simulated UK midnight in BST while the browser uses America/Los_Angeles. Screenshot evidence is retained for the homepage, crossword and passage quiz in both viewports. The crossword archive tests fix the clock to 8 November 2026 and revisit its first archived day.

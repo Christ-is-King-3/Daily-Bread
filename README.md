@@ -1,6 +1,8 @@
-# Daily Bread — Website Version 3
+# Daily Bread — Website Version 4
 
 ## Release history
+
+- **Version 4 — 7 November 2026:** Verse-and-quiz homepage; dedicated news, Church, journal, Scripture and quiz pages; three daily crossword difficulties and archive; contextual reading quizzes; UK calendar rollover.
 
 - **Version 3 — 6 November 2026:** Scripture-first editorial voice throughout the homepage, news commentary, journal and art reflections; stronger homepage section boundaries; direct headline-to-reflection navigation; Scripture search by prayer need, feeling, topic, words or chapter reference. Added Bible search tests and preserved the 218-work open-access art collection.
 - **Version 2:** Full 66-book KJV, news feed and guidance pathways, journal, original five public-domain paintings and extended 218-work Christian art gallery.
@@ -9,7 +11,7 @@
 
 Daily Bread exists to proclaim Jesus Christ as Lord and to encourage faithful discipleship under the authority of Scripture. The voice is unapologetically Christian: plain-speaking, serious about truth, repentance, personal responsibility, family, courage, stewardship, Christian ministry and love of neighbour. Conviction is grounded in the Bible rather than loyalty to a political party. The site distinguishes original Christian reflection from linked third-party reporting and does not present uncertain claims as fact. It respects the dignity and freedom of people of other beliefs while affirming the Christian conviction that salvation comes through Jesus Christ.
 
-The homepage uses six numbered, visually distinct sections. Selecting a news headline automatically opens the Truth & Action response and scrolls to its prominently framed reflection. Visitors can switch to Comfort & Peace or return directly to the headlines. The response depends on the report subject; the site does not claim independent full-article verification.
+The homepage contains the Verse of the Day, Quiz of the Day and prominent destination tiles at its foot. Existing sections live on standalone pages. Selecting a news headline automatically opens the Truth & Action response and scrolls to its prominently framed reflection. Visitors can switch to Comfort & Peace or return directly to the headlines. The response depends on the report subject; the site does not claim independent full-article verification.
 
 ## Scripture search by need
 
@@ -29,7 +31,7 @@ A responsive static Christian website with a daily Scripture passage, two user-s
 5. Open **Actions → Update Bible and news content → Run workflow** once. This downloads the public-domain KJV dataset and retrieves source-linked news headlines. The workflow then runs every six hours (GitHub's scheduler is best-effort and may be delayed or paused on inactive public repositories).
 6. Refresh your Pages site after the workflow commits. Allow a few minutes for Pages to redeploy.
 
-**Without the first workflow run**, the daily Scripture uses a 12-verse starter set, and the news areas show an honest empty state. With `content/bible.json` installed, daily selection cycles deterministically through over 30,000 KJV verses before repeating. The passage changes according to each visitor's local date; after the cycle completes, verses repeat. This is not a guarantee of uninterrupted service forever.
+**Without the first workflow run**, the daily Scripture uses a 12-verse starter set, and the news areas show an honest empty state. With `content/bible.json` installed, daily selection cycles deterministically through over 30,000 KJV verses before repeating. The passage changes at midnight in Europe/London (GMT in winter, BST in summer); after the cycle completes, verses repeat. This is not a guarantee of uninterrupted service forever.
 
 ## Publish a journal post
 
@@ -66,3 +68,14 @@ The quality gate checks every archive image, thumbnail, credit and rights record
 ## Cost and limitations
 
 GitHub Pages hosting is free for eligible public repositories. RSS feeds and external publisher links may change. There is no server-side AI, paid API, subscriber account system or private editor dashboard. Scheduled workflows may be paused or delayed. The website does not refresh itself in an already-open tab at midnight; a page reload shows the next verse.
+
+
+## Quizzes and UK daily calendar
+
+- `quizzes.html` contains the daily crossword/archive and the reading quiz builder. `news.html`, `church.html`, `journal.html` and `scripture.html` retain the original section content. Old homepage fragments and `?scripture=` links redirect with their queries intact.
+- Crossword Easy: 11×11, 5 familiar-story answers. Medium: 15×15, 8 answers with less direct clues. Hard: 21×21, 12 answers with more demanding biblical clues. Crossings are connected and validated. Answers remain outside accessibility labels and visible markup until a two-step reveal; assisted attempts are identified. This static puzzle is designed to discourage casual spoilers, not prevent source inspection.
+- Daily puzzles are deterministically reconstructed from the UK date and difficulty. The archive begins 7 November 2026. Progress is stored per date and difficulty in this browser, shared between the homepage and quiz page. Clearing browser storage removes progress; it does not remove archived puzzles. Preserve the v1 generator and bank when extending the archive, or migrate older dates to frozen puzzle records.
+- Verse and puzzle dates use `Europe/London`, including BST. Open pages check for date changes every 15 seconds and on focus/visibility restoration. Older archive selections stay selected at midnight.
+- Reading quizzes support all 66 books, whole books, a chapter, a verse range and ranges across chapters. Examples: `3`, `3:16-18`, `3:16-4:2` within the selected book. Questions use original book-context summaries, genre guidance, themes occurring in the selected text and curated interpretation questions for ten key passages. This is a bounded local study-question bank, not exhaustive bespoke exegesis of every verse. Explanations appear after submission. Optional personal writing is unscored, stays on the page and is not transmitted or persistently saved. The last book/range selection is remembered locally.
+
+Validation: `python scripts/check_site.py` verifies the unchanged Bible/art/news content and 1,098 generated crosswords (366 dates × 3 levels). `npm run test:browser` covers desktop/mobile navigation, old deep links, Scripture search, gallery, three difficulty levels, completion, deliberate reveal, saved progress, archive selection, reading-quiz ranges and UK midnight rollover from an American timezone.

@@ -2,7 +2,7 @@
 import json
 from pathlib import Path
 root = Path(__file__).resolve().parents[1]
-html = (root / "index.html").read_text(encoding="utf-8")
+html = "\n".join((root / name).read_text(encoding="utf-8") for name in ["index.html", "news.html", "church.html", "journal.html", "scripture.html"]) + (root / "assets/site.js").read_text(encoding="utf-8")
 required = ["id=\"verse-text\"", "id=\"headlines\"", "id=\"church-news\"", "id=\"posts\"", "id=\"results\"", "id=\"peace\"", "id=\"action\"", "content/bible.json", "content/news.json", "content/posts.json"]
 for token in required:
     assert token in html, f"Missing required UI or data reference: {token}"
@@ -48,7 +48,7 @@ for item in editorial["reviewedStories"]:
     assert item.get("editorialCategory") in ("hope", "hardship")
 # Validate the inline browser JavaScript without running network-dependent code.
 import subprocess, tempfile
-script = html.rsplit("<script>", 1)[-1].split("</script>", 1)[0]
+script = (root / "assets/site.js").read_text(encoding="utf-8")
 assert script.strip(), "Missing application JavaScript"
 with tempfile.TemporaryDirectory() as directory:
     js = Path(directory) / 'app.js'
@@ -64,3 +64,8 @@ subprocess.run(['node', str(root / 'scripts/test_scripture.js')], check=True)
 assert 'data-topic-query="anxiety"' in html, 'Missing topic search suggestions'
 assert 'id="search-help"' in html, 'Missing guided-search description'
 assert 'id="latest-headlines"' in html and 'tabindex="-1"' in html, 'Missing news reflection navigation'
+
+subprocess.run(["node", str(root / "scripts/test_quizzes.js")], check=True)
+
+for name in ["crossword.js", "reading-quiz.js", "site.js"]:
+    subprocess.run(["node", "--check", str(root / "assets" / name)], check=True)

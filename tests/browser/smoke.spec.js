@@ -40,7 +40,8 @@ test('section hierarchy, search needs, references and favourites', async ({ page
   await ready(page);
   await expect(page.locator('link[rel="icon"]')).toHaveAttribute('href', 'assets/favicon.svg');
   expect((await page.request.get('assets/favicon.svg')).ok()).toBe(true);
-  await expect(page.locator('main h2')).toHaveCount(6);
+  await expect(page.locator('main > section h2')).toHaveCount(2);
+  await ready(page, './scripture.html');
   await expect(page.locator('#library-count')).toHaveText('31,102 verses found');
   const search = page.getByRole('textbox', { name: 'Search Scripture by feeling, need, words or Bible reference' });
   for (const [query, reference] of [
@@ -67,8 +68,9 @@ test('section hierarchy, search needs, references and favourites', async ({ page
   await noOverflow(page);
 });
 
-test('headlines open, focus and scroll to both Scripture pathways', async ({ page }) => {
+test('headlines open, focus and scroll to Scripture pathways', async ({ page }) => {
   await ready(page);
+  await ready(page, './news.html');
   await page.locator('#headlines [data-story]').click();
   const guidance = page.locator('#guidance');
   await expect(guidance).toBeFocused();
@@ -80,7 +82,8 @@ test('headlines open, focus and scroll to both Scripture pathways', async ({ pag
   await expect(guidance).toContainText('A Path of Comfort & Peace');
   expect(await guidance.innerText()).not.toBe(action);
   await guidance.getByRole('link', { name: '← Return to the headlines' }).click();
-  await nearTop(page.locator('#latest-headlines'));
+  await expect(page.locator('#latest-headlines')).toBeInViewport();
+  await ready(page, './church.html');
   await page.locator('#church-news [data-story]').click();
   await expect(guidance).toContainText(items[1].title);
   await expect(guidance.getByRole('link', { name: '← Return to Church reports' })).toHaveAttribute('href', '#church-news');

@@ -4,7 +4,7 @@
   const DAY = 86400000;
   const EPOCH = Date.UTC(2026, 10, 6) / DAY;
   function dateKey(date = new Date()) {
-    return [date.getFullYear(), String(date.getMonth() + 1).padStart(2, '0'), String(date.getDate()).padStart(2, '0')].join('-');
+    return date.toLocaleDateString('en-CA', {timeZone:'Europe/London'});
   }
   function dayNumber(key) {
     if (!/^\d{4}-\d{2}-\d{2}$/.test(key)) throw new Error('Invalid date');
@@ -32,7 +32,7 @@
   let works = [], limit = 12, selectedDay = dateKey(), currentWork = null;
   const today = () => dateKey();
   function scriptureLink(w) {
-    return w.scripture ? `<a href="index.html?scripture=${encodeURIComponent(w.scripture)}#library">Read ${esc(w.scripture)} in Scripture ↗</a>` : '';
+    return w.scripture ? `<a href="scripture.html?scripture=${encodeURIComponent(w.scripture)}#library">Read ${esc(w.scripture)} in Scripture ↗</a>` : '';
   }
   function textFor(w, heading = 'h3') {
     return `<div class="art-type">${esc(w.type)} · ${esc(w.topic)}</div><${heading}>${esc(w.title)}</${heading}><p>${esc(w.artist)}${w.culture ? ' · ' + esc(w.culture) : ''}</p><p class="meta">${esc(w.date)} · ${esc(w.medium)}</p><p>${esc(w.context)}</p><div class="look"><strong>Reflect as a disciple of Christ</strong><p>${esc(w.reflection)}</p><p>What does this scene call you to believe, repent of, give thanks for or put into practice under the authority of Scripture?</p><span class="meta">A Daily Bread Christian reflection · Scripture is our authority</span></div>${scriptureLink(w)}`;
