@@ -30,3 +30,5 @@ and traces for failures. Tests retain a dark gallery screenshot even on success.
 Do not commit `node_modules`, `test-results` or `playwright-report`.
 
 Version 4 adds crossword and reading-quiz tests in `quizzes.spec.js`, including a simulated UK midnight in BST while the browser uses America/Los_Angeles. Screenshot evidence is retained for the homepage, crossword and passage quiz in both viewports. The crossword archive tests fix the clock to 8 November 2026 and revisit its first archived day.
+
+Release validation on 7 November 2026: all 16 Chromium desktop/mobile checks passed; the full content audit and 1,098 crossword checks passed. Live deployment is checked separately from these local results.
