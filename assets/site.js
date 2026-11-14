@@ -35,7 +35,9 @@ function showPath(){
 function sourceDate(n){const date=new Date(n.date);return Number.isNaN(date.getTime())?'':date.toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'})}
 function storyCard(n,i){
  const others=(n.sources||[]).slice(1);
- return '<article class="newsitem" data-story-card="'+i+'"><span class="meta">'+esc(n.section)+' · '+esc(sourceDate(n))+'</span><h3><a target="_blank" rel="noopener noreferrer" href="'+esc(n.url)+'">'+esc(n.title)+' ↗</a></h3><p class="meta">Reporting: '+esc(n.publisher)+'</p>'+(others.length?'<details><summary class="small">'+others.length+' more source'+(others.length===1?'':'s')+' on this story</summary><ul>'+others.map(source=>'<li class="small"><a href="'+esc(source.url)+'" target="_blank" rel="noopener noreferrer">'+esc(source.publisher)+' · '+esc(source.title)+'</a></li>').join('')+'</ul></details>':'')+'<button class="btn outline small" data-story="'+i+'">Read biblical reflection</button></article>';
+ const reflection=DailyBreadNews.guidance(n,'action',reviewedStories);
+ const reviewed=reflection&&reflection.kind!=='questions';
+ return '<article class="newsitem" data-story-card="'+i+'"><span class="meta">'+esc(n.section)+' · '+esc(sourceDate(n))+'</span><h3><a target="_blank" rel="noopener noreferrer" href="'+esc(n.url)+'">'+esc(n.title)+' ↗</a></h3><p class="meta">Reporting: '+esc(n.publisher)+'</p>'+(others.length?'<details><summary class="small">'+others.length+' more source'+(others.length===1?'':'s')+' on this story</summary><ul>'+others.map(source=>'<li class="small"><a href="'+esc(source.url)+'" target="_blank" rel="noopener noreferrer">'+esc(source.publisher)+' · '+esc(source.title)+'</a></li>').join('')+'</ul></details>':'')+(reviewed?'<button class="btn outline small" data-story="'+i+'">Read biblical reflection</button>':'<a class="btn outline small" target="_blank" rel="noopener noreferrer" href="'+esc(n.url)+'">Read original report ↗</a>')+'</article>';
 }
 function attachStoryButtons(){document.querySelectorAll('[data-story]').forEach(b=>b.onclick=()=>{
  selectedStory=news[Number(b.dataset.story)];
