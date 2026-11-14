@@ -60,6 +60,7 @@ subprocess.run(['node', '--check', str(root / 'assets/news.js')], check=True)
 subprocess.run(['node', '--check', str(root / 'assets/scripture-search.js')], check=True)
 subprocess.run(['node', '--check', str(root / 'assets/christian-art.js')], check=True)
 subprocess.run(['node', str(root / 'scripts/test_news.js')], check=True)
+subprocess.run(['node', str(root / 'scripts/test_news_pipeline.js')], check=True)
 subprocess.run(['node', str(root / 'scripts/test_scripture.js')], check=True)
 assert 'data-topic-query="anxiety"' in html, 'Missing topic search suggestions'
 assert 'id="search-help"' in html, 'Missing guided-search description'
