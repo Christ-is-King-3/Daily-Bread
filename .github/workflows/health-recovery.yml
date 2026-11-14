@@ -1,0 +1,28 @@
+name: UK-hours website health and recovery
+on:
+  schedule:
+    # UTC hours that cover 09:00, 11:00, 13:00 and 15:00 UK time in GMT and BST.
+    # The script uses Europe/London to run exactly four checks, seven days a week.
+    - cron: '7 8-15 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: write
+  issues: write
+  pages: write
+concurrency:
+  group: daily-bread-health-recovery
+  cancel-in-progress: false
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify all public pages and recover supported faults
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/health_recovery.py
