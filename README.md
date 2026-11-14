@@ -9,9 +9,16 @@
 
 ## Editorial identity
 
-Daily Bread exists to proclaim Jesus Christ as Lord and to encourage faithful discipleship under the authority of Scripture. The voice is unapologetically Christian: plain-speaking, serious about truth, repentance, personal responsibility, family, courage, stewardship, Christian ministry and love of neighbour. Conviction is grounded in the Bible rather than loyalty to a political party. The site distinguishes original Christian reflection from linked third-party reporting and does not present uncertain claims as fact. It respects the dignity and freedom of people of other beliefs while affirming the Christian conviction that salvation comes through Jesus Christ.
+Daily Bread confesses that **Jesus Christ is Lord** and that Holy Scripture is authoritative in matters of faith and conduct. The Bible governs the site's interpretations; it is not used as decoration for opinions decided in advance. The editorial voice is plain-spoken, conservative in its respect for family, duty, integrity and responsibility, and unapologetically Christian, but not party-political. Each published interpretation must be distinguishable from the source report and must treat every person with dignity.
 
-The homepage contains the Verse of the Day, Quiz of the Day and prominent destination tiles at its foot. Existing sections live on standalone pages. Selecting a news headline automatically opens the Truth & Action response and scrolls to its prominently framed reflection. Visitors can switch to Comfort & Peace or return directly to the headlines. The response depends on the report subject; the site does not claim independent full-article verification.
+**News editorial standard:** one carefully written biblical reflection per story, not two competing pathways. An editor must (1) identify reliable facts from the report, (2) examine a relevant passage in its biblical context, (3) state the actual biblical teaching, (4) apply that teaching to this particular event without pretending Scripture settles a contemporary policy question it does not address, and (5) propose a specific, responsible Christian action or prayer. Concision must result from careful editing, not automatic truncation. Different stories must not recycle generic paragraphs. For an unmatched headline, display its source link without inventing an interpretation; prepare a properly grounded reflection before offering it as Daily Bread commentary.
+
+## Release history
+
+- **Version 5 — 14 November 2026:** Streamlined homepage and subpages, one biblical news-reflection route, shorter page introductions, with a commitment to researched, individually grounded commentary. A full review of existing news profiles and article-specific interpretation is scheduled.
+- **Version 4 — 7 November 2026:** Verse-and-quiz homepage; dedicated news, Church, journal, Scripture and quiz pages; three daily crossword difficulties and archive; contextual reading quizzes; UK calendar rollover.
+- **Version 3 — 6 November 2026:** Scripture-first editorial voice, news commentary, journal and art reflections; section boundaries, Scripture searches by need and Bible reference, 218-work open-access gallery.
+- **Version 2:** Full 66-book KJV, news feed, journal, and historic public-domain artwork.
 
 ## Scripture search by need
 
