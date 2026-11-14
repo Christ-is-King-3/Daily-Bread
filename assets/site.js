@@ -18,31 +18,31 @@ $('save').onclick=()=>toggle(daily.ref);$('copy').onclick=async()=>{try{await na
 function toggle(ref){saved=saved.includes(ref)?saved.filter(x=>x!==ref):[...saved,ref];localStorage.setItem('db-favorites',JSON.stringify(saved));setDaily();renderLibrary();notice(saved.includes(ref)?'Saved to favourites':'Removed from favourites')}
 function syncTheme(){const dark=document.body.classList.contains('dark');$('theme').setAttribute('aria-pressed',String(dark));$('theme').textContent=dark?'☀ Light':'☾ Dark'}
 $('theme').onclick=()=>{document.body.classList.toggle('dark');localStorage.setItem('db-dark',document.body.classList.contains('dark')?'1':'0');syncTheme()};if(localStorage.getItem('db-dark')==='1')document.body.classList.add('dark');syncTheme();
-const paths={peace:{title:'A Path of Comfort & Peace',ref:'Matthew 5:4',quote:'Blessed are they that mourn: for they shall be comforted.',body:'Jesus Christ does not abandon His people in suffering. Trust His promises, bear one another’s burdens and meet the needs of your neighbour. Christian compassion is not weakness; it is obedience to our Lord.',steps:['Pray specifically for those harmed and for those entrusted with their care.','Act as a faithful neighbour: listen, help and offer practical Christian service.','Hold fast to truth while refusing hatred or rumours about the innocent.'],prayer:'Lord Jesus Christ, strengthen those who suffer, comfort the grieving and teach us to serve You faithfully. Amen.'},action:{title:'A Call to Truth & Action',ref:'Micah 6:8',quote:'...to do justly, and to love mercy, and to walk humbly with thy God?',body:'As Christians, we are called to stand firmly in God’s truth, defend what is right, care for our neighbours and take responsibility for our actions. Compassion must never require us to abandon biblical conviction. Seek evidence, speak plainly and act with courage and self-control.',steps:['Know the facts and test the claims before forming a judgement.','Ask what righteousness, duty, fair treatment and personal responsibility require.','Stand up for the vulnerable and pursue practical, lawful ways to correct wrongdoing.'],prayer:'Almighty God, strengthen our resolve to do what is right, speak the truth and show mercy as faithful servants of Jesus Christ. Amen.'}};
-function showPath(p){
- selectedPath=p;
- ['peace','action'].forEach(x=>$(x).classList.toggle('active',x===p));
- const response=selectedStory?DailyBreadNews.guidance(selectedStory,p,reviewedStories):null;
- const general=paths[p];
- const v=response||{...general,question:'What does Scripture command of us, and how can we respond faithfully in truth and love?'};
+// One editorial approach: Scripture first, responsibility in practice.
+const primaryGuidance={title:'A Biblical Response',ref:'Micah 6:8',body:'Stand firm in God’s truth. Defend what is right, take responsibility and love your neighbour in deed.',steps:['Check the facts. Respond with courage, justice and mercy.'],prayer:'Lord Jesus, make us faithful to Your Word. Amen.'};
+function brief(text,max=245){const value=String(text||'').trim();if(value.length<=max)return value;const cut=value.slice(0,max);return cut.slice(0,Math.max(cut.lastIndexOf('. ')+1,cut.lastIndexOf('; ')+1,cut.lastIndexOf(' ')))+'…'}
+function showPath(){
+ const response=selectedStory?DailyBreadNews.guidance(selectedStory,'action',reviewedStories):null;
+ const v=response||{...primaryGuidance,question:'What does Scripture teach us to do?'};
  const passage=verses.filter(verse=>matchesScripture(verse,v.ref));
- const quote=passage.length?passage.map(verse=>verse.text).join(' '):(response?'':general.quote);
+ const verse=passage[0];
+ const ref=String(v.ref||primaryGuidance.ref);
  $('guidance').classList.remove('hidden');
- $('guidance').innerHTML='<div class="eyebrow">'+esc(general.title)+'</div><h3>'+esc(selectedStory?DailyBreadNews.cleanTitle(selectedStory):'General Christian guidance')+'</h3>'+(selectedStory?'<p class="meta">Based on the linked headline · <a href="'+esc(selectedStory.url)+'" target="_blank" rel="noopener">Read the original report ↗</a></p>':'')+'<p><strong>'+esc(v.question)+'</strong></p>'+(quote?'<blockquote>'+esc(quote)+'</blockquote>':'')+'<p class="meta"><a href="scripture.html?scripture='+encodeURIComponent(v.ref)+'#library">'+esc(v.ref)+' · KJV ↗</a></p><p>'+esc(v.body)+'</p><h4>Ways to respond to '+esc(selectedStory?'this report':'today’s world')+'</h4><ul>'+v.steps.map(step=>'<li>'+esc(step)+'</li>').join('')+'</ul><p><em>'+esc(v.prayer)+'</em></p>'+'<p class="small"><a class="step-link" href="'+(selectedStory&&selectedStory.section==='Christian world'?'#church-news':'#latest-headlines')+'">← Return to '+(selectedStory&&selectedStory.section==='Christian world'?'Church reports':'the headlines')+'</a></p>'+(selectedStory?'<p class="meta">A Christian response to the issue reported in this headline. The full article has not been independently analysed or verified by Daily Bread.</p>':'');
+ $('guidance').innerHTML='<div class="eyebrow">Scripture · Truth · Duty</div><h3>'+esc(selectedStory?DailyBreadNews.cleanTitle(selectedStory):'A Biblical Response')+'</h3>'+(verse?'<blockquote>'+esc(verse.text)+'</blockquote>':'')+'<a class="step-link" href="scripture.html?scripture='+encodeURIComponent(ref)+'#library">'+esc(ref)+' · Read in Scripture ↗</a><p>'+esc(brief(v.body,290))+'</p><p><strong>Our response:</strong> '+esc(brief(v.steps?.[0]||primaryGuidance.steps[0],150))+'</p><p class="small"><em>'+esc(brief(v.prayer,165))+'</em></p>'+'<p class="small"><a class="step-link" href="'+(selectedStory&&selectedStory.section==='Christian world'?'#church-news':'#latest-headlines')+'">← Back to reports</a></p>'+(selectedStory?'<p class="meta">Headline-based reflection, not a verified full-article analysis. <a href="'+esc(selectedStory.url)+'" target="_blank" rel="noopener">Source ↗</a></p>':'');
  $('guidance').focus({preventScroll:true});
  $('guidance').scrollIntoView({behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'});
 }
-$('peace').onclick=()=>showPath('peace');$('action').onclick=()=>showPath('action');
+
 function sourceDate(n){const date=new Date(n.date);return Number.isNaN(date.getTime())?'':date.toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'})}
 function storyCard(n,i){
  const others=(n.sources||[]).slice(1);
- return '<article class="newsitem" data-story-card="'+i+'"><span class="meta">'+esc(n.section)+' · '+esc(sourceDate(n))+'</span><h3><a target="_blank" rel="noopener noreferrer" href="'+esc(n.url)+'">'+esc(n.title)+' ↗</a></h3><p class="meta">Reporting: '+esc(n.publisher)+'</p>'+(others.length?'<details><summary class="small">'+others.length+' more source'+(others.length===1?'':'s')+' on this story</summary><ul>'+others.map(source=>'<li class="small"><a href="'+esc(source.url)+'" target="_blank" rel="noopener noreferrer">'+esc(source.publisher)+' · '+esc(source.title)+'</a></li>').join('')+'</ul></details>':'')+'<button class="btn outline small" data-story="'+i+'">Read the Christian reflection</button></article>';
+ return '<article class="newsitem" data-story-card="'+i+'"><span class="meta">'+esc(n.section)+' · '+esc(sourceDate(n))+'</span><h3><a target="_blank" rel="noopener noreferrer" href="'+esc(n.url)+'">'+esc(n.title)+' ↗</a></h3><p class="meta">Reporting: '+esc(n.publisher)+'</p>'+(others.length?'<details><summary class="small">'+others.length+' more source'+(others.length===1?'':'s')+' on this story</summary><ul>'+others.map(source=>'<li class="small"><a href="'+esc(source.url)+'" target="_blank" rel="noopener noreferrer">'+esc(source.publisher)+' · '+esc(source.title)+'</a></li>').join('')+'</ul></details>':'')+'<button class="btn outline small" data-story="'+i+'">Read biblical reflection</button></article>';
 }
 function attachStoryButtons(){document.querySelectorAll('[data-story]').forEach(b=>b.onclick=()=>{
  selectedStory=news[Number(b.dataset.story)];
  $('selected-story').innerHTML='<strong>Selected:</strong> '+esc(selectedStory.title)+'<br><span class="meta">'+esc(selectedStory.publisher)+' · '+esc(sourceDate(selectedStory))+'</span>';
  document.querySelectorAll('[data-story-card]').forEach(card=>card.classList.toggle('selected',card.dataset.storyCard===b.dataset.story));
- showPath(selectedPath||'action');
+ showPath();
 })}
 function renderNews(){
  const normal=news.filter(n=>n.section!=='Christian world');
