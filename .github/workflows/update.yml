@@ -12,6 +12,7 @@ on:
     - cron: '17 */6 * * *'
 permissions:
   contents: write
+  issues: write
 concurrency:
   group: daily-bread-content
   cancel-in-progress: false
@@ -42,3 +43,8 @@ jobs:
           else
             echo "No changes to publish"
           fi
+      - name: Maintain editorial review queue
+        if: always()
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/report_news_coverage.py
