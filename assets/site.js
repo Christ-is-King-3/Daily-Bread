@@ -20,7 +20,6 @@ function syncTheme(){const dark=document.body.classList.contains('dark');$('them
 $('theme').onclick=()=>{document.body.classList.toggle('dark');localStorage.setItem('db-dark',document.body.classList.contains('dark')?'1':'0');syncTheme()};if(localStorage.getItem('db-dark')==='1')document.body.classList.add('dark');syncTheme();
 // One editorial approach: Scripture first, responsibility in practice.
 const primaryGuidance={title:'A Biblical Response',ref:'Micah 6:8',body:'Stand firm in God’s truth. Defend what is right, take responsibility and love your neighbour in deed.',steps:['Check the facts. Respond with courage, justice and mercy.'],prayer:'Lord Jesus, make us faithful to Your Word. Amen.'};
-function brief(text,max=245){const value=String(text||'').trim();if(value.length<=max)return value;const cut=value.slice(0,max);return cut.slice(0,Math.max(cut.lastIndexOf('. ')+1,cut.lastIndexOf('; ')+1,cut.lastIndexOf(' ')))+'…'}
 function showPath(){
  const response=selectedStory?DailyBreadNews.guidance(selectedStory,'action',reviewedStories):null;
  const v=response||{...primaryGuidance,question:'What does Scripture teach us to do?'};
@@ -28,7 +27,7 @@ function showPath(){
  const verse=passage[0];
  const ref=String(v.ref||primaryGuidance.ref);
  $('guidance').classList.remove('hidden');
- $('guidance').innerHTML='<div class="eyebrow">Scripture · Truth · Duty</div><h3>'+esc(selectedStory?DailyBreadNews.cleanTitle(selectedStory):'A Biblical Response')+'</h3>'+(verse?'<blockquote>'+esc(verse.text)+'</blockquote>':'')+'<a class="step-link" href="scripture.html?scripture='+encodeURIComponent(ref)+'#library">'+esc(ref)+' · Read in Scripture ↗</a><p>'+esc(brief(v.body,290))+'</p><p><strong>Our response:</strong> '+esc(brief(v.steps?.[0]||primaryGuidance.steps[0],150))+'</p><p class="small"><em>'+esc(brief(v.prayer,165))+'</em></p>'+'<p class="small"><a class="step-link" href="'+(selectedStory&&selectedStory.section==='Christian world'?'#church-news':'#latest-headlines')+'">← Back to reports</a></p>'+(selectedStory?'<p class="meta">Headline-based reflection, not a verified full-article analysis. <a href="'+esc(selectedStory.url)+'" target="_blank" rel="noopener">Source ↗</a></p>':'');
+ $('guidance').innerHTML='<div class="eyebrow">Scripture · Truth · Duty</div><h3>'+esc(selectedStory?DailyBreadNews.cleanTitle(selectedStory):'A Biblical Response')+'</h3>'+(verse?'<blockquote>'+esc(verse.text)+'</blockquote>':'')+'<a class="step-link" href="scripture.html?scripture='+encodeURIComponent(ref)+'#library">'+esc(ref)+' · Read in Scripture ↗</a><p>'+esc(v.body)+'</p><p><strong>Our response:</strong> '+esc(v.steps?.[0]||primaryGuidance.steps[0])+'</p><p class="small"><em>'+esc(v.prayer)+'</em></p>'+'<p class="small"><a class="step-link" href="'+(selectedStory&&selectedStory.section==='Christian world'?'#church-news':'#latest-headlines')+'">← Back to reports</a></p>'+(selectedStory?'<p class="meta">Headline-based reflection, not a verified full-article analysis. <a href="'+esc(selectedStory.url)+'" target="_blank" rel="noopener">Source ↗</a></p>':'');
  $('guidance').focus({preventScroll:true});
  $('guidance').scrollIntoView({behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'});
 }
