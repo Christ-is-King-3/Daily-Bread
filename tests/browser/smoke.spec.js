@@ -3,7 +3,7 @@ const { test, expect } = require('@playwright/test');
 // Synthetic reports exercise the UI without relying on current headlines or publishers.
 const items = [
   { title: 'Community helps neighbours after flooding', publisher: 'QA fixture', date: '2026-11-06', section: 'UK', url: 'https://example.com/flood' },
-  { title: 'Church volunteers serve local families', publisher: 'QA fixture', date: '2026-11-06', section: 'Christian world', url: 'https://example.com/church' }
+  { title: 'ACN report documents Christian persecution', publisher: 'QA fixture', date: '2026-11-06', section: 'Christian world', url: 'https://example.com/church' }
 ];
 test.beforeEach(async ({ page }) => {
   // Keep the featured work and its Scripture link stable as the calendar advances.
@@ -68,25 +68,23 @@ test('section hierarchy, search needs, references and favourites', async ({ page
   await noOverflow(page);
 });
 
-test('headlines open, focus and scroll to Scripture pathways', async ({ page }) => {
-  await ready(page);
+test('headline offers one biblical interpretation and scrolls into view', async ({ page }) => {
   await ready(page, './news.html');
-  await page.locator('#headlines [data-story]').click();
+  await expect(page.locator('#peace')).toHaveCount(0);
+  await expect(page.locator('#action')).toHaveCount(0);
+  await page.locator('#headlines [data-story]').first().click();
   const guidance = page.locator('#guidance');
   await expect(guidance).toBeFocused();
   await expect(guidance).toContainText(items[0].title);
   await expect(guidance.locator('blockquote')).not.toBeEmpty();
   await nearTop(guidance);
-  const action = await guidance.innerText();
-  await page.locator('#peace').click();
-  await expect(guidance).toContainText('A Path of Comfort & Peace');
-  expect(await guidance.innerText()).not.toBe(action);
-  await guidance.getByRole('link', { name: '← Return to the headlines' }).click();
+  await expect(guidance).not.toContainText('not yet been prepared');
+  await guidance.getByRole('link', { name: '← Back to reports' }).click();
   await expect(page.locator('#latest-headlines')).toBeInViewport();
   await ready(page, './church.html');
-  await page.locator('#church-news [data-story]').click();
+  await page.locator('#church-news [data-story]').first().click();
   await expect(guidance).toContainText(items[1].title);
-  await expect(guidance.getByRole('link', { name: '← Return to Church reports' })).toHaveAttribute('href', '#church-news');
+  await expect(guidance.getByRole('link', { name: '← Back to reports' })).toHaveAttribute('href', '#church-news');
   await noOverflow(page);
 });
 
