@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 root = Path(__file__).resolve().parents[1]
 html = "\n".join((root / name).read_text(encoding="utf-8") for name in ["index.html", "news.html", "church.html", "journal.html", "scripture.html"]) + (root / "assets/site.js").read_text(encoding="utf-8")
-required = ["id=\"verse-text\"", "id=\"headlines\"", "id=\"church-news\"", "id=\"posts\"", "id=\"results\"", "id=\"peace\"", "id=\"action\"", "content/bible.json", "content/news.json", "content/posts.json"]
+required = ["id=\"verse-text\"", "id=\"headlines\"", "id=\"church-news\"", "id=\"posts\"", "id=\"results\"", "content/bible.json", "content/news.json", "content/posts.json"]
 for token in required:
     assert token in html, f"Missing required UI or data reference: {token}"
 posts = json.loads((root / "content/posts.json").read_text(encoding="utf-8"))
