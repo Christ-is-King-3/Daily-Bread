@@ -22,7 +22,23 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install browser checker
+        run: |
+          npm ci --no-audit --no-fund
+          npx playwright install --with-deps chromium
       - name: Verify all public pages and recover supported faults
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RUN_LIVE_BROWSER_CHECKS: '1'
         run: python scripts/health_recovery.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: website-health-evidence
+          path: |
+            playwright-report/
+            test-results/
+          retention-days: 14
