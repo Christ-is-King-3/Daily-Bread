@@ -8,6 +8,7 @@ Never asserts recovery until a subsequent HTTP check succeeds.
 from __future__ import annotations
 import json
 import os
+import subprocess
 import sys
 import time
 from datetime import datetime, timezone
@@ -156,7 +157,24 @@ def main():
     except Exception as exc:
         problems.append(f'Bible dataset check: {exc}')
 
-    if failed_pages and TOKEN and REPO:
+    browser_failed = False
+    if os.environ.get('RUN_LIVE_BROWSER_CHECKS') == '1':
+        try:
+            env = dict(os.environ, BASE_URL=BASE)
+            result = subprocess.run(
+                ['npx', 'playwright', 'test', 'tests/browser/live-health.spec.js'],
+                cwd=ROOT, env=env, capture_output=True, text=True, timeout=240)
+            if result.returncode:
+                browser_failed = True
+                details = (result.stdout + '\n' + result.stderr)[-2500:]
+                problems.append('Live desktop/mobile browser verification failed: ' + details)
+            else:
+                print('PASS: all live browser pages and news interactions.')
+        except Exception as exc:
+            browser_failed = True
+            problems.append('Browser health checks unavailable: ' + str(exc))
+
+    if (failed_pages or browser_failed) and TOKEN and REPO:
         try:
             github('POST','pages/builds',{})
             actions.append('Requested a fresh GitHub Pages build')
