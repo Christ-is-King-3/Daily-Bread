@@ -37,7 +37,10 @@ if items:
     payload=json.dumps({'updated':datetime.now(timezone.utc).isoformat(),'items':items},ensure_ascii=False)
     grouped=subprocess.run(['node',str(ROOT.parent/'scripts/process_news.js')],input=payload,text=True,encoding='utf-8',capture_output=True,check=True).stdout
     (ROOT/'news.json').write_text(grouped,encoding='utf8')
-    print('Saved',len(json.loads(grouped)['items']),'distinct stories from',len(items),'reports')
+    result=json.loads(grouped)
+    stats=result['coverage']
+    print('Published',stats['published'],'stories with Scripture commentary; queued',stats['pending'],'unmatched stories for editorial review (',stats['total'],'distinct reports)',flush=True)
+    if stats['pending']: print('Editorial review needed:', '; '.join(x['title'][:100] for x in result['pendingStories']),flush=True)
 else: print('No feeds available; preserving prior data')
 if not p.exists():
     raise SystemExit('Bible dataset is missing after refresh; workflow requires attention')
