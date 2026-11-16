@@ -3,8 +3,8 @@ const {makePuzzle}=require('../../assets/crossword');
 test.beforeEach(async({page})=>{await page.clock.install({time:new Date('2026-11-08T12:00:00Z')})});
 async function ready(page,path='./'){await page.goto(path);await expect(page.locator('body')).toHaveAttribute('data-ready','true')}
 async function noOverflow(page){expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true)}
-test('homepage hierarchy, six visible destination tiles and preserved verse features',async({page},info)=>{
- await ready(page);await expect(page.locator('main > section h2')).toHaveText(['Verse of the Day','Quiz of the Day']);await expect(page.locator('.explore-grid > a')).toHaveCount(6);await expect(page.locator('#verse-text')).not.toContainText('Loading');await page.locator('#save').click();await expect(page.locator('#save')).toHaveText('♥ Saved');await noOverflow(page);await page.screenshot({path:info.outputPath('homepage.png'),fullPage:true});
+test('homepage hierarchy, destinations and preserved verse features',async({page},info)=>{
+ await ready(page);await expect(page.locator('main > section h2')).toHaveText(['Verse of the Day','Quiz of the Day']);await expect(page.locator('.explore-grid > a')).toHaveCount(7);await expect(page.locator('#verse-text')).not.toContainText('Loading');await page.locator('#save').click();await expect(page.locator('#save')).toHaveText('♥ Saved');await noOverflow(page);await page.screenshot({path:info.outputPath('homepage.png'),fullPage:true});
 });
 test('three difficulties, validation, deliberate reveal, saved progress and dated archive',async({page},info)=>{
  await ready(page,'./quizzes.html');

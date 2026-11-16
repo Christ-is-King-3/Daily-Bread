@@ -20,6 +20,7 @@ test.beforeEach(async ({ page }) => {
   });
   page.__failures = failures;
   await page.route('**/content/news.json', route => route.fulfill({ json: { updated: '2026-11-06T12:00:00Z', items } }));
+  await page.route('https://static.cloudflareinsights.com/beacon.min.js', route => route.fulfill({ contentType: 'application/javascript', body: '' }));
   await page.route('**/content/editorial.json', route => route.fulfill({ json: { reviewedStories: [] } }));
 });
 test.afterEach(async ({ page }) => { expect(page.__failures).toEqual([]); });

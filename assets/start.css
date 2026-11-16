@@ -1,0 +1,112 @@
+.start-intro {
+  border-color: var(--gold);
+  background: color-mix(in srgb, var(--green) 7%, var(--bg));
+}
+
+.start-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 350px);
+  align-items: center;
+  gap: clamp(24px, 6vw, 76px);
+  max-width: 1020px;
+}
+
+.start-intro h1 {
+  font-size: clamp(42px, 6vw, 72px);
+  font-weight: 400;
+  line-height: 1.03;
+  letter-spacing: -.04em;
+  margin: 0 0 18px;
+}
+
+.start-intro p {
+  font-size: 19px;
+  max-width: 44ch;
+}
+
+.start-lessons {
+  margin: 24px 0 0;
+  padding-inline-start: 1.5em;
+}
+
+.start-lessons li {
+  padding: 6px 0;
+}
+
+.start-lessons a {
+  color: var(--green);
+  font-weight: 600;
+  text-underline-offset: 4px;
+}
+
+.start-art {
+  margin: 0;
+}
+
+.start-art img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  border: 1px solid var(--line);
+}
+
+.start-art figcaption {
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.start-lesson > .shell {
+  max-width: 780px;
+}
+
+.start-lesson h2 {
+  line-height: 1.15;
+}
+
+.start-answer {
+  font-size: 20px;
+  color: var(--green);
+}
+
+.start-check,
+.start-sources {
+  margin: 16px 0;
+  padding: 12px 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--paper);
+}
+
+.start-check summary,
+.start-sources summary {
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.start-check summary:focus-visible,
+.start-sources summary:focus-visible {
+  outline: 3px solid var(--gold);
+  outline-offset: 3px;
+}
+
+.start-check p {
+  margin-bottom: 0;
+}
+
+.start-next {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 20px;
+}
+
+@media (max-width: 680px) {
+  .start-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .start-art {
+    max-width: 290px;
+  }
+}

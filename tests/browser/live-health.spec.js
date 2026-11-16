@@ -6,6 +6,7 @@ const pages = [
   ['church.html', '#church-news'],
   ['journal.html', '#posts'],
   ['scripture.html', '#results'],
+  ['start.html', '#who-is-jesus'],
   ['quizzes.html', '#crossword'],
   ['art.html', '#art-gallery'],
   ['artwork-credits.html', 'h1'],
@@ -40,4 +41,23 @@ test('published news has a working biblical reflection', async ({page}) => {
   await expect(page.locator('#guidance')).toBeVisible();
   await expect(page.locator('#guidance')).toContainText('Scripture');
   await expect(page.locator('#guidance a[href*="scripture.html"]')).toBeVisible();
+});
+
+test('a beginner can find the lessons and reveal the reading checks', async ({page}) => {
+  await page.goto('index.html', {waitUntil:'domcontentloaded'});
+  await page.getByRole('navigation', {name:'Explore Daily Bread'}).getByRole('link', {name:/New to Christianity/}).click();
+  await expect(page.getByRole('heading', {name:'New to Christianity?'})).toBeVisible();
+  await page.getByRole('navigation', {name:'Lessons'}).getByRole('link', {name:'Who is Jesus?'}).click();
+  await expect(page).toHaveURL(/#who-is-jesus$/);
+  for (const id of ['who-is-jesus', 'cross-and-resurrection', 'following-jesus']) {
+    const lesson = page.locator('#' + id);
+    await expect(lesson.getByRole('link', {name:/\(ESV\)/})).toHaveAttribute('href', /^https:\/\/www\.esv\.org\//);
+    const check = lesson.locator('.start-check');
+    await expect(check.locator('p')).toBeHidden();
+    await check.locator('summary').click();
+    await expect(check.locator('p')).toBeVisible();
+  }
+  await page.getByRole('link', {name:'Read on in Mark 1'}).click();
+  await expect(page.getByLabel('Search Scripture by feeling, need, words or Bible reference')).toHaveValue('Mark 1');
+  await expect(page.locator('#results')).toContainText('Mark 1:1');
 });
