@@ -21,6 +21,10 @@ for (const [url, target] of pages) {
     expect(response?.status()).toBe(200);
     await expect(page.locator(target)).toBeVisible({timeout:18000});
     expect(await page.locator('body').innerText()).toContain('Daily Bread');
+    if (url !== 'artwork-credits.html') {
+      const start = page.getByRole('navigation', {name:'Main navigation'}).getByRole('link', {name:'Start Here'});
+      await expect(start).toHaveAttribute('href', 'start.html');
+    }
     if(url==='index.html')await expect(page.locator('#verse-text')).not.toContainText('Loading');
     if(url==='scripture.html')await expect(page.locator('#library-count')).toContainText('verses');
     if(url==='art.html')await expect(page.locator('#art-count')).toContainText('works');
@@ -47,9 +51,14 @@ test('a beginner can find the lessons and reveal the reading checks', async ({pa
   await page.goto('index.html', {waitUntil:'domcontentloaded'});
   await page.getByRole('navigation', {name:'Explore Daily Bread'}).getByRole('link', {name:/New to Christianity/}).click();
   await expect(page.getByRole('heading', {name:'New to Christianity?'})).toBeVisible();
-  await page.getByRole('navigation', {name:'Lessons'}).getByRole('link', {name:'Who is Jesus?'}).click();
+  const lessons = page.getByRole('navigation', {name:'Lessons'});
+  await expect(lessons.locator('ol a')).toHaveText([
+    'Who is Jesus?', 'Why did Jesus die and rise again?', 'How do I begin following Jesus?',
+    'How do I read the Bible?', 'How do I pray?'
+  ]);
+  await lessons.getByRole('link', {name:'Who is Jesus?'}).click();
   await expect(page).toHaveURL(/#who-is-jesus$/);
-  for (const id of ['who-is-jesus', 'cross-and-resurrection', 'following-jesus']) {
+  for (const id of ['who-is-jesus', 'cross-and-resurrection', 'following-jesus', 'reading-scripture', 'prayer']) {
     const lesson = page.locator('#' + id);
     await expect(lesson.getByRole('link', {name:/\(ESV\)/})).toHaveAttribute('href', /^https:\/\/www\.esv\.org\//);
     const check = lesson.locator('.start-check');
@@ -57,6 +66,14 @@ test('a beginner can find the lessons and reveal the reading checks', async ({pa
     await check.locator('summary').click();
     await expect(check.locator('p')).toBeVisible();
   }
+  await expect(page.locator('.start-ranked')).toHaveAttribute('start', '6');
+  await expect(page.locator('.start-ranked > li')).toHaveCount(14);
+  const history = page.locator('#early-church');
+  await expect(history.locator('.start-answer')).toBeHidden();
+  await history.locator(':scope > summary').click();
+  await expect(history.locator('.start-answer')).toBeVisible();
+  await history.getByText('Read further', {exact:true}).click();
+  await expect(history.getByRole('link', {name:/Larry Hurtado/})).toBeVisible();
   await page.getByRole('link', {name:'Read on in Mark 1'}).click();
   await expect(page.getByLabel('Search Scripture by feeling, need, words or Bible reference')).toHaveValue('Mark 1');
   await expect(page.locator('#results')).toContainText('Mark 1:1');
