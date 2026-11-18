@@ -1,173 +1,6 @@
 {
-  "updated": "2026-11-18T01:28:05.916671+00:00",
+  "updated": "2026-11-18T07:29:37.330039+00:00",
   "items": [
-    {
-      "title": "Burnham says Brexit has dramatically diminished Britain’s global standing",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUGlSei1fbUcwZnJlcFNnX19kWkR3NnNVN1o5akI2UFJ0N0x0bDM5eVIxVzNpREl4UUx4aVlLdy1sTGk1VTU2bkE4MlRRRjd3aVVqZ2RpNjhsX1BTYlZNTFBCLTJWRmdpdDZOQzlFWUo4MFhqd3Y5WWtBVmYyTmRKOU4tbWpDZ0xlbzRkcUlrdnJBMDhKWWdjOVRLYWY0eU03RDNWN2JmM3BUcDFCX2RhNlpoMU1Sc0hySE5ja1FR?oc=5",
-      "publisher": "The Guardian",
-      "date": "Tue, 17 Nov 2026 15:14:00 GMT",
-      "section": "UK",
-      "sections": [
-        "UK"
-      ],
-      "sources": [
-        {
-          "title": "Burnham says Brexit has dramatically diminished Britain’s global standing",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUGlSei1fbUcwZnJlcFNnX19kWkR3NnNVN1o5akI2UFJ0N0x0bDM5eVIxVzNpREl4UUx4aVlLdy1sTGk1VTU2bkE4MlRRRjd3aVVqZ2RpNjhsX1BTYlZNTFBCLTJWRmdpdDZOQzlFWUo4MFhqd3Y5WWtBVmYyTmRKOU4tbWpDZ0xlbzRkcUlrdnJBMDhKWWdjOVRLYWY0eU03RDNWN2JmM3BUcDFCX2RhNlpoMU1Sc0hySE5ja1FR?oc=5",
-          "publisher": "The Guardian",
-          "date": "Tue, 17 Nov 2026 15:14:00 GMT",
-          "section": "UK"
-        }
-      ],
-      "reflectionStatus": "topic-guidance"
-    },
-    {
-      "title": "Crisis in Gaza: What to know and how to help",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XSXl4OU5zMkZoRkpWTHlwQnNRV3VsUU9USU5sWEVTMmV5SXo4SnNUaGMteHBTSjhWRW9ENjM5M1F1VW10c2l1QmQzUHllaHpmMnppT1dIYmUyWHJ1UkZPT3dRWjZzM05iZE9RZUVHR1NORVk?oc=5",
-      "publisher": "International Rescue Committee",
-      "date": "Tue, 10 Nov 2026 20:55:03 GMT",
-      "section": "World",
-      "sections": [
-        "World"
-      ],
-      "sources": [
-        {
-          "title": "Crisis in Gaza: What to know and how to help",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XSXl4OU5zMkZoRkpWTHlwQnNRV3VsUU9USU5sWEVTMmV5SXo4SnNUaGMteHBTSjhWRW9ENjM5M1F1VW10c2l1QmQzUHllaHpmMnppT1dIYmUyWHJ1UkZPT3dRWjZzM05iZE9RZUVHR1NORVk?oc=5",
-          "publisher": "International Rescue Committee",
-          "date": "Tue, 10 Nov 2026 20:55:03 GMT",
-          "section": "World"
-        }
-      ],
-      "reflectionStatus": "topic-guidance"
-    },
-    {
-      "title": "Sudan: Humanitarian crisis worsens due to plummeting aid",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbHNPXzVuTl9RbkdVTmVtRG5oSG1JcVJzNkhaR2RQNzlyS3pyZEVjNmJXZUJNVTRDYlBlVGltU0o4Z3BSRXU5QnA0R2VLQk9wVWRXbG94SEdwZDZHZHBLWFI5Vkx3ZGQwV0dTYzNmNTVxWThobEFYRXJhR283bk1taTdCbEpsN2lpamtseDZBMkRTbDNLSGg3OGxR0gGaAUFVX3lxTE9BQVd0ejhKYjhvazFRbWFiTFZIWU40VXpkRHVjYnZsY0QtUjdWYXJ6bVplcVFYV1JuQ201Qzl6NjJMUWVNRHVTZUZnMFdEd0R1dmI1NUVHU1M5di1tTzZsTHAyc2J1amc1Uk5FTjRDbE16STJCcEY2ZzhaU3BkVjhacWpqOGpaTXR2N1ZOQmx1UlAwY0F6ajJUelE?oc=5",
-      "publisher": "DW.com",
-      "date": "Sat, 14 Nov 2026 08:51:00 GMT",
-      "section": "World",
-      "sections": [
-        "World"
-      ],
-      "sources": [
-        {
-          "title": "Sudan: Humanitarian crisis worsens due to plummeting aid",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbHNPXzVuTl9RbkdVTmVtRG5oSG1JcVJzNkhaR2RQNzlyS3pyZEVjNmJXZUJNVTRDYlBlVGltU0o4Z3BSRXU5QnA0R2VLQk9wVWRXbG94SEdwZDZHZHBLWFI5Vkx3ZGQwV0dTYzNmNTVxWThobEFYRXJhR283bk1taTdCbEpsN2lpamtseDZBMkRTbDNLSGg3OGxR0gGaAUFVX3lxTE9BQVd0ejhKYjhvazFRbWFiTFZIWU40VXpkRHVjYnZsY0QtUjdWYXJ6bVplcVFYV1JuQ201Qzl6NjJMUWVNRHVTZUZnMFdEd0R1dmI1NUVHU1M5di1tTzZsTHAyc2J1amc1Uk5FTjRDbE16STJCcEY2ZzhaU3BkVjhacWpqOGpaTXR2N1ZOQmx1UlAwY0F6ajJUelE?oc=5",
-          "publisher": "DW.com",
-          "date": "Sat, 14 Nov 2026 08:51:00 GMT",
-          "section": "World"
-        }
-      ],
-      "reflectionStatus": "topic-guidance"
-    },
-    {
-      "title": "Joint statement ahead of the World Humanitarian Day",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTVJ1SWdxN1hwRl9NT2x6YjZ1VGhOb0VOalV2SzBuVzR6aG90Um5ScWlpVWxURWlXeHM2c2NrM0ZfY3FiMm11ZXJzUFNJNXBkUXQzNEhQMTc3WHdXS2dxekJhRDRNX0IyN012WHZ4b0U5R1ZqY3NTbmxaWDhUbUpuVDZUMUdjeE84ZktFaHo2VDl6NU1tcVFPVDhtVVoxWkVUVW9wVzVmTWpjdW9lRkR4WVhranA3aENUUUpFUnhsRFg0Tk9sWEV3NlQtdw?oc=5",
-      "publisher": "European Civil Protection and Humanitarian Aid Operations",
-      "date": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "section": "World",
-      "sections": [
-        "World"
-      ],
-      "sources": [
-        {
-          "title": "Joint statement ahead of the World Humanitarian Day",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTVJ1SWdxN1hwRl9NT2x6YjZ1VGhOb0VOalV2SzBuVzR6aG90Um5ScWlpVWxURWlXeHM2c2NrM0ZfY3FiMm11ZXJzUFNJNXBkUXQzNEhQMTc3WHdXS2dxekJhRDRNX0IyN012WHZ4b0U5R1ZqY3NTbmxaWDhUbUpuVDZUMUdjeE84ZktFaHo2VDl6NU1tcVFPVDhtVVoxWkVUVW9wVzVmTWpjdW9lRkR4WVhranA3aENUUUpFUnhsRFg0Tk9sWEV3NlQtdw?oc=5",
-          "publisher": "European Civil Protection and Humanitarian Aid Operations",
-          "date": "Tue, 18 Aug 2026 07:00:00 GMT",
-          "section": "World"
-        },
-        {
-          "title": "World Humanitarian Day 19 August",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUTkotM0VSdEg4d04zVDBOLWxGaDJTYURiS3VTNVljZXJDTXBKNXlxcUE0OGlrY2ZubEFINkxWU3hoeHlQeFpkd0JYc2lfRUI2eFNIb2NmejRyNkpoSEVV?oc=5",
-          "publisher": "Welcome to the United Nations",
-          "date": "Wed, 19 Aug 2026 07:00:00 GMT",
-          "section": "World"
-        }
-      ],
-      "reflectionStatus": "topic-guidance"
-    },
-    {
-      "title": "Health in a world of crises and impunity",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLVhMT2ZkUEhxcExqb2Y1clFyY3A4WE1VS0xQamVfaGJ2TU1DcGtrVVBsM3I1WndkQlZRcFhGWDlBMW9USzlWX2dwcGFfTUNfZEgzZlBBQVJtemJCNmM0UmJMVGFZaVhxOWRBbzBOU2JDMXVJV01QdkpUbDlpczhxc01NWQ?oc=5",
-      "publisher": "LSHTM",
-      "date": "Mon, 13 Jul 2026 15:30:03 GMT",
-      "section": "World",
-      "sections": [
-        "World"
-      ],
-      "sources": [
-        {
-          "title": "Health in a world of crises and impunity",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLVhMT2ZkUEhxcExqb2Y1clFyY3A4WE1VS0xQamVfaGJ2TU1DcGtrVVBsM3I1WndkQlZRcFhGWDlBMW9USzlWX2dwcGFfTUNfZEgzZlBBQVJtemJCNmM0UmJMVGFZaVhxOWRBbzBOU2JDMXVJV01QdkpUbDlpczhxc01NWQ?oc=5",
-          "publisher": "LSHTM",
-          "date": "Mon, 13 Jul 2026 15:30:03 GMT",
-          "section": "World"
-        }
-      ],
-      "reflectionStatus": "topic-guidance"
-    },
-    {
-      "title": "Israeli Strikes Kill Palestinians in Gaza As Winter Flooding Worsens Humanitarian Crisis",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZkw5aWpHNjB1T2o4bGpsTGVNX3dkLS1tdDBZVmRVWnZfSWt1dFNwaTlBRllZU3hNbUlQclVwcWZ1MllwVDQ5X3pCTDJVdkJucWJUb0Z4WkJuR0hUS21ESGJqbXFCQTY1OHJVZURXbVg5Ml9tSG9LNnV1QmRCNTc0ZzVYMEU1enFFMWJtWnZzOF80UHNNOTVkdVAxT2RNRDRsMEczWVdIQWhaMHVkdlRqcmhBOC1ua2R4RktLaDllbmhYZjduQjlxTTNpSnY2ZUFJTUFJaXZkQ3HSAd4BQVVfeXFMUEtnN0k5bXctZVA3dVVyNVBXVTFsV25xLXZUMHhLeDRwdWVmUjl6S0tIMmNwREl5N2J5UTJpNk50SG81b0FGSEZjbWU5cEQ4MndUNjhwdG1HYVZ4LW1DSUNFRUNyU3F1Q3BlUkEySkVQMXZUZkZoc2Y0aGR0R0lIeXAzR0ZMZnM5NGxYQThWWHpGQ2RlMklNWG4tdjN5YWczTU5fdW11eFNaR1o4MkdXeUpxSDc5T29ZLVhXQzBCTi01dHhBM09CclA1elFPOXFZVVdBTHpCMkxTeVN3WVBR?oc=5",
-      "publisher": "تسنیم",
-      "date": "Sat, 14 Nov 2026 13:29:02 GMT",
-      "section": "World",
-      "sections": [
-        "World"
-      ],
-      "sources": [
-        {
-          "title": "Israeli Strikes Kill Palestinians in Gaza As Winter Flooding Worsens Humanitarian Crisis",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZkw5aWpHNjB1T2o4bGpsTGVNX3dkLS1tdDBZVmRVWnZfSWt1dFNwaTlBRllZU3hNbUlQclVwcWZ1MllwVDQ5X3pCTDJVdkJucWJUb0Z4WkJuR0hUS21ESGJqbXFCQTY1OHJVZURXbVg5Ml9tSG9LNnV1QmRCNTc0ZzVYMEU1enFFMWJtWnZzOF80UHNNOTVkdVAxT2RNRDRsMEczWVdIQWhaMHVkdlRqcmhBOC1ua2R4RktLaDllbmhYZjduQjlxTTNpSnY2ZUFJTUFJaXZkQ3HSAd4BQVVfeXFMUEtnN0k5bXctZVA3dVVyNVBXVTFsV25xLXZUMHhLeDRwdWVmUjl6S0tIMmNwREl5N2J5UTJpNk50SG81b0FGSEZjbWU5cEQ4MndUNjhwdG1HYVZ4LW1DSUNFRUNyU3F1Q3BlUkEySkVQMXZUZkZoc2Y0aGR0R0lIeXAzR0ZMZnM5NGxYQThWWHpGQ2RlMklNWG4tdjN5YWczTU5fdW11eFNaR1o4MkdXeUpxSDc5T29ZLVhXQzBCTi01dHhBM09CclA1elFPOXFZVVdBTHpCMkxTeVN3WVBR?oc=5",
-          "publisher": "تسنیم",
-          "date": "Sat, 14 Nov 2026 13:29:02 GMT",
-          "section": "World"
-        }
-      ],
-      "reflectionStatus": "topic-guidance"
-    },
-    {
-      "title": "How Sudan's Collapse Offers a Grim Warning the World Can't Ignore",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxemd4aHQ3Y1BvUHNBeHFMSElTbmxYWDRtRkF4VmctaDFYVUxKTGRQaEVEMW9ueVNIOTRpUFpGZlh0UHJyV29tdmtYNGJKVGFBeGhoTjNFc2VXTnNpWnZibldtbV9CTUNXX2xn?oc=5",
-      "publisher": "allAfrica.com",
-      "date": "Mon, 16 Nov 2026 23:41:30 GMT",
-      "section": "World",
-      "sections": [
-        "World"
-      ],
-      "sources": [
-        {
-          "title": "How Sudan's Collapse Offers a Grim Warning the World Can't Ignore",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxemd4aHQ3Y1BvUHNBeHFMSElTbmxYWDRtRkF4VmctaDFYVUxKTGRQaEVEMW9ueVNIOTRpUFpGZlh0UHJyV29tdmtYNGJKVGFBeGhoTjNFc2VXTnNpWnZibldtbV9CTUNXX2xn?oc=5",
-          "publisher": "allAfrica.com",
-          "date": "Mon, 16 Nov 2026 23:41:30 GMT",
-          "section": "World"
-        }
-      ],
-      "reflectionStatus": "topic-guidance"
-    },
-    {
-      "title": "Four countries warn of Gaza humanitarian crisis",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX3A0d0FtenJYak1LbktrZWRSWGl3WHZiRmZ5dmdtaUZwS0Roa0l4RThySkY1YzlGdjFVX09Ea05jX3hIUXZqQjB1dTYyRnJGWjVSRHJzejhGbllWcjAyeml0Y1dIdmZjaGFOdjRNc293MUlrZ3VualhtWkhVaWNlR21sWXkxZ0pMTVI0?oc=5",
-      "publisher": "Egyptian Gazette",
-      "date": "Mon, 16 Nov 2026 09:50:05 GMT",
-      "section": "World",
-      "sections": [
-        "World"
-      ],
-      "sources": [
-        {
-          "title": "Four countries warn of Gaza humanitarian crisis",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX3A0d0FtenJYak1LbktrZWRSWGl3WHZiRmZ5dmdtaUZwS0Roa0l4RThySkY1YzlGdjFVX09Ea05jX3hIUXZqQjB1dTYyRnJGWjVSRHJzejhGbllWcjAyeml0Y1dIdmZjaGFOdjRNc293MUlrZ3VualhtWkhVaWNlR21sWXkxZ0pMTVI0?oc=5",
-          "publisher": "Egyptian Gazette",
-          "date": "Mon, 16 Nov 2026 09:50:05 GMT",
-          "section": "World"
-        }
-      ],
-      "reflectionStatus": "topic-guidance"
-    },
     {
       "title": "Regulator assesses concerns at Farage-backed preacher’s charity",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjNOemlfd1l1cVZMbHI1UmZNMEpiUXFxWXhPcHlXQkxLUm4wUkZiVUNwWEVSSkszMTh3S0w4MFdtSTktaTBOM2hYaE1Oa2h1N3lkTnRuV216NkUwNDVNY1VvMGdNZzZTXzhRcktNOGV6cU5TNlhEMjN1dTNLTHFGaXo1REFzakMtaFJHNUEwenF3XzQzd1Y4YlBsTUFfNEZQdjBUQWpCdw?oc=5",
@@ -267,44 +100,44 @@
         }
       ],
       "reflectionStatus": "topic-guidance"
-    },
-    {
-      "title": "ACN report: 220 million Christians face persecution worldwide",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY19uM0xyVDN1SDREOUFpZnZvYzVsRDltUC1GRHNhYXV2SlZOLUMxYzFCTk1TRkFQM1pXbE1VUkx4dVdtX2tGbzVrR0VIZk1TOGVOcko4NkdnQWgwUUVEUXhqX1pjdENNYlA5ZXhrdUV0VlNMcnZwU25BRmNhb0h0S0htVHZMX0dGYjBteHR1WlRjckNjOVh3cklocnFUc3JRYndXd0J6aEVDV251SjJlYl9hYw?oc=5",
-      "publisher": "Vatican News",
-      "date": "Tue, 27 Oct 2026 07:00:00 GMT",
-      "section": "Christian world",
-      "sections": [
-        "Christian world"
-      ],
-      "sources": [
-        {
-          "title": "ACN report: 220 million Christians face persecution worldwide",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY19uM0xyVDN1SDREOUFpZnZvYzVsRDltUC1GRHNhYXV2SlZOLUMxYzFCTk1TRkFQM1pXbE1VUkx4dVdtX2tGbzVrR0VIZk1TOGVOcko4NkdnQWgwUUVEUXhqX1pjdENNYlA5ZXhrdUV0VlNMcnZwU25BRmNhb0h0S0htVHZMX0dGYjBteHR1WlRjckNjOVh3cklocnFUc3JRYndXd0J6aEVDV251SjJlYl9hYw?oc=5",
-          "publisher": "Vatican News",
-          "date": "Tue, 27 Oct 2026 07:00:00 GMT",
-          "section": "Christian world"
-        }
-      ],
-      "reflectionStatus": "topic-guidance"
     }
   ],
   "pendingStories": [
     {
-      "title": "Speed camera fault may have allowed drivers to escape fines",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yak5WVEU1R29SQ2lxa2ZJaFNoUHJpZVJwNU02SzJfbEd3MTlzMlY2cVVuRlI5Ti00QTJDY1hhMFBVeURwRUxwSWtEZnRic2FrZ0NUY0gwczZyTEVpVUE?oc=5",
+      "title": "Latest UK inflation figure about to be released, with rate expected to rise",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zUnl4bm9ER1NzLVFKNEYwaTlvVWt4dDJSSFdtV2FYaXNOczRyWDVNMUJrd19sYXItRG9rY1pGODVBUDlZV0FDcVBZMlpya2xaZVlrbTd2MU4?oc=5",
       "publisher": "BBC",
-      "date": "Tue, 17 Nov 2026 12:35:46 GMT",
+      "date": "Wed, 18 Nov 2026 06:45:13 GMT",
       "section": "UK",
       "sections": [
         "UK"
       ],
       "sources": [
         {
-          "title": "Speed camera fault may have allowed drivers to escape fines",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yak5WVEU1R29SQ2lxa2ZJaFNoUHJpZVJwNU02SzJfbEd3MTlzMlY2cVVuRlI5Ti00QTJDY1hhMFBVeURwRUxwSWtEZnRic2FrZ0NUY0gwczZyTEVpVUE?oc=5",
+          "title": "Latest UK inflation figure about to be released, with rate expected to rise",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zUnl4bm9ER1NzLVFKNEYwaTlvVWt4dDJSSFdtV2FYaXNOczRyWDVNMUJrd19sYXItRG9rY1pGODVBUDlZV0FDcVBZMlpya2xaZVlrbTd2MU4?oc=5",
           "publisher": "BBC",
-          "date": "Tue, 17 Nov 2026 12:35:46 GMT",
+          "date": "Wed, 18 Nov 2026 06:45:13 GMT",
+          "section": "UK"
+        }
+      ],
+      "reflectionStatus": "needs-editorial-review"
+    },
+    {
+      "title": "UK inflation rate rises again, hitting 3.6% in October",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9naWloWUo3WVpZM0d6N21aM2RaTmFfOXB1Q0VtNGRaSUFZSmtoQ3JPUmxydmhOc20yOENUNnlQMnZaRzNyV0JWMGphNDNnYzFjZmdZVzhB?oc=5",
+      "publisher": "BBC",
+      "date": "Wed, 18 Nov 2026 07:12:04 GMT",
+      "section": "UK",
+      "sections": [
+        "UK"
+      ],
+      "sources": [
+        {
+          "title": "UK inflation rate rises again, hitting 3.6% in October",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9naWloWUo3WVpZM0d6N21aM2RaTmFfOXB1Q0VtNGRaSUFZSmtoQ3JPUmxydmhOc20yOENUNnlQMnZaRzNyV0JWMGphNDNnYzFjZmdZVzhB?oc=5",
+          "publisher": "BBC",
+          "date": "Wed, 18 Nov 2026 07:12:04 GMT",
           "section": "UK"
         }
       ],
@@ -331,40 +164,40 @@
       "reflectionStatus": "needs-editorial-review"
     },
     {
-      "title": "Americans urged to 'keep a low profile' in UK amid terror threat over festive season",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQajZEOXVoMF9iamUzUjhVNjE2em1CVHFxdWNpSFhDaG1NSkpIWFhqS28wVmR2eHdLVFN0MzEwMXhJTDdmVkZ0dFRhdU1MMWdKRXRJQVhNYTJCOVFnaFo4b3VURHpfcmxDNHFlQnJndElMZE5ibmlYSFNfbV9oaGhkU28tYm55WlJaLURnaFRpOE5sMTZ4VjBDNWJCZE5OcFE?oc=5",
+      "title": "Charles Bronson refused parole for ninth time",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa3pYaWFGdHQ5TTlwcTJaLWM5RVZocHQySVVIQUU2QTRtcEtzM2FuS0NzdVhWY0M2Z29yelNaVUR6TDNCa21QQU9KblFyZHRhdWN3U3RueXEwVW5jUWRPUm4yMy1XTUdpTkZBYW9MMlo3QjdzTFFTS1diUFpwMlp1OWNsVWkyR2Ft?oc=5",
       "publisher": "Sky News",
-      "date": "Tue, 17 Nov 2026 07:13:38 GMT",
+      "date": "Tue, 17 Nov 2026 16:19:57 GMT",
       "section": "UK",
       "sections": [
         "UK"
       ],
       "sources": [
         {
-          "title": "Americans urged to 'keep a low profile' in UK amid terror threat over festive season",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQajZEOXVoMF9iamUzUjhVNjE2em1CVHFxdWNpSFhDaG1NSkpIWFhqS28wVmR2eHdLVFN0MzEwMXhJTDdmVkZ0dFRhdU1MMWdKRXRJQVhNYTJCOVFnaFo4b3VURHpfcmxDNHFlQnJndElMZE5ibmlYSFNfbV9oaGhkU28tYm55WlJaLURnaFRpOE5sMTZ4VjBDNWJCZE5OcFE?oc=5",
+          "title": "Charles Bronson refused parole for ninth time",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa3pYaWFGdHQ5TTlwcTJaLWM5RVZocHQySVVIQUU2QTRtcEtzM2FuS0NzdVhWY0M2Z29yelNaVUR6TDNCa21QQU9KblFyZHRhdWN3U3RueXEwVW5jUWRPUm4yMy1XTUdpTkZBYW9MMlo3QjdzTFFTS1diUFpwMlp1OWNsVWkyR2Ft?oc=5",
           "publisher": "Sky News",
-          "date": "Tue, 17 Nov 2026 07:13:38 GMT",
+          "date": "Tue, 17 Nov 2026 16:19:57 GMT",
           "section": "UK"
         }
       ],
       "reflectionStatus": "needs-editorial-review"
     },
     {
-      "title": "Ukraine war live: Russian military plane crashes in Siberia killing all 19 on board",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSnJlQjZjODBhay1OZ1pmMWJQdXNQY2QwZF9jdHBwNEcyNWc1S0pRSHRGS3VqLTdTTTUtSnpDNmN4em9lWm9xNTFtbnVRTTN0dU5zWTJsS1B1ZlltSE5mY0JfcFVlNHRlRWhMTVdQaHZSX2hBOFlhUklLMXF0bFdpXzhYUGRhOHR4NFBZV19Fck9kYWZLZVBmXzY1bF91ZGlXeXoxRWdvRVg1SFJKM3ZudXpaSVM0X1YwS2ctY0tn?oc=5",
+      "title": "Ukraine-Russia war latest: Russian military plane crashes in Siberia killing all 19 on board",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHM1UGUwY0dTVmlZZjR1STJLcFRBdFJvR0w4TmpDTFdzWHJIay1EcHlZZU8zTzgzeHJaUUhhQVlwRkJsS0Fqdjk5SldBRjd2RUR6eC1qV0hWdFNfWGotTUZRRWpuTkN3cjcyb1dtclNyRTFKa2liakRXTXgxVzJTcGwtSjdHX3BfNXM2UW52NGhyMjVGRGJ4VV8tT1R3R2hyMHVWLVZZcURidDIxMkdlcFBPS2I5d1ZOa0JYTg?oc=5",
       "publisher": "The Independent",
-      "date": "Wed, 18 Nov 2026 00:41:28 GMT",
+      "date": "Wed, 18 Nov 2026 06:55:41 GMT",
       "section": "UK",
       "sections": [
         "UK"
       ],
       "sources": [
         {
-          "title": "Ukraine war live: Russian military plane crashes in Siberia killing all 19 on board",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSnJlQjZjODBhay1OZ1pmMWJQdXNQY2QwZF9jdHBwNEcyNWc1S0pRSHRGS3VqLTdTTTUtSnpDNmN4em9lWm9xNTFtbnVRTTN0dU5zWTJsS1B1ZlltSE5mY0JfcFVlNHRlRWhMTVdQaHZSX2hBOFlhUklLMXF0bFdpXzhYUGRhOHR4NFBZV19Fck9kYWZLZVBmXzY1bF91ZGlXeXoxRWdvRVg1SFJKM3ZudXpaSVM0X1YwS2ctY0tn?oc=5",
+          "title": "Ukraine-Russia war latest: Russian military plane crashes in Siberia killing all 19 on board",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHM1UGUwY0dTVmlZZjR1STJLcFRBdFJvR0w4TmpDTFdzWHJIay1EcHlZZU8zTzgzeHJaUUhhQVlwRkJsS0Fqdjk5SldBRjd2RUR6eC1qV0hWdFNfWGotTUZRRWpuTkN3cjcyb1dtclNyRTFKa2liakRXTXgxVzJTcGwtSjdHX3BfNXM2UW52NGhyMjVGRGJ4VV8tT1R3R2hyMHVWLVZZcURidDIxMkdlcFBPS2I5d1ZOa0JYTg?oc=5",
           "publisher": "The Independent",
-          "date": "Wed, 18 Nov 2026 00:41:28 GMT",
+          "date": "Wed, 18 Nov 2026 06:55:41 GMT",
           "section": "UK"
         }
       ],
@@ -374,7 +207,7 @@
       "title": "Watch: What's in the Milburn review?",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qelZHeDhoYmZfZl9IazJZSWpCTEN3Q0pLMzNKbWxXcTZlUEpLX0VCQlFGeDlLT3MxOUNOZTYtcXEwaEVnVkZaOFYwaFBkSEJEbjhNTWIyaUs0VXc?oc=5",
       "publisher": "BBC",
-      "date": "Tue, 17 Nov 2026 12:23:18 GMT",
+      "date": "Tue, 17 Nov 2026 12:32:35 GMT",
       "section": "UK",
       "sections": [
         "UK"
@@ -384,7 +217,7 @@
           "title": "Watch: What's in the Milburn review?",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qelZHeDhoYmZfZl9IazJZSWpCTEN3Q0pLMzNKbWxXcTZlUEpLX0VCQlFGeDlLT3MxOUNOZTYtcXEwaEVnVkZaOFYwaFBkSEJEbjhNTWIyaUs0VXc?oc=5",
           "publisher": "BBC",
-          "date": "Tue, 17 Nov 2026 12:23:18 GMT",
+          "date": "Tue, 17 Nov 2026 12:32:35 GMT",
           "section": "UK"
         }
       ],
@@ -411,6 +244,26 @@
       "reflectionStatus": "needs-editorial-review"
     },
     {
+      "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55bmZkZExNLW8taGRiblhBLUJScG1Wc0hnQXpKZVlzamZJU2ttNEM0Q2stazZzUWIxSW4zaXVhQmJNdGZNQ21VM21ZLVg2QkdPYmtyaU1CR2VrUFRJVEE?oc=5",
+      "publisher": "BBC",
+      "date": "Tue, 17 Nov 2026 01:04:45 GMT",
+      "section": "UK",
+      "sections": [
+        "UK"
+      ],
+      "sources": [
+        {
+          "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55bmZkZExNLW8taGRiblhBLUJScG1Wc0hnQXpKZVlzamZJU2ttNEM0Q2stazZzUWIxSW4zaXVhQmJNdGZNQ21VM21ZLVg2QkdPYmtyaU1CR2VrUFRJVEE?oc=5",
+          "publisher": "BBC",
+          "date": "Tue, 17 Nov 2026 01:04:45 GMT",
+          "section": "UK"
+        }
+      ],
+      "reflectionStatus": "needs-editorial-review"
+    },
+    {
       "title": "The Script forced to cancel UK show just hours before taking to the stage as they announce heartbreaking family news",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONzBYXzZsd1hTeUVfLW9lVjBGWWpSeVhOZlRWa0RKV3dTVjczc1JKZmg3T3Jwa0RuWVRYYktpU2dIb215eFZmOWlBdEVDS0s4aXlna0ZBMkREMU9EcmxhWTV5cmVQS2kzMm5jWmZfV2EyLVlSdEI4TXJqZW5KR21LR29uUFhLRUNmVlM4ejlB?oc=5",
       "publisher": "The Sun",
@@ -426,46 +279,6 @@
           "publisher": "The Sun",
           "date": "Tue, 17 Nov 2026 18:28:00 GMT",
           "section": "UK"
-        }
-      ],
-      "reflectionStatus": "needs-editorial-review"
-    },
-    {
-      "title": "Robert Pattinson says being cast as new James Bond is 'honour of a lifetime'",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJdXlhclBFXzVadV8yMG14RnhPakFPNjJIMUtpRG9tZzVTTUpsRmhpNFRWZzNsbHJUa2pYMzA2SmV1cGxNZEE1alVSSkRYTHkzcXRoQW0tRXI?oc=5",
-      "publisher": "BBC",
-      "date": "Mon, 16 Nov 2026 19:33:29 GMT",
-      "section": "UK",
-      "sections": [
-        "UK"
-      ],
-      "sources": [
-        {
-          "title": "Robert Pattinson says being cast as new James Bond is 'honour of a lifetime'",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJdXlhclBFXzVadV8yMG14RnhPakFPNjJIMUtpRG9tZzVTTUpsRmhpNFRWZzNsbHJUa2pYMzA2SmV1cGxNZEE1alVSSkRYTHkzcXRoQW0tRXI?oc=5",
-          "publisher": "BBC",
-          "date": "Mon, 16 Nov 2026 19:33:29 GMT",
-          "section": "UK"
-        }
-      ],
-      "reflectionStatus": "needs-editorial-review"
-    },
-    {
-      "title": "The extent of distress and high risks in humanitarian crisis zones",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1BybDkwdExsNGQzSVlJOTZnWi12SDRpb3k3ZFJDNWxYQXNSbk1meU8wdUV0VTc1bFZJVTJLeXNOTlFwRXMyVUJoV21BdGlKMzBGSGJYUDdIRHNRRG1ybDczZFk3ZmtoUTVOMTFBZnU1NHNneF96UE84N1Y2QmdpZVViT1dlWTJRRWRtN1lzbnJBOUx0RjdLTVN6cUx1UkR5TFo1cUt3?oc=5",
-      "publisher": "Countercurrents",
-      "date": "Tue, 17 Nov 2026 16:25:12 GMT",
-      "section": "World",
-      "sections": [
-        "World"
-      ],
-      "sources": [
-        {
-          "title": "The extent of distress and high risks in humanitarian crisis zones",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1BybDkwdExsNGQzSVlJOTZnWi12SDRpb3k3ZFJDNWxYQXNSbk1meU8wdUV0VTc1bFZJVTJLeXNOTlFwRXMyVUJoV21BdGlKMzBGSGJYUDdIRHNRRG1ybDczZFk3ZmtoUTVOMTFBZnU1NHNneF96UE84N1Y2QmdpZVViT1dlWTJRRWRtN1lzbnJBOUx0RjdLTVN6cUx1UkR5TFo1cUt3?oc=5",
-          "publisher": "Countercurrents",
-          "date": "Tue, 17 Nov 2026 16:25:12 GMT",
-          "section": "World"
         }
       ],
       "reflectionStatus": "needs-editorial-review"
@@ -571,6 +384,26 @@
       "reflectionStatus": "needs-editorial-review"
     },
     {
+      "title": "From world capitals to remote villages, world turns red for persecuted Christians",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTVMSmxsaXk5WlFnVEMxd2hya2hmdE9kUHg2ckJSRWx1QTJ3ZlhkazJ1RUtOdkNBcDdsdHZTLWs2VDJYWUpNTkJ2MXVET0g4SWJuVUE2MW1UV01XQkpoRUdZUnZJR21yWkNTZEtUcUUwMXJ0Sm9pNy1OZkVBNXpUTkZSamJ4dGZEZFZZRFFRSGhfbXQxeDktdVlOQkJnTnpVMnRZZEpsTnZpc1Rib2JkR1RrR0o?oc=5",
+      "publisher": "Church in Need",
+      "date": "Mon, 16 Nov 2026 23:50:40 GMT",
+      "section": "Christian world",
+      "sections": [
+        "Christian world"
+      ],
+      "sources": [
+        {
+          "title": "From world capitals to remote villages, world turns red for persecuted Christians",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTVMSmxsaXk5WlFnVEMxd2hya2hmdE9kUHg2ckJSRWx1QTJ3ZlhkazJ1RUtOdkNBcDdsdHZTLWs2VDJYWUpNTkJ2MXVET0g4SWJuVUE2MW1UV01XQkpoRUdZUnZJR21yWkNTZEtUcUUwMXJ0Sm9pNy1OZkVBNXpUTkZSamJ4dGZEZFZZRFFRSGhfbXQxeDktdVlOQkJnTnpVMnRZZEpsTnZpc1Rib2JkR1RrR0o?oc=5",
+          "publisher": "Church in Need",
+          "date": "Mon, 16 Nov 2026 23:50:40 GMT",
+          "section": "Christian world"
+        }
+      ],
+      "reflectionStatus": "needs-editorial-review"
+    },
+    {
       "title": "Father Timothy Bartlett warns of ‘soft persecution’ of Christians in Western democracies",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcXNGdFFJcjQ3dU9KMk9nWnVPWEVPcDBBQjB3Q29IZTZvNXM3UG14LWRCMTZ3TE5ZQW5TamNOT0VIUWVjUTVBR2VQc1FMYndFR0pxdVR0RllOaFQteUZWajVKaXMyMGloTjlVSHVobFVWLVNkY0MtRE01RjFRb1ZJbW1WcjRiV0N4RVhTS1dPVnNkUkZURzJ6YUl0R08tVEVYeUt2eHMzb08?oc=5",
       "publisher": "Catholic News",
@@ -585,66 +418,6 @@
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcXNGdFFJcjQ3dU9KMk9nWnVPWEVPcDBBQjB3Q29IZTZvNXM3UG14LWRCMTZ3TE5ZQW5TamNOT0VIUWVjUTVBR2VQc1FMYndFR0pxdVR0RllOaFQteUZWajVKaXMyMGloTjlVSHVobFVWLVNkY0MtRE01RjFRb1ZJbW1WcjRiV0N4RVhTS1dPVnNkUkZURzJ6YUl0R08tVEVYeUt2eHMzb08?oc=5",
           "publisher": "Catholic News",
           "date": "Mon, 16 Nov 2026 10:56:52 GMT",
-          "section": "Christian world"
-        }
-      ],
-      "reflectionStatus": "needs-editorial-review"
-    },
-    {
-      "title": "Red Week highlights persecuted Christians, 'fundamental right' of religious freedom",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGc4ZWxtN0RlVWNDYXdnT3J2bm5mVmUyM2g0QVRmWVoxcDlhRG1jdFJteU02YmV0T1c0RlRNMElQS29Ra190QzJ4S3NoQ2VFQ2hHdm1SNzdBcEg0MmZTUjRGcDZETnFFejFoMDBHLWc5V254MTd5QkdtbkJnTmprMEZsTTdtc1V6Rm9zd0RKMFRtcE1KRlV6MGZ2SFpWX3lyUzV4SDZDUmlMR1NsYnJrTEw2V29PN1E?oc=5",
-      "publisher": "Diocese of Tucson News",
-      "date": "Tue, 17 Nov 2026 09:09:28 GMT",
-      "section": "Christian world",
-      "sections": [
-        "Christian world"
-      ],
-      "sources": [
-        {
-          "title": "Red Week highlights persecuted Christians, 'fundamental right' of religious freedom",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGc4ZWxtN0RlVWNDYXdnT3J2bm5mVmUyM2g0QVRmWVoxcDlhRG1jdFJteU02YmV0T1c0RlRNMElQS29Ra190QzJ4S3NoQ2VFQ2hHdm1SNzdBcEg0MmZTUjRGcDZETnFFejFoMDBHLWc5V254MTd5QkdtbkJnTmprMEZsTTdtc1V6Rm9zd0RKMFRtcE1KRlV6MGZ2SFpWX3lyUzV4SDZDUmlMR1NsYnJrTEw2V29PN1E?oc=5",
-          "publisher": "Diocese of Tucson News",
-          "date": "Tue, 17 Nov 2026 09:09:28 GMT",
-          "section": "Christian world"
-        }
-      ],
-      "reflectionStatus": "needs-editorial-review"
-    },
-    {
-      "title": "Egypt and anti-Christian Persecution under the Spotlight (Abdelrazek)",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTXNJZ3IyMzRCZmhQTDlpdVNpcnR3SzdpZjdQT2w2dmk2QnRpeFFiUjQyMGd4TVV3cC1OblZocXRyR3FfbDBuT29ScE1iVFdYdzFwY2szUWVQMVF2d1pYVGFVMVlXTnBBYXlrTmJCdnRuVmR5R1JDVUIyZ1gtckgxUWdXOWF6bEY3OUM2dE45VUZsR1h5TjNtWng1dkZ4dw?oc=5",
-      "publisher": "Modern Tokyo Times",
-      "date": "Tue, 17 Nov 2026 13:21:31 GMT",
-      "section": "Christian world",
-      "sections": [
-        "Christian world"
-      ],
-      "sources": [
-        {
-          "title": "Egypt and anti-Christian Persecution under the Spotlight (Abdelrazek)",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTXNJZ3IyMzRCZmhQTDlpdVNpcnR3SzdpZjdQT2w2dmk2QnRpeFFiUjQyMGd4TVV3cC1OblZocXRyR3FfbDBuT29ScE1iVFdYdzFwY2szUWVQMVF2d1pYVGFVMVlXTnBBYXlrTmJCdnRuVmR5R1JDVUIyZ1gtckgxUWdXOWF6bEY3OUM2dE45VUZsR1h5TjNtWng1dkZ4dw?oc=5",
-          "publisher": "Modern Tokyo Times",
-          "date": "Tue, 17 Nov 2026 13:21:31 GMT",
-          "section": "Christian world"
-        }
-      ],
-      "reflectionStatus": "needs-editorial-review"
-    },
-    {
-      "title": "State Department presses Egypt to respect religious freedom as Christian convert faces possible execution",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVnE5YkNnc1JVTFIyNV9iaFVMYVFISFBkTG52UmwxMDd0am9lSkpXLXlaNTdHWmZjbHFXVWQyY0dyTDBoOEtqMTYzYzZWWHJFR2t6X0thRzhybDNkZjJ2T1NmTlRmZmZVR3hNaFkzNEJYTVl6b3dTcWtoTi1iUklYazRkaVNUTmstQ2dLd3ZzUm5jTWpSMGViNVpuZDk2a1ZQZ2RsZTZSSnZJWGlVMllvQ3A0OFVlQk52Ykp1MFktRURFcnlOdnF2UdIBzgFBVV95cUxQYnc1a2JjdHdtMTJzLWFKMDdxcFNRYmdhamhLOXdWNFVDWkpxVlpFeTNqS1BfdjRhbG9qSFJqZTY3Zi1zY2hvSy11SHBTQW95aW5hWktRM2NGTUJIQVM0WlJIS2hBU24wbTZVSHJJVzdhUGVzVzVQSHV6VUVCTDlON2ZxY0R6eGl1YkxGcldYTlJ5SzBrN3plMFpvTTE5VWVjMDNtdjd0dG11cXN0YnpLQXAzbWxlX2NpSS1SOV9aVWxsc1dnOUJDMlBJLVJvUQ?oc=5",
-      "publisher": "Fox News",
-      "date": "Tue, 17 Nov 2026 11:00:46 GMT",
-      "section": "Christian world",
-      "sections": [
-        "Christian world"
-      ],
-      "sources": [
-        {
-          "title": "State Department presses Egypt to respect religious freedom as Christian convert faces possible execution",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVnE5YkNnc1JVTFIyNV9iaFVMYVFISFBkTG52UmwxMDd0am9lSkpXLXlaNTdHWmZjbHFXVWQyY0dyTDBoOEtqMTYzYzZWWHJFR2t6X0thRzhybDNkZjJ2T1NmTlRmZmZVR3hNaFkzNEJYTVl6b3dTcWtoTi1iUklYazRkaVNUTmstQ2dLd3ZzUm5jTWpSMGViNVpuZDk2a1ZQZ2RsZTZSSnZJWGlVMllvQ3A0OFVlQk52Ykp1MFktRURFcnlOdnF2UdIBzgFBVV95cUxQYnc1a2JjdHdtMTJzLWFKMDdxcFNRYmdhamhLOXdWNFVDWkpxVlpFeTNqS1BfdjRhbG9qSFJqZTY3Zi1zY2hvSy11SHBTQW95aW5hWktRM2NGTUJIQVM0WlJIS2hBU24wbTZVSHJJVzdhUGVzVzVQSHV6VUVCTDlON2ZxY0R6eGl1YkxGcldYTlJ5SzBrN3plMFpvTTE5VWVjMDNtdjd0dG11cXN0YnpLQXAzbWxlX2NpSS1SOV9aVWxsc1dnOUJDMlBJLVJvUQ?oc=5",
-          "publisher": "Fox News",
-          "date": "Tue, 17 Nov 2026 11:00:46 GMT",
           "section": "Christian world"
         }
       ],
@@ -671,6 +444,86 @@
       "reflectionStatus": "needs-editorial-review"
     },
     {
+      "title": "Egypt and anti-Christian Persecution under the Spotlight (Abdelrazek)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTXNJZ3IyMzRCZmhQTDlpdVNpcnR3SzdpZjdQT2w2dmk2QnRpeFFiUjQyMGd4TVV3cC1OblZocXRyR3FfbDBuT29ScE1iVFdYdzFwY2szUWVQMVF2d1pYVGFVMVlXTnBBYXlrTmJCdnRuVmR5R1JDVUIyZ1gtckgxUWdXOWF6bEY3OUM2dE45VUZsR1h5TjNtWng1dkZ4dw?oc=5",
+      "publisher": "Modern Tokyo Times",
+      "date": "Tue, 17 Nov 2026 13:21:31 GMT",
+      "section": "Christian world",
+      "sections": [
+        "Christian world"
+      ],
+      "sources": [
+        {
+          "title": "Egypt and anti-Christian Persecution under the Spotlight (Abdelrazek)",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTXNJZ3IyMzRCZmhQTDlpdVNpcnR3SzdpZjdQT2w2dmk2QnRpeFFiUjQyMGd4TVV3cC1OblZocXRyR3FfbDBuT29ScE1iVFdYdzFwY2szUWVQMVF2d1pYVGFVMVlXTnBBYXlrTmJCdnRuVmR5R1JDVUIyZ1gtckgxUWdXOWF6bEY3OUM2dE45VUZsR1h5TjNtWng1dkZ4dw?oc=5",
+          "publisher": "Modern Tokyo Times",
+          "date": "Tue, 17 Nov 2026 13:21:31 GMT",
+          "section": "Christian world"
+        }
+      ],
+      "reflectionStatus": "needs-editorial-review"
+    },
+    {
+      "title": "Red Week highlights persecuted Christians, 'fundamental right' of religious freedom",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGc4ZWxtN0RlVWNDYXdnT3J2bm5mVmUyM2g0QVRmWVoxcDlhRG1jdFJteU02YmV0T1c0RlRNMElQS29Ra190QzJ4S3NoQ2VFQ2hHdm1SNzdBcEg0MmZTUjRGcDZETnFFejFoMDBHLWc5V254MTd5QkdtbkJnTmprMEZsTTdtc1V6Rm9zd0RKMFRtcE1KRlV6MGZ2SFpWX3lyUzV4SDZDUmlMR1NsYnJrTEw2V29PN1E?oc=5",
+      "publisher": "Diocese of Tucson News",
+      "date": "Tue, 17 Nov 2026 09:09:28 GMT",
+      "section": "Christian world",
+      "sections": [
+        "Christian world"
+      ],
+      "sources": [
+        {
+          "title": "Red Week highlights persecuted Christians, 'fundamental right' of religious freedom",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGc4ZWxtN0RlVWNDYXdnT3J2bm5mVmUyM2g0QVRmWVoxcDlhRG1jdFJteU02YmV0T1c0RlRNMElQS29Ra190QzJ4S3NoQ2VFQ2hHdm1SNzdBcEg0MmZTUjRGcDZETnFFejFoMDBHLWc5V254MTd5QkdtbkJnTmprMEZsTTdtc1V6Rm9zd0RKMFRtcE1KRlV6MGZ2SFpWX3lyUzV4SDZDUmlMR1NsYnJrTEw2V29PN1E?oc=5",
+          "publisher": "Diocese of Tucson News",
+          "date": "Tue, 17 Nov 2026 09:09:28 GMT",
+          "section": "Christian world"
+        }
+      ],
+      "reflectionStatus": "needs-editorial-review"
+    },
+    {
+      "title": "State Department presses Egypt to respect religious freedom as Christian convert faces possible execution",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVnE5YkNnc1JVTFIyNV9iaFVMYVFISFBkTG52UmwxMDd0am9lSkpXLXlaNTdHWmZjbHFXVWQyY0dyTDBoOEtqMTYzYzZWWHJFR2t6X0thRzhybDNkZjJ2T1NmTlRmZmZVR3hNaFkzNEJYTVl6b3dTcWtoTi1iUklYazRkaVNUTmstQ2dLd3ZzUm5jTWpSMGViNVpuZDk2a1ZQZ2RsZTZSSnZJWGlVMllvQ3A0OFVlQk52Ykp1MFktRURFcnlOdnF2UdIBzgFBVV95cUxQYnc1a2JjdHdtMTJzLWFKMDdxcFNRYmdhamhLOXdWNFVDWkpxVlpFeTNqS1BfdjRhbG9qSFJqZTY3Zi1zY2hvSy11SHBTQW95aW5hWktRM2NGTUJIQVM0WlJIS2hBU24wbTZVSHJJVzdhUGVzVzVQSHV6VUVCTDlON2ZxY0R6eGl1YkxGcldYTlJ5SzBrN3plMFpvTTE5VWVjMDNtdjd0dG11cXN0YnpLQXAzbWxlX2NpSS1SOV9aVWxsc1dnOUJDMlBJLVJvUQ?oc=5",
+      "publisher": "Fox News",
+      "date": "Tue, 17 Nov 2026 11:00:46 GMT",
+      "section": "Christian world",
+      "sections": [
+        "Christian world"
+      ],
+      "sources": [
+        {
+          "title": "State Department presses Egypt to respect religious freedom as Christian convert faces possible execution",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVnE5YkNnc1JVTFIyNV9iaFVMYVFISFBkTG52UmwxMDd0am9lSkpXLXlaNTdHWmZjbHFXVWQyY0dyTDBoOEtqMTYzYzZWWHJFR2t6X0thRzhybDNkZjJ2T1NmTlRmZmZVR3hNaFkzNEJYTVl6b3dTcWtoTi1iUklYazRkaVNUTmstQ2dLd3ZzUm5jTWpSMGViNVpuZDk2a1ZQZ2RsZTZSSnZJWGlVMllvQ3A0OFVlQk52Ykp1MFktRURFcnlOdnF2UdIBzgFBVV95cUxQYnc1a2JjdHdtMTJzLWFKMDdxcFNRYmdhamhLOXdWNFVDWkpxVlpFeTNqS1BfdjRhbG9qSFJqZTY3Zi1zY2hvSy11SHBTQW95aW5hWktRM2NGTUJIQVM0WlJIS2hBU24wbTZVSHJJVzdhUGVzVzVQSHV6VUVCTDlON2ZxY0R6eGl1YkxGcldYTlJ5SzBrN3plMFpvTTE5VWVjMDNtdjd0dG11cXN0YnpLQXAzbWxlX2NpSS1SOV9aVWxsc1dnOUJDMlBJLVJvUQ?oc=5",
+          "publisher": "Fox News",
+          "date": "Tue, 17 Nov 2026 11:00:46 GMT",
+          "section": "Christian world"
+        }
+      ],
+      "reflectionStatus": "needs-editorial-review"
+    },
+    {
+      "title": "Egyptian Christian Convert Faces Execution After Alleged Torture; US Presses Gov’t for Religious Freedom",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQLUVrOGRnRU0zYUZWQ3FNcW1rNHBxQjlKdjFFMGRsV1lHYlRpaDdzTktRU1BhWUxaRXZicngzTmJMQ0JGNEZBbTZzVmFOVmdTc1BNU0Rad1hnQlI4Q0lpaVFNa01COTRPX3hQdGNockxKX25TR3FSREJvWnd3Yk9pOUVwV0hIa2RKNlQ4QWlCM0hzQmJkeUstN2ltVm5DMV9xelFRWENmTUJYdzdQM0JYODBPSC1aZDdMQ01ic2FSWlc2d3psU24xU0RPNmpFWl8yLUhtNUU5a3hnOVZXSks1NkNOZUR3TjZMYkE?oc=5",
+      "publisher": "Billy Graham Evangelistic Association",
+      "date": "Tue, 17 Nov 2026 18:15:09 GMT",
+      "section": "Christian world",
+      "sections": [
+        "Christian world"
+      ],
+      "sources": [
+        {
+          "title": "Egyptian Christian Convert Faces Execution After Alleged Torture; US Presses Gov’t for Religious Freedom",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQLUVrOGRnRU0zYUZWQ3FNcW1rNHBxQjlKdjFFMGRsV1lHYlRpaDdzTktRU1BhWUxaRXZicngzTmJMQ0JGNEZBbTZzVmFOVmdTc1BNU0Rad1hnQlI4Q0lpaVFNa01COTRPX3hQdGNockxKX25TR3FSREJvWnd3Yk9pOUVwV0hIa2RKNlQ4QWlCM0hzQmJkeUstN2ltVm5DMV9xelFRWENmTUJYdzdQM0JYODBPSC1aZDdMQ01ic2FSWlc2d3psU24xU0RPNmpFWl8yLUhtNUU5a3hnOVZXSks1NkNOZUR3TjZMYkE?oc=5",
+          "publisher": "Billy Graham Evangelistic Association",
+          "date": "Tue, 17 Nov 2026 18:15:09 GMT",
+          "section": "Christian world"
+        }
+      ],
+      "reflectionStatus": "needs-editorial-review"
+    },
+    {
       "title": "Red Week remembers the persecuted Church",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMWxxNVF6c0pYdUFyQTZzVzRaREVnaEVJdWFSeUdlLWxHdk1oX0VlQTZJYVpfb1RzTGp2N1RsaWNhN1Nfb2tleW5WX19QZjJmOUpuOENRWW1mV3hFYVN6cWJTREczMWo3NFJwejdVNjh6R2FNSU5OSHdmRGJYa0tPY0prUjZPTVhj?oc=5",
       "publisher": "The Catholic Times",
@@ -689,33 +542,13 @@
         }
       ],
       "reflectionStatus": "needs-editorial-review"
-    },
-    {
-      "title": "Widow of Christian killed in Nigeria takes plea for persecuted Christians to Downing Street",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOUtSRzI3UnBZcmkySFVIMzl5WUFxa09zZVo1TnIyckdMM2NYRG9CeXc2Z2JnSE92WkpEcjMzTzFicTJqb2NNTFpOdng4a0dra2VQWG96NzZ1OG54blJDZDJtS0FpenRfQlRkY3pBbzYtYTJGb1lhdXBpZmRDeGlFQ3VEdzJnNXNZMlJxbVNVRm9rLVdDY3l4eE9faGs3aGlCcHQydmZZTmIycE84VlVjQ3VPajZ1VC1vM0Zzd2VkaWNJdWtFbmc?oc=5",
-      "publisher": "www.christiantoday.com",
-      "date": "Thu, 12 Nov 2026 09:52:48 GMT",
-      "section": "Christian world",
-      "sections": [
-        "Christian world"
-      ],
-      "sources": [
-        {
-          "title": "Widow of Christian killed in Nigeria takes plea for persecuted Christians to Downing Street",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOUtSRzI3UnBZcmkySFVIMzl5WUFxa09zZVo1TnIyckdMM2NYRG9CeXc2Z2JnSE92WkpEcjMzTzFicTJqb2NNTFpOdng4a0dra2VQWG96NzZ1OG54blJDZDJtS0FpenRfQlRkY3pBbzYtYTJGb1lhdXBpZmRDeGlFQ3VEdzJnNXNZMlJxbVNVRm9rLVdDY3l4eE9faGs3aGlCcHQydmZZTmIycE84VlVjQ3VPajZ1VC1vM0Zzd2VkaWNJdWtFbmc?oc=5",
-          "publisher": "www.christiantoday.com",
-          "date": "Thu, 12 Nov 2026 09:52:48 GMT",
-          "section": "Christian world"
-        }
-      ],
-      "reflectionStatus": "needs-editorial-review"
     }
   ],
   "coverage": {
-    "total": 35,
-    "published": 14,
-    "pending": 21,
+    "total": 27,
+    "published": 5,
+    "pending": 22,
     "individuallyReviewed": 0,
-    "topicGuidance": 14
+    "topicGuidance": 5
   }
 }
