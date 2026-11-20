@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T01:18:29.832391+00:00",
+  "updated": "2026-11-20T07:28:45.204085+00:00",
   "items": [
     {
       "title": "Crisis in Gaza: What to know and how to help",
@@ -83,6 +83,26 @@
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLVhMT2ZkUEhxcExqb2Y1clFyY3A4WE1VS0xQamVfaGJ2TU1DcGtrVVBsM3I1WndkQlZRcFhGWDlBMW9USzlWX2dwcGFfTUNfZEgzZlBBQVJtemJCNmM0UmJMVGFZaVhxOWRBbzBOU2JDMXVJV01QdkpUbDlpczhxc01NWQ?oc=5",
           "publisher": "LSHTM",
           "date": "Mon, 13 Jul 2026 15:30:03 GMT",
+          "section": "World"
+        }
+      ],
+      "reflectionStatus": "topic-guidance"
+    },
+    {
+      "title": "IDC Chair welcomes NAO report on FCDO humanitarian crisis response",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQV9sNGNmRWgtc1NqRnloOWNBZkduTzIzX1RRLUZta0FPUnR0aE9YMGtodVp1elVuMHdhWlk5ckxoaDlzTmczS003OV9IR3VheEtuZGMxV1UtdDZoUFFlSWoxZkI0ZUFjTjNzNy15QWpLUnIyUnlteFRVendmTm5CVEZ3U004OTU1Zmd2YzBRc05Zck02Rjk3b3MzQWlRbnMzOE5IODdCOXdaSTR5N2NRYWl4RHpORmNhRzNIVFlPQkN1X1pCNEV4RkRsdURfdUdQenFvckxOYUp4VldVU1pzb1phUEJzU09qbE1tOXZDUmxSZnc?oc=5",
+      "publisher": "UK Parliament",
+      "date": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "section": "World",
+      "sections": [
+        "World"
+      ],
+      "sources": [
+        {
+          "title": "IDC Chair welcomes NAO report on FCDO humanitarian crisis response",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQV9sNGNmRWgtc1NqRnloOWNBZkduTzIzX1RRLUZta0FPUnR0aE9YMGtodVp1elVuMHdhWlk5ckxoaDlzTmczS003OV9IR3VheEtuZGMxV1UtdDZoUFFlSWoxZkI0ZUFjTjNzNy15QWpLUnIyUnlteFRVendmTm5CVEZ3U004OTU1Zmd2YzBRc05Zck02Rjk3b3MzQWlRbnMzOE5IODdCOXdaSTR5N2NRYWl4RHpORmNhRzNIVFlPQkN1X1pCNEV4RkRsdURfdUdQenFvckxOYUp4VldVU1pzb1phUEJzU09qbE1tOXZDUmxSZnc?oc=5",
+          "publisher": "UK Parliament",
+          "date": "Fri, 12 Jun 2026 07:00:00 GMT",
           "section": "World"
         }
       ],
@@ -244,13 +264,6 @@
           "publisher": "The Catholic Herald",
           "date": "Wed, 18 Nov 2026 07:00:00 GMT",
           "section": "Christian world"
-        },
-        {
-          "title": "Christian persecution remains a ‘crime the world prefers not to see’, ACN Ireland warns",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONWxLWXM3ZXJoQzdNNGpfQlVCcXVxeHpRSW5hRk1mbDUxNXJEX3VNMlVKZl9CWmR2dEQ2WjdwWERVR0dvZWprd1BHZExIem5kWmRDRnZ6VWN3Z1pDOFhxMG9zQUhoWkoySFZWeEhab3VuWjlUcW9nSDNHenB3djNiY3pJMk5ySmVXS1B3Zk13eTZodFR2YldreUYySkowLTVtb0R2eVZocXE0a3ZJNnZBTEpURzcyWjBmeF9hc0RzZWFTTUlISzEycg?oc=5",
-          "publisher": "The Catholic Thing",
-          "date": "Thu, 19 Nov 2026 05:04:40 GMT",
-          "section": "Christian world"
         }
       ],
       "reflectionStatus": "topic-guidance"
@@ -258,60 +271,40 @@
   ],
   "pendingStories": [
     {
-      "title": "Anthropic IPO: Anthropic shares close up 17% after record-breaking stock market debut",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1OEJMTVRPcUlmeWVCX194S2RUVURKT3RWUGZuODVrdDVIMWNTeG1oeWtqM0p4aEhGcnl1aE4zYjQ0X2N0a0YxNmM0OTFiOGhPMGpxV2lwWDI?oc=5",
+      "title": "Timetable set out for dismantling leasehold system in England and Wales",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuNFpCYnhwNTlldXFhUjZ5SXcwTFF4SERYb0ViMzNoRlZISnB4MG13MXhOa3N6aDZZamlSdzhwb2ljSl9RYThIMG02RDhuM1ZmbVBoWjlXVUVuQTVScnc?oc=5",
       "publisher": "BBC",
-      "date": "Thu, 19 Nov 2026 21:17:13 GMT",
+      "date": "Thu, 19 Nov 2026 02:02:23 GMT",
       "section": "UK",
       "sections": [
         "UK"
       ],
       "sources": [
         {
-          "title": "Anthropic IPO: Anthropic shares close up 17% after record-breaking stock market debut",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1OEJMTVRPcUlmeWVCX194S2RUVURKT3RWUGZuODVrdDVIMWNTeG1oeWtqM0p4aEhGcnl1aE4zYjQ0X2N0a0YxNmM0OTFiOGhPMGpxV2lwWDI?oc=5",
+          "title": "Timetable set out for dismantling leasehold system in England and Wales",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuNFpCYnhwNTlldXFhUjZ5SXcwTFF4SERYb0ViMzNoRlZISnB4MG13MXhOa3N6aDZZamlSdzhwb2ljSl9RYThIMG02RDhuM1ZmbVBoWjlXVUVuQTVScnc?oc=5",
           "publisher": "BBC",
-          "date": "Thu, 19 Nov 2026 21:17:13 GMT",
+          "date": "Thu, 19 Nov 2026 02:02:23 GMT",
           "section": "UK"
         }
       ],
       "reflectionStatus": "needs-editorial-review"
     },
     {
-      "title": "Anthropic IPO: Claude creator ends market debut with value of $1.7trn - with employees in for a jackpot",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmVSMUszRlhNNFc2TkFnZkRNbDlVWmNQRHotdlcyQXlyNktNYmV1RzRBY1JpbXdRN2pLZGIxWENGQUhwLWNsaU5HeWhQZ0RXN05adU5zT2o3MGJRbDNEeGpUaUZqQlNhNmRSeERZTGNRcHVZUU5PYWJMSk1objBvVUJrTEU5dF9Bb2Y1bEhYZV9KUmk5ZU0xQ0pRbXdiS0JKak9EQ0J3QzMtXzhCRDUtSzZFcmlYWDk0?oc=5",
+      "title": "UK conducting offensive cyber ops against Russia, China, Iran and North Korea, top commander reveals",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWXJZZjVOVFNEOXNvTjFzN1h6cW1nbDFxSmhkSUt5QVhRc2NTLWxKX2UxQmRqZkc0RXl0N0c2NnpuTFlpZWI3bk1XQUk1Mm5UQW1hNkZsZEhHUXkwTVBWRmx1d0w4My1oeTN3TzNkcnFGb1NxVjRENHlsLU11N3UtcFpMLTUtejdJYWlMWEMxSExIcDFsX3hCcE4wREIwbE5EUFVoVHhFTmZBa0lHQ2xGRHZwU1lHeDVwWWhubktnRG5ydlBjTHlDd0NNNmlIZw?oc=5",
       "publisher": "Sky News",
-      "date": "Thu, 19 Nov 2026 22:04:20 GMT",
+      "date": "Fri, 20 Nov 2026 03:03:52 GMT",
       "section": "UK",
       "sections": [
         "UK"
       ],
       "sources": [
         {
-          "title": "Anthropic IPO: Claude creator ends market debut with value of $1.7trn - with employees in for a jackpot",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmVSMUszRlhNNFc2TkFnZkRNbDlVWmNQRHotdlcyQXlyNktNYmV1RzRBY1JpbXdRN2pLZGIxWENGQUhwLWNsaU5HeWhQZ0RXN05adU5zT2o3MGJRbDNEeGpUaUZqQlNhNmRSeERZTGNRcHVZUU5PYWJMSk1objBvVUJrTEU5dF9Bb2Y1bEhYZV9KUmk5ZU0xQ0pRbXdiS0JKak9EQ0J3QzMtXzhCRDUtSzZFcmlYWDk0?oc=5",
+          "title": "UK conducting offensive cyber ops against Russia, China, Iran and North Korea, top commander reveals",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWXJZZjVOVFNEOXNvTjFzN1h6cW1nbDFxSmhkSUt5QVhRc2NTLWxKX2UxQmRqZkc0RXl0N0c2NnpuTFlpZWI3bk1XQUk1Mm5UQW1hNkZsZEhHUXkwTVBWRmx1d0w4My1oeTN3TzNkcnFGb1NxVjRENHlsLU11N3UtcFpMLTUtejdJYWlMWEMxSExIcDFsX3hCcE4wREIwbE5EUFVoVHhFTmZBa0lHQ2xGRHZwU1lHeDVwWWhubktnRG5ydlBjTHlDd0NNNmlIZw?oc=5",
           "publisher": "Sky News",
-          "date": "Thu, 19 Nov 2026 22:04:20 GMT",
-          "section": "UK"
-        }
-      ],
-      "reflectionStatus": "needs-editorial-review"
-    },
-    {
-      "title": "Anthropic achieves $2tn valuation as shares soar – latest updates",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWks1SkU5eFl1UjVjSkZLTzFqeDBWWngyNkF1RG80Z3RvU3BOMkZKelF0SldyS0stX3hkajhOaHVpNHlYMktteGpmRm1YWXU1ZjJ2WU1jSF9MeXRZMTk0ekpmdGc0b3VVUUZGR3NBNjMxdGVzd1hYRWU0ZndPdGNUZTVDMHQ0MW4xN3BVRmtsSnVRblhKOFJ4dUdpRW0tUEoySTliSjRycw?oc=5",
-      "publisher": "The Telegraph",
-      "date": "Thu, 19 Nov 2026 21:30:29 GMT",
-      "section": "UK",
-      "sections": [
-        "UK"
-      ],
-      "sources": [
-        {
-          "title": "Anthropic achieves $2tn valuation as shares soar – latest updates",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWks1SkU5eFl1UjVjSkZLTzFqeDBWWngyNkF1RG80Z3RvU3BOMkZKelF0SldyS0stX3hkajhOaHVpNHlYMktteGpmRm1YWXU1ZjJ2WU1jSF9MeXRZMTk0ekpmdGc0b3VVUUZGR3NBNjMxdGVzd1hYRWU0ZndPdGNUZTVDMHQ0MW4xN3BVRmtsSnVRblhKOFJ4dUdpRW0tUEoySTliSjRycw?oc=5",
-          "publisher": "The Telegraph",
-          "date": "Thu, 19 Nov 2026 21:30:29 GMT",
+          "date": "Fri, 20 Nov 2026 03:03:52 GMT",
           "section": "UK"
         }
       ],
@@ -338,20 +331,40 @@
       "reflectionStatus": "needs-editorial-review"
     },
     {
-      "title": "GTA 6 release latest: Sickness absences rocket as game launches in UK",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeV9KUW03TC1LWWR5WUhIZGdoVVVfNmtZVG9LS3Jhd1lpMXI1ZXlBYUpQa0ZoVVJ6V2duaVdac3ZxdV9uVlI3dzdiVnU5WWRKcVgtSE1ja2NZbHd4bm0xTGlhTUx4RlpvcHVYSnNySktTWE0yTnd3eWtnQ3k5aEVqbGZST20zVTBFNG03T2tIRnp3NFFCcWw4NksxZmdGNVZYZTNXcGVZWTFudTVfcmRhbDh3dFFlcUoyZy1kSnl4Z3JHTG82R1J3NGhuSXA4VGhaOVZhS2xtQQ?oc=5",
-      "publisher": "Sky News",
-      "date": "Thu, 19 Nov 2026 17:51:57 GMT",
+      "title": "Grand Theft Auto 6 released after 13-year wait for gamers around the world - follow live",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vWmp6X0UtMGhZTTh0S3JfaGhBNVgzTHNVLXRGSks2VEY5cEZfcG1WTHZvd2ZBNUZBY0ZpUGxtUjU1YmV3bHNGVjhDVEQtZUR0eWJ3Yzln?oc=5",
+      "publisher": "BBC",
+      "date": "Thu, 19 Nov 2026 10:46:57 GMT",
       "section": "UK",
       "sections": [
         "UK"
       ],
       "sources": [
         {
-          "title": "GTA 6 release latest: Sickness absences rocket as game launches in UK",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeV9KUW03TC1LWWR5WUhIZGdoVVVfNmtZVG9LS3Jhd1lpMXI1ZXlBYUpQa0ZoVVJ6V2duaVdac3ZxdV9uVlI3dzdiVnU5WWRKcVgtSE1ja2NZbHd4bm0xTGlhTUx4RlpvcHVYSnNySktTWE0yTnd3eWtnQ3k5aEVqbGZST20zVTBFNG03T2tIRnp3NFFCcWw4NksxZmdGNVZYZTNXcGVZWTFudTVfcmRhbDh3dFFlcUoyZy1kSnl4Z3JHTG82R1J3NGhuSXA4VGhaOVZhS2xtQQ?oc=5",
-          "publisher": "Sky News",
-          "date": "Thu, 19 Nov 2026 17:51:57 GMT",
+          "title": "Grand Theft Auto 6 released after 13-year wait for gamers around the world - follow live",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vWmp6X0UtMGhZTTh0S3JfaGhBNVgzTHNVLXRGSks2VEY5cEZfcG1WTHZvd2ZBNUZBY0ZpUGxtUjU1YmV3bHNGVjhDVEQtZUR0eWJ3Yzln?oc=5",
+          "publisher": "BBC",
+          "date": "Thu, 19 Nov 2026 10:46:57 GMT",
+          "section": "UK"
+        }
+      ],
+      "reflectionStatus": "needs-editorial-review"
+    },
+    {
+      "title": "Trump tells Europe to defund Ukraine after Putin summit",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMWptbUhkNnpJd0NPWksxNk5WTVBqZ2ZEQkxvV3RvaVNkdGdKblZ6NUNTQS1ZYUFIak1pTWV3OHp0aTBUdXN1X0t1S1lBNEZYSF9IN2loSWRnWHAtM2FKWXlBbFVPY19DcDVnSklNUlMzTTlKcW9FSFpqbFBvMzhRbWpqdUZBM0MyLUdaag?oc=5",
+      "publisher": "The Telegraph",
+      "date": "Thu, 19 Nov 2026 20:24:30 GMT",
+      "section": "UK",
+      "sections": [
+        "UK"
+      ],
+      "sources": [
+        {
+          "title": "Trump tells Europe to defund Ukraine after Putin summit",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMWptbUhkNnpJd0NPWksxNk5WTVBqZ2ZEQkxvV3RvaVNkdGdKblZ6NUNTQS1ZYUFIak1pTWV3OHp0aTBUdXN1X0t1S1lBNEZYSF9IN2loSWRnWHAtM2FKWXlBbFVPY19DcDVnSklNUlMzTTlKcW9FSFpqbFBvMzhRbWpqdUZBM0MyLUdaag?oc=5",
+          "publisher": "The Telegraph",
+          "date": "Thu, 19 Nov 2026 20:24:30 GMT",
           "section": "UK"
         }
       ],
@@ -378,6 +391,46 @@
       "reflectionStatus": "needs-editorial-review"
     },
     {
+      "title": "Anthropic IPO: Anthropic shares close up 17% after record-breaking stock market debut",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1OEJMTVRPcUlmeWVCX194S2RUVURKT3RWUGZuODVrdDVIMWNTeG1oeWtqM0p4aEhGcnl1aE4zYjQ0X2N0a0YxNmM0OTFiOGhPMGpxV2lwWDI?oc=5",
+      "publisher": "BBC",
+      "date": "Thu, 19 Nov 2026 21:17:13 GMT",
+      "section": "UK",
+      "sections": [
+        "UK"
+      ],
+      "sources": [
+        {
+          "title": "Anthropic IPO: Anthropic shares close up 17% after record-breaking stock market debut",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1OEJMTVRPcUlmeWVCX194S2RUVURKT3RWUGZuODVrdDVIMWNTeG1oeWtqM0p4aEhGcnl1aE4zYjQ0X2N0a0YxNmM0OTFiOGhPMGpxV2lwWDI?oc=5",
+          "publisher": "BBC",
+          "date": "Thu, 19 Nov 2026 21:17:13 GMT",
+          "section": "UK"
+        }
+      ],
+      "reflectionStatus": "needs-editorial-review"
+    },
+    {
+      "title": "PM urges social media companies to 'show some decency' and take down Brand video",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xdE9IZ2NEMldnUWJHUUUwd1lXV1FOMndUOUl5RDZwQmFKaTlCLWEtdE9LMkZfM1hiLWw4ZWdyYkp5ZHhMVmZManlJVFh4Nm9lb1UyTWluZ05YWURnT3c?oc=5",
+      "publisher": "BBC",
+      "date": "Wed, 18 Nov 2026 20:48:58 GMT",
+      "section": "UK",
+      "sections": [
+        "UK"
+      ],
+      "sources": [
+        {
+          "title": "PM urges social media companies to 'show some decency' and take down Brand video",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xdE9IZ2NEMldnUWJHUUUwd1lXV1FOMndUOUl5RDZwQmFKaTlCLWEtdE9LMkZfM1hiLWw4ZWdyYkp5ZHhMVmZManlJVFh4Nm9lb1UyTWluZ05YWURnT3c?oc=5",
+          "publisher": "BBC",
+          "date": "Wed, 18 Nov 2026 20:48:58 GMT",
+          "section": "UK"
+        }
+      ],
+      "reflectionStatus": "needs-editorial-review"
+    },
+    {
       "title": "UK 'effectively blind' to early Covid spread due to lack of test and trace, inquiry finds",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMWDRyaHVGblQxdExrOFJiRTEyTWV6R0JsbWIwaGlXclhwajNqVndTb3FLZDMzeS10bTg4ZkJ4dEI5aWFSNURsNEhNY3lvOXdUbmNRYUh0Z2k?oc=5",
       "publisher": "BBC",
@@ -393,66 +446,6 @@
           "publisher": "BBC",
           "date": "Thu, 19 Nov 2026 14:32:50 GMT",
           "section": "UK"
-        }
-      ],
-      "reflectionStatus": "needs-editorial-review"
-    },
-    {
-      "title": "Myanmar committed genocide against its Rohingya minority, UN's top court rules",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WcDM0cEtyd2w0dEFHME9fX0xmMHI3NjMzZFVKeHhIdktrVHJRZU1OdHQ4UVppX0VWREJpS3pCaEYwM0psY21FdU83VTZxNTgwZ0JJdzdqeUc?oc=5",
-      "publisher": "BBC",
-      "date": "Thu, 19 Nov 2026 13:47:48 GMT",
-      "section": "UK",
-      "sections": [
-        "UK"
-      ],
-      "sources": [
-        {
-          "title": "Myanmar committed genocide against its Rohingya minority, UN's top court rules",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WcDM0cEtyd2w0dEFHME9fX0xmMHI3NjMzZFVKeHhIdktrVHJRZU1OdHQ4UVppX0VWREJpS3pCaEYwM0psY21FdU83VTZxNTgwZ0JJdzdqeUc?oc=5",
-          "publisher": "BBC",
-          "date": "Thu, 19 Nov 2026 13:47:48 GMT",
-          "section": "UK"
-        }
-      ],
-      "reflectionStatus": "needs-editorial-review"
-    },
-    {
-      "title": "Grand Theft Auto 6 released after 13-year wait for gamers around the world - follow live",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52eWRacVFwVkp5S3NhZ2ExWFBId3FKTGxSbjJqT2JaZGwzWWExamUxMF9XUzJSOFlzV2NWQ2pzTUFNVGRVUzhTNjFOcUExNEhjMXpYSjJVRlA?oc=5",
-      "publisher": "BBC",
-      "date": "Thu, 19 Nov 2026 08:36:27 GMT",
-      "section": "UK",
-      "sections": [
-        "UK"
-      ],
-      "sources": [
-        {
-          "title": "Grand Theft Auto 6 released after 13-year wait for gamers around the world - follow live",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52eWRacVFwVkp5S3NhZ2ExWFBId3FKTGxSbjJqT2JaZGwzWWExamUxMF9XUzJSOFlzV2NWQ2pzTUFNVGRVUzhTNjFOcUExNEhjMXpYSjJVRlA?oc=5",
-          "publisher": "BBC",
-          "date": "Thu, 19 Nov 2026 08:36:27 GMT",
-          "section": "UK"
-        }
-      ],
-      "reflectionStatus": "needs-editorial-review"
-    },
-    {
-      "title": "Asia and the Pacific",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EWGc0Y0FkSmpnaUV3LW9ZM3NlRTZnblRiTno0TExpdmJya0p1ZW1hSnprM3FUREpXV1pwbkY3VlVXNWhiRDlWRFBPVWY3UVd2?oc=5",
-      "publisher": "OCHA",
-      "date": "Tue, 17 Nov 2026 08:00:00 GMT",
-      "section": "World",
-      "sections": [
-        "World"
-      ],
-      "sources": [
-        {
-          "title": "Asia and the Pacific",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EWGc0Y0FkSmpnaUV3LW9ZM3NlRTZnblRiTno0TExpdmJya0p1ZW1hSnprM3FUREpXV1pwbkY3VlVXNWhiRDlWRFBPVWY3UVd2?oc=5",
-          "publisher": "OCHA",
-          "date": "Tue, 17 Nov 2026 08:00:00 GMT",
-          "section": "World"
         }
       ],
       "reflectionStatus": "needs-editorial-review"
@@ -518,26 +511,6 @@
       "reflectionStatus": "needs-editorial-review"
     },
     {
-      "title": "At COP31, faith communities stress finance is not charity",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN0hWOTdTc2xZUXpld0RYMzlteEdWMTVHcUpUUF9pZ0MtMy12UlUyQ2JTWXNoLXJMcDlJNkIxMDlFeXJhcXJxT0FtTGtaV1QwNWhuWnZySkNXRVZVbzRXLXJhcFh3WF96YV9ZUG41OWE1R1RBYmFMUDhPN0JBNUEwVFRIY3poLTNNSlBvZThQWWY?oc=5",
-      "publisher": "World Council of Churches",
-      "date": "Wed, 18 Nov 2026 16:39:35 GMT",
-      "section": "Christian world",
-      "sections": [
-        "Christian world"
-      ],
-      "sources": [
-        {
-          "title": "At COP31, faith communities stress finance is not charity",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN0hWOTdTc2xZUXpld0RYMzlteEdWMTVHcUpUUF9pZ0MtMy12UlUyQ2JTWXNoLXJMcDlJNkIxMDlFeXJhcXJxT0FtTGtaV1QwNWhuWnZySkNXRVZVbzRXLXJhcFh3WF96YV9ZUG41OWE1R1RBYmFMUDhPN0JBNUEwVFRIY3poLTNNSlBvZThQWWY?oc=5",
-          "publisher": "World Council of Churches",
-          "date": "Wed, 18 Nov 2026 16:39:35 GMT",
-          "section": "Christian world"
-        }
-      ],
-      "reflectionStatus": "needs-editorial-review"
-    },
-    {
       "title": "Three fundraising code breaches found at church charity after large donation",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSFlOT3cwUkwwZG8wVGNTRmdEN1A4aDJobUIyb2tZRmNRekw4MmZCUzhFMldLVUtkdE15OVpVamtNSkZESGZ4WXNEQ2tQMGNEelE1RVdlWkk4N2xvRnZkMnNfelJzMWFYOUV4eTZ5QWxLUy1IWXR3UE5pVHVyX3lRREF4UnprU1dTWDVEclBnR3B0UFpGZGxWcnNmaFB5NU9zU2x1aw?oc=5",
       "publisher": "Civil Society Media",
@@ -552,6 +525,66 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSFlOT3cwUkwwZG8wVGNTRmdEN1A4aDJobUIyb2tZRmNRekw4MmZCUzhFMldLVUtkdE15OVpVamtNSkZESGZ4WXNEQ2tQMGNEelE1RVdlWkk4N2xvRnZkMnNfelJzMWFYOUV4eTZ5QWxLUy1IWXR3UE5pVHVyX3lRREF4UnprU1dTWDVEclBnR3B0UFpGZGxWcnNmaFB5NU9zU2x1aw?oc=5",
           "publisher": "Civil Society Media",
           "date": "Tue, 03 Feb 2026 08:00:00 GMT",
+          "section": "Christian world"
+        }
+      ],
+      "reflectionStatus": "needs-editorial-review"
+    },
+    {
+      "title": "Christian charity offers £20k for to support befriending projects",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWUtfOGFFS1NCZlVqMDNRMWVUQmJyMWNyYUpra1Qzemp4RDZzck1CdnVwRHVnMHR3Rll4QVRReFhrcXV0eFN5RHRnUUhlaDZjQW5fa3FOVHRlRXhWVklkWWk5bFBnY3l6M0c0WTF1S1JXY0ZsT3JiczVXX2VxTE1MY2tRQS1DbnNUN1F6WGx4bzVlcDFKLW1EejRXOXNOcGhSbzl5RGFxRm52bTd3ZV9PVzhMSGx5SldFdThIeWlGZ3MzaV83ODRV?oc=5",
+      "publisher": "The Church Times",
+      "date": "Fri, 01 Sep 2023 07:00:00 GMT",
+      "section": "Christian world",
+      "sections": [
+        "Christian world"
+      ],
+      "sources": [
+        {
+          "title": "Christian charity offers £20k for to support befriending projects",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWUtfOGFFS1NCZlVqMDNRMWVUQmJyMWNyYUpra1Qzemp4RDZzck1CdnVwRHVnMHR3Rll4QVRReFhrcXV0eFN5RHRnUUhlaDZjQW5fa3FOVHRlRXhWVklkWWk5bFBnY3l6M0c0WTF1S1JXY0ZsT3JiczVXX2VxTE1MY2tRQS1DbnNUN1F6WGx4bzVlcDFKLW1EejRXOXNOcGhSbzl5RGFxRm52bTd3ZV9PVzhMSGx5SldFdThIeWlGZ3MzaV83ODRV?oc=5",
+          "publisher": "The Church Times",
+          "date": "Fri, 01 Sep 2023 07:00:00 GMT",
+          "section": "Christian world"
+        }
+      ],
+      "reflectionStatus": "needs-editorial-review"
+    },
+    {
+      "title": "Crossroads Podcast: Religious Persecution And The Future Of Global Christianity",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjMtUzhINm5lM3lDRUN6MEhmMDN2VkVBTU5LUll5dDNZdllnTXNKRzFuNS1oVHZ2dUFuME9hU09IczI5YWZkSjBIV3NmTjNYVlFUMUpneTh3NHphYmtnRGhITEVlMVkwUG1uUEhJUUM5dDN2aXVNYzhnUXV5RXI1RkFyS2I1QUU3WHBFdEp1MVRXZmxyZG5HZlZFUTlYaVRHR3VXeW16ZDlsMUM1Z0loVWtHSjRvSzJpcmstZS1EOWtIZw?oc=5",
+      "publisher": "Religion Unplugged",
+      "date": "Fri, 20 Nov 2026 07:00:00 GMT",
+      "section": "Christian world",
+      "sections": [
+        "Christian world"
+      ],
+      "sources": [
+        {
+          "title": "Crossroads Podcast: Religious Persecution And The Future Of Global Christianity",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjMtUzhINm5lM3lDRUN6MEhmMDN2VkVBTU5LUll5dDNZdllnTXNKRzFuNS1oVHZ2dUFuME9hU09IczI5YWZkSjBIV3NmTjNYVlFUMUpneTh3NHphYmtnRGhITEVlMVkwUG1uUEhJUUM5dDN2aXVNYzhnUXV5RXI1RkFyS2I1QUU3WHBFdEp1MVRXZmxyZG5HZlZFUTlYaVRHR3VXeW16ZDlsMUM1Z0loVWtHSjRvSzJpcmstZS1EOWtIZw?oc=5",
+          "publisher": "Religion Unplugged",
+          "date": "Fri, 20 Nov 2026 07:00:00 GMT",
+          "section": "Christian world"
+        }
+      ],
+      "reflectionStatus": "needs-editorial-review"
+    },
+    {
+      "title": "Christians are world’s ‘most persecuted religious community,’ expert says at congressional hearing",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGw1V1RuTEplMG1GVTZGLXAyd3BQYzdPREhXSTJsMGljWmFPd01uQjNtbHNSZkRLYkotNE4zRl9sSy1TVEtGZEJOQjJVNldpcVQzVjlkcW16WVZ4REh1U0ExblN4RUVraHFtLUFqSFlNcDJmQWJHYlNMOURHa2x2am5CTUtVSXVxa25jUEd4czZOUFdqVTNuQnk4UVJ4cFdKS0I5TTBsTjhTUlZrMFF0bFBsUlN4VzJKNW5HTmM5NkRxUHpSUGhQTQ?oc=5",
+      "publisher": "EWTN News",
+      "date": "Thu, 19 Nov 2026 23:17:00 GMT",
+      "section": "Christian world",
+      "sections": [
+        "Christian world"
+      ],
+      "sources": [
+        {
+          "title": "Christians are world’s ‘most persecuted religious community,’ expert says at congressional hearing",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGw1V1RuTEplMG1GVTZGLXAyd3BQYzdPREhXSTJsMGljWmFPd01uQjNtbHNSZkRLYkotNE4zRl9sSy1TVEtGZEJOQjJVNldpcVQzVjlkcW16WVZ4REh1U0ExblN4RUVraHFtLUFqSFlNcDJmQWJHYlNMOURHa2x2am5CTUtVSXVxa25jUEd4czZOUFdqVTNuQnk4UVJ4cFdKS0I5TTBsTjhTUlZrMFF0bFBsUlN4VzJKNW5HTmM5NkRxUHpSUGhQTQ?oc=5",
+          "publisher": "EWTN News",
+          "date": "Thu, 19 Nov 2026 23:17:00 GMT",
           "section": "Christian world"
         }
       ],
@@ -578,26 +611,6 @@
       "reflectionStatus": "needs-editorial-review"
     },
     {
-      "title": "Christians are world’s ‘most persecuted religious community,’ expert says at congressional hearing",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZVF3RklnNnJ0ZFFFMmFhbngxM1JvOGpKdXFqQjgyY3BDVEYxbjU3YnVpcVk5YngzaFVJUzV3QUpmUkx2MWtGVHQyTmV3b2J3T0JzUjdlMmh5Yk16c2JNOWs2UHEzX2NfbmFtc0hpUXFmd19NVTlrWWdheEdFdjdIMG1ONTItc0tmTFhEbk1hR3ZveF9nV09zSnQzYV9wcWNJN0xXMW11NGxZQXdqZDRoRWlZbDZmcUNzeHNfOWlHQnhoTjgxd1o5S2JGcW1EMi1IX2l1ZWVMVVdaQQ?oc=5",
-      "publisher": "Catholic World Report",
-      "date": "Fri, 20 Nov 2026 01:04:16 GMT",
-      "section": "Christian world",
-      "sections": [
-        "Christian world"
-      ],
-      "sources": [
-        {
-          "title": "Christians are world’s ‘most persecuted religious community,’ expert says at congressional hearing",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZVF3RklnNnJ0ZFFFMmFhbngxM1JvOGpKdXFqQjgyY3BDVEYxbjU3YnVpcVk5YngzaFVJUzV3QUpmUkx2MWtGVHQyTmV3b2J3T0JzUjdlMmh5Yk16c2JNOWs2UHEzX2NfbmFtc0hpUXFmd19NVTlrWWdheEdFdjdIMG1ONTItc0tmTFhEbk1hR3ZveF9nV09zSnQzYV9wcWNJN0xXMW11NGxZQXdqZDRoRWlZbDZmcUNzeHNfOWlHQnhoTjgxd1o5S2JGcW1EMi1IX2l1ZWVMVVdaQQ?oc=5",
-          "publisher": "Catholic World Report",
-          "date": "Fri, 20 Nov 2026 01:04:16 GMT",
-          "section": "Christian world"
-        }
-      ],
-      "reflectionStatus": "needs-editorial-review"
-    },
-    {
       "title": "Smith hearing examines global persecution of Christians",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXTWl3czVoS0FIa3hYcEQ1RjN6UHBMSW5fWjM3RENtZTJiSlVQOGQ3bjJBcV9odEZMZUVqT0RxSDV6MTRYMGIwalFHVzdBV0JfakNRa3NqYUJDWksxalktSVFhRVZ1N1h4ZHh5TjlxbUk4eXBfbDgyandFZw?oc=5",
       "publisher": "Congressman Chris Smith (.gov)",
@@ -618,40 +631,20 @@
       "reflectionStatus": "needs-editorial-review"
     },
     {
-      "title": "Churches to be lit red to highlight Christian persecution",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUjVVbGRkWEJzZUdhd19Zd0NvVkFETE9VS0k4b2FmamI1SmRZUk40RG5kVU04ZHZ0SjA5SjFES0psSks4OGNGR0pVZk5icTYwS2VDUHNHYjBIaDJBZmpHa0NPLXFEYkhkSFBjcEFPNk0yVUlNYjNGbmtkby10NnZnMDFCdmFlWVVBRktIMmRpYlA4U04xMWE1eDRsbWY2X2hpYkE?oc=5",
-      "publisher": "RTE.ie",
-      "date": "Wed, 18 Nov 2026 20:40:17 GMT",
+      "title": "From world capitals to remote villages, world turns red for persecuted Christians",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTVMSmxsaXk5WlFnVEMxd2hya2hmdE9kUHg2ckJSRWx1QTJ3ZlhkazJ1RUtOdkNBcDdsdHZTLWs2VDJYWUpNTkJ2MXVET0g4SWJuVUE2MW1UV01XQkpoRUdZUnZJR21yWkNTZEtUcUUwMXJ0Sm9pNy1OZkVBNXpUTkZSamJ4dGZEZFZZRFFRSGhfbXQxeDktdVlOQkJnTnpVMnRZZEpsTnZpc1Rib2JkR1RrR0o?oc=5",
+      "publisher": "Church in Need",
+      "date": "Mon, 16 Nov 2026 23:50:40 GMT",
       "section": "Christian world",
       "sections": [
         "Christian world"
       ],
       "sources": [
         {
-          "title": "Churches to be lit red to highlight Christian persecution",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUjVVbGRkWEJzZUdhd19Zd0NvVkFETE9VS0k4b2FmamI1SmRZUk40RG5kVU04ZHZ0SjA5SjFES0psSks4OGNGR0pVZk5icTYwS2VDUHNHYjBIaDJBZmpHa0NPLXFEYkhkSFBjcEFPNk0yVUlNYjNGbmtkby10NnZnMDFCdmFlWVVBRktIMmRpYlA4U04xMWE1eDRsbWY2X2hpYkE?oc=5",
-          "publisher": "RTE.ie",
-          "date": "Wed, 18 Nov 2026 20:40:17 GMT",
-          "section": "Christian world"
-        }
-      ],
-      "reflectionStatus": "needs-editorial-review"
-    },
-    {
-      "title": "Cairns cathedral lights up in solidarity for religious freedom around the world",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc1VfSDU0THNISFhFNFFleWZLU0NXSjJfVDN1a1lNS3NMUnRVZFRsS05FSzVmVHJSai1ieHh5ZWExWENwUG5VckVkU2RyTkhvS3ZwV0VDNFZjNXl3bFRhOFNlUzIybDY4dnNqYmRLNi1BQ3hUTEJPZzBKYmUxYUlPTjRkRV9nRFFOX2pWdUlSVTBMU2l3QVFMVVgySG5tTG14U2xoQ3p6SjhPdFdhUlh0RGxRMkNFUQ?oc=5",
-      "publisher": "The Catholic Leader",
-      "date": "Fri, 20 Nov 2026 00:04:08 GMT",
-      "section": "Christian world",
-      "sections": [
-        "Christian world"
-      ],
-      "sources": [
-        {
-          "title": "Cairns cathedral lights up in solidarity for religious freedom around the world",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc1VfSDU0THNISFhFNFFleWZLU0NXSjJfVDN1a1lNS3NMUnRVZFRsS05FSzVmVHJSai1ieHh5ZWExWENwUG5VckVkU2RyTkhvS3ZwV0VDNFZjNXl3bFRhOFNlUzIybDY4dnNqYmRLNi1BQ3hUTEJPZzBKYmUxYUlPTjRkRV9nRFFOX2pWdUlSVTBMU2l3QVFMVVgySG5tTG14U2xoQ3p6SjhPdFdhUlh0RGxRMkNFUQ?oc=5",
-          "publisher": "The Catholic Leader",
-          "date": "Fri, 20 Nov 2026 00:04:08 GMT",
+          "title": "From world capitals to remote villages, world turns red for persecuted Christians",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTVMSmxsaXk5WlFnVEMxd2hya2hmdE9kUHg2ckJSRWx1QTJ3ZlhkazJ1RUtOdkNBcDdsdHZTLWs2VDJYWUpNTkJ2MXVET0g4SWJuVUE2MW1UV01XQkpoRUdZUnZJR21yWkNTZEtUcUUwMXJ0Sm9pNy1OZkVBNXpUTkZSamJ4dGZEZFZZRFFRSGhfbXQxeDktdVlOQkJnTnpVMnRZZEpsTnZpc1Rib2JkR1RrR0o?oc=5",
+          "publisher": "Church in Need",
+          "date": "Mon, 16 Nov 2026 23:50:40 GMT",
           "section": "Christian world"
         }
       ],
@@ -676,13 +669,33 @@
         }
       ],
       "reflectionStatus": "needs-editorial-review"
+    },
+    {
+      "title": "Churches to be lit red to highlight Christian persecution",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUjVVbGRkWEJzZUdhd19Zd0NvVkFETE9VS0k4b2FmamI1SmRZUk40RG5kVU04ZHZ0SjA5SjFES0psSks4OGNGR0pVZk5icTYwS2VDUHNHYjBIaDJBZmpHa0NPLXFEYkhkSFBjcEFPNk0yVUlNYjNGbmtkby10NnZnMDFCdmFlWVVBRktIMmRpYlA4U04xMWE1eDRsbWY2X2hpYkE?oc=5",
+      "publisher": "RTE.ie",
+      "date": "Wed, 18 Nov 2026 20:40:17 GMT",
+      "section": "Christian world",
+      "sections": [
+        "Christian world"
+      ],
+      "sources": [
+        {
+          "title": "Churches to be lit red to highlight Christian persecution",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUjVVbGRkWEJzZUdhd19Zd0NvVkFETE9VS0k4b2FmamI1SmRZUk40RG5kVU04ZHZ0SjA5SjFES0psSks4OGNGR0pVZk5icTYwS2VDUHNHYjBIaDJBZmpHa0NPLXFEYkhkSFBjcEFPNk0yVUlNYjNGbmtkby10NnZnMDFCdmFlWVVBRktIMmRpYlA4U04xMWE1eDRsbWY2X2hpYkE?oc=5",
+          "publisher": "RTE.ie",
+          "date": "Wed, 18 Nov 2026 20:40:17 GMT",
+          "section": "Christian world"
+        }
+      ],
+      "reflectionStatus": "needs-editorial-review"
     }
   ],
   "coverage": {
-    "total": 33,
-    "published": 12,
+    "total": 34,
+    "published": 13,
     "pending": 21,
     "individuallyReviewed": 0,
-    "topicGuidance": 12
+    "topicGuidance": 13
   }
 }
