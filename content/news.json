@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T01:19:26.650508+00:00",
+  "updated": "2026-11-22T07:22:22.919342+00:00",
   "items": [
     {
       "title": "Crisis in Gaza: What to know and how to help",
@@ -63,6 +63,26 @@
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLVhMT2ZkUEhxcExqb2Y1clFyY3A4WE1VS0xQamVfaGJ2TU1DcGtrVVBsM3I1WndkQlZRcFhGWDlBMW9USzlWX2dwcGFfTUNfZEgzZlBBQVJtemJCNmM0UmJMVGFZaVhxOWRBbzBOU2JDMXVJV01QdkpUbDlpczhxc01NWQ?oc=5",
           "publisher": "LSHTM",
           "date": "Mon, 13 Jul 2026 15:30:03 GMT",
+          "section": "World"
+        }
+      ],
+      "reflectionStatus": "topic-guidance"
+    },
+    {
+      "title": "Floods add to severe humanitarian crisis in Gaza",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeEViUEsxSnpFOHZLMGVmVExLTjhEMF9JdnFGNFJMamJ0VEVWRTZTWWNid3FPTkRnQmdsbTVtZ0NtdGw4ckhFREJId3VscUhxSHpGMzlUUE5URHgtdVBiazB6SUcxajd3UC1hQUhEUjRGQXUwSFJjdFd1RmIwV25LWFZNQnBqcDU0dDlUYUdjdDY?oc=5",
+      "publisher": "Green Left",
+      "date": "Sat, 21 Nov 2026 14:57:15 GMT",
+      "section": "World",
+      "sections": [
+        "World"
+      ],
+      "sources": [
+        {
+          "title": "Floods add to severe humanitarian crisis in Gaza",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeEViUEsxSnpFOHZLMGVmVExLTjhEMF9JdnFGNFJMamJ0VEVWRTZTWWNid3FPTkRnQmdsbTVtZ0NtdGw4ckhFREJId3VscUhxSHpGMzlUUE5URHgtdVBiazB6SUcxajd3UC1hQUhEUjRGQXUwSFJjdFd1RmIwV25LWFZNQnBqcDU0dDlUYUdjdDY?oc=5",
+          "publisher": "Green Left",
+          "date": "Sat, 21 Nov 2026 14:57:15 GMT",
           "section": "World"
         }
       ],
@@ -278,20 +298,20 @@
   ],
   "pendingStories": [
     {
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kdTlISWR2QWVHNkx6engxWXJJN3FtdjVIdnJka1VNNEpxWFpheTRldnNHWGFaRVFUYW4zaFExbmI2c09vSkxUQlp2WjRQc1FMZ3doTXZYZjlsN1Y4WkE?oc=5",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tMTA3aEdaaExndEY4SmRJdnlxZGlpeVNBNEVqQlh3b0lWS2ZrRFQzV1BSR3N5RnhLSmRlZjNtRTFOV1BQTldXZ0d3YkxBcWJZa01qQ3Z4dFVIV1NlMmc?oc=5",
       "publisher": "BBC",
-      "date": "Sat, 21 Nov 2026 11:53:38 GMT",
+      "date": "Fri, 20 Nov 2026 14:36:26 GMT",
       "section": "UK",
       "sections": [
         "UK"
       ],
       "sources": [
         {
-          "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kdTlISWR2QWVHNkx6engxWXJJN3FtdjVIdnJka1VNNEpxWFpheTRldnNHWGFaRVFUYW4zaFExbmI2c09vSkxUQlp2WjRQc1FMZ3doTXZYZjlsN1Y4WkE?oc=5",
+          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tMTA3aEdaaExndEY4SmRJdnlxZGlpeVNBNEVqQlh3b0lWS2ZrRFQzV1BSR3N5RnhLSmRlZjNtRTFOV1BQTldXZ0d3YkxBcWJZa01qQ3Z4dFVIV1NlMmc?oc=5",
           "publisher": "BBC",
-          "date": "Sat, 21 Nov 2026 11:53:38 GMT",
+          "date": "Fri, 20 Nov 2026 14:36:26 GMT",
           "section": "UK"
         }
       ],
@@ -358,26 +378,6 @@
       "reflectionStatus": "needs-editorial-review"
     },
     {
-      "title": "Villagers to vote on 'leaving UK' over plans to house migrants at RAF base",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ib1pwODU0WTJpZzR6OEJiYWZhQnJGcWowM3hqTFJRY1BCTmx6bFoySkYwR1pRaU52ZVBjUGNaSGJvRWR1MklEaWdtbXp3dGwzWm1rMDUtdmptY1U?oc=5",
-      "publisher": "BBC",
-      "date": "Sat, 21 Nov 2026 01:34:51 GMT",
-      "section": "UK",
-      "sections": [
-        "UK"
-      ],
-      "sources": [
-        {
-          "title": "Villagers to vote on 'leaving UK' over plans to house migrants at RAF base",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ib1pwODU0WTJpZzR6OEJiYWZhQnJGcWowM3hqTFJRY1BCTmx6bFoySkYwR1pRaU52ZVBjUGNaSGJvRWR1MklEaWdtbXp3dGwzWm1rMDUtdmptY1U?oc=5",
-          "publisher": "BBC",
-          "date": "Sat, 21 Nov 2026 01:34:51 GMT",
-          "section": "UK"
-        }
-      ],
-      "reflectionStatus": "needs-editorial-review"
-    },
-    {
       "title": "White supremacist found guilty of plotting to firebomb migrant hotel in Hull",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX1lFc1dPVnFhNFBuRGVKU013aUxNUW1obi1tM1h2S0RCanU1NWczdFV1YjNoWnJtLWNpei1jT1BsNzVFZUx6WlBHZVU1eW5qMGllYzJhRTU1NFZyVHppdFdlSTdwVU5TMnNKZ0x6M0FfeTlEc296ZE1DTmhjV0V3Nkd6TDhUdlE2YmN0TDUyNzVjRU84ZU4xYU9idDl2bGVZUmZSREREdk4?oc=5",
       "publisher": "The Independent",
@@ -398,20 +398,20 @@
       "reflectionStatus": "needs-editorial-review"
     },
     {
-      "title": "UK conducting offensive cyber ops against Russia, China, Iran and North Korea, top commander reveals",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWXJZZjVOVFNEOXNvTjFzN1h6cW1nbDFxSmhkSUt5QVhRc2NTLWxKX2UxQmRqZkc0RXl0N0c2NnpuTFlpZWI3bk1XQUk1Mm5UQW1hNkZsZEhHUXkwTVBWRmx1d0w4My1oeTN3TzNkcnFGb1NxVjRENHlsLU11N3UtcFpMLTUtejdJYWlMWEMxSExIcDFsX3hCcE4wREIwbE5EUFVoVHhFTmZBa0lHQ2xGRHZwU1lHeDVwWWhubktnRG5ydlBjTHlDd0NNNmlIZw?oc=5",
-      "publisher": "Sky News",
-      "date": "Fri, 20 Nov 2026 03:03:52 GMT",
+      "title": "Princess of Wales speaks about impact of cancer diagnosis in BBC film Heal",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNakZGSlRMelhZOFcwSGxkSEFRTkVYZkszYjJiOU1jYjc4QmZUamlidDBmQzRtRXNONGQ0Rm13VmVRdlZLQi1WdXFlYXRSS1NsYjUwekFXOGcxanQtTDlBS1dZNkFUNWJkcXZzaEJZbHNwX3hzSWJnUHd6MnJ0WnJPLUtvcUZOWjdlalpvSHlWdEpybDhkd1BTVkg0dVUtSTVlY3ROcEZ3?oc=5",
+      "publisher": "The Guardian",
+      "date": "Sat, 21 Nov 2026 15:14:00 GMT",
       "section": "UK",
       "sections": [
         "UK"
       ],
       "sources": [
         {
-          "title": "UK conducting offensive cyber ops against Russia, China, Iran and North Korea, top commander reveals",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWXJZZjVOVFNEOXNvTjFzN1h6cW1nbDFxSmhkSUt5QVhRc2NTLWxKX2UxQmRqZkc0RXl0N0c2NnpuTFlpZWI3bk1XQUk1Mm5UQW1hNkZsZEhHUXkwTVBWRmx1d0w4My1oeTN3TzNkcnFGb1NxVjRENHlsLU11N3UtcFpMLTUtejdJYWlMWEMxSExIcDFsX3hCcE4wREIwbE5EUFVoVHhFTmZBa0lHQ2xGRHZwU1lHeDVwWWhubktnRG5ydlBjTHlDd0NNNmlIZw?oc=5",
-          "publisher": "Sky News",
-          "date": "Fri, 20 Nov 2026 03:03:52 GMT",
+          "title": "Princess of Wales speaks about impact of cancer diagnosis in BBC film Heal",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNakZGSlRMelhZOFcwSGxkSEFRTkVYZkszYjJiOU1jYjc4QmZUamlidDBmQzRtRXNONGQ0Rm13VmVRdlZLQi1WdXFlYXRSS1NsYjUwekFXOGcxanQtTDlBS1dZNkFUNWJkcXZzaEJZbHNwX3hzSWJnUHd6MnJ0WnJPLUtvcUZOWjdlalpvSHlWdEpybDhkd1BTVkg0dVUtSTVlY3ROcEZ3?oc=5",
+          "publisher": "The Guardian",
+          "date": "Sat, 21 Nov 2026 15:14:00 GMT",
           "section": "UK"
         }
       ],
@@ -438,20 +438,40 @@
       "reflectionStatus": "needs-editorial-review"
     },
     {
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tMTA3aEdaaExndEY4SmRJdnlxZGlpeVNBNEVqQlh3b0lWS2ZrRFQzV1BSR3N5RnhLSmRlZjNtRTFOV1BQTldXZ0d3YkxBcWJZa01qQ3Z4dFVIV1NlMmc?oc=5",
-      "publisher": "BBC",
-      "date": "Fri, 20 Nov 2026 14:36:26 GMT",
+      "title": "UK conducting offensive cyber ops against Russia, China, Iran and North Korea, top commander reveals",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWXJZZjVOVFNEOXNvTjFzN1h6cW1nbDFxSmhkSUt5QVhRc2NTLWxKX2UxQmRqZkc0RXl0N0c2NnpuTFlpZWI3bk1XQUk1Mm5UQW1hNkZsZEhHUXkwTVBWRmx1d0w4My1oeTN3TzNkcnFGb1NxVjRENHlsLU11N3UtcFpMLTUtejdJYWlMWEMxSExIcDFsX3hCcE4wREIwbE5EUFVoVHhFTmZBa0lHQ2xGRHZwU1lHeDVwWWhubktnRG5ydlBjTHlDd0NNNmlIZw?oc=5",
+      "publisher": "Sky News",
+      "date": "Fri, 20 Nov 2026 03:03:52 GMT",
       "section": "UK",
       "sections": [
         "UK"
       ],
       "sources": [
         {
-          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tMTA3aEdaaExndEY4SmRJdnlxZGlpeVNBNEVqQlh3b0lWS2ZrRFQzV1BSR3N5RnhLSmRlZjNtRTFOV1BQTldXZ0d3YkxBcWJZa01qQ3Z4dFVIV1NlMmc?oc=5",
+          "title": "UK conducting offensive cyber ops against Russia, China, Iran and North Korea, top commander reveals",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWXJZZjVOVFNEOXNvTjFzN1h6cW1nbDFxSmhkSUt5QVhRc2NTLWxKX2UxQmRqZkc0RXl0N0c2NnpuTFlpZWI3bk1XQUk1Mm5UQW1hNkZsZEhHUXkwTVBWRmx1d0w4My1oeTN3TzNkcnFGb1NxVjRENHlsLU11N3UtcFpMLTUtejdJYWlMWEMxSExIcDFsX3hCcE4wREIwbE5EUFVoVHhFTmZBa0lHQ2xGRHZwU1lHeDVwWWhubktnRG5ydlBjTHlDd0NNNmlIZw?oc=5",
+          "publisher": "Sky News",
+          "date": "Fri, 20 Nov 2026 03:03:52 GMT",
+          "section": "UK"
+        }
+      ],
+      "reflectionStatus": "needs-editorial-review"
+    },
+    {
+      "title": "Villagers to vote on 'leaving UK' over plans to house migrants at RAF base",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93Nk84MHhNSnRFdngwXzZ2WkxOQWpnM0ZxVVZkaTNNMmZVaHgtSzdMTGxLY3VFNGxLSW9WM3hEUDlUbVlxdTBIQi1kQ2VjREFWNmZ0di1QWHpRQ3JheUE?oc=5",
+      "publisher": "BBC",
+      "date": "Sat, 21 Nov 2026 01:34:51 GMT",
+      "section": "UK",
+      "sections": [
+        "UK"
+      ],
+      "sources": [
+        {
+          "title": "Villagers to vote on 'leaving UK' over plans to house migrants at RAF base",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93Nk84MHhNSnRFdngwXzZ2WkxOQWpnM0ZxVVZkaTNNMmZVaHgtSzdMTGxLY3VFNGxLSW9WM3hEUDlUbVlxdTBIQi1kQ2VjREFWNmZ0di1QWHpRQ3JheUE?oc=5",
           "publisher": "BBC",
-          "date": "Fri, 20 Nov 2026 14:36:26 GMT",
+          "date": "Sat, 21 Nov 2026 01:34:51 GMT",
           "section": "UK"
         }
       ],
@@ -478,26 +498,6 @@
       "reflectionStatus": "needs-editorial-review"
     },
     {
-      "title": "The Blogs: Syria’s Forgotten Humanitarian Crisis: 2026 Update",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZVNCM0RSd2NnYy1tcjVFWXJ0a3NBOGdWdEY2dVB4U2VrX3pRVW9sY0tLRE54cGtJZndKdlNzTGdEdWFNYWtXM0lZTDlxSWZ1OVU4V2J4OHl5dWJMSzJDOGpQMmRXOHJYTU1nUU5rMmhMMFVJaXpiUVpLS3lQTDJfS0lqeURMVFRS?oc=5",
-      "publisher": "The Times of Israel",
-      "date": "Thu, 19 Nov 2026 07:29:00 GMT",
-      "section": "World",
-      "sections": [
-        "World"
-      ],
-      "sources": [
-        {
-          "title": "The Blogs: Syria’s Forgotten Humanitarian Crisis: 2026 Update",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZVNCM0RSd2NnYy1tcjVFWXJ0a3NBOGdWdEY2dVB4U2VrX3pRVW9sY0tLRE54cGtJZndKdlNzTGdEdWFNYWtXM0lZTDlxSWZ1OVU4V2J4OHl5dWJMSzJDOGpQMmRXOHJYTU1nUU5rMmhMMFVJaXpiUVpLS3lQTDJfS0lqeURMVFRS?oc=5",
-          "publisher": "The Times of Israel",
-          "date": "Thu, 19 Nov 2026 07:29:00 GMT",
-          "section": "World"
-        }
-      ],
-      "reflectionStatus": "needs-editorial-review"
-    },
-    {
       "title": "The 10 worst humanitarian crises to know in 2026",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qbnJXRzZJZXN3enhsQ09DYlA1Q09PRU5FMFFCUjlJeWMyVDhOeUNTaEdKSE9wTXhFY1ZfVTF5SS1nd1hLbWM4bE5iU2ZWR2VOSEpsT1RTZC1ZdDQ4M1I3NDZJc0toQXBTY3NYQlRn?oc=5",
       "publisher": "Concern Worldwide",
@@ -513,26 +513,6 @@
           "publisher": "Concern Worldwide",
           "date": "Fri, 31 Mar 2023 15:36:18 GMT",
           "section": "World"
-        }
-      ],
-      "reflectionStatus": "needs-editorial-review"
-    },
-    {
-      "title": "At COP31, faith communities stress finance is not charity",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN0hWOTdTc2xZUXpld0RYMzlteEdWMTVHcUpUUF9pZ0MtMy12UlUyQ2JTWXNoLXJMcDlJNkIxMDlFeXJhcXJxT0FtTGtaV1QwNWhuWnZySkNXRVZVbzRXLXJhcFh3WF96YV9ZUG41OWE1R1RBYmFMUDhPN0JBNUEwVFRIY3poLTNNSlBvZThQWWY?oc=5",
-      "publisher": "World Council of Churches",
-      "date": "Wed, 18 Nov 2026 16:39:35 GMT",
-      "section": "Christian world",
-      "sections": [
-        "Christian world"
-      ],
-      "sources": [
-        {
-          "title": "At COP31, faith communities stress finance is not charity",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN0hWOTdTc2xZUXpld0RYMzlteEdWMTVHcUpUUF9pZ0MtMy12UlUyQ2JTWXNoLXJMcDlJNkIxMDlFeXJhcXJxT0FtTGtaV1QwNWhuWnZySkNXRVZVbzRXLXJhcFh3WF96YV9ZUG41OWE1R1RBYmFMUDhPN0JBNUEwVFRIY3poLTNNSlBvZThQWWY?oc=5",
-          "publisher": "World Council of Churches",
-          "date": "Wed, 18 Nov 2026 16:39:35 GMT",
-          "section": "Christian world"
         }
       ],
       "reflectionStatus": "needs-editorial-review"
@@ -572,6 +552,26 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSFlOT3cwUkwwZG8wVGNTRmdEN1A4aDJobUIyb2tZRmNRekw4MmZCUzhFMldLVUtkdE15OVpVamtNSkZESGZ4WXNEQ2tQMGNEelE1RVdlWkk4N2xvRnZkMnNfelJzMWFYOUV4eTZ5QWxLUy1IWXR3UE5pVHVyX3lRREF4UnprU1dTWDVEclBnR3B0UFpGZGxWcnNmaFB5NU9zU2x1aw?oc=5",
           "publisher": "Civil Society Media",
           "date": "Tue, 03 Feb 2026 08:00:00 GMT",
+          "section": "Christian world"
+        }
+      ],
+      "reflectionStatus": "needs-editorial-review"
+    },
+    {
+      "title": "Christian charity offers £20k for to support befriending projects",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWUtfOGFFS1NCZlVqMDNRMWVUQmJyMWNyYUpra1Qzemp4RDZzck1CdnVwRHVnMHR3Rll4QVRReFhrcXV0eFN5RHRnUUhlaDZjQW5fa3FOVHRlRXhWVklkWWk5bFBnY3l6M0c0WTF1S1JXY0ZsT3JiczVXX2VxTE1MY2tRQS1DbnNUN1F6WGx4bzVlcDFKLW1EejRXOXNOcGhSbzl5RGFxRm52bTd3ZV9PVzhMSGx5SldFdThIeWlGZ3MzaV83ODRV?oc=5",
+      "publisher": "The Church Times",
+      "date": "Fri, 01 Sep 2023 07:00:00 GMT",
+      "section": "Christian world",
+      "sections": [
+        "Christian world"
+      ],
+      "sources": [
+        {
+          "title": "Christian charity offers £20k for to support befriending projects",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWUtfOGFFS1NCZlVqMDNRMWVUQmJyMWNyYUpra1Qzemp4RDZzck1CdnVwRHVnMHR3Rll4QVRReFhrcXV0eFN5RHRnUUhlaDZjQW5fa3FOVHRlRXhWVklkWWk5bFBnY3l6M0c0WTF1S1JXY0ZsT3JiczVXX2VxTE1MY2tRQS1DbnNUN1F6WGx4bzVlcDFKLW1EejRXOXNOcGhSbzl5RGFxRm52bTd3ZV9PVzhMSGx5SldFdThIeWlGZ3MzaV83ODRV?oc=5",
+          "publisher": "The Church Times",
+          "date": "Fri, 01 Sep 2023 07:00:00 GMT",
           "section": "Christian world"
         }
       ],
@@ -680,9 +680,9 @@
   ],
   "coverage": {
     "total": 33,
-    "published": 13,
-    "pending": 20,
+    "published": 14,
+    "pending": 19,
     "individuallyReviewed": 0,
-    "topicGuidance": 13
+    "topicGuidance": 14
   }
 }
