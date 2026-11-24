@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T07:31:33.348948+00:00",
+  "updated": "2026-11-24T13:27:47.287824+00:00",
   "items": [
     {
       "title": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – as it happened",
@@ -16,6 +16,26 @@
           "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMlpyLUgtNkg1cXpQRG9sY2xkLTJHZ1R0OTN1NExfWW5mX3dsTnJuTlZrQS02YVRRNDEtaDk5U0hwa2pndXB0UnlSNmg5emhqSlNaNTNmX2NGOElleGd5NTdDaUxVRE9JekFEdWk4WTFNMTA1Zm5MR1RRT2xyVFhtaEo5MVFkZE5yTDZYR3h1SnFNRF9rcmZXUi1WYmFZeVoxR3FMdlJVRUlQYlE1cHJNT2VOLWljQ3lzOWhLdkhYOUFvN0dvWWxjbkxfYXdVbldOaUJmWTR5TTR0VmpWVkowNWM3NS1JNy1PLUlNNmJGeC1KV2M?oc=5",
           "publisher": "The Guardian",
           "date": "Mon, 23 Nov 2026 09:15:00 GMT",
+          "section": "UK"
+        }
+      ],
+      "reflectionStatus": "topic-guidance"
+    },
+    {
+      "title": "Barnet footballer Isiah Noel-Williams charged with three counts of rape",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVGQtSVBnajE0SWZFOXpZek1oZzhGWE5xOXF0R3NwYzVWaGlzcjc1dTJvaVBXMTVPZUtONXdfQzVfdVNUMlVJZXh6Z0RfNmdTX3Y4Q2dyQ200TXE0OTJ0RE5mc3hYeWk3azNlbGtiM2d1b21Lb3RTNExhY0xKSm5TQ29aUWtlekltd0EySW5HeTVXajZHMmJNeS13RG0tVjJ2VHVBYmdB?oc=5",
+      "publisher": "The Guardian",
+      "date": "Tue, 24 Nov 2026 11:03:00 GMT",
+      "section": "UK",
+      "sections": [
+        "UK"
+      ],
+      "sources": [
+        {
+          "title": "Barnet footballer Isiah Noel-Williams charged with three counts of rape",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVGQtSVBnajE0SWZFOXpZek1oZzhGWE5xOXF0R3NwYzVWaGlzcjc1dTJvaVBXMTVPZUtONXdfQzVfdVNUMlVJZXh6Z0RfNmdTX3Y4Q2dyQ200TXE0OTJ0RE5mc3hYeWk3azNlbGtiM2d1b21Lb3RTNExhY0xKSm5TQ29aUWtlekltd0EySW5HeTVXajZHMmJNeS13RG0tVjJ2VHVBYmdB?oc=5",
+          "publisher": "The Guardian",
+          "date": "Tue, 24 Nov 2026 11:03:00 GMT",
           "section": "UK"
         }
       ],
@@ -264,20 +284,20 @@
   ],
   "pendingStories": [
     {
-      "title": "Jensen Huang latest: Trump claims key detail drove return of Nvidia CEO",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUl9ZelVIbFRveVNtOG0tejZpWG9HQUdFaWtVRHl6OWllZkNkQWR1QmxIcFhMNEhnZUg0NS1iQm5fWERteHFOWndiRnFmb3Z1NXhYbDRmVGJ6QndSQXJGTDhSY0lFWk5uZDRaVEFaQVRNMWgyVmJDNGUxemFxTjFNS1Axd09BU0U3?oc=5",
-      "publisher": "Sky News",
-      "date": "Mon, 23 Nov 2026 14:02:39 GMT",
+      "title": "Trump's role in Jensen Huang's Nvidia comeback questioned by US politicians on both sides",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3T2MzSmZqZnRJLXB1VEIxTmUyM3VkM0tpZXUxNm8xbEdMTmtsSjJzZURvVDh1dWdfT0xvV2Vvc1J1MTJFRUFJRERpNndDbkI1M0RzYnRHWk0?oc=5",
+      "publisher": "BBC",
+      "date": "Tue, 24 Nov 2026 13:09:23 GMT",
       "section": "UK",
       "sections": [
         "UK"
       ],
       "sources": [
         {
-          "title": "Jensen Huang latest: Trump claims key detail drove return of Nvidia CEO",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUl9ZelVIbFRveVNtOG0tejZpWG9HQUdFaWtVRHl6OWllZkNkQWR1QmxIcFhMNEhnZUg0NS1iQm5fWERteHFOWndiRnFmb3Z1NXhYbDRmVGJ6QndSQXJGTDhSY0lFWk5uZDRaVEFaQVRNMWgyVmJDNGUxemFxTjFNS1Axd09BU0U3?oc=5",
-          "publisher": "Sky News",
-          "date": "Mon, 23 Nov 2026 14:02:39 GMT",
+          "title": "Trump's role in Jensen Huang's Nvidia comeback questioned by US politicians on both sides",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3T2MzSmZqZnRJLXB1VEIxTmUyM3VkM0tpZXUxNm8xbEdMTmtsSjJzZURvVDh1dWdfT0xvV2Vvc1J1MTJFRUFJRERpNndDbkI1M0RzYnRHWk0?oc=5",
+          "publisher": "BBC",
+          "date": "Tue, 24 Nov 2026 13:09:23 GMT",
           "section": "UK"
         }
       ],
@@ -304,20 +324,80 @@
       "reflectionStatus": "needs-editorial-review"
     },
     {
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kdTlISWR2QWVHNkx6engxWXJJN3FtdjVIdnJka1VNNEpxWFpheTRldnNHWGFaRVFUYW4zaFExbmI2c09vSkxUQlp2WjRQc1FMZ3doTXZYZjlsN1Y4WkE?oc=5",
-      "publisher": "BBC",
-      "date": "Sat, 21 Nov 2026 11:53:38 GMT",
+      "title": "Prisoner admits murder of Soham killer Ian Huntley",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU2VVNlpfdkREM3diYWZOTWFsSmdlSGplYUNqVUVPdG0yWE1oczFVVXhnTmhaM2pxbTJiOUhNTU14dkRad2RLaU9hdHY2V08xRFl4NzlnWjZpMkZ3Vmx2R1c1STczbmlGdHV0dTJJa2Q4SzFEX0p0SU5uT0w5aWZSN0x5S2ZZOFBnX3pLYjNDaw?oc=5",
+      "publisher": "Sky News",
+      "date": "Tue, 24 Nov 2026 12:15:42 GMT",
       "section": "UK",
       "sections": [
         "UK"
       ],
       "sources": [
         {
-          "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kdTlISWR2QWVHNkx6engxWXJJN3FtdjVIdnJka1VNNEpxWFpheTRldnNHWGFaRVFUYW4zaFExbmI2c09vSkxUQlp2WjRQc1FMZ3doTXZYZjlsN1Y4WkE?oc=5",
+          "title": "Prisoner admits murder of Soham killer Ian Huntley",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU2VVNlpfdkREM3diYWZOTWFsSmdlSGplYUNqVUVPdG0yWE1oczFVVXhnTmhaM2pxbTJiOUhNTU14dkRad2RLaU9hdHY2V08xRFl4NzlnWjZpMkZ3Vmx2R1c1STczbmlGdHV0dTJJa2Q4SzFEX0p0SU5uT0w5aWZSN0x5S2ZZOFBnX3pLYjNDaw?oc=5",
+          "publisher": "Sky News",
+          "date": "Tue, 24 Nov 2026 12:15:42 GMT",
+          "section": "UK"
+        }
+      ],
+      "reflectionStatus": "needs-editorial-review"
+    },
+    {
+      "title": "Meta's Muse has launched in the UK. I found it helpful but awkward",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oSU14S0tpY0hfZVFMUDNiX1Q0WGthaXc4cmdoMVQ1Qm5PQVlaTzFLZHJoeEdhQWJyUmpPeWpGYWFIWGNocGRTNlhnRHZSZVZISVBicmxUemk5LUViN2c?oc=5",
+      "publisher": "BBC",
+      "date": "Tue, 24 Nov 2026 09:33:00 GMT",
+      "section": "UK",
+      "sections": [
+        "UK"
+      ],
+      "sources": [
+        {
+          "title": "Meta's Muse has launched in the UK. I found it helpful but awkward",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oSU14S0tpY0hfZVFMUDNiX1Q0WGthaXc4cmdoMVQ1Qm5PQVlaTzFLZHJoeEdhQWJyUmpPeWpGYWFIWGNocGRTNlhnRHZSZVZISVBicmxUemk5LUViN2c?oc=5",
           "publisher": "BBC",
-          "date": "Sat, 21 Nov 2026 11:53:38 GMT",
+          "date": "Tue, 24 Nov 2026 09:33:00 GMT",
+          "section": "UK"
+        }
+      ],
+      "reflectionStatus": "needs-editorial-review"
+    },
+    {
+      "title": "Ukraine-Russia war latest: Moscow threatens Nato member with ‘open war’ over plans to close border",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGdjbWFlVno3YmxscVpaWVpvbTExQThuMVBSS0Q4WG1PZFR3LVJjNGc4SU8xUXBwSDdKdVZNLWh4UWRaVEE1WXVIQU1WTkdselVwOUM0bEQ3ajNERmc4MVpLSlYtU29waGJRVEVTSFlTT2ZtR0hiLUFNbDBRWTRMQ1RZTi1ZcFZ0SnoteE9VaDM4OW5QX0lIMzN5bll4blNRQ1dxRWFBa2RLLXJkeUN3eklzRnZ4NmNvbmw1cmRn?oc=5",
+      "publisher": "The Independent",
+      "date": "Tue, 24 Nov 2026 12:28:10 GMT",
+      "section": "UK",
+      "sections": [
+        "UK"
+      ],
+      "sources": [
+        {
+          "title": "Ukraine-Russia war latest: Moscow threatens Nato member with ‘open war’ over plans to close border",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGdjbWFlVno3YmxscVpaWVpvbTExQThuMVBSS0Q4WG1PZFR3LVJjNGc4SU8xUXBwSDdKdVZNLWh4UWRaVEE1WXVIQU1WTkdselVwOUM0bEQ3ajNERmc4MVpLSlYtU29waGJRVEVTSFlTT2ZtR0hiLUFNbDBRWTRMQ1RZTi1ZcFZ0SnoteE9VaDM4OW5QX0lIMzN5bll4blNRQ1dxRWFBa2RLLXJkeUN3eklzRnZ4NmNvbmw1cmRn?oc=5",
+          "publisher": "The Independent",
+          "date": "Tue, 24 Nov 2026 12:28:10 GMT",
+          "section": "UK"
+        }
+      ],
+      "reflectionStatus": "needs-editorial-review"
+    },
+    {
+      "title": "NHS England chief executive resigning after less than two years in role",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGZ1REZ6ZkwwWlBQRFV6U28xbVFMbXhMTUpJd2d2UW1GdFI4ejBFVFBFc0s2UllORlNrTHNkVlJpa1RiNm5xZXpGZnlHRWk2MnhoX0FkcUtHQkFvSEZnNWh0SVhCVXk5ZDV5WklUNFZBeTJrT3phQ3RPRFNiVkRxRTJjaWltYW5xQzUtdVJ0MWhCOU9ITnVCYmE0MnktV2l2Zlo2YUJIT1laYmc?oc=5",
+      "publisher": "Sky News",
+      "date": "Tue, 24 Nov 2026 12:42:02 GMT",
+      "section": "UK",
+      "sections": [
+        "UK"
+      ],
+      "sources": [
+        {
+          "title": "NHS England chief executive resigning after less than two years in role",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGZ1REZ6ZkwwWlBQRFV6U28xbVFMbXhMTUpJd2d2UW1GdFI4ejBFVFBFc0s2UllORlNrTHNkVlJpa1RiNm5xZXpGZnlHRWk2MnhoX0FkcUtHQkFvSEZnNWh0SVhCVXk5ZDV5WklUNFZBeTJrT3phQ3RPRFNiVkRxRTJjaWltYW5xQzUtdVJ0MWhCOU9ITnVCYmE0MnktV2l2Zlo2YUJIT1laYmc?oc=5",
+          "publisher": "Sky News",
+          "date": "Tue, 24 Nov 2026 12:42:02 GMT",
           "section": "UK"
         }
       ],
@@ -338,86 +418,6 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTjVrYllqMC1fTUF5THRCM3JaYVZlMDVmVGdBQXc5bFF6OFBIVUpvc0pCbXROZmVtQnlpU3VZZHhVc2xtRV9PR1B1eXhVVzV2OGJGNFhpTHEyZzFxZVBXSHoxSWwyaWtQWmt4Z3BsdFJCTi1pd0JhckpkbnJZWmpHdjhWSnNuWjlPLUo2WHhGMklVdElkQjl4aG1BZDJoT2lxMldEdEtCbXB3TzZCNDBV?oc=5",
           "publisher": "The Guardian",
           "date": "Tue, 24 Nov 2026 02:30:00 GMT",
-          "section": "UK"
-        }
-      ],
-      "reflectionStatus": "needs-editorial-review"
-    },
-    {
-      "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaVJRX1MydWNfVFFwcVh4bjVQUC1HWFpSLUYxTkRSM2kzdFV5NVhVMXVZUkhNZEpRU21mMVNGNVVxajZINEgwMW9xNUNnQzlpQkZ5REJjbkI4SXJaNGRIVk4tS3phTUdoMlQxQ2k3RU9hN3lPdDFwdEs4b0JkVHRabjktcjlsU1lhX0JjSWcxTUZBcG03NmxpV3hlVVFPVzRUV2g0a3p0TkFIX19nMlNtZjZydHB4bHQxREJoLUo2RU9xOHNZ?oc=5",
-      "publisher": "The Guardian",
-      "date": "Mon, 23 Nov 2026 02:31:00 GMT",
-      "section": "UK",
-      "sections": [
-        "UK"
-      ],
-      "sources": [
-        {
-          "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaVJRX1MydWNfVFFwcVh4bjVQUC1HWFpSLUYxTkRSM2kzdFV5NVhVMXVZUkhNZEpRU21mMVNGNVVxajZINEgwMW9xNUNnQzlpQkZ5REJjbkI4SXJaNGRIVk4tS3phTUdoMlQxQ2k3RU9hN3lPdDFwdEs4b0JkVHRabjktcjlsU1lhX0JjSWcxTUZBcG03NmxpV3hlVVFPVzRUV2g0a3p0TkFIX19nMlNtZjZydHB4bHQxREJoLUo2RU9xOHNZ?oc=5",
-          "publisher": "The Guardian",
-          "date": "Mon, 23 Nov 2026 02:31:00 GMT",
-          "section": "UK"
-        }
-      ],
-      "reflectionStatus": "needs-editorial-review"
-    },
-    {
-      "title": "Women's World Cup: UK named as host for 2035 tournament by FIFA",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM0prdE5xamRsT2phOVNUc204eWlQdGdVc3AyRDlsUFdHeXZYTDFkYzJmY0c1T3NKR3lMUUVJUXM3U1M5U2pMOUVpYXY3NkZwM0pFZi1DWElBOTVUWVBiemxmNEpWMXF1OUtpTkotdkw5b1QtcDJEdjJEMGU3aThRWE5pcjZWb1ZSZU56dUtDWDlia3VBOXZCanpVb3ViTzRMQmtmUy1uN0NMZw?oc=5",
-      "publisher": "Sky News",
-      "date": "Mon, 23 Nov 2026 21:51:28 GMT",
-      "section": "UK",
-      "sections": [
-        "UK"
-      ],
-      "sources": [
-        {
-          "title": "Women's World Cup: UK named as host for 2035 tournament by FIFA",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM0prdE5xamRsT2phOVNUc204eWlQdGdVc3AyRDlsUFdHeXZYTDFkYzJmY0c1T3NKR3lMUUVJUXM3U1M5U2pMOUVpYXY3NkZwM0pFZi1DWElBOTVUWVBiemxmNEpWMXF1OUtpTkotdkw5b1QtcDJEdjJEMGU3aThRWE5pcjZWb1ZSZU56dUtDWDlia3VBOXZCanpVb3ViTzRMQmtmUy1uN0NMZw?oc=5",
-          "publisher": "Sky News",
-          "date": "Mon, 23 Nov 2026 21:51:28 GMT",
-          "section": "UK"
-        }
-      ],
-      "reflectionStatus": "needs-editorial-review"
-    },
-    {
-      "title": "Snow and frost forecast as cold health alerts in parts of UK",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWdQUVBad2FXYWk5NEQ3ajZlYUhoREs3UGcwUUg1Und0S1RZZXJXTnlxMC1MTnByVWdJdDNRSFcwWkZSdmV1cVZIZDVNU0FzTWhKZXNWeURiNlpMZ2lzajJDSjRwQjRlYlRzMEloQXU1RHN6YWFYazJneUZWZlNvQmxuR3liRGtnZ1dTZEtsUGRvTnQ4akNQQlQ4Qlo4Z0JkT1VqQ3gxSFZEaDA?oc=5",
-      "publisher": "Sky News",
-      "date": "Mon, 23 Nov 2026 13:06:05 GMT",
-      "section": "UK",
-      "sections": [
-        "UK"
-      ],
-      "sources": [
-        {
-          "title": "Snow and frost forecast as cold health alerts in parts of UK",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWdQUVBad2FXYWk5NEQ3ajZlYUhoREs3UGcwUUg1Und0S1RZZXJXTnlxMC1MTnByVWdJdDNRSFcwWkZSdmV1cVZIZDVNU0FzTWhKZXNWeURiNlpMZ2lzajJDSjRwQjRlYlRzMEloQXU1RHN6YWFYazJneUZWZlNvQmxuR3liRGtnZ1dTZEtsUGRvTnQ4akNQQlQ4Qlo4Z0JkT1VqQ3gxSFZEaDA?oc=5",
-          "publisher": "Sky News",
-          "date": "Mon, 23 Nov 2026 13:06:05 GMT",
-          "section": "UK"
-        }
-      ],
-      "reflectionStatus": "needs-editorial-review"
-    },
-    {
-      "title": "Hacker sentenced for leaking Grand Theft Auto VI clips during cybercrime spree",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSkc3TWRPOTBCLTVUTEtwYkJJNzRPc2ptLXBCeHJkdHI0eUl2SXFIYmo2RUsyQUZRUlFQOHBVQzgtT1NnVl9ieVVvR3dkdHE3SXhzR3A0QXltMU5ZVlR1YjRJSU1HZ0FpU1E1MDV1SXpHZUdIWlpNd0xLZTBGUlprN0ZwTkx0THkxSVFhTVdENTJoYXpORkh1cjJCRHRWMjl5c3QxRWdCV2VtRmpXOTZvV0dQS0c?oc=5",
-      "publisher": "Sky News",
-      "date": "Mon, 23 Nov 2026 16:18:09 GMT",
-      "section": "UK",
-      "sections": [
-        "UK"
-      ],
-      "sources": [
-        {
-          "title": "Hacker sentenced for leaking Grand Theft Auto VI clips during cybercrime spree",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSkc3TWRPOTBCLTVUTEtwYkJJNzRPc2ptLXBCeHJkdHI0eUl2SXFIYmo2RUsyQUZRUlFQOHBVQzgtT1NnVl9ieVVvR3dkdHE3SXhzR3A0QXltMU5ZVlR1YjRJSU1HZ0FpU1E1MDV1SXpHZUdIWlpNd0xLZTBGUlprN0ZwTkx0THkxSVFhTVdENTJoYXpORkh1cjJCRHRWMjl5c3QxRWdCV2VtRmpXOTZvV0dQS0c?oc=5",
-          "publisher": "Sky News",
-          "date": "Mon, 23 Nov 2026 16:18:09 GMT",
           "section": "UK"
         }
       ],
@@ -504,20 +504,20 @@
       "reflectionStatus": "needs-editorial-review"
     },
     {
-      "title": "The Democratic Republic of the Congo crisis, explained",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRRE5ZTTF4ZURua0IxSndlMWgzanB1TFk0eUpHdW1SOUVyLV9NaTF3UUZVWkkxaEpqY0lXa2xhXzR4YUF5RmhOLWV1RG0zV2ZJUjJQcGhNTUJpS20wMl8zWEMwNmV5eTRCNjA1eTktOUdGRTV4VE5rdEZjNA?oc=5",
-      "publisher": "Concern Worldwide",
-      "date": "Fri, 11 Sep 2026 07:00:00 GMT",
+      "title": "13 top disasters of 2026",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa1lrM2lFN01PWVFnbE5mNHVUZVc3LVhraTQ4LTFUdGU2WDlmZ01YR0JOSVJHYWI0bHV6RDdNVjdoQll5VFBrZGZYQTZRSTkyRGRITkRZSFVxVDZ3bmY4Y1N3YlJPaVRqaVFhTGhXcG9kejNvNU5QUWxrcU9fVnMxZ3BDRjRJQm9p?oc=5",
+      "publisher": "World Vision",
+      "date": "Wed, 04 Nov 2026 08:00:00 GMT",
       "section": "World",
       "sections": [
         "World"
       ],
       "sources": [
         {
-          "title": "The Democratic Republic of the Congo crisis, explained",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRRE5ZTTF4ZURua0IxSndlMWgzanB1TFk0eUpHdW1SOUVyLV9NaTF3UUZVWkkxaEpqY0lXa2xhXzR4YUF5RmhOLWV1RG0zV2ZJUjJQcGhNTUJpS20wMl8zWEMwNmV5eTRCNjA1eTktOUdGRTV4VE5rdEZjNA?oc=5",
-          "publisher": "Concern Worldwide",
-          "date": "Fri, 11 Sep 2026 07:00:00 GMT",
+          "title": "13 top disasters of 2026",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa1lrM2lFN01PWVFnbE5mNHVUZVc3LVhraTQ4LTFUdGU2WDlmZ01YR0JOSVJHYWI0bHV6RDdNVjdoQll5VFBrZGZYQTZRSTkyRGRITkRZSFVxVDZ3bmY4Y1N3YlJPaVRqaVFhTGhXcG9kejNvNU5QUWxrcU9fVnMxZ3BDRjRJQm9p?oc=5",
+          "publisher": "World Vision",
+          "date": "Wed, 04 Nov 2026 08:00:00 GMT",
           "section": "World"
         }
       ],
@@ -644,6 +644,26 @@
       "reflectionStatus": "needs-editorial-review"
     },
     {
+      "title": "Persecuted Christians speak of power of faith and forgiveness",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMktGSlozNGY0SUlDalRDUzdNYmd4V1ZVZkltNFVWLW1QMUdsMVJxUUhoQm5KVlI2VXh2OWNPM2h2YzVDbS1KTHctbDNCSmxqek5PemxMclAxRFJTc3Rqc1JGZHZ2bjVFVWlvN2VTTERyMWVuQUZzeXQtczdVYjFFZG9aQnk1VDZ0dXdRUk1tcThRSmxoVnZURHJKLXFadw?oc=5",
+      "publisher": "www.christiantoday.com",
+      "date": "Tue, 24 Nov 2026 09:34:09 GMT",
+      "section": "Christian world",
+      "sections": [
+        "Christian world"
+      ],
+      "sources": [
+        {
+          "title": "Persecuted Christians speak of power of faith and forgiveness",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMktGSlozNGY0SUlDalRDUzdNYmd4V1ZVZkltNFVWLW1QMUdsMVJxUUhoQm5KVlI2VXh2OWNPM2h2YzVDbS1KTHctbDNCSmxqek5PemxMclAxRFJTc3Rqc1JGZHZ2bjVFVWlvN2VTTERyMWVuQUZzeXQtczdVYjFFZG9aQnk1VDZ0dXdRUk1tcThRSmxoVnZURHJKLXFadw?oc=5",
+          "publisher": "www.christiantoday.com",
+          "date": "Tue, 24 Nov 2026 09:34:09 GMT",
+          "section": "Christian world"
+        }
+      ],
+      "reflectionStatus": "needs-editorial-review"
+    },
+    {
       "title": "The Farnesina is lit up in red in support of persecuted Christians. Tajani: Italy at the forefront for religious freedom",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUXhuVnl4ZWZzMGxQdWhaU21VZEE2Y090RUZCa0RUeTItR2tVcm9XVmIzTGR1cXp5XzZsY3RCX2lwaW82Q1hTNk9FQkpPWC1MckJ5Wlp4Z000OEpJY2l0RGdIVFM2TlptRlVwbFJLVkNPT2tINEROTjJDV3Y5S1VzaXBMcF8xUUxGLXAtbklXRWJOLXFsaGgwbjBtblJES19nNWlzUnh0VWlyNDJhRmUzc0haclA0VkktOXQxRnE2anBGUS1lYzFySHBFeHdHbmRmQ0ZmdWw3Vy1LX0NzajFBdU82bDkwTllnWmhueWxMQ2dIVlhYTXF1d3NFRjFfdw?oc=5",
       "publisher": "Ministero degli Affari Esteri e della Cooperazione Internazionale",
@@ -702,33 +722,13 @@
         }
       ],
       "reflectionStatus": "needs-editorial-review"
-    },
-    {
-      "title": "Why Persecuted Christians Refuse to Give Up Their Faith | John Pontifex",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaDA1UExSNXduakk3UzlVYTY3UGF2cXJmdTNmVi1PNGJWLTdJN2NXYTh4TURfdjFTWmFqZ3ZVLW1xRjlveEh1T1BZTVF6UnNORndjdE1qN283TDBiR1BfSW00QVZkQzREY0hDblNXOGxNM0xSalJDRXlsVHpOb1hGNGpwV2FCODBMc0pPZ2xJUUVpbUJWY0F6X3pxOEc?oc=5",
-      "publisher": "EWTN Great Britain",
-      "date": "Fri, 06 Nov 2026 20:05:26 GMT",
-      "section": "Christian world",
-      "sections": [
-        "Christian world"
-      ],
-      "sources": [
-        {
-          "title": "Why Persecuted Christians Refuse to Give Up Their Faith | John Pontifex",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaDA1UExSNXduakk3UzlVYTY3UGF2cXJmdTNmVi1PNGJWLTdJN2NXYTh4TURfdjFTWmFqZ3ZVLW1xRjlveEh1T1BZTVF6UnNORndjdE1qN283TDBiR1BfSW00QVZkQzREY0hDblNXOGxNM0xSalJDRXlsVHpOb1hGNGpwV2FCODBMc0pPZ2xJUUVpbUJWY0F6X3pxOEc?oc=5",
-          "publisher": "EWTN Great Britain",
-          "date": "Fri, 06 Nov 2026 20:05:26 GMT",
-          "section": "Christian world"
-        }
-      ],
-      "reflectionStatus": "needs-editorial-review"
     }
   ],
   "coverage": {
     "total": 36,
-    "published": 13,
-    "pending": 23,
+    "published": 14,
+    "pending": 22,
     "individuallyReviewed": 0,
-    "topicGuidance": 13
+    "topicGuidance": 14
   }
 }
